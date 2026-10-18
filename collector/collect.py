@@ -104,7 +104,12 @@ def run(root,detail_limit=100,max_pages=15):
             if offset>=int(data.get('hitCount',0)) or not rows: complete=True; break
         if not hits: raise RuntimeError('No usable source listings; retaining previous feed')
         # Prioritize new records, then oldest successful detail retrieval. No fabricated inferred details.
-        pending=sorted(hits,key=lambda k:(cache.get(k,{}).get('checked_at',''),k))
+        def priority(ident):
+            if ident in cache: return (1, cache[ident].get('checked_at',''), 0, ident)
+            try: opened=dt.datetime.strptime(hits[ident].get('openDate',''),'%m/%d/%Y').timestamp()
+            except (ValueError,TypeError): opened=0
+            return (0, 0 if hits[ident].get('oppStatus')=='posted' else 1, -opened, ident)
+        pending=sorted(hits,key=priority)
         for ident in pending[:detail_limit]:
             if client.requests>=190: break
             try:
