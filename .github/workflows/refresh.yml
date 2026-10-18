@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '17 */3 * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - 'collector/**'
+      - 'tests/**'
+      - '.github/workflows/refresh.yml' 
 permissions:
   contents: read
 concurrency:
@@ -12,7 +17,7 @@ jobs:
   refresh:
     if: github.event.repository.private == false
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 35
     permissions:
       contents: write
     steps:
