@@ -40,3 +40,36 @@ class CollectionBehaviorTests(unittest.TestCase):
   with tempfile.TemporaryDirectory() as d:
    with patch.object(m.Client,'post',return_value={'hitCount':0,'oppHits':[]}):self.assertEqual(m.run(d),1)
    self.assertFalse((Path(d)/'opportunities.json').exists())
+
+class FullCatalogTests(unittest.TestCase):
+ def test_change_or_daily_expiry(self):
+  stamp=m.dt.datetime.now(m.UTC); hit={'id':'1','title':'A'}
+  entry={'checked_at':stamp.isoformat(),'listing_signature':m.listing_signature(hit)}
+  self.assertFalse(m.detail_due(entry,hit,stamp));self.assertTrue(m.detail_due(entry,dict(hit,title='B'),stamp))
+  self.assertTrue(m.detail_due(entry,hit,stamp+m.dt.timedelta(hours=25)));self.assertTrue(m.detail_due(None,hit,stamp))
+ def test_full_initial_then_cached_incremental(self):
+  import tempfile
+  from unittest.mock import patch
+  calls=[]
+  def post(client,endpoint,payload):
+   calls.append(endpoint)
+   if endpoint=='search2':return {'hitCount':250,'oppHits':[{'id':str(i),'title':'Example '+str(i)} for i in range(payload['startRecordNum']+1,min(250,payload['startRecordNum']+200)+1)]}
+   return {'id':payload['opportunityId'],'opportunityTitle':'Example','ost':'posted','synopsis':{}}
+  with tempfile.TemporaryDirectory() as d:
+   with patch.object(m.Client,'post',post):self.assertEqual(m.run(d),0)
+   f=m.read(Path(d)/'opportunities.json',{});self.assertEqual(f['coverage']['detailed_active_records'],250);self.assertEqual(f['coverage']['pending_detail_records'],0)
+   calls.clear()
+   with patch.object(m.Client,'post',post):self.assertEqual(m.run(d),0)
+   self.assertEqual(calls.count('fetchOpportunity'),0);self.assertEqual(len(m.read(Path(d)/'opportunities.json',{})['opportunities']),250)
+ def test_rate_limit_preserves_partial_details(self):
+  import tempfile
+  from unittest.mock import patch
+  calls=[]
+  def post(client,endpoint,payload):
+   calls.append(endpoint)
+   if endpoint=='search2':return {'hitCount':2,'oppHits':[{'id':'1'},{'id':'2'}]}
+   if payload['opportunityId']==2:raise RuntimeError('Source rate limited; stop this run')
+   return {'id':1,'opportunityTitle':'One','synopsis':{}}
+  with tempfile.TemporaryDirectory() as d:
+   with patch.object(m.Client,'post',post):self.assertEqual(m.run(d),0)
+   h=m.read(Path(d)/'health.json',{});self.assertEqual(h['status'],'partial');self.assertEqual(h['coverage']['pending_detail_records'],1)
