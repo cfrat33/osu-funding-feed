@@ -124,6 +124,7 @@ def run(root,detail_limit=100,max_pages=15):
             record=normalize(entry['detail'],entry['checked_at'])
             record['present_in_latest_listing']=ident in hits if complete else None
             record['listing_last_checked_at']=now() if ident in hits else None
+            record['latest_listing_status']=hits.get(ident,{}).get('oppStatus')
             if complete and ident not in hits:
                 record['status']='not_in_active_listing'
                 record['data_warnings'].append('Not present in latest scoped active listing; this alone does not prove closed.')
@@ -135,7 +136,7 @@ def run(root,detail_limit=100,max_pages=15):
               'source':'Grants.gov official API','scope':health['scope'],'scheduled_interval_hours':3,
               'coverage':{'listing_complete':complete,'listed_records':len(hits),'detailed_active_records':sum(r['source_id'] in hits for r in records),'pending_detail_records':sum(k not in cache for k in hits),'details_checked_this_run':detail_ok},
               'opportunities':sorted(records,key=lambda r:r['title'])}
-        health.update(status='partial' if len(cache)<len(hits) or not complete or health['errors'] else 'success',finished_at=checked,request_count=client.requests,details_checked=detail_ok,excluded_test_records=excluded,coverage=feed['coverage'])
+        health.update(status='partial' if any(k not in cache for k in hits) or not complete or health['errors'] else 'success',finished_at=checked,request_count=client.requests,details_checked=detail_ok,excluded_test_records=excluded,coverage=feed['coverage'])
         write(root/'details.json',cache); write(root/'opportunities.json',feed)
         # Listing metadata available for transparent coverage, never rendered as verified detail.
         write(root/'listing.json',{'checked_at':checked,'complete':complete,'records':list(hits.values())})
