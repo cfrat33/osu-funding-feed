@@ -56,7 +56,7 @@ def normalize(detail, checked):
     }
 
 class Client:
-    def __init__(self,cap=200,delay=1): self.requests=0; self.cap=cap; self.delay=delay; self.last=0
+    def __init__(self,cap=1600,delay=1): self.requests=0; self.cap=cap; self.delay=delay; self.last=0
     def post(self,endpoint,payload):
         for attempt in range(3):
             if self.requests>=self.cap: raise RuntimeError('Request safety cap reached')
@@ -85,9 +85,17 @@ def write(path,value):
     path.parent.mkdir(parents=True,exist_ok=True)
     temp=path.with_suffix('.tmp'); temp.write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n'); temp.replace(path)
 
-def run(root,detail_limit=100,max_pages=15):
+def listing_signature(hit):
+    return hashlib.sha256(json.dumps(hit,sort_keys=True,separators=(',',':')).encode()).hexdigest()
+
+def detail_due(entry,hit,stamp):
+    if not entry or entry.get('listing_signature')!=listing_signature(hit): return True
+    try: return (stamp-dt.datetime.fromisoformat(entry['checked_at'])).total_seconds()>=86400
+    except (KeyError,ValueError,TypeError): return True
+
+def run(root,detail_limit=1500,max_pages=15):
     root=Path(root); root.mkdir(parents=True,exist_ok=True)
-    started=now(); client=Client(); cache=read(root/'details.json',{}); previous=read(root/'opportunities.json',{})
+    started=now(); monotonic_start=time.monotonic(); client=Client(); cache=read(root/'details.json',{}); previous=read(root/'opportunities.json',{})
     health={'started_at':started,'schedule':'Every 3 hours, best effort','scope':'Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.','status':'running','errors':[]}
     hits={}; complete=False; excluded=0; detail_ok=0
     try:
@@ -109,13 +117,16 @@ def run(root,detail_limit=100,max_pages=15):
             try: opened=dt.datetime.strptime(hits[ident].get('openDate',''),'%m/%d/%Y').timestamp()
             except (ValueError,TypeError): opened=0
             return (0, 0 if hits[ident].get('oppStatus')=='posted' else 1, -opened, ident)
-        pending=sorted(hits,key=priority)
+        pending=sorted((ident for ident in hits if detail_due(cache.get(ident),hits[ident],dt.datetime.now(UTC))),key=priority)
+        health['details_due']=len(pending)
         for ident in pending[:detail_limit]:
-            if client.requests>=190: break
+            if client.requests>=client.cap-3 or time.monotonic()-monotonic_start>=1800:
+                health['errors'].append({'error':'Run safety budget reached; cached data retained'})
+                break
             try:
                 detail=client.post('fetchOpportunity',{'opportunityId':int(ident)})
                 if str(detail.get('id'))!=ident: raise RuntimeError('Detail identifier mismatch')
-                cache[ident]={'checked_at':now(),'detail':detail}; detail_ok+=1
+                cache[ident]={'checked_at':now(),'listing_signature':listing_signature(hits[ident]),'detail':detail}; detail_ok+=1
             except RuntimeError as exc:
                 health['errors'].append({'source_id':ident,'error':str(exc)})
                 if 'rate limited' in str(exc) or 'cap reached' in str(exc): break
@@ -134,9 +145,9 @@ def run(root,detail_limit=100,max_pages=15):
         checked=now()
         feed={'schema_version':1,'generated_at':checked,'last_successful_listing_check':checked,
               'source':'Grants.gov official API','scope':health['scope'],'scheduled_interval_hours':3,
-              'coverage':{'listing_complete':complete,'listed_records':len(hits),'detailed_active_records':sum(r['source_id'] in hits for r in records),'pending_detail_records':sum(k not in cache for k in hits),'details_checked_this_run':detail_ok},
+              'coverage':{'listing_complete':complete,'listed_records':len(hits),'detailed_active_records':sum(r['source_id'] in hits for r in records),'pending_detail_records':sum(k not in cache for k in hits),'details_checked_this_run':detail_ok,'details_due_this_run':len(pending),'detail_refresh_ttl_hours':24},
               'opportunities':sorted(records,key=lambda r:r['title'])}
-        health.update(status='partial' if any(k not in cache for k in hits) or not complete or health['errors'] else 'success',finished_at=checked,request_count=client.requests,details_checked=detail_ok,excluded_test_records=excluded,coverage=feed['coverage'])
+        health.update(status='partial' if any(k not in cache for k in hits) or not complete or health['errors'] else 'success',finished_at=checked,request_count=client.requests,elapsed_seconds=round(time.monotonic()-monotonic_start,1),details_checked=detail_ok,excluded_test_records=excluded,coverage=feed['coverage'])
         write(root/'details.json',cache); write(root/'opportunities.json',feed)
         # Listing metadata available for transparent coverage, never rendered as verified detail.
         write(root/'listing.json',{'checked_at':checked,'complete':complete,'records':list(hits.values())})
@@ -150,5 +161,5 @@ def run(root,detail_limit=100,max_pages=15):
     return 1 if health['status']=='failed' else 0
 
 if __name__=='__main__':
-    p=argparse.ArgumentParser();p.add_argument('--data-dir',default='data');p.add_argument('--detail-limit',type=int,default=100)
-    a=p.parse_args(); raise SystemExit(run(a.data_dir,min(100,max(1,a.detail_limit))))
+    p=argparse.ArgumentParser();p.add_argument('--data-dir',default='data');p.add_argument('--detail-limit',type=int,default=1500)
+    a=p.parse_args(); raise SystemExit(run(a.data_dir,min(1500,max(1,a.detail_limit))))
