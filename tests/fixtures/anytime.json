@@ -1,0 +1,73 @@
+{
+  "id": 363614,
+  "opportunityNumber": "26-515",
+  "opportunityTitle": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
+  "synopsis": {
+    "opportunityId": 363614,
+    "version": 5,
+    "agencyCode": "NSF",
+    "agencyName": "U.S. National Science Foundation",
+    "agencyPhone": "703-292-4203",
+    "agencyAddressDesc": "If you have any problems linking to this funding announcement, please contact the email address above.",
+    "agencyDetails": {
+      "code": "NSF",
+      "seed": "NSF",
+      "agencyName": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "topAgencyCode": "NSF"
+    },
+    "topAgencyDetails": {
+      "code": "NSF",
+      "seed": "NSF",
+      "agencyName": "U.S. National Science Foundation",
+      "agencyCode": "NSF",
+      "topAgencyCode": "NSF"
+    },
+    "agencyContactPhone": "703-292-4203",
+    "agencyContactName": "U.S. National Science Foundation",
+    "agencyContactDesc": "NSF grants.gov support\ngrantsgovsupport@nsf.gov",
+    "agencyContactEmail": "grantsgovsupport@nsf.gov",
+    "agencyContactEmailDesc": "If you have any problems linking to this funding announcement, please contact the email address above.",
+    "synopsisDesc": "<p>The U.S. National Science Foundation Directorate for Engineering (NSF ENG) supports foundational research projects for civil, mechanical, and manufacturing innovation through the following programs:&nbsp;</p><ul><li><p>The<strong> </strong><a href=\"https://www.nsf.gov/funding/opportunities/amdo-advanced-manufacturing-design-operations\"><strong>Advanced Manufacturing, Design, and Operations (AMDO) program</strong></a> supports foundational research on advanced manufacturing, materials and service processes; their integration into facilities, supply chains, and other systems; and the optimal operation and design of these systems.</p></li><li><p>The <a href=\"https://www.nsf.gov/funding/opportunities/ebe-engineering-built-environment\"><strong>Engineering for the Built Environment (EBE) program</strong></a> supports foundational research on civil infrastructure and civil infrastructure systems, from materials to network sciences, for prosperous, resilient, and safe communities.</p></li><li><p>The <a href=\"https://www.nsf.gov/funding/opportunities/iids-intelligent-interactive-dynamic-systems\"><strong>Intelligent and Interactive Dynamic Systems (IIDS) program</strong></a> supports foundational research to advance the science and engineering of intelligent dynamic systems, including engineered systems that interact with people.&nbsp;</p></li><li><p>The <a href=\"https://www.nsf.gov/funding/opportunities/mams-mechanics-advanced-materials-systems\"><strong>Mechanics of Advanced Materials Systems (MAMS) program</strong></a> supports foundational research on deformation and failure in engineered and biological materials.&nbsp;</p></li></ul><p>NSF ENG anticipates a portfolio of ENG: Civil, Mechanical, and Manufacturing Innovation (CMMI) awards with a range of budgets and durations.&nbsp;Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.</p><p>NSF ENG is particularly interested in intellectually ambitious and potentially transformative foundational research. Proposals need not promise a near-term product, deployment, or commercial outcome, nor need they address later-stage development to be competitive.</p>",
+    "responseDate": "Oct 05, 2076 12:00:00 AM EDT",
+    "responseDateDesc": "Proposals accepted anytime",
+    "fundingDescLinkUrl": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26515",
+    "fundingDescLinkDesc": "NSF Publication 26-515",
+    "postingDate": "Aug 17, 2026 12:00:00 AM EDT",
+    "costSharing": false,
+    "numberOfAwards": "275",
+    "estimatedFunding": "100000000",
+    "estimatedFundingFormatted": "100,000,000",
+    "awardCeiling": "none",
+    "awardFloor": "none",
+    "sendEmail": "Y",
+    "createTimeStamp": "Oct 05, 2026 04:29:49 PM EDT",
+    "modComments": "Updated Synopsis via NSF Grants Opportunity Sync",
+    "createdDate": "Aug 17, 2026 10:23:20 AM EDT",
+    "lastUpdatedDate": "Oct 05, 2026 04:29:49 PM EDT",
+    "applicantTypes": [
+      {
+        "id": "99",
+        "description": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      }
+    ],
+    "fundingInstruments": [
+      {
+        "id": "G",
+        "description": "Grant"
+      }
+    ],
+    "fundingActivityCategories": [
+      {
+        "id": "ST",
+        "description": "Science and Technology and other Research and Development"
+      }
+    ],
+    "responseDateStr": "2076-10-05-00-00-00",
+    "postingDateStr": "2026-08-17-00-00-00",
+    "createTimeStampStr": "2026-10-05-16-29-49"
+  },
+  "ost": "POSTED",
+  "revision": 4,
+  "docType": "synopsis"
+}
