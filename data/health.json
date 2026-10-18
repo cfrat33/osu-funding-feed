@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-10-18T15:25:37+00:00",
+  "started_at": "2026-10-18T18:31:00+00:00",
   "schedule": "Every 3 hours, best effort",
   "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
   "status": "success",
   "errors": [],
   "source_listing_count": 993,
   "details_due": 0,
-  "finished_at": "2026-10-18T15:25:42+00:00",
+  "finished_at": "2026-10-18T18:31:05+00:00",
   "request_count": 5,
-  "elapsed_seconds": 4.4,
+  "elapsed_seconds": 4.7,
   "details_checked": 0,
   "excluded_test_records": 0,
   "coverage": {
