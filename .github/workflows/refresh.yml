@@ -1,0 +1,37 @@
+name: Refresh official funding data
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: public-funding-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate collector
+        run: python3 -m unittest discover -s tests -v
+      - name: Collect official data
+        id: collect
+        continue-on-error: true
+        run: python3 collector/collect.py
+      - name: Publish data and source-health status
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh official funding data and source health'
+            git push
+          fi
+      - name: Report collection failure
+        if: steps.collect.outcome == 'failure'
+        run: exit 1
