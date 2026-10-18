@@ -1,0 +1,21 @@
+[
+  {
+    "started_at": "2026-10-18T03:05:24+00:00",
+    "schedule": "Every 3 hours, best effort",
+    "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
+    "status": "partial",
+    "errors": [],
+    "source_listing_count": 993,
+    "finished_at": "2026-10-18T03:07:09+00:00",
+    "request_count": 105,
+    "details_checked": 100,
+    "excluded_test_records": 0,
+    "coverage": {
+      "listing_complete": true,
+      "listed_records": 993,
+      "detailed_active_records": 100,
+      "pending_detail_records": 893,
+      "details_checked_this_run": 100
+    }
+  }
+]
