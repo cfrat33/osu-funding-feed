@@ -167991,17 +167991,17 @@
     }
   },
   "359702": {
-    "checked_at": "2026-10-19T06:58:23+00:00",
-    "listing_signature": "464d549d9b09c969e1bf1efa5c5d086466440d23312e064a10fe4b167476b963",
+    "checked_at": "2026-10-19T18:36:33+00:00",
+    "listing_signature": "53d797d215f6bd24eaf4774b345b2bf5b6685cf5cefe276bdda5e62ed9b1739f",
     "detail": {
       "id": 359702,
-      "revision": 5,
+      "revision": 7,
       "opportunityNumber": "PA-27-037",
       "opportunityTitle": "Predoctoral to Postdoctoral Transition Award (Parent F99/K00 - Clinical Trial Not Allowed)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
       "publisherUid": "1643657692",
-      "modifiedComments": "Updated title to match NOFO.",
+      "modifiedComments": "Updated per NOT-OD-26-091 and NOT-EB-26-005.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -168009,7 +168009,7 @@
       },
       "synopsis": {
         "opportunityId": 359702,
-        "version": 1,
+        "version": 3,
         "agencyCode": "HHS-NIH11",
         "agencyName": "National Institutes of Health",
         "agencyPhone": "301-402-2541",
@@ -168033,7 +168033,7 @@
         "agencyContactDesc": "Division of Biomedical Research Workforce\nnihtrain@mail.nih.gov",
         "agencyContactEmail": "nihtrain@mail.nih.gov",
         "agencyContactEmailDesc": "nihtrain@mail.nih.gov",
-        "synopsisDesc": "The purpose of this award is to support promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers.This Notice of Funding Opportunity (NOFO) does not allow candidates to propose to lead an independent clinical trial, but does allow candidates to propose research experience in a clinical trial led by a sponsor or co-sponsor.",
+        "synopsisDesc": "<p>The purpose of this award is to support promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers.</p><p>This Notice of Funding Opportunity (NOFO) does not allow candidates to propose to lead an independent clinical trial, but does allow candidates to propose research experience in a clinical trial led by a sponsor or co-sponsor.</p>",
         "responseDate": "Apr 08, 2029 12:00:00 AM EDT",
         "postingDate": "Jun 16, 2026 12:00:00 AM EDT",
         "archiveDate": "Jun 07, 2029 12:00:00 AM EDT",
@@ -168041,61 +168041,63 @@
         "awardCeiling": "none",
         "awardFloor": "none",
         "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility.Foreign Organizations/International CollaborationsNon-domestic (non-U.S.) Entities (Foreign Organizations) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are allowed.",
-        "createTimeStamp": "Jun 16, 2026 01:35:59 PM EDT",
+        "sendEmail": "Y",
+        "createTimeStamp": "Oct 19, 2026 01:58:39 PM EDT",
+        "modComments": "Updated per NOT-OD-26-091 and NOT-EB-26-005.",
         "createdDate": "Jun 16, 2026 01:35:46 PM EDT",
-        "lastUpdatedDate": "Jun 16, 2026 01:35:46 PM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 01:58:32 PM EDT",
         "applicantTypes": [
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "25",
             "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
-            "id": "23",
-            "description": "Small businesses"
-          },
-          {
             "id": "04",
             "description": "Special district governments"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
           },
           {
             "id": "02",
             "description": "City or township governments"
           },
           {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "01",
-            "description": "County governments"
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
             "id": "00",
             "description": "State governments"
           },
           {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
           },
           {
             "id": "07",
             "description": "Native American tribal governments (Federally recognized)"
           },
           {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "01",
+            "description": "County governments"
           }
         ],
         "fundingInstruments": [
@@ -168113,7 +168115,7 @@
         "responseDateStr": "2029-04-08-00-00-00",
         "postingDateStr": "2026-06-16-00-00-00",
         "archiveDateStr": "2029-06-07-00-00-00",
-        "createTimeStampStr": "2026-06-16-13-35-59"
+        "createTimeStampStr": "2026-10-19-13-58-39"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -168131,7 +168133,7 @@
       },
       "forecast": {
         "opportunityId": 359702,
-        "version": 5,
+        "version": 6,
         "postingDate": "Jun 11, 2025 12:00:00 AM EDT",
         "archiveDate": "Jun 15, 2026 12:00:00 AM EDT",
         "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The National Institutes of Health (NIH) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Predoctoral to Postdoctoral Transition Award (Parent F99/K00) award. The goal of this award is to support and retain promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers.&nbsp;Notice is being provided to allow potential applicants sufficient time to develop responsive projects.&nbsp;&nbsp;</span></p>",
@@ -168141,6 +168143,7 @@
         "agencyContactEmail": "nihtrain@mail.nih.gov",
         "agencyContactEmailDesc": "nihtrain@mail.nih.gov",
         "agencyCode": "HHS-NIH11",
+        "sendEmail": "Y",
         "applicantEligibilityDesc": "",
         "estSynopsisPostingDate": "Jan 23, 2026 12:00:00 AM EST",
         "estApplicationResponseDate": "Apr 08, 2026 12:00:00 AM EDT",
@@ -168148,10 +168151,10 @@
         "estAwardDate": "Dec 08, 2026 12:00:00 AM EST",
         "estProjectStartDate": "Dec 08, 2026 12:00:00 AM EST",
         "fiscalYear": 2027,
-        "modComments": "Updated Archive Date",
-        "createTimeStamp": "Jun 16, 2026 01:35:59 PM EDT",
+        "modComments": "Updated per NOT-OD-26-091 and NOT-EB-26-005.",
+        "createTimeStamp": "Oct 19, 2026 01:58:39 PM EDT",
         "createdDate": "Jun 11, 2025 03:59:14 PM EDT",
-        "lastUpdatedDate": "Jun 16, 2026 01:35:59 PM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 01:58:39 PM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -168161,12 +168164,12 @@
         },
         "applicantTypes": [
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
             "id": "23",
             "description": "Small businesses"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "06",
@@ -168199,27 +168202,27 @@
         "estApplicationResponseDateStr": "2026-04-08-00-00-00",
         "estAwardDateStr": "2026-12-08-00-00-00",
         "estProjectStartDateStr": "2026-12-08-00-00-00",
-        "createTimeStampStr": "2026-06-16-13-35-59"
+        "createTimeStampStr": "2026-10-19-13-58-39"
       },
       "synopsisAttachmentFolders": [
         {
-          "id": 80305,
+          "id": 81445,
           "opportunityId": 359702,
-          "folderType": "Full Announcement",
-          "folderName": "Full Announcement",
-          "zipLobSize": 38775,
-          "createdDate": "Jun 16, 2026 01:35:58 PM EDT",
-          "lastUpdatedDate": "Jun 16, 2026 01:35:59 PM EDT",
+          "folderType": "Revised Full Announcement",
+          "folderName": "Revised Full Announcement",
+          "zipLobSize": 39879,
+          "createdDate": "Oct 19, 2026 01:58:38 PM EDT",
+          "lastUpdatedDate": "Oct 19, 2026 01:58:39 PM EDT",
           "synopsisAttachments": [
             {
-              "id": 353100,
+              "id": 355302,
               "opportunityId": 359702,
               "mimeType": "text/html;charset=UTF-8",
-              "fileName": "PA-27-037-Full-Announcement.html",
-              "fileDescription": "PA-27-037-Full-Announcement.html",
-              "fileLobSize": 182738,
-              "createdDate": "Jun 16, 2026 01:35:59 PM EDT",
-              "synopsisAttFolderId": 80305
+              "fileName": "PA-27-037-Revised-Full-Announcement.html",
+              "fileDescription": "PA-27-037-Revised-Full-Announcement.html",
+              "fileLobSize": 187194,
+              "createdDate": "Oct 19, 2026 01:58:39 PM EDT",
+              "synopsisAttFolderId": 81445
             }
           ]
         }
@@ -168274,6 +168277,12 @@
           "opportunityId": 359702,
           "cfdaNumber": "93.279",
           "programTitle": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "id": 435924,
+          "opportunityId": 359702,
+          "cfdaNumber": "93.286",
+          "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
         },
         {
           "id": 434108,
@@ -168397,6 +168406,10 @@
             },
             "applicantTypes": [
               {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
@@ -168405,16 +168418,12 @@
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "23",
+                "description": "Small businesses"
               }
             ],
             "fundingInstruments": [
@@ -168504,6 +168513,10 @@
             },
             "applicantTypes": [
               {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
@@ -168512,16 +168525,12 @@
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "23",
+                "description": "Small businesses"
               }
             ],
             "fundingInstruments": [
@@ -168547,7 +168556,7 @@
             {
               "id": 434108,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.310",
               "programTitle": "Trans-NIH Research Support"
             }
@@ -168619,6 +168628,10 @@
             },
             "applicantTypes": [
               {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
@@ -168627,16 +168640,12 @@
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "23",
+                "description": "Small businesses"
               }
             ],
             "fundingInstruments": [
@@ -168662,7 +168671,7 @@
             {
               "id": 434108,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.310",
               "programTitle": "Trans-NIH Research Support"
             }
@@ -168731,6 +168740,10 @@
             },
             "applicantTypes": [
               {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
@@ -168739,16 +168752,12 @@
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "23",
+                "description": "Small businesses"
               }
             ],
             "fundingInstruments": [
@@ -168774,133 +168783,133 @@
             {
               "id": 434129,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.113",
               "programTitle": "Environmental Health"
             },
             {
               "id": 434143,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.121",
               "programTitle": "Oral Diseases and Disorders Research"
             },
             {
               "id": 434135,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.172",
               "programTitle": "Human Genome Research"
             },
             {
               "id": 434139,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.173",
               "programTitle": "Research Related to Deafness and Communication Disorders"
             },
             {
               "id": 434140,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.213",
               "programTitle": "Research and Training in Complementary and Integrative Health"
             },
             {
               "id": 434138,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.242",
               "programTitle": "Mental Health Research Grants"
             },
             {
               "id": 434136,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.273",
               "programTitle": "Alcohol Research Programs"
             },
             {
               "id": 434131,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.279",
               "programTitle": "Drug Use and Addiction Research Programs"
             },
             {
               "id": 434108,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.310",
               "programTitle": "Trans-NIH Research Support"
             },
             {
               "id": 434142,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.398",
               "programTitle": "Cancer Research Manpower"
             },
             {
               "id": 434141,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.846",
               "programTitle": "Arthritis, Musculoskeletal and Skin Diseases Research"
             },
             {
               "id": 434133,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.853",
               "programTitle": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
             },
             {
               "id": 434134,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.855",
               "programTitle": "Allergy and Infectious Diseases Research"
             },
             {
               "id": 434137,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 434144,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.865",
               "programTitle": "Child Health and Human Development Extramural Research"
             },
             {
               "id": 434146,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.866",
               "programTitle": "Aging Research"
             },
             {
               "id": 434132,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.867",
               "programTitle": "Vision Research"
             },
             {
               "id": 434130,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.T21",
               "programTitle": "INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE"
             },
             {
               "id": 434145,
               "opportunityId": 359702,
-              "revision": 3,
+              "revision": 6,
               "cfdaNumber": "93.THR",
               "programTitle": "NIH Tribal Health Research Office (THRO)"
             }
@@ -168912,6 +168921,626 @@
             "cfdas",
             "sendEmail"
           ]
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 359702,
+            "revision": 5
+          },
+          "opportunityId": 359702,
+          "revision": 5,
+          "opportunityNumber": "PA-27-037",
+          "opportunityTitle": "Predoctoral to Postdoctoral Transition Award (Parent F99/K00 - Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "1643657692",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated title to match NOFO.",
+          "synopsis": {
+            "id": {
+              "opportunityId": 359702,
+              "revision": 5
+            },
+            "opportunityId": 359702,
+            "revision": 5,
+            "version": 1,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "nihtrain@mail.nih.gov",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "Division of Biomedical Research Workforce\nnihtrain@mail.nih.gov",
+            "agencyContactEmail": "nihtrain@mail.nih.gov",
+            "agencyContactEmailDesc": "nihtrain@mail.nih.gov",
+            "synopsisDesc": "The purpose of this award is to support promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers.This Notice of Funding Opportunity (NOFO) does not allow candidates to propose to lead an independent clinical trial, but does allow candidates to propose research experience in a clinical trial led by a sponsor or co-sponsor.",
+            "responseDate": "Apr 08, 2029 12:00:00 AM EDT",
+            "postingDate": "Jun 16, 2026 12:00:00 AM EDT",
+            "archiveDate": "Jun 07, 2029 12:00:00 AM EDT",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility.Foreign Organizations/International CollaborationsNon-domestic (non-U.S.) Entities (Foreign Organizations) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are allowed.",
+            "createTimeStamp": "Jun 16, 2026 01:35:59 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 01:58:32 PM EDT",
+            "createdDate": "Jun 16, 2026 01:35:46 PM EDT",
+            "lastUpdatedDate": "Jun 16, 2026 01:35:46 PM EDT",
+            "applicantTypes": [
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "responseDateStr": "2029-04-08-00-00-00",
+            "postingDateStr": "2026-06-16-00-00-00",
+            "archiveDateStr": "2029-06-07-00-00-00",
+            "createTimeStampStr": "2026-06-16-13-35-59"
+          },
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 359702,
+              "revision": 5
+            },
+            "opportunityId": 359702,
+            "revision": 5,
+            "version": 5,
+            "postingDate": "Jun 11, 2025 12:00:00 AM EDT",
+            "archiveDate": "Jun 15, 2026 12:00:00 AM EDT",
+            "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The National Institutes of Health (NIH) intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Predoctoral to Postdoctoral Transition Award (Parent F99/K00) award. The goal of this award is to support and retain promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers.&nbsp;Notice is being provided to allow potential applicants sufficient time to develop responsive projects.&nbsp;&nbsp;</span></p>",
+            "costSharing": false,
+            "agencyContactName": "Division of Biomedical Research Workforce\r\nOffice of the Director\r\nOffice of Extramural Research",
+            "agencyContactPhone": "301-451-0993",
+            "agencyContactEmail": "nihtrain@mail.nih.gov",
+            "agencyContactEmailDesc": "nihtrain@mail.nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "applicantEligibilityDesc": "",
+            "estSynopsisPostingDate": "Jan 23, 2026 12:00:00 AM EST",
+            "estApplicationResponseDate": "Apr 08, 2026 12:00:00 AM EDT",
+            "estApplicationResponseDateDesc": "",
+            "estAwardDate": "Dec 08, 2026 12:00:00 AM EST",
+            "estProjectStartDate": "Dec 08, 2026 12:00:00 AM EST",
+            "fiscalYear": 2027,
+            "modComments": "Updated Archive Date",
+            "createTimeStamp": "Jun 16, 2026 01:35:59 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 01:58:32 PM EDT",
+            "createdDate": "Jun 11, 2025 03:59:14 PM EDT",
+            "lastUpdatedDate": "Jun 16, 2026 01:35:59 PM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "applicantTypes": [
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2025-06-11-00-00-00",
+            "archiveDateStr": "2026-06-15-00-00-00",
+            "estSynopsisPostingDateStr": "2026-01-23-00-00-00",
+            "estApplicationResponseDateStr": "2026-04-08-00-00-00",
+            "estAwardDateStr": "2026-12-08-00-00-00",
+            "estProjectStartDateStr": "2026-12-08-00-00-00",
+            "createTimeStampStr": "2026-06-16-13-35-59"
+          },
+          "cfdas": [
+            {
+              "id": 434129,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.113",
+              "programTitle": "Environmental Health"
+            },
+            {
+              "id": 434143,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.121",
+              "programTitle": "Oral Diseases and Disorders Research"
+            },
+            {
+              "id": 434135,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.172",
+              "programTitle": "Human Genome Research"
+            },
+            {
+              "id": 434139,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.173",
+              "programTitle": "Research Related to Deafness and Communication Disorders"
+            },
+            {
+              "id": 434140,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.213",
+              "programTitle": "Research and Training in Complementary and Integrative Health"
+            },
+            {
+              "id": 434138,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.242",
+              "programTitle": "Mental Health Research Grants"
+            },
+            {
+              "id": 434136,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.273",
+              "programTitle": "Alcohol Research Programs"
+            },
+            {
+              "id": 434131,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 434108,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            },
+            {
+              "id": 434142,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.398",
+              "programTitle": "Cancer Research Manpower"
+            },
+            {
+              "id": 434141,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.846",
+              "programTitle": "Arthritis, Musculoskeletal and Skin Diseases Research"
+            },
+            {
+              "id": 434133,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.853",
+              "programTitle": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+            },
+            {
+              "id": 434134,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            },
+            {
+              "id": 434137,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.859",
+              "programTitle": "Biomedical Research and Research Training"
+            },
+            {
+              "id": 434144,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.865",
+              "programTitle": "Child Health and Human Development Extramural Research"
+            },
+            {
+              "id": 434146,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.866",
+              "programTitle": "Aging Research"
+            },
+            {
+              "id": 434132,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.867",
+              "programTitle": "Vision Research"
+            },
+            {
+              "id": 434130,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.T21",
+              "programTitle": "INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE"
+            },
+            {
+              "id": 434145,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.THR",
+              "programTitle": "NIH Tribal Health Research Office (THRO)"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "archiveDate",
+            "modComments"
+          ]
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 359702,
+            "revision": 6
+          },
+          "opportunityId": 359702,
+          "revision": 6,
+          "opportunityNumber": "PA-27-037",
+          "opportunityTitle": "Predoctoral to Postdoctoral Transition Award (Parent F99/K00 - Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "1643657692",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated per NOT-OD-26-091 and NOT-EB-26-005.",
+          "synopsis": {
+            "id": {
+              "opportunityId": 359702,
+              "revision": 6
+            },
+            "opportunityId": 359702,
+            "revision": 6,
+            "version": 2,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "nihtrain@mail.nih.gov",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "Division of Biomedical Research Workforce\nnihtrain@mail.nih.gov",
+            "agencyContactEmail": "nihtrain@mail.nih.gov",
+            "agencyContactEmailDesc": "nihtrain@mail.nih.gov",
+            "synopsisDesc": "The purpose of this award is to support promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers.This Notice of Funding Opportunity (NOFO) does not allow candidates to propose to lead an independent clinical trial, but does allow candidates to propose research experience in a clinical trial led by a sponsor or co-sponsor.",
+            "responseDate": "Apr 08, 2029 12:00:00 AM EDT",
+            "postingDate": "Jun 16, 2026 12:00:00 AM EDT",
+            "archiveDate": "Jun 07, 2029 12:00:00 AM EDT",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility.Foreign Organizations/International CollaborationsNon-domestic (non-U.S.) Entities (Foreign Organizations) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are allowed.",
+            "createTimeStamp": "Oct 19, 2026 01:58:32 PM EDT",
+            "sendEmail": "Y",
+            "modComments": "Updated per NOT-OD-26-091 and NOT-EB-26-005.",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 01:58:32 PM EDT",
+            "createdDate": "Jun 16, 2026 01:35:46 PM EDT",
+            "lastUpdatedDate": "Oct 19, 2026 01:58:32 PM EDT",
+            "applicantTypes": [
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "responseDateStr": "2029-04-08-00-00-00",
+            "postingDateStr": "2026-06-16-00-00-00",
+            "archiveDateStr": "2029-06-07-00-00-00",
+            "createTimeStampStr": "2026-10-19-13-58-32"
+          },
+          "cfdas": [
+            {
+              "id": 434129,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.113",
+              "programTitle": "Environmental Health"
+            },
+            {
+              "id": 434143,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.121",
+              "programTitle": "Oral Diseases and Disorders Research"
+            },
+            {
+              "id": 434135,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.172",
+              "programTitle": "Human Genome Research"
+            },
+            {
+              "id": 434139,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.173",
+              "programTitle": "Research Related to Deafness and Communication Disorders"
+            },
+            {
+              "id": 434140,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.213",
+              "programTitle": "Research and Training in Complementary and Integrative Health"
+            },
+            {
+              "id": 434138,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.242",
+              "programTitle": "Mental Health Research Grants"
+            },
+            {
+              "id": 434136,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.273",
+              "programTitle": "Alcohol Research Programs"
+            },
+            {
+              "id": 434131,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 435924,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.286",
+              "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+            },
+            {
+              "id": 434108,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            },
+            {
+              "id": 434142,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.398",
+              "programTitle": "Cancer Research Manpower"
+            },
+            {
+              "id": 434141,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.846",
+              "programTitle": "Arthritis, Musculoskeletal and Skin Diseases Research"
+            },
+            {
+              "id": 434133,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.853",
+              "programTitle": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+            },
+            {
+              "id": 434134,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            },
+            {
+              "id": 434137,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.859",
+              "programTitle": "Biomedical Research and Research Training"
+            },
+            {
+              "id": 434144,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.865",
+              "programTitle": "Child Health and Human Development Extramural Research"
+            },
+            {
+              "id": 434146,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.866",
+              "programTitle": "Aging Research"
+            },
+            {
+              "id": 434132,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.867",
+              "programTitle": "Vision Research"
+            },
+            {
+              "id": 434130,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.T21",
+              "programTitle": "INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE"
+            },
+            {
+              "id": 434145,
+              "opportunityId": 359702,
+              "revision": 6,
+              "cfdaNumber": "93.THR",
+              "programTitle": "NIH Tribal Health Research Office (THRO)"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "cfdas",
+            "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
         }
       ],
       "opportunityPkgs": [
@@ -168961,18 +169590,24 @@
       ],
       "closedOpportunityPkgs": [],
       "originalDueDate": "Apr 08, 2029 12:00:00 AM EDT",
-      "synopsisModifiedFields": [],
+      "synopsisModifiedFields": [
+        "revision",
+        "version",
+        "synopsisDesc"
+      ],
       "forecastModifiedFields": [
         "revision",
         "version",
-        "archiveDate",
-        "modComments"
+        "cfdas",
+        "sendEmail",
+        "modComments",
+        "createTimeStamp"
       ],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "synopsis",
-      "forecastHistCount": 4,
-      "synopsisHistCount": 0,
+      "forecastHistCount": 5,
+      "synopsisHistCount": 2,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
@@ -452355,6 +452990,1011 @@
       "relatedOpps": [],
       "draftMode": "N",
       "ost": "FORECASTED"
+    }
+  },
+  "243973": {
+    "checked_at": "2026-10-19T18:36:32+00:00",
+    "listing_signature": "841096a5d3cbd304983c3d16207fcd8eed3e7b3dd7da3603c16d6c8aa9f6a8e7",
+    "detail": {
+      "id": 243973,
+      "revision": 8,
+      "opportunityNumber": "FAA-COE-AJFE",
+      "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment",
+      "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+      "listed": "L",
+      "publisherUid": "DGROVES",
+      "modifiedComments": "Extend Close Date",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 243973,
+        "version": 8,
+        "agencyCode": "DOT-FAA-FAA COE-AJFE",
+        "agencyName": "Oliva Bastiampillai\nManagement Program Analyst",
+        "agencyPhone": "202-267-3546",
+        "agencyAddressDesc": "COE-AJFE Point of Contact",
+        "agencyDetails": {
+          "code": "AJFE",
+          "seed": "DOT-FAA-FAA COE-AJFE",
+          "agencyName": "FAA-COE-AJFE",
+          "agencyCode": "DOT-FAA-FAA COE-AJFE",
+          "topAgencyCode": "DOT"
+        },
+        "topAgencyDetails": {
+          "code": "DOT",
+          "seed": "DOT",
+          "agencyName": "Department of Transportation",
+          "agencyCode": "DOT",
+          "topAgencyCode": "DOT"
+        },
+        "agencyContactPhone": "202-267-3546",
+        "agencyContactName": "Oliva Bastiampillai\nManagement Program Analyst",
+        "agencyContactDesc": "Jennifer White\r\nManagement Program Analyst",
+        "agencyContactEmail": "jennifer.white@faa.gov",
+        "agencyContactEmailDesc": "COE-AJFE Point of Contact",
+        "synopsisDesc": "<p>The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.&nbsp;ASCENT is a coalition of 16 leading US research universities committed to improving the understanding of aviation noise and emissions and the modeling of aviation systems. ASCENT is co-led by Washington State University and the Massachusetts Institute of Technology (https://ascent.aero/). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.”</p>",
+        "responseDate": "Sep 30, 2027 12:00:00 AM EDT",
+        "responseDateDesc": "Extension of the COE",
+        "postingDate": "Nov 13, 2023 12:00:00 AM EST",
+        "archiveDate": "Oct 31, 2027 12:00:00 AM EDT",
+        "costSharing": true,
+        "numberOfAwards": "200",
+        "awardCeiling": "20000000",
+        "awardCeilingFormatted": "20,000,000",
+        "awardFloor": "1",
+        "awardFloorFormatted": "1",
+        "applicantEligibilityDesc": "The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.  ASCENT is a coalition of 16 leading US research universities committed to improving the understanding of aviation noise and emissions and the modeling of aviation systems. ASCENT is co-led by Washington State University and the Massachusetts Institute of Technology (https://ascent.aero/). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.&rdquo;",
+        "sendEmail": "Y",
+        "createTimeStamp": "Oct 19, 2026 01:22:49 PM EDT",
+        "modComments": "Updated Close Date and Grantor POC",
+        "createdDate": "Nov 13, 2023 01:43:50 PM EST",
+        "lastUpdatedDate": "Oct 19, 2026 01:22:49 PM EDT",
+        "applicantTypes": [
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "EN",
+            "description": "Energy"
+          },
+          {
+            "id": "ENV",
+            "description": "Environment"
+          },
+          {
+            "id": "ST",
+            "description": "Science and Technology and other Research and Development"
+          }
+        ],
+        "responseDateStr": "2027-09-30-00-00-00",
+        "postingDateStr": "2023-11-13-00-00-00",
+        "archiveDateStr": "2027-10-31-00-00-00",
+        "createTimeStampStr": "2026-10-19-13-22-49"
+      },
+      "agencyDetails": {
+        "code": "AJFE",
+        "seed": "DOT-FAA-FAA COE-AJFE",
+        "agencyName": "FAA-COE-AJFE",
+        "agencyCode": "DOT-FAA-FAA COE-AJFE",
+        "topAgencyCode": "DOT"
+      },
+      "topAgencyDetails": {
+        "code": "DOT",
+        "seed": "DOT",
+        "agencyName": "Department of Transportation",
+        "agencyCode": "DOT",
+        "topAgencyCode": "DOT"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 275484,
+          "opportunityId": 243973,
+          "cfdaNumber": "20.109",
+          "programTitle": "Air Transportation Centers of Excellence"
+        }
+      ],
+      "opportunityHistoryDetails": [
+        {
+          "oppHistId": {
+            "opportunityId": 243973,
+            "revision": 1
+          },
+          "opportunityId": 243973,
+          "revision": 1,
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment ",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "publisherUid": "Jshaw66",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 243973,
+              "revision": 1
+            },
+            "opportunityId": 243973,
+            "revision": 1,
+            "version": 1,
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "agencyAddressDesc": "AJFE -POC Oliva.Bastiampillai@faa.gov",
+            "agencyDetails": {
+              "code": "AJFE",
+              "seed": "DOT-FAA-FAA COE-AJFE",
+              "agencyName": "FAA-COE-AJFE",
+              "agencyCode": "DOT-FAA-FAA COE-AJFE",
+              "topAgencyCode": "DOT"
+            },
+            "agencyContactPhone": "202-267-3546",
+            "agencyContactName": "Oliva Bastiampillai\nManagement Program Analyst",
+            "agencyContactDesc": "Oliva Bastiampillai\r\nManagement Program Analyst\r\nPhone 202-267-3546",
+            "agencyContactEmail": "oliva.bastiampillai@faa.gov",
+            "agencyContactEmailDesc": "AJFE -POC Oliva.Bastiampillai@faa.gov",
+            "synopsisDesc": "<p>Alternative Jet Fuels Environment Grants with Universities</p>",
+            "responseDate": "Sep 30, 2024 12:00:00 AM EDT",
+            "postingDate": "Nov 13, 2023 12:00:00 AM EST",
+            "archiveDate": "Oct 30, 2024 12:00:00 AM EDT",
+            "costSharing": true,
+            "numberOfAwards": "200",
+            "awardCeiling": "20000000",
+            "awardCeilingFormatted": "20,000,000",
+            "awardFloor": "1",
+            "awardFloorFormatted": "1",
+            "createTimeStamp": "Nov 13, 2023 01:43:50 PM EST",
+            "actionType": "U",
+            "actionDate": "Nov 13, 2023 01:49:29 PM EST",
+            "createdDate": "Nov 13, 2023 01:43:50 PM EST",
+            "lastUpdatedDate": "Nov 13, 2023 01:43:50 PM EST",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              },
+              {
+                "id": "ENV",
+                "description": "Environment"
+              },
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2024-09-30-00-00-00",
+            "postingDateStr": "2023-11-13-00-00-00",
+            "archiveDateStr": "2024-10-30-00-00-00",
+            "createTimeStampStr": "2023-11-13-13-43-50"
+          },
+          "cfdas": [
+            {
+              "id": 275484,
+              "opportunityId": 243973,
+              "revision": 7,
+              "cfdaNumber": "20.109",
+              "programTitle": "Air Transportation Centers of Excellence"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 243973,
+            "revision": 2
+          },
+          "opportunityId": 243973,
+          "revision": 2,
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment ",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "publisherUid": "Jshaw66",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 243973,
+              "revision": 2
+            },
+            "opportunityId": 243973,
+            "revision": 2,
+            "version": 2,
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "agencyAddressDesc": "AJFE -POC Oliva.Bastiampillai@faa.gov",
+            "agencyDetails": {
+              "code": "AJFE",
+              "seed": "DOT-FAA-FAA COE-AJFE",
+              "agencyName": "FAA-COE-AJFE",
+              "agencyCode": "DOT-FAA-FAA COE-AJFE",
+              "topAgencyCode": "DOT"
+            },
+            "agencyContactPhone": "202-267-3546",
+            "agencyContactName": "Oliva Bastiampillai\nManagement Program Analyst",
+            "agencyContactDesc": "Oliva Bastiampillai\r\nManagement Program Analyst\r\nPhone 202-267-3546",
+            "agencyContactEmail": "oliva.bastiampillai@faa.gov",
+            "agencyContactEmailDesc": "AJFE -POC Oliva.Bastiampillai@faa.gov",
+            "synopsisDesc": "<p>Alternative Jet Fuels Environment Grants with Universities</p>",
+            "responseDate": "Sep 30, 2024 12:00:00 AM EDT",
+            "postingDate": "Nov 13, 2023 12:00:00 AM EST",
+            "archiveDate": "Oct 30, 2024 12:00:00 AM EDT",
+            "costSharing": true,
+            "numberOfAwards": "200",
+            "awardCeiling": "20000000",
+            "awardCeilingFormatted": "20,000,000",
+            "awardFloor": "1",
+            "awardFloorFormatted": "1",
+            "createTimeStamp": "Nov 13, 2023 01:49:29 PM EST",
+            "sendEmail": "Y",
+            "modComments": "Confirming information",
+            "actionType": "U",
+            "actionDate": "Sep 25, 2024 04:48:51 PM EDT",
+            "createdDate": "Nov 13, 2023 01:43:50 PM EST",
+            "lastUpdatedDate": "Nov 13, 2023 01:49:29 PM EST",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              },
+              {
+                "id": "ENV",
+                "description": "Environment"
+              },
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2024-09-30-00-00-00",
+            "postingDateStr": "2023-11-13-00-00-00",
+            "archiveDateStr": "2024-10-30-00-00-00",
+            "createTimeStampStr": "2023-11-13-13-49-29"
+          },
+          "cfdas": [
+            {
+              "id": 275484,
+              "opportunityId": 243973,
+              "revision": 7,
+              "cfdaNumber": "20.109",
+              "programTitle": "Air Transportation Centers of Excellence"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 243973,
+            "revision": 3
+          },
+          "opportunityId": 243973,
+          "revision": 3,
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment ",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "publisherUid": "Jshaw66",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 243973,
+              "revision": 3
+            },
+            "opportunityId": 243973,
+            "revision": 3,
+            "version": 3,
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "agencyAddressDesc": "AJFE -POC Oliva.Bastiampillai@faa.gov",
+            "agencyDetails": {
+              "code": "AJFE",
+              "seed": "DOT-FAA-FAA COE-AJFE",
+              "agencyName": "FAA-COE-AJFE",
+              "agencyCode": "DOT-FAA-FAA COE-AJFE",
+              "topAgencyCode": "DOT"
+            },
+            "agencyContactPhone": "202-267-3546",
+            "agencyContactName": "Oliva Bastiampillai\nManagement Program Analyst",
+            "agencyContactDesc": "Oliva Bastiampillai\r\nManagement Program Analyst\r\nPhone 202-267-3546",
+            "agencyContactEmail": "oliva.bastiampillai@faa.gov",
+            "agencyContactEmailDesc": "AJFE -POC Oliva.Bastiampillai@faa.gov",
+            "synopsisDesc": "<p>Alternative Jet Fuels Environment Grants with Universities</p>",
+            "responseDate": "Sep 30, 2025 12:00:00 AM EDT",
+            "responseDateDesc": "",
+            "postingDate": "Nov 13, 2023 12:00:00 AM EST",
+            "archiveDate": "Oct 30, 2025 12:00:00 AM EDT",
+            "costSharing": true,
+            "numberOfAwards": "200",
+            "awardCeiling": "20000000",
+            "awardCeilingFormatted": "20,000,000",
+            "awardFloor": "1",
+            "awardFloorFormatted": "1",
+            "applicantEligibilityDesc": "",
+            "createTimeStamp": "Sep 25, 2024 04:48:51 PM EDT",
+            "sendEmail": "Y",
+            "modComments": "Close date needed to be extended.",
+            "actionType": "U",
+            "actionDate": "Dec 05, 2024 02:51:29 PM EST",
+            "createdDate": "Nov 13, 2023 01:43:50 PM EST",
+            "lastUpdatedDate": "Sep 25, 2024 04:48:51 PM EDT",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              },
+              {
+                "id": "ENV",
+                "description": "Environment"
+              },
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2025-09-30-00-00-00",
+            "postingDateStr": "2023-11-13-00-00-00",
+            "archiveDateStr": "2025-10-30-00-00-00",
+            "createTimeStampStr": "2024-09-25-16-48-51"
+          },
+          "cfdas": [
+            {
+              "id": 275484,
+              "opportunityId": 243973,
+              "revision": 7,
+              "cfdaNumber": "20.109",
+              "programTitle": "Air Transportation Centers of Excellence"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "responseDate",
+            "responseDateDesc",
+            "archiveDate",
+            "applicantEligibilityDesc",
+            "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 243973,
+            "revision": 4
+          },
+          "opportunityId": 243973,
+          "revision": 4,
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment ",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "publisherUid": "Jshaw66",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 243973,
+              "revision": 4
+            },
+            "opportunityId": 243973,
+            "revision": 4,
+            "version": 4,
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "agencyAddressDesc": "AJFE -POC Oliva.Bastiampillai@faa.gov",
+            "agencyDetails": {
+              "code": "AJFE",
+              "seed": "DOT-FAA-FAA COE-AJFE",
+              "agencyName": "FAA-COE-AJFE",
+              "agencyCode": "DOT-FAA-FAA COE-AJFE",
+              "topAgencyCode": "DOT"
+            },
+            "agencyContactPhone": "202-267-3546",
+            "agencyContactName": "Oliva Bastiampillai\nManagement Program Analyst",
+            "agencyContactDesc": "Oliva Bastiampillai\r\nManagement Program Analyst\r\nPhone 202-267-3546",
+            "agencyContactEmail": "oliva.bastiampillai@faa.gov",
+            "agencyContactEmailDesc": "AJFE -POC Oliva.Bastiampillai@faa.gov",
+            "synopsisDesc": "<p>The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.&nbsp;ASCENT – the Aviation Sustainability Center –&nbsp;is a coalition of 16 leading US research universities committed to reducing the environmental impact of aviation and co-led by Washington State University and the Massachusetts Institute of Technology (<a href=\"https://ascent.aero/\" target=\"_blank\">https://ascent.aero/</a>). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.”</p>",
+            "responseDate": "Sep 30, 2025 12:00:00 AM EDT",
+            "responseDateDesc": "",
+            "postingDate": "Nov 13, 2023 12:00:00 AM EST",
+            "archiveDate": "Oct 30, 2025 12:00:00 AM EDT",
+            "costSharing": true,
+            "numberOfAwards": "200",
+            "awardCeiling": "20000000",
+            "awardCeilingFormatted": "20,000,000",
+            "awardFloor": "1",
+            "awardFloorFormatted": "1",
+            "applicantEligibilityDesc": "The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.  ASCENT &ndash; the Aviation Sustainability Center &ndash; is a coalition of 16 leading US research universities committed to reducing the environmental impact of aviation and co-led by Washington State University and the Massachusetts Institute of Technology (https://ascent.aero/). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.&rdquo;",
+            "createTimeStamp": "Dec 05, 2024 02:51:29 PM EST",
+            "sendEmail": "Y",
+            "modComments": "Added additional information",
+            "actionType": "U",
+            "actionDate": "Oct 07, 2025 01:52:43 PM EDT",
+            "createdDate": "Nov 13, 2023 01:43:50 PM EST",
+            "lastUpdatedDate": "Dec 05, 2024 02:51:29 PM EST",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              },
+              {
+                "id": "ENV",
+                "description": "Environment"
+              },
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2025-09-30-00-00-00",
+            "postingDateStr": "2023-11-13-00-00-00",
+            "archiveDateStr": "2025-10-30-00-00-00",
+            "createTimeStampStr": "2024-12-05-14-51-29"
+          },
+          "cfdas": [
+            {
+              "id": 275484,
+              "opportunityId": 243973,
+              "revision": 7,
+              "cfdaNumber": "20.109",
+              "programTitle": "Air Transportation Centers of Excellence"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "synopsisDesc",
+            "applicantEligibilityDesc",
+            "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 243973,
+            "revision": 5
+          },
+          "opportunityId": 243973,
+          "revision": 5,
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment ",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "publisherUid": "Jshaw66",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 243973,
+              "revision": 5
+            },
+            "opportunityId": 243973,
+            "revision": 5,
+            "version": 5,
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "agencyAddressDesc": "COE-AJFE Point of Contact",
+            "agencyDetails": {
+              "code": "AJFE",
+              "seed": "DOT-FAA-FAA COE-AJFE",
+              "agencyName": "FAA-COE-AJFE",
+              "agencyCode": "DOT-FAA-FAA COE-AJFE",
+              "topAgencyCode": "DOT"
+            },
+            "agencyContactPhone": "202-267-3546",
+            "agencyContactName": "Oliva Bastiampillai\nManagement Program Analyst",
+            "agencyContactDesc": "Eleanor Mendelson\r\nManagement Program Analyst\r\n202-267-8016",
+            "agencyContactEmail": "eleanor.s.mendelson@faa.gov",
+            "agencyContactEmailDesc": "COE-AJFE Point of Contact",
+            "synopsisDesc": "<p>The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.&nbsp;ASCENT – the Aviation Sustainability Center –&nbsp;is a coalition of 16 leading US research universities committed to reducing the environmental impact of aviation and co-led by Washington State University and the Massachusetts Institute of Technology (<a href=\"https://ascent.aero/\" target=\"_blank\">https://ascent.aero/</a>). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.”</p>",
+            "responseDate": "Sep 30, 2026 12:00:00 AM EDT",
+            "responseDateDesc": "Extension of the COE",
+            "postingDate": "Nov 13, 2023 12:00:00 AM EST",
+            "archiveDate": "Oct 31, 2026 12:00:00 AM EDT",
+            "costSharing": true,
+            "numberOfAwards": "200",
+            "awardCeiling": "20000000",
+            "awardCeilingFormatted": "20,000,000",
+            "awardFloor": "1",
+            "awardFloorFormatted": "1",
+            "applicantEligibilityDesc": "The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.  ASCENT &ndash; the Aviation Sustainability Center &ndash; is a coalition of 16 leading US research universities committed to reducing the environmental impact of aviation and co-led by Washington State University and the Massachusetts Institute of Technology (https://ascent.aero/). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.&rdquo;",
+            "createTimeStamp": "Oct 07, 2025 01:52:43 PM EDT",
+            "sendEmail": "N",
+            "modComments": "POC update",
+            "actionType": "U",
+            "actionDate": "Nov 06, 2025 02:55:36 PM EST",
+            "createdDate": "Nov 13, 2023 01:43:50 PM EST",
+            "lastUpdatedDate": "Oct 07, 2025 01:52:43 PM EDT",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              },
+              {
+                "id": "ENV",
+                "description": "Environment"
+              },
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2026-09-30-00-00-00",
+            "postingDateStr": "2023-11-13-00-00-00",
+            "archiveDateStr": "2026-10-31-00-00-00",
+            "createTimeStampStr": "2025-10-07-13-52-43"
+          },
+          "cfdas": [
+            {
+              "id": 275484,
+              "opportunityId": 243973,
+              "revision": 7,
+              "cfdaNumber": "20.109",
+              "programTitle": "Air Transportation Centers of Excellence"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "agencyAddressDesc",
+            "agencyContactDesc",
+            "agencyContactEmail",
+            "agencyContactEmailDesc",
+            "responseDate",
+            "responseDateDesc",
+            "archiveDate",
+            "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 243973,
+            "revision": 6
+          },
+          "opportunityId": 243973,
+          "revision": 6,
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment ",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "publisherUid": "Jshaw66",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 243973,
+              "revision": 6
+            },
+            "opportunityId": 243973,
+            "revision": 6,
+            "version": 6,
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "agencyAddressDesc": "COE-AJFE Point of Contact",
+            "agencyDetails": {
+              "code": "AJFE",
+              "seed": "DOT-FAA-FAA COE-AJFE",
+              "agencyName": "FAA-COE-AJFE",
+              "agencyCode": "DOT-FAA-FAA COE-AJFE",
+              "topAgencyCode": "DOT"
+            },
+            "agencyContactPhone": "202-267-3546",
+            "agencyContactName": "Oliva Bastiampillai\nManagement Program Analyst",
+            "agencyContactDesc": "Eleanor Mendelson\r\nManagement Program Analyst\r\n202-267-8016",
+            "agencyContactEmail": "eleanor.s.mendelson@faa.gov",
+            "agencyContactEmailDesc": "COE-AJFE Point of Contact",
+            "synopsisDesc": "<p>The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.&nbsp;ASCENT is a coalition of 16 leading US research universities committed to improving the understanding of aviation noise and emissions and the modeling of aviation systems. ASCENT is co-led by Washington State University and the Massachusetts Institute of Technology (https://ascent.aero/). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.”</p>",
+            "responseDate": "Sep 30, 2026 12:00:00 AM EDT",
+            "responseDateDesc": "Extension of the COE",
+            "postingDate": "Nov 13, 2023 12:00:00 AM EST",
+            "archiveDate": "Oct 31, 2026 12:00:00 AM EDT",
+            "costSharing": true,
+            "numberOfAwards": "200",
+            "awardCeiling": "20000000",
+            "awardCeilingFormatted": "20,000,000",
+            "awardFloor": "1",
+            "awardFloorFormatted": "1",
+            "applicantEligibilityDesc": "The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.  ASCENT is a coalition of 16 leading US research universities committed to improving the understanding of aviation noise and emissions and the modeling of aviation systems. ASCENT is co-led by Washington State University and the Massachusetts Institute of Technology (https://ascent.aero/). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.&rdquo;",
+            "createTimeStamp": "Nov 06, 2025 02:55:36 PM EST",
+            "sendEmail": "Y",
+            "modComments": "Updated additional information",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 01:18:19 PM EDT",
+            "createdDate": "Nov 13, 2023 01:43:50 PM EST",
+            "lastUpdatedDate": "Nov 06, 2025 02:55:36 PM EST",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              },
+              {
+                "id": "ENV",
+                "description": "Environment"
+              },
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2026-09-30-00-00-00",
+            "postingDateStr": "2023-11-13-00-00-00",
+            "archiveDateStr": "2026-10-31-00-00-00",
+            "createTimeStampStr": "2025-11-06-14-55-36"
+          },
+          "cfdas": [
+            {
+              "id": 275484,
+              "opportunityId": 243973,
+              "revision": 7,
+              "cfdaNumber": "20.109",
+              "programTitle": "Air Transportation Centers of Excellence"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "synopsisDesc",
+            "applicantEligibilityDesc",
+            "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 243973,
+            "revision": 7
+          },
+          "opportunityId": 243973,
+          "revision": 7,
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "publisherUid": "DGROVES",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Extend Close Date",
+          "synopsis": {
+            "id": {
+              "opportunityId": 243973,
+              "revision": 7
+            },
+            "opportunityId": 243973,
+            "revision": 7,
+            "version": 7,
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "agencyAddressDesc": "COE-AJFE Point of Contact",
+            "agencyDetails": {
+              "code": "AJFE",
+              "seed": "DOT-FAA-FAA COE-AJFE",
+              "agencyName": "FAA-COE-AJFE",
+              "agencyCode": "DOT-FAA-FAA COE-AJFE",
+              "topAgencyCode": "DOT"
+            },
+            "agencyContactPhone": "202-267-3546",
+            "agencyContactName": "Oliva Bastiampillai\nManagement Program Analyst",
+            "agencyContactDesc": "Eleanor Mendelson\r\nManagement Program Analyst\r\n202-267-8016",
+            "agencyContactEmail": "eleanor.s.mendelson@faa.gov",
+            "agencyContactEmailDesc": "COE-AJFE Point of Contact",
+            "synopsisDesc": "<p>The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.&nbsp;ASCENT is a coalition of 16 leading US research universities committed to improving the understanding of aviation noise and emissions and the modeling of aviation systems. ASCENT is co-led by Washington State University and the Massachusetts Institute of Technology (https://ascent.aero/). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.”</p>",
+            "responseDate": "Sep 30, 2026 12:00:00 AM EDT",
+            "responseDateDesc": "Extension of the COE",
+            "postingDate": "Nov 13, 2023 12:00:00 AM EST",
+            "archiveDate": "Oct 31, 2026 12:00:00 AM EDT",
+            "costSharing": true,
+            "numberOfAwards": "200",
+            "awardCeiling": "20000000",
+            "awardCeilingFormatted": "20,000,000",
+            "awardFloor": "1",
+            "awardFloorFormatted": "1",
+            "applicantEligibilityDesc": "The opportunity for the Federal Aviation Administration (FAA) Center of Excellence for Alternative Jet Fuel and Environment (AJFE) was awarded in 2013 to the ASCENT cooperative aviation research organization.  ASCENT is a coalition of 16 leading US research universities committed to improving the understanding of aviation noise and emissions and the modeling of aviation systems. ASCENT is co-led by Washington State University and the Massachusetts Institute of Technology (https://ascent.aero/). Any new grant opportunities under AJFE are open and available only to the university members of ASCENT.&rdquo;",
+            "createTimeStamp": "Oct 19, 2026 01:18:19 PM EDT",
+            "sendEmail": "Y",
+            "modComments": "Extend Close Date",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 01:22:49 PM EDT",
+            "createdDate": "Nov 13, 2023 01:43:50 PM EST",
+            "lastUpdatedDate": "Oct 19, 2026 01:18:19 PM EDT",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              },
+              {
+                "id": "ENV",
+                "description": "Environment"
+              },
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2026-09-30-00-00-00",
+            "postingDateStr": "2023-11-13-00-00-00",
+            "archiveDateStr": "2026-10-31-00-00-00",
+            "createTimeStampStr": "2026-10-19-13-18-19"
+          },
+          "cfdas": [
+            {
+              "id": 275484,
+              "opportunityId": 243973,
+              "revision": 7,
+              "cfdaNumber": "20.109",
+              "programTitle": "Air Transportation Centers of Excellence"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "opportunityTitle",
+            "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
+        }
+      ],
+      "opportunityPkgs": [
+        {
+          "id": 186870,
+          "topportunityId": 243973,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment",
+          "cfdaNumber": "20.109",
+          "openingDate": "2013-09-30",
+          "closingDate": "2027-09-30",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "agencyDetails": {
+            "code": "AJFE",
+            "seed": "DOT-FAA-FAA COE-AJFE",
+            "agencyName": "FAA-COE-AJFE",
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "topAgencyCode": "DOT"
+          },
+          "topAgencyDetails": {
+            "code": "DOT",
+            "seed": "DOT",
+            "agencyName": "Department of Transportation",
+            "agencyCode": "DOT",
+            "topAgencyCode": "DOT"
+          },
+          "programTitle": "Air Transportation Centers of Excellence",
+          "contactInfo": "Jennifer White\r\nManagement Support Specialist\r\njennifer.white@faa.gov",
+          "competitionId": "AJFE-NCE",
+          "competitionTitle": "AJFE POP Extension",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 300,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "doc",
+          "mimetype": "application/msword",
+          "lastUpdate": "Oct 19, 2026 01:26:17 PM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00186870",
+          "openingDateStr": "2013-09-30-00-00-00",
+          "closingDateStr": "2027-09-30-00-00-00"
+        },
+        {
+          "id": 186450,
+          "topportunityId": 243973,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment",
+          "cfdaNumber": "20.109",
+          "openingDate": "2013-09-30",
+          "closingDate": "2027-09-30",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "agencyDetails": {
+            "code": "AJFE",
+            "seed": "DOT-FAA-FAA COE-AJFE",
+            "agencyName": "FAA-COE-AJFE",
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "topAgencyCode": "DOT"
+          },
+          "topAgencyDetails": {
+            "code": "DOT",
+            "seed": "DOT",
+            "agencyName": "Department of Transportation",
+            "agencyCode": "DOT",
+            "topAgencyCode": "DOT"
+          },
+          "programTitle": "Air Transportation Centers of Excellence",
+          "contactInfo": "Jennifer White\r\nMANAGEMENT SUPPORT SPECIALIST\r\njennifer.white@faa.gov",
+          "gracePeriod": 15,
+          "competitionId": "AJFE-NEW",
+          "competitionTitle": "AJFE New Funding",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 300,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "doc",
+          "mimetype": "application/msword",
+          "lastUpdate": "Oct 19, 2026 01:24:07 PM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00186450",
+          "openingDateStr": "2013-09-30-00-00-00",
+          "closingDateStr": "2027-09-30-00-00-00"
+        },
+        {
+          "id": 186451,
+          "topportunityId": 243973,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "FAA-COE-AJFE",
+          "opportunityTitle": "Center of Excellence for Alternative Jet Fuels and Environment",
+          "cfdaNumber": "20.109",
+          "openingDate": "2013-09-30",
+          "closingDate": "2027-09-30",
+          "owningAgencyCode": "DOT-FAA-FAA COE-AJFE",
+          "agencyDetails": {
+            "code": "AJFE",
+            "seed": "DOT-FAA-FAA COE-AJFE",
+            "agencyName": "FAA-COE-AJFE",
+            "agencyCode": "DOT-FAA-FAA COE-AJFE",
+            "topAgencyCode": "DOT"
+          },
+          "topAgencyDetails": {
+            "code": "DOT",
+            "seed": "DOT",
+            "agencyName": "Department of Transportation",
+            "agencyCode": "DOT",
+            "topAgencyCode": "DOT"
+          },
+          "programTitle": "Air Transportation Centers of Excellence",
+          "contactInfo": "Jennifer White\r\nManagement Support Specialist\r\njennifer.white@faa.gov",
+          "gracePeriod": 15,
+          "competitionId": "AJFE-ADDITIONAL",
+          "competitionTitle": "AJFE-Additional Funding",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 300,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "doc",
+          "mimetype": "application/msword",
+          "lastUpdate": "Oct 19, 2026 01:25:09 PM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00186451",
+          "openingDateStr": "2013-09-30-00-00-00",
+          "closingDateStr": "2027-09-30-00-00-00"
+        }
+      ],
+      "closedOpportunityPkgs": [],
+      "originalDueDate": "Sep 30, 2024 12:00:00 AM EDT",
+      "synopsisModifiedFields": [
+        "revision",
+        "version",
+        "agencyContactDesc",
+        "agencyContactEmail",
+        "responseDate",
+        "archiveDate"
+      ],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "synopsis",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 7,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "POSTED"
     }
   }
 }
