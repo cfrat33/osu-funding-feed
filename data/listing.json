@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T09:40:10+00:00",
+  "checked_at": "2026-10-19T12:42:46+00:00",
   "complete": true,
   "records": [
     {
@@ -15682,20 +15682,6 @@
       ]
     },
     {
-      "id": "361204",
-      "number": "PAR-28-093",
-      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/26/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.279"
-      ]
-    },
-    {
       "id": "360869",
       "number": "PAR-28-090",
       "title": "Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) (P30 Clinical Trial Not Allowed)",
@@ -15763,6 +15749,22 @@
       "docType": "synopsis",
       "cfdaList": [
         "45.041"
+      ]
+    },
+    {
+      "id": "361204",
+      "number": "PAR-28-093",
+      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/19/2026",
+      "closeDate": "07/16/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.681",
+        "93.279",
+        "93.310"
       ]
     }
   ]

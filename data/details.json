@@ -423957,21 +423957,138 @@
     }
   },
   "361204": {
-    "checked_at": "2026-10-19T07:08:51+00:00",
-    "listing_signature": "ac3aeeaa79a28211d6d19c67e6c0dc9e26fcdd4fa4da36c2b1c4e5806292b2bb",
+    "checked_at": "2026-10-19T12:42:46+00:00",
+    "listing_signature": "d335055c1836e75b8dc0b54aa0bca471b433314f5b04b21806cccf1dc708193a",
     "detail": {
       "id": 361204,
-      "revision": 1,
+      "revision": 4,
       "opportunityNumber": "PAR-28-093",
       "opportunityTitle": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
-      "publisherUid": "marlowegj",
+      "publisherUid": "1643657692",
       "modifiedComments": "Opportunity details updated to match NOFO.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
         "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 361204,
+        "version": 1,
+        "agencyCode": "HHS-NIH11",
+        "agencyName": "National Institutes of Health",
+        "agencyPhone": "301-402-2541",
+        "agencyAddressDesc": "pilotstudies@mail.nih.gov",
+        "agencyDetails": {
+          "code": "NIH",
+          "seed": "HHS-NIH11",
+          "agencyName": "National Institutes of Health",
+          "agencyCode": "HHS-NIH11",
+          "topAgencyCode": "HHS"
+        },
+        "topAgencyDetails": {
+          "code": "HHS",
+          "seed": "HHS",
+          "agencyName": "Department of Health and Human Services",
+          "agencyCode": "HHS",
+          "topAgencyCode": "HHS"
+        },
+        "agencyContactPhone": "301-402-2541",
+        "agencyContactName": "National Institutes of Health",
+        "agencyContactDesc": "NIDA DESPR Program Staff\npilotstudies@mail.nih.gov",
+        "agencyContactEmail": "pilotstudies@mail.nih.gov",
+        "agencyContactEmailDesc": "pilotstudies@mail.nih.gov",
+        "synopsisDesc": "<p>The purpose of this notice of funding opportunity (NOFO) is to support pilot and feasibility studies to inform the design and conduct of efficacy, effectiveness, and/or services research trials. Topics may include: 1) developing interventions to prevent substance use, misuse, or progression to substance use disorder; 2) prevention, treatment, or recovery services research, including research addressing comorbid pain and medical and mental health disorders; and 3) HIV eradication research, including implementation science, prevention, treatment and recovery in substance use settings/populations.</p>",
+        "responseDate": "Jul 16, 2029 12:00:00 AM EDT",
+        "postingDate": "Oct 19, 2026 12:00:00 AM EDT",
+        "archiveDate": "Sep 16, 2029 12:00:00 AM EDT",
+        "costSharing": false,
+        "awardCeiling": "450000",
+        "awardCeilingFormatted": "450,000",
+        "awardFloor": "none",
+        "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility.Foreign Organizations/International CollaborationsNon-domestic (non-U.S.) Entities (Foreign Organizations) are eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are allowed.NIH will no longer issue awards (i.e., new, renewal, or non-competing continuation) to domestic or foreign entities that involve foreign subawards/subcontracts. All NIH-funded research involving foreign subawards/subcontracts must be submitted in response to a NOFO that is specifically designated for funded international collaborations. See NIH Grants Policy Statement 16.8 Collaborative International Research Awards.Applications involving foreign subawards/subcontracts submitted in response to this NOFO will be deemed noncompliant and will not be considered for funding. This policy applies to all monetary international collaborations resulting in foreign subawards/subcontracts, however, it does not preclude unfunded international collaborations or foreign components, funding for foreign consultants, or procurement of unique equipment or supplies from foreign vendors.",
+        "createTimeStamp": "Oct 19, 2026 08:01:48 AM EDT",
+        "createdDate": "Oct 19, 2026 08:01:41 AM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 08:01:41 AM EDT",
+        "applicantTypes": [
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "G",
+            "description": "Grant"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "responseDateStr": "2029-07-16-00-00-00",
+        "postingDateStr": "2026-10-19-00-00-00",
+        "archiveDateStr": "2029-09-16-00-00-00",
+        "createTimeStampStr": "2026-10-19-08-01-48"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -423989,8 +424106,9 @@
       },
       "forecast": {
         "opportunityId": 361204,
-        "version": 2,
+        "version": 4,
         "postingDate": "Jan 26, 2026 12:00:00 AM EST",
+        "archiveDate": "Oct 18, 2026 12:00:00 AM EDT",
         "forecastDesc": "<p>The National Institute on Drug Abuse seeks to support pilot and feasibility studies in preparation for efficacy, effectiveness and/or services research trials. Topics may include:1) developing interventions to prevent substance use, misuse or progression to disorder, 2) substance use prevention, treatment or recovery services research, including comorbid pain, medical and mental health disorders, 3) HIV eradication research, including implementation science, prevention, treatment and recovery in substance use settings/populations.</p><p>Projects may address information gaps, strengthen stakeholder partnerships, or pilot test interventions. Activities might include intervention development/adaptation; assessing intervention or service model acceptability and feasibility; and development of measures, materials, or methods for the future trial. Preliminary data is not required. A well-defined theory of change or logic model is expected. Applicants must engage relevant end users in study design, execution, and interpretation (e.g., policymakers, state and local decision makers, practitioners, individuals with lived/living experience, families, youth, and community members).</p><p>Applications are not being solicited at this time. This notice is to allow applicants time to develop collaborations and responsive projects. Grant authorities that allow this forecast are 42 U.S.C. §§ 241 and 284.</p><p>&nbsp;</p>",
         "costSharing": false,
         "agencyContactName": "NIDA DESPR Program Staff",
@@ -423998,17 +424116,16 @@
         "agencyContactEmail": "nida-par-26-092@mail.nih.gov",
         "agencyContactEmailDesc": "Division of Epidemiology Services and Prevention Research",
         "agencyCode": "HHS-NIH11",
-        "sendEmail": "N",
         "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
         "estSynopsisPostingDate": "Jul 02, 2026 12:00:00 AM EDT",
         "estApplicationResponseDate": "Oct 02, 2026 12:00:00 AM EDT",
         "estAwardDate": "Jul 01, 2027 12:00:00 AM EDT",
         "estProjectStartDate": "Jul 01, 2027 12:00:00 AM EDT",
         "fiscalYear": 2027,
-        "modComments": "Opportunity details updated to match NOFO.",
-        "createTimeStamp": "Oct 16, 2026 06:57:57 AM EDT",
+        "modComments": "Updated Archive Date",
+        "createTimeStamp": "Oct 19, 2026 08:01:48 AM EDT",
         "createdDate": "Jan 26, 2026 08:25:46 AM EST",
-        "lastUpdatedDate": "Oct 16, 2026 06:57:57 AM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 08:01:48 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -424018,24 +424135,8 @@
         },
         "applicantTypes": [
           {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "23",
-            "description": "Small businesses"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
+            "id": "02",
+            "description": "City or township governments"
           },
           {
             "id": "13",
@@ -424046,36 +424147,52 @@
             "description": "County governments"
           },
           {
-            "id": "05",
-            "description": "Independent school districts"
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
             "id": "25",
             "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
           },
           {
             "id": "11",
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "02",
-            "description": "City or township governments"
+            "id": "00",
+            "description": "State governments"
           },
           {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "23",
+            "description": "Small businesses"
           }
         ],
         "fundingInstruments": [
@@ -424091,13 +424208,36 @@
           }
         ],
         "postingDateStr": "2026-01-26-00-00-00",
+        "archiveDateStr": "2026-10-18-00-00-00",
         "estSynopsisPostingDateStr": "2026-07-02-00-00-00",
         "estApplicationResponseDateStr": "2026-10-02-00-00-00",
         "estAwardDateStr": "2027-07-01-00-00-00",
         "estProjectStartDateStr": "2027-07-01-00-00-00",
-        "createTimeStampStr": "2026-10-16-06-57-57"
+        "createTimeStampStr": "2026-10-19-08-01-48"
       },
-      "synopsisAttachmentFolders": [],
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81443,
+          "opportunityId": 361204,
+          "folderType": "Full Announcement",
+          "folderName": "Full Announcement",
+          "zipLobSize": 30152,
+          "createdDate": "Oct 19, 2026 08:01:48 AM EDT",
+          "lastUpdatedDate": "Oct 19, 2026 08:01:48 AM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355300,
+              "opportunityId": 361204,
+              "mimeType": "text/html;charset=UTF-8",
+              "fileName": "PAR-28-093-Full-Announcement.html",
+              "fileDescription": "PAR-28-093-Full-Announcement.html",
+              "fileLobSize": 133070,
+              "createdDate": "Oct 19, 2026 08:01:48 AM EDT",
+              "synopsisAttFolderId": 81443
+            }
+          ]
+        }
+      ],
       "synopsisDocumentURLs": [],
       "synAttChangeComments": [],
       "cfdas": [
@@ -424106,6 +424246,18 @@
           "opportunityId": 361204,
           "cfdaNumber": "93.279",
           "programTitle": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "id": 435875,
+          "opportunityId": 361204,
+          "cfdaNumber": "93.310",
+          "programTitle": "Trans-NIH Research Support"
+        },
+        {
+          "id": 435876,
+          "opportunityId": 361204,
+          "cfdaNumber": "93.681",
+          "programTitle": "Office of Disease Prevention"
         }
       ],
       "opportunityHistoryDetails": [
@@ -424160,64 +424312,64 @@
             },
             "applicantTypes": [
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
                 "id": "02",
                 "description": "City or township governments"
-              },
-              {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
               },
               {
                 "id": "11",
                 "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
                 "id": "04",
                 "description": "Special district governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
               }
             ],
             "fundingInstruments": [
@@ -424243,37 +424395,398 @@
             {
               "id": 431835,
               "opportunityId": 361204,
-              "revision": 0,
+              "revision": 2,
               "cfdaNumber": "93.279",
               "programTitle": "Drug Use and Addiction Research Programs"
             }
           ],
           "synopsisModifiedFields": [],
           "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 361204,
+            "revision": 1
+          },
+          "opportunityId": 361204,
+          "revision": 1,
+          "opportunityNumber": "PAR-28-093",
+          "opportunityTitle": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "marlowegj",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Opportunity details updated to match NOFO.",
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 361204,
+              "revision": 1
+            },
+            "opportunityId": 361204,
+            "revision": 1,
+            "version": 2,
+            "postingDate": "Jan 26, 2026 12:00:00 AM EST",
+            "forecastDesc": "<p>The National Institute on Drug Abuse seeks to support pilot and feasibility studies in preparation for efficacy, effectiveness and/or services research trials. Topics may include:1) developing interventions to prevent substance use, misuse or progression to disorder, 2) substance use prevention, treatment or recovery services research, including comorbid pain, medical and mental health disorders, 3) HIV eradication research, including implementation science, prevention, treatment and recovery in substance use settings/populations.</p><p>Projects may address information gaps, strengthen stakeholder partnerships, or pilot test interventions. Activities might include intervention development/adaptation; assessing intervention or service model acceptability and feasibility; and development of measures, materials, or methods for the future trial. Preliminary data is not required. A well-defined theory of change or logic model is expected. Applicants must engage relevant end users in study design, execution, and interpretation (e.g., policymakers, state and local decision makers, practitioners, individuals with lived/living experience, families, youth, and community members).</p><p>Applications are not being solicited at this time. This notice is to allow applicants time to develop collaborations and responsive projects. Grant authorities that allow this forecast are 42 U.S.C. §§ 241 and 284.</p><p>&nbsp;</p>",
+            "costSharing": false,
+            "agencyContactName": "NIDA DESPR Program Staff",
+            "agencyContactPhone": "Please contact via e-mail",
+            "agencyContactEmail": "nida-par-26-092@mail.nih.gov",
+            "agencyContactEmailDesc": "Division of Epidemiology Services and Prevention Research",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "N",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+            "estSynopsisPostingDate": "Jul 02, 2026 12:00:00 AM EDT",
+            "estApplicationResponseDate": "Oct 02, 2026 12:00:00 AM EDT",
+            "estAwardDate": "Jul 01, 2027 12:00:00 AM EDT",
+            "estProjectStartDate": "Jul 01, 2027 12:00:00 AM EDT",
+            "fiscalYear": 2027,
+            "modComments": "Opportunity details updated to match NOFO.",
+            "createTimeStamp": "Oct 16, 2026 06:57:57 AM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 08:01:41 AM EDT",
+            "createdDate": "Jan 26, 2026 08:25:46 AM EST",
+            "lastUpdatedDate": "Oct 16, 2026 06:57:57 AM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "applicantTypes": [
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2026-01-26-00-00-00",
+            "estSynopsisPostingDateStr": "2026-07-02-00-00-00",
+            "estApplicationResponseDateStr": "2026-10-02-00-00-00",
+            "estAwardDateStr": "2027-07-01-00-00-00",
+            "estProjectStartDateStr": "2027-07-01-00-00-00",
+            "createTimeStampStr": "2026-10-16-06-57-57"
+          },
+          "cfdas": [
+            {
+              "id": 431835,
+              "opportunityId": 361204,
+              "revision": 2,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "opportunityNumber",
+            "opportunityTitle",
+            "sendEmail",
+            "modComments",
+            "createTimeStamp"
+          ]
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 361204,
+            "revision": 3
+          },
+          "opportunityId": 361204,
+          "revision": 3,
+          "opportunityNumber": "PAR-28-093",
+          "opportunityTitle": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "1643657692",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Opportunity details updated to match NOFO.",
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 361204,
+              "revision": 3
+            },
+            "opportunityId": 361204,
+            "revision": 3,
+            "version": 3,
+            "postingDate": "Jan 26, 2026 12:00:00 AM EST",
+            "forecastDesc": "<p>The National Institute on Drug Abuse seeks to support pilot and feasibility studies in preparation for efficacy, effectiveness and/or services research trials. Topics may include:1) developing interventions to prevent substance use, misuse or progression to disorder, 2) substance use prevention, treatment or recovery services research, including comorbid pain, medical and mental health disorders, 3) HIV eradication research, including implementation science, prevention, treatment and recovery in substance use settings/populations.</p><p>Projects may address information gaps, strengthen stakeholder partnerships, or pilot test interventions. Activities might include intervention development/adaptation; assessing intervention or service model acceptability and feasibility; and development of measures, materials, or methods for the future trial. Preliminary data is not required. A well-defined theory of change or logic model is expected. Applicants must engage relevant end users in study design, execution, and interpretation (e.g., policymakers, state and local decision makers, practitioners, individuals with lived/living experience, families, youth, and community members).</p><p>Applications are not being solicited at this time. This notice is to allow applicants time to develop collaborations and responsive projects. Grant authorities that allow this forecast are 42 U.S.C. §§ 241 and 284.</p><p>&nbsp;</p>",
+            "costSharing": false,
+            "agencyContactName": "NIDA DESPR Program Staff",
+            "agencyContactPhone": "Please contact via e-mail",
+            "agencyContactEmail": "nida-par-26-092@mail.nih.gov",
+            "agencyContactEmailDesc": "Division of Epidemiology Services and Prevention Research",
+            "agencyCode": "HHS-NIH11",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+            "estSynopsisPostingDate": "Jul 02, 2026 12:00:00 AM EDT",
+            "estApplicationResponseDate": "Oct 02, 2026 12:00:00 AM EDT",
+            "estAwardDate": "Jul 01, 2027 12:00:00 AM EDT",
+            "estProjectStartDate": "Jul 01, 2027 12:00:00 AM EDT",
+            "fiscalYear": 2027,
+            "modComments": "Opportunity details updated to match NOFO.",
+            "createTimeStamp": "Oct 19, 2026 08:01:41 AM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 08:01:41 AM EDT",
+            "createdDate": "Jan 26, 2026 08:25:46 AM EST",
+            "lastUpdatedDate": "Oct 19, 2026 08:01:41 AM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "applicantTypes": [
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2026-01-26-00-00-00",
+            "estSynopsisPostingDateStr": "2026-07-02-00-00-00",
+            "estApplicationResponseDateStr": "2026-10-02-00-00-00",
+            "estAwardDateStr": "2027-07-01-00-00-00",
+            "estProjectStartDateStr": "2027-07-01-00-00-00",
+            "createTimeStampStr": "2026-10-19-08-01-41"
+          },
+          "cfdas": [
+            {
+              "id": 431835,
+              "opportunityId": 361204,
+              "revision": 2,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 435875,
+              "opportunityId": 361204,
+              "revision": 2,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            },
+            {
+              "id": 435876,
+              "opportunityId": 361204,
+              "revision": 2,
+              "cfdaNumber": "93.681",
+              "programTitle": "Office of Disease Prevention"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "cfdas",
+            "sendEmail",
+            "createTimeStamp"
+          ]
         }
       ],
-      "opportunityPkgs": [],
+      "opportunityPkgs": [
+        {
+          "id": 294426,
+          "topportunityId": 361204,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "PAR-28-093",
+          "opportunityTitle": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
+          "cfdaNumber": "93.279",
+          "openingDate": "2027-01-16",
+          "closingDate": "2029-07-16",
+          "owningAgencyCode": "HHS-NIH11",
+          "agencyDetails": {
+            "code": "NIH",
+            "seed": "HHS-NIH11",
+            "agencyName": "National Institutes of Health",
+            "agencyCode": "HHS-NIH11",
+            "topAgencyCode": "HHS"
+          },
+          "topAgencyDetails": {
+            "code": "HHS",
+            "seed": "HHS",
+            "agencyName": "Department of Health and Human Services",
+            "agencyCode": "HHS",
+            "topAgencyCode": "HHS"
+          },
+          "programTitle": "Drug Use and Addiction Research Programs",
+          "contactInfo": "<p>eRA Service Desk</p><p><a href=\"https://www.era.nih.gov/need-help \">https://www.era.nih.gov/need-help&nbsp;</a></p>",
+          "gracePeriod": 35,
+          "competitionId": "FORMS-I",
+          "competitionTitle": "Use for due date on or after January 25, 2025.",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 100,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 19, 2026 08:02:35 AM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294426",
+          "openingDateStr": "2027-01-16-00-00-00",
+          "closingDateStr": "2029-07-16-00-00-00"
+        }
+      ],
       "closedOpportunityPkgs": [],
+      "originalDueDate": "Jul 16, 2029 12:00:00 AM EDT",
       "synopsisModifiedFields": [],
       "forecastModifiedFields": [
         "revision",
         "version",
-        "opportunityNumber",
-        "opportunityTitle",
-        "sendEmail",
-        "modComments",
-        "createTimeStamp"
+        "archiveDate",
+        "modComments"
       ],
       "errorMessages": [],
       "synPostDateInPast": true,
-      "docType": "forecast",
-      "forecastHistCount": 0,
+      "docType": "synopsis",
+      "forecastHistCount": 3,
       "synopsisHistCount": 0,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
       "draftMode": "N",
-      "ost": "FORECASTED"
+      "ost": "POSTED"
     }
   },
   "361205": {
