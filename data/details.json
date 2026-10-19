@@ -234001,15 +234001,16 @@
     }
   },
   "360581": {
-    "checked_at": "2026-10-19T06:59:57+00:00",
-    "listing_signature": "d140f208f661daf03f7a059370d9f074018f02716312865992372d11c235b456",
+    "checked_at": "2026-10-19T15:29:33+00:00",
+    "listing_signature": "ba8e1cae56f7cddf92489b4d282b2853ebc94ee4e5e68113968da25297c5ee51",
     "detail": {
       "id": 360581,
-      "revision": 2,
+      "revision": 4,
       "opportunityNumber": "PA-26-002",
       "opportunityTitle": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
       "owningAgencyCode": "HHS-NIH11",
-      "publisherUid": "85078824959489933389587371192040018034",
+      "publisherUid": "1643657692",
+      "modifiedComments": "Updated per NOT-TW-26-002.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -234017,7 +234018,7 @@
       },
       "synopsis": {
         "opportunityId": 360581,
-        "version": 1,
+        "version": 3,
         "agencyCode": "HHS-NIH11",
         "agencyName": "National Institutes of Health",
         "agencyPhone": "301-402-2541",
@@ -234041,7 +234042,7 @@
         "agencyContactDesc": "NIH Office of Policy for Extramural Research Administration (OPERA)\noperasystemspolicy@mail.nih.gov",
         "agencyContactEmail": "operasystemspolicy@mail.nih.gov",
         "agencyContactEmailDesc": "operasystemspolicy@mail.nih.gov",
-        "synopsisDesc": "The National Institutes of Health (NIH) seeks to advance its mission by maintaining strong, productive, and secure international research collaborations in support of the NIH mission. The NIH Collaborative International Research Project (Parent Announcement) supports international research collaborations. This opportunity specifically implements an award structure of prime domestic awards with independent foreign awards that are linked to the prime. This structure provides NIH with oversight capacity for international collaborations, and allows NIH to track international funding, as identified in NOT-OD-25-104. This funding opportunity is specifically designed for NIH to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward. All collaborative international research project applications must include at least 1 international subproject. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes, Centers and Offices (ICOs) based on their scientific missions. The application will be evaluated as a whole, and the international subproject(s) will be evaluated on whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions in other countries that are not readily available in the United States or that augment existing United States resources, and whether the proposed project has specific relevance to the mission and objectives of the ICO and has the potential for significantly advancing the health sciences in the United States.",
+        "synopsisDesc": "<p>The National Institutes of Health (NIH) seeks to advance its mission by maintaining strong, productive, and secure international research collaborations in support of the NIH mission. The NIH Collaborative International Research Project (Parent Announcement) supports international research collaborations. This opportunity specifically implements an award structure of prime domestic awards with independent foreign awards that are linked to the prime. This structure provides NIH with oversight capacity for international collaborations, and allows NIH to track international funding, as identified in&nbsp;<a href=\"https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-104.html\">NOT-OD-25-104</a>. This funding opportunity is specifically designed for NIH to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward.&nbsp;</p><p>All collaborative international research project applications must include at least 1 international subproject. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes, Centers and Offices (ICOs) based on their scientific missions. The application will be evaluated as a whole, and the international subproject(s) will be evaluated on whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions in other countries that are not readily available in the United States or that augment existing United States resources, and whether the proposed project has specific relevance to the mission and objectives of the ICO and has the potential for significantly advancing the health sciences in the United States.&nbsp;</p>",
         "responseDate": "May 07, 2029 12:00:00 AM EDT",
         "postingDate": "Jan 20, 2026 12:00:00 AM EST",
         "archiveDate": "Jul 09, 2029 12:00:00 AM EDT",
@@ -234049,29 +234050,35 @@
         "awardCeiling": "none",
         "awardFloor": "none",
         "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility. Foreign Organizations/International CollaborationsNon-domestic (non-U.S.) Entities (Foreign Organization) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are allowed.One or more International Project is required.This funding opportunity is specifically designed to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for projects in which the only international elements are foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward.",
-        "createTimeStamp": "Jan 20, 2026 06:36:26 PM EST",
+        "sendEmail": "Y",
+        "createTimeStamp": "Oct 19, 2026 10:00:54 AM EDT",
+        "modComments": "Updated per NOT-TW-26-002.",
         "createdDate": "Jan 20, 2026 06:36:14 PM EST",
-        "lastUpdatedDate": "Jan 20, 2026 06:36:14 PM EST",
+        "lastUpdatedDate": "Oct 19, 2026 10:00:47 AM EDT",
         "applicantTypes": [
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
           {
             "id": "00",
             "description": "State governments"
-          },
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
             "id": "07",
             "description": "Native American tribal governments (Federally recognized)"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "01",
             "description": "County governments"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "04",
@@ -234082,28 +234089,16 @@
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
           },
           {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
-            "id": "02",
-            "description": "City or township governments"
+            "id": "05",
+            "description": "Independent school districts"
           },
           {
             "id": "06",
@@ -234112,6 +234107,14 @@
           {
             "id": "13",
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
           }
         ],
         "fundingInstruments": [
@@ -234129,7 +234132,7 @@
         "responseDateStr": "2029-05-07-00-00-00",
         "postingDateStr": "2026-01-20-00-00-00",
         "archiveDateStr": "2029-07-09-00-00-00",
-        "createTimeStampStr": "2026-01-20-18-36-26"
+        "createTimeStampStr": "2026-10-19-10-00-54"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -234147,7 +234150,7 @@
       },
       "forecast": {
         "opportunityId": 360581,
-        "version": 2,
+        "version": 3,
         "postingDate": "Sep 15, 2025 12:00:00 AM EDT",
         "archiveDate": "Jan 19, 2026 12:00:00 AM EST",
         "forecastDesc": "<p>The National Institutes of Health (NIH) seeks to advance its mission by maintaining strong, productive, and secure international research collaborations in support of the NIH mission. The NIH Collaborative International Research Project (Parent Announcement) supports international research collaborations. This opportunity specifically implements an award structure of prime domestic awards with independent foreign awards that are linked to the prime. This structure provides NIH with oversight capacity for international collaborations, and allows NIH to track international funding, as identified in&nbsp;<a href=\"https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-104.html\">NOT-OD-25-104</a>.&nbsp;</p><p>All collaborative international research project applications must include at least 1 international subproject. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes, Centers and Offices (ICOs) based on their scientific missions. The application will be evaluated as a whole, and the international subproject(s) will be evaluated on whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions in other countries that are not readily available in the United States or that augment existing United States resources, and whether the proposed project has specific relevance to the mission and objectives of the ICO and has the potential for significantly advancing the health sciences in the United States. Grant authorities that allow NIH to forecast this opportunity are as follows: 42 U.S.C 241 and 284.</p>",
@@ -234157,16 +234160,17 @@
         "agencyContactEmail": "OPERAleadership@mail.nih.gov",
         "agencyContactEmailDesc": "OPERAleadership@mail.nih.gov",
         "agencyCode": "HHS-NIH11",
+        "sendEmail": "Y",
         "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations.",
         "estSynopsisPostingDate": "Nov 25, 2025 12:00:00 AM EST",
         "estApplicationResponseDate": "Jan 25, 2026 12:00:00 AM EST",
         "estAwardDate": "Sep 01, 2026 12:00:00 AM EDT",
         "estProjectStartDate": "Sep 01, 2026 12:00:00 AM EDT",
         "fiscalYear": 2026,
-        "modComments": "Updated Archive Date",
-        "createTimeStamp": "Jan 20, 2026 06:36:26 PM EST",
+        "modComments": "Updated per NOT-TW-26-002.",
+        "createTimeStamp": "Oct 19, 2026 10:00:54 AM EDT",
         "createdDate": "Sep 15, 2025 06:07:26 AM EDT",
-        "lastUpdatedDate": "Jan 20, 2026 06:36:26 PM EST",
+        "lastUpdatedDate": "Oct 19, 2026 10:00:54 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -234176,24 +234180,28 @@
         },
         "applicantTypes": [
           {
-            "id": "00",
-            "description": "State governments"
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
           },
           {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+            "id": "00",
+            "description": "State governments"
           },
           {
             "id": "07",
             "description": "Native American tribal governments (Federally recognized)"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "01",
             "description": "County governments"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "04",
@@ -234204,28 +234212,16 @@
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
           },
           {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
-            "id": "02",
-            "description": "City or township governments"
+            "id": "05",
+            "description": "Independent school districts"
           },
           {
             "id": "06",
@@ -234234,6 +234230,14 @@
           {
             "id": "13",
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
           }
         ],
         "fundingInstruments": [
@@ -234254,27 +234258,27 @@
         "estApplicationResponseDateStr": "2026-01-25-00-00-00",
         "estAwardDateStr": "2026-09-01-00-00-00",
         "estProjectStartDateStr": "2026-09-01-00-00-00",
-        "createTimeStampStr": "2026-01-20-18-36-26"
+        "createTimeStampStr": "2026-10-19-10-00-54"
       },
       "synopsisAttachmentFolders": [
         {
-          "id": 78762,
+          "id": 81444,
           "opportunityId": 360581,
-          "folderType": "Full Announcement",
-          "folderName": "Full Announcement",
-          "zipLobSize": 39365,
-          "createdDate": "Jan 20, 2026 06:36:25 PM EST",
-          "lastUpdatedDate": "Jan 20, 2026 06:36:26 PM EST",
+          "folderType": "Revised Full Announcement",
+          "folderName": "Revised Full Announcement",
+          "zipLobSize": 43945,
+          "createdDate": "Oct 19, 2026 10:00:53 AM EDT",
+          "lastUpdatedDate": "Oct 19, 2026 10:00:54 AM EDT",
           "synopsisAttachments": [
             {
-              "id": 350089,
+              "id": 355301,
               "opportunityId": 360581,
               "mimeType": "text/html;charset=UTF-8",
-              "fileName": "PA-26-002-Full-Announcement.html",
-              "fileDescription": "PA-26-002-Full-Announcement.html",
-              "fileLobSize": 220464,
-              "createdDate": "Jan 20, 2026 06:36:26 PM EST",
-              "synopsisAttFolderId": 78762
+              "fileName": "PA-26-002-Revised-Full-Announcement.html",
+              "fileDescription": "PA-26-002-Revised-Full-Announcement.html",
+              "fileLobSize": 231855,
+              "createdDate": "Oct 19, 2026 10:00:54 AM EDT",
+              "synopsisAttFolderId": 81444
             }
           ]
         }
@@ -234283,10 +234287,232 @@
       "synAttChangeComments": [],
       "cfdas": [
         {
+          "id": 435902,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.113",
+          "programTitle": "Environmental Health"
+        },
+        {
+          "id": 435914,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.121",
+          "programTitle": "Oral Diseases and Disorders Research"
+        },
+        {
+          "id": 435892,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.172",
+          "programTitle": "Human Genome Research"
+        },
+        {
+          "id": 435890,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.173",
+          "programTitle": "Research Related to Deafness and Communication Disorders"
+        },
+        {
+          "id": 435919,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.213",
+          "programTitle": "Research and Training in Complementary and Integrative Health"
+        },
+        {
+          "id": 435906,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.233",
+          "programTitle": "National Center on Sleep Disorders Research"
+        },
+        {
+          "id": 435908,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.242",
+          "programTitle": "Mental Health Research Grants"
+        },
+        {
+          "id": 435922,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.273",
+          "programTitle": "Alcohol Research Programs"
+        },
+        {
+          "id": 435909,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.279",
+          "programTitle": "Drug Use and Addiction Research Programs"
+        },
+        {
+          "id": 435911,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.286",
+          "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "id": 435923,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.307",
+          "programTitle": "Minority Health and Health Disparities Research"
+        },
+        {
           "id": 431089,
           "opportunityId": 360581,
           "cfdaNumber": "93.310",
           "programTitle": "Trans-NIH Research Support"
+        },
+        {
+          "id": 435903,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.313",
+          "programTitle": "NIH Office of Research on Women's Health"
+        },
+        {
+          "id": 435899,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.350",
+          "programTitle": "National Center for Advancing Translational Sciences"
+        },
+        {
+          "id": 435900,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.351",
+          "programTitle": "Research Infrastructure Programs"
+        },
+        {
+          "id": 435918,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.361",
+          "programTitle": "Nursing Research"
+        },
+        {
+          "id": 435889,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.372",
+          "programTitle": "21st Century Cures Act -\tBrain Research through Advancing Innovative Neurotechnologies"
+        },
+        {
+          "id": 435901,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.393",
+          "programTitle": "Cancer Cause and Prevention Research"
+        },
+        {
+          "id": 435891,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.394",
+          "programTitle": "Cancer Detection and Diagnosis Research"
+        },
+        {
+          "id": 435896,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.395",
+          "programTitle": "Cancer Treatment Research"
+        },
+        {
+          "id": 435897,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.396",
+          "programTitle": "Cancer Biology Research"
+        },
+        {
+          "id": 435917,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.397",
+          "programTitle": "Cancer Centers Support Grants"
+        },
+        {
+          "id": 435893,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.398",
+          "programTitle": "Cancer Research Manpower"
+        },
+        {
+          "id": 435894,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.399",
+          "programTitle": "Cancer Control"
+        },
+        {
+          "id": 435916,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.837",
+          "programTitle": "Cardiovascular Diseases Research"
+        },
+        {
+          "id": 435888,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.838",
+          "programTitle": "Lung Diseases Research"
+        },
+        {
+          "id": 435921,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.839",
+          "programTitle": "Blood Diseases and Resources Research"
+        },
+        {
+          "id": 435905,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.840",
+          "programTitle": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+        },
+        {
+          "id": 435910,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.846",
+          "programTitle": "Arthritis, Musculoskeletal and Skin Diseases Research"
+        },
+        {
+          "id": 435895,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.847",
+          "programTitle": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+        },
+        {
+          "id": 435887,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.853",
+          "programTitle": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+          "id": 435904,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.855",
+          "programTitle": "Allergy and Infectious Diseases Research"
+        },
+        {
+          "id": 435907,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.859",
+          "programTitle": "Biomedical Research and Research Training"
+        },
+        {
+          "id": 435898,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.865",
+          "programTitle": "Child Health and Human Development Extramural Research"
+        },
+        {
+          "id": 435920,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.866",
+          "programTitle": "Aging Research"
+        },
+        {
+          "id": 435912,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.867",
+          "programTitle": "Vision Research"
+        },
+        {
+          "id": 435913,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.879",
+          "programTitle": "Medical Library Assistance"
+        },
+        {
+          "id": 435915,
+          "opportunityId": 360581,
+          "cfdaNumber": "93.989",
+          "programTitle": "International Research and Research Training"
         },
         {
           "id": 431782,
@@ -234345,64 +234571,64 @@
             },
             "applicantTypes": [
               {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
                 "id": "06",
                 "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
               },
               {
                 "id": "11",
                 "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
               },
               {
                 "id": "23",
                 "description": "Small businesses"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
                 "id": "04",
                 "description": "Special district governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
               },
               {
                 "id": "07",
                 "description": "Native American tribal governments (Federally recognized)"
               },
               {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
                 "id": "25",
                 "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -234428,12 +234654,695 @@
             {
               "id": 431089,
               "opportunityId": 360581,
-              "revision": 0,
+              "revision": 3,
               "cfdaNumber": "93.310",
               "programTitle": "Trans-NIH Research Support"
             }
           ],
           "synopsisModifiedFields": [],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 360581,
+            "revision": 2
+          },
+          "opportunityId": 360581,
+          "revision": 2,
+          "opportunityNumber": "PA-26-002",
+          "opportunityTitle": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "85078824959489933389587371192040018034",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 360581,
+              "revision": 2
+            },
+            "opportunityId": 360581,
+            "revision": 2,
+            "version": 1,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "operasystemspolicy@mail.nih.gov",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "NIH Office of Policy for Extramural Research Administration (OPERA)\noperasystemspolicy@mail.nih.gov",
+            "agencyContactEmail": "operasystemspolicy@mail.nih.gov",
+            "agencyContactEmailDesc": "operasystemspolicy@mail.nih.gov",
+            "synopsisDesc": "The National Institutes of Health (NIH) seeks to advance its mission by maintaining strong, productive, and secure international research collaborations in support of the NIH mission. The NIH Collaborative International Research Project (Parent Announcement) supports international research collaborations. This opportunity specifically implements an award structure of prime domestic awards with independent foreign awards that are linked to the prime. This structure provides NIH with oversight capacity for international collaborations, and allows NIH to track international funding, as identified in NOT-OD-25-104. This funding opportunity is specifically designed for NIH to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward. All collaborative international research project applications must include at least 1 international subproject. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes, Centers and Offices (ICOs) based on their scientific missions. The application will be evaluated as a whole, and the international subproject(s) will be evaluated on whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions in other countries that are not readily available in the United States or that augment existing United States resources, and whether the proposed project has specific relevance to the mission and objectives of the ICO and has the potential for significantly advancing the health sciences in the United States.",
+            "responseDate": "May 07, 2029 12:00:00 AM EDT",
+            "postingDate": "Jan 20, 2026 12:00:00 AM EST",
+            "archiveDate": "Jul 09, 2029 12:00:00 AM EDT",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility. Foreign Organizations/International CollaborationsNon-domestic (non-U.S.) Entities (Foreign Organization) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are allowed.One or more International Project is required.This funding opportunity is specifically designed to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for projects in which the only international elements are foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward.",
+            "createTimeStamp": "Jan 20, 2026 06:36:26 PM EST",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 10:00:47 AM EDT",
+            "createdDate": "Jan 20, 2026 06:36:14 PM EST",
+            "lastUpdatedDate": "Jan 20, 2026 06:36:14 PM EST",
+            "applicantTypes": [
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "responseDateStr": "2029-05-07-00-00-00",
+            "postingDateStr": "2026-01-20-00-00-00",
+            "archiveDateStr": "2029-07-09-00-00-00",
+            "createTimeStampStr": "2026-01-20-18-36-26"
+          },
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 360581,
+              "revision": 2
+            },
+            "opportunityId": 360581,
+            "revision": 2,
+            "version": 2,
+            "postingDate": "Sep 15, 2025 12:00:00 AM EDT",
+            "archiveDate": "Jan 19, 2026 12:00:00 AM EST",
+            "forecastDesc": "<p>The National Institutes of Health (NIH) seeks to advance its mission by maintaining strong, productive, and secure international research collaborations in support of the NIH mission. The NIH Collaborative International Research Project (Parent Announcement) supports international research collaborations. This opportunity specifically implements an award structure of prime domestic awards with independent foreign awards that are linked to the prime. This structure provides NIH with oversight capacity for international collaborations, and allows NIH to track international funding, as identified in&nbsp;<a href=\"https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-104.html\">NOT-OD-25-104</a>.&nbsp;</p><p>All collaborative international research project applications must include at least 1 international subproject. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes, Centers and Offices (ICOs) based on their scientific missions. The application will be evaluated as a whole, and the international subproject(s) will be evaluated on whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions in other countries that are not readily available in the United States or that augment existing United States resources, and whether the proposed project has specific relevance to the mission and objectives of the ICO and has the potential for significantly advancing the health sciences in the United States. Grant authorities that allow NIH to forecast this opportunity are as follows: 42 U.S.C 241 and 284.</p>",
+            "costSharing": false,
+            "agencyContactName": "NIH Office of Policy for Extramural Research Administration (OPERA)",
+            "agencyContactPhone": "Please contact via e-mail.",
+            "agencyContactEmail": "OPERAleadership@mail.nih.gov",
+            "agencyContactEmailDesc": "OPERAleadership@mail.nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations.",
+            "estSynopsisPostingDate": "Nov 25, 2025 12:00:00 AM EST",
+            "estApplicationResponseDate": "Jan 25, 2026 12:00:00 AM EST",
+            "estAwardDate": "Sep 01, 2026 12:00:00 AM EDT",
+            "estProjectStartDate": "Sep 01, 2026 12:00:00 AM EDT",
+            "fiscalYear": 2026,
+            "modComments": "Updated Archive Date",
+            "createTimeStamp": "Jan 20, 2026 06:36:26 PM EST",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 10:00:47 AM EDT",
+            "createdDate": "Sep 15, 2025 06:07:26 AM EDT",
+            "lastUpdatedDate": "Jan 20, 2026 06:36:26 PM EST",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "applicantTypes": [
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2025-09-15-00-00-00",
+            "archiveDateStr": "2026-01-19-00-00-00",
+            "estSynopsisPostingDateStr": "2025-11-25-00-00-00",
+            "estApplicationResponseDateStr": "2026-01-25-00-00-00",
+            "estAwardDateStr": "2026-09-01-00-00-00",
+            "estProjectStartDateStr": "2026-09-01-00-00-00",
+            "createTimeStampStr": "2026-01-20-18-36-26"
+          },
+          "cfdas": [
+            {
+              "id": 431089,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            },
+            {
+              "id": 431782,
+              "opportunityId": 360581,
+              "revision": 3
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "archiveDate",
+            "modComments",
+            "createTimeStamp"
+          ]
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 360581,
+            "revision": 3
+          },
+          "opportunityId": 360581,
+          "revision": 3,
+          "opportunityNumber": "PA-26-002",
+          "opportunityTitle": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "1643657692",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated per NOT-TW-26-002.",
+          "synopsis": {
+            "id": {
+              "opportunityId": 360581,
+              "revision": 3
+            },
+            "opportunityId": 360581,
+            "revision": 3,
+            "version": 2,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "operasystemspolicy@mail.nih.gov",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "NIH Office of Policy for Extramural Research Administration (OPERA)\noperasystemspolicy@mail.nih.gov",
+            "agencyContactEmail": "operasystemspolicy@mail.nih.gov",
+            "agencyContactEmailDesc": "operasystemspolicy@mail.nih.gov",
+            "synopsisDesc": "The National Institutes of Health (NIH) seeks to advance its mission by maintaining strong, productive, and secure international research collaborations in support of the NIH mission. The NIH Collaborative International Research Project (Parent Announcement) supports international research collaborations. This opportunity specifically implements an award structure of prime domestic awards with independent foreign awards that are linked to the prime. This structure provides NIH with oversight capacity for international collaborations, and allows NIH to track international funding, as identified in NOT-OD-25-104. This funding opportunity is specifically designed for NIH to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward. All collaborative international research project applications must include at least 1 international subproject. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes, Centers and Offices (ICOs) based on their scientific missions. The application will be evaluated as a whole, and the international subproject(s) will be evaluated on whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions in other countries that are not readily available in the United States or that augment existing United States resources, and whether the proposed project has specific relevance to the mission and objectives of the ICO and has the potential for significantly advancing the health sciences in the United States.",
+            "responseDate": "May 07, 2029 12:00:00 AM EDT",
+            "postingDate": "Jan 20, 2026 12:00:00 AM EST",
+            "archiveDate": "Jul 09, 2029 12:00:00 AM EDT",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility. Foreign Organizations/International CollaborationsNon-domestic (non-U.S.) Entities (Foreign Organization) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are allowed.One or more International Project is required.This funding opportunity is specifically designed to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for projects in which the only international elements are foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward.",
+            "createTimeStamp": "Oct 19, 2026 10:00:47 AM EDT",
+            "sendEmail": "Y",
+            "modComments": "Updated per NOT-TW-26-002.",
+            "actionType": "U",
+            "actionDate": "Oct 19, 2026 10:00:47 AM EDT",
+            "createdDate": "Jan 20, 2026 06:36:14 PM EST",
+            "lastUpdatedDate": "Oct 19, 2026 10:00:47 AM EDT",
+            "applicantTypes": [
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "responseDateStr": "2029-05-07-00-00-00",
+            "postingDateStr": "2026-01-20-00-00-00",
+            "archiveDateStr": "2029-07-09-00-00-00",
+            "createTimeStampStr": "2026-10-19-10-00-47"
+          },
+          "cfdas": [
+            {
+              "id": 435902,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.113",
+              "programTitle": "Environmental Health"
+            },
+            {
+              "id": 435914,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.121",
+              "programTitle": "Oral Diseases and Disorders Research"
+            },
+            {
+              "id": 435892,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.172",
+              "programTitle": "Human Genome Research"
+            },
+            {
+              "id": 435890,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.173",
+              "programTitle": "Research Related to Deafness and Communication Disorders"
+            },
+            {
+              "id": 435919,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.213",
+              "programTitle": "Research and Training in Complementary and Integrative Health"
+            },
+            {
+              "id": 435906,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.233",
+              "programTitle": "National Center on Sleep Disorders Research"
+            },
+            {
+              "id": 435908,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.242",
+              "programTitle": "Mental Health Research Grants"
+            },
+            {
+              "id": 435922,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.273",
+              "programTitle": "Alcohol Research Programs"
+            },
+            {
+              "id": 435909,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 435911,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.286",
+              "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+            },
+            {
+              "id": 435923,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.307",
+              "programTitle": "Minority Health and Health Disparities Research"
+            },
+            {
+              "id": 431089,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            },
+            {
+              "id": 435903,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.313",
+              "programTitle": "NIH Office of Research on Women's Health"
+            },
+            {
+              "id": 435899,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.350",
+              "programTitle": "National Center for Advancing Translational Sciences"
+            },
+            {
+              "id": 435900,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.351",
+              "programTitle": "Research Infrastructure Programs"
+            },
+            {
+              "id": 435918,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.361",
+              "programTitle": "Nursing Research"
+            },
+            {
+              "id": 435889,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.372",
+              "programTitle": "21st Century Cures Act -\tBrain Research through Advancing Innovative Neurotechnologies"
+            },
+            {
+              "id": 435901,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.393",
+              "programTitle": "Cancer Cause and Prevention Research"
+            },
+            {
+              "id": 435891,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.394",
+              "programTitle": "Cancer Detection and Diagnosis Research"
+            },
+            {
+              "id": 435896,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.395",
+              "programTitle": "Cancer Treatment Research"
+            },
+            {
+              "id": 435897,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.396",
+              "programTitle": "Cancer Biology Research"
+            },
+            {
+              "id": 435917,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.397",
+              "programTitle": "Cancer Centers Support Grants"
+            },
+            {
+              "id": 435893,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.398",
+              "programTitle": "Cancer Research Manpower"
+            },
+            {
+              "id": 435894,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.399",
+              "programTitle": "Cancer Control"
+            },
+            {
+              "id": 435916,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.837",
+              "programTitle": "Cardiovascular Diseases Research"
+            },
+            {
+              "id": 435888,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.838",
+              "programTitle": "Lung Diseases Research"
+            },
+            {
+              "id": 435921,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.839",
+              "programTitle": "Blood Diseases and Resources Research"
+            },
+            {
+              "id": 435905,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.840",
+              "programTitle": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+            },
+            {
+              "id": 435910,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.846",
+              "programTitle": "Arthritis, Musculoskeletal and Skin Diseases Research"
+            },
+            {
+              "id": 435895,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.847",
+              "programTitle": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+            },
+            {
+              "id": 435887,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.853",
+              "programTitle": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+            },
+            {
+              "id": 435904,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            },
+            {
+              "id": 435907,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.859",
+              "programTitle": "Biomedical Research and Research Training"
+            },
+            {
+              "id": 435898,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.865",
+              "programTitle": "Child Health and Human Development Extramural Research"
+            },
+            {
+              "id": 435920,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.866",
+              "programTitle": "Aging Research"
+            },
+            {
+              "id": 435912,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.867",
+              "programTitle": "Vision Research"
+            },
+            {
+              "id": 435913,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.879",
+              "programTitle": "Medical Library Assistance"
+            },
+            {
+              "id": 435915,
+              "opportunityId": 360581,
+              "revision": 3,
+              "cfdaNumber": "93.989",
+              "programTitle": "International Research and Research Training"
+            },
+            {
+              "id": 431782,
+              "opportunityId": 360581,
+              "revision": 3
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "cfdas",
+            "createTimeStamp"
+          ],
           "forecastModifiedFields": []
         }
       ],
@@ -234482,19 +235391,24 @@
       ],
       "closedOpportunityPkgs": [],
       "originalDueDate": "May 07, 2029 12:00:00 AM EDT",
-      "synopsisModifiedFields": [],
+      "synopsisModifiedFields": [
+        "revision",
+        "version",
+        "synopsisDesc"
+      ],
       "forecastModifiedFields": [
         "revision",
         "version",
-        "archiveDate",
+        "cfdas",
+        "sendEmail",
         "modComments",
         "createTimeStamp"
       ],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "synopsis",
-      "forecastHistCount": 0,
-      "synopsisHistCount": 0,
+      "forecastHistCount": 2,
+      "synopsisHistCount": 2,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
@@ -450591,6 +451505,839 @@
           "opportunityId": 355646,
           "cfdaNumber": "93.695",
           "programTitle": "Health Equity Data Access Program"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
+    }
+  },
+  "364112": {
+    "checked_at": "2026-10-19T15:29:26+00:00",
+    "listing_signature": "d108b098d33a591543c8bb92ed49e48d3a250321a505ecc687e666c9eecf61bb",
+    "detail": {
+      "id": 364112,
+      "revision": 0,
+      "opportunityNumber": "HHS-2027-ACL-AOA-ABRC-0012",
+      "opportunityTitle": "National Center on Elder Abuse Resource Center",
+      "owningAgencyCode": "HHS-ACL",
+      "publisherUid": "169918930116264768025318265691950369065",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "ACL",
+        "seed": "HHS-ACL",
+        "agencyName": "Administration for Community Living",
+        "agencyCode": "HHS-ACL",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364112,
+        "version": 1,
+        "postingDate": "Oct 19, 2026 12:00:00 AM EDT",
+        "forecastDesc": "<p>This cooperative agreement is to operate the National Center on Elder Abuse (NCEA) with the purpose to improve national, state, and local communities' preparation to prevent, identify, and intervene in elder abuse, neglect, and exploitation so that older Americans can live with&nbsp;dignity, integrity, and independence. The NCEA achieves this by providing web-based, downloadable, and in-person information, resources, and training to professionals and the public on best practices for preventing and responding to elder abuse, neglect, and exploitation so that professionals and the public are better informed about elder maltreatment, frauds, and scams and are better able to avoid or stop them.</p>",
+        "costSharing": true,
+        "numberOfAwards": "1",
+        "estimatedFunding": "1000000",
+        "awardCeiling": "1000000",
+        "awardFloor": "856250",
+        "fundingDescLinkUrl": "https://acl.gov/grants/open-opportunities",
+        "fundingDescLinkDesc": "https://acl.gov/grants/open-opportunities",
+        "agencyContactName": "Kari Benson",
+        "agencyContactPhone": "202-401-4634",
+        "agencyContactEmail": "AoA.oaa@acl.hhs.gov",
+        "agencyContactEmailDesc": "Government Email",
+        "agencyCode": "HHS-ACL",
+        "applicantEligibilityDesc": "No entities are eligible for this award, only individuals are eligible to apply. If you are a non-USA citizen, you must provide documentation that you are eligible to receive research funding directly from an agency of the United States government. Faith-based and community organizations that meet the eligibility requirements are eligible to receive awards under this funding opportunity announcement.",
+        "estSynopsisPostingDate": "Mar 15, 2027 12:00:00 AM EDT",
+        "estApplicationResponseDate": "May 17, 2027 12:00:00 AM EDT",
+        "estAwardDate": "Sep 01, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Sep 01, 2027 12:00:00 AM EDT",
+        "fiscalYear": 2027,
+        "createTimeStamp": "Oct 19, 2026 09:50:07 AM EDT",
+        "createdDate": "Oct 19, 2026 09:50:07 AM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 09:50:07 AM EDT",
+        "agencyDetails": {
+          "code": "ACL",
+          "seed": "HHS-ACL",
+          "agencyName": "Administration for Community Living",
+          "agencyCode": "HHS-ACL",
+          "topAgencyCode": "HHS"
+        },
+        "estimatedFundingFormatted": "1,000,000",
+        "awardCeilingFormatted": "1,000,000",
+        "awardFloorFormatted": "856,250",
+        "applicantTypes": [
+          {
+            "id": "99",
+            "description": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ISS",
+            "description": "Income Security and Social Services"
+          }
+        ],
+        "postingDateStr": "2026-10-19-00-00-00",
+        "estSynopsisPostingDateStr": "2027-03-15-00-00-00",
+        "estApplicationResponseDateStr": "2027-05-17-00-00-00",
+        "estAwardDateStr": "2027-09-01-00-00-00",
+        "estProjectStartDateStr": "2027-09-01-00-00-00",
+        "createTimeStampStr": "2026-10-19-09-50-07"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435877,
+          "opportunityId": 364112,
+          "cfdaNumber": "93.048",
+          "programTitle": "Special Programs for the Aging, Title IV, and Title II, Discretionary Projects"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
+    }
+  },
+  "364113": {
+    "checked_at": "2026-10-19T15:29:27+00:00",
+    "listing_signature": "f8dac49f6dca956cb51a0b216a6c0aa33cd39a0e912342d0d06775f13dc588c8",
+    "detail": {
+      "id": 364113,
+      "revision": 0,
+      "opportunityNumber": "HHS-2027-ACL-AOA-ADPI-0008",
+      "opportunityTitle": "Alzheimer's Disease Programs Initiative (ADPI) - States and Community Grants",
+      "owningAgencyCode": "HHS-ACL",
+      "publisherUid": "169918930116264768025318265691950369065",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "ACL",
+        "seed": "HHS-ACL",
+        "agencyName": "Administration for Community Living",
+        "agencyCode": "HHS-ACL",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364113,
+        "version": 1,
+        "postingDate": "Oct 19, 2026 12:00:00 AM EDT",
+        "archiveDate": "Jul 30, 2034 12:00:00 AM EDT",
+        "forecastDesc": "<p>Cooperative agreements under the Alzheimer's Disease Programs Initiative (ADPI): State and Community Grants Notice of Funding Opportunity (NOFO), are intended to support and promote the development and expansion of dementia-capable home and community-based service (HCBS) systems in&nbsp;States and Communities. There are two application options contained in this single NOFO:&nbsp;Grants to States (Option A) and&nbsp;Grants to Communities (Option B). No entity is eligible to apply for both State and Community options and no entity is eligible to hold more than one ADPI State or Community grant at a time. The dementia-capable systems resulting from program activities under either option are expected to provide quality, strengths-based services and supports that help people living with dementia and their caregivers remain independent and safe in their communities.</p><p>OPTION A: Grants to States<br>Applicants for&nbsp;Option A (36 month cooperative agreements) are the governmental entities within states and territories designated as the state agency for dementia-capability and that have working relationships with their state agencies that enable creating and sustaining a dementia- capable HCBS System.&nbsp;Option A has two required objectives, the first of which is the creation, expansion and sustainability of a dementia-capable state HCBS system that includes Single Entry Point/No Wrong Door (SEP/NWD) access for people living with dementia (PLWD) and their family caregivers. The second objective is to ensure access to a comprehensive, sustainable set of quality state HCBS that are dementia-capable and provide innovative services to PLWD and their caregivers.</p><p>States and territories eligible for&nbsp;Option A are those that do not have active ACL ADPI State dementia-capability grants. All states without active grants are eligible to apply, however those states that have not benefited from ADPI/ADI-SSS/ADSSP grants since before 2014 will be given priority consideration in the post-review decision-making process.</p><p>OPTION B: Grants to Communities<br>Cooperative agreements under&nbsp;Option B (36 month cooperative agreements) are available to private and/or public community-based organizations (CBO) that are able to: 1) demonstrate their operation within an&nbsp;existing dementia-capable HCBS system dedicated to the population that they serve; and 2) articulate opportunities and additional services in the targeted gap areas that would expand and strengthen the existing system within which they are currently operating.</p><p>Option B cooperative agreements are designed to support existing community-based HCBS providers in expanding the systems within which they currently operate by addressing three specific service gaps in dementia-capable HCBS for people living with Alzheimer's disease and related dementias (ADRD) and their caregivers.</p><p>Option B applicants must address each of the following three gap areas:</p><p>1) Provision of effective supportive services to persons living alone with ADRD in the community; 2) Improvement of the quality and effectiveness of programs and services dedicated to individuals aging with intellectual and developmental disabilities with ADRD or those at high risk of developing ADRD; and 3) Delivery of behavioral symptom management training and expert consultations for family caregivers.<br>Community-based organizations are only eligible to hold one ADPI grant at a time. All existing community-based organizations that are dementia-capable home and community-based service providers, without active ADPI grants, are eligible to apply. Eligible HCBS providers that have not benefited from ADI-SSS and ADPI grant programs since before 2014 will be given priority consideration in the post-review decision-making process.</p>",
+        "costSharing": true,
+        "numberOfAwards": "17",
+        "estimatedFunding": "15000000",
+        "awardCeiling": "1000000",
+        "awardFloor": "850000",
+        "fundingDescLinkUrl": "https://acl.gov/grants/open-opportunities",
+        "fundingDescLinkDesc": "https://acl.gov/grants/open-opportunities",
+        "agencyContactName": "Kari Benson",
+        "agencyContactPhone": "202-795-7436",
+        "agencyContactEmail": "AoA.OAA@acl.hhs.gov",
+        "agencyContactEmailDesc": "Government Email",
+        "agencyCode": "HHS-ACL",
+        "estSynopsisPostingDate": "Mar 01, 2027 12:00:00 AM EST",
+        "estApplicationResponseDate": "Mar 03, 2027 12:00:00 AM EST",
+        "estAwardDate": "Jul 30, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Jul 30, 2027 12:00:00 AM EDT",
+        "fiscalYear": 2027,
+        "createTimeStamp": "Oct 19, 2026 09:50:10 AM EDT",
+        "createdDate": "Oct 19, 2026 09:50:10 AM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 09:50:10 AM EDT",
+        "agencyDetails": {
+          "code": "ACL",
+          "seed": "HHS-ACL",
+          "agencyName": "Administration for Community Living",
+          "agencyCode": "HHS-ACL",
+          "topAgencyCode": "HHS"
+        },
+        "estimatedFundingFormatted": "15,000,000",
+        "awardCeilingFormatted": "1,000,000",
+        "awardFloorFormatted": "850,000",
+        "applicantTypes": [
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ISS",
+            "description": "Income Security and Social Services"
+          }
+        ],
+        "postingDateStr": "2026-10-19-00-00-00",
+        "archiveDateStr": "2034-07-30-00-00-00",
+        "estSynopsisPostingDateStr": "2027-03-01-00-00-00",
+        "estApplicationResponseDateStr": "2027-03-03-00-00-00",
+        "estAwardDateStr": "2027-07-30-00-00-00",
+        "estProjectStartDateStr": "2027-07-30-00-00-00",
+        "createTimeStampStr": "2026-10-19-09-50-10"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435878,
+          "opportunityId": 364113,
+          "cfdaNumber": "93.470",
+          "programTitle": "Alzheimer’s Disease Program Initiative (ADPI)"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
+    }
+  },
+  "364118": {
+    "checked_at": "2026-10-19T15:29:28+00:00",
+    "listing_signature": "b3a2c60836407caa9e93316a9168569ca1c21d7c889637e2c4862ca3c942e654",
+    "detail": {
+      "id": 364118,
+      "revision": 0,
+      "opportunityNumber": "HHS-2027-ACL-AOA-EJIG-0013",
+      "opportunityTitle": "Elder Justice Innovation Grants FY2027",
+      "owningAgencyCode": "HHS-ACL",
+      "publisherUid": "169918930116264768025318265691950369065",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "ACL",
+        "seed": "HHS-ACL",
+        "agencyName": "Administration for Community Living",
+        "agencyCode": "HHS-ACL",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364118,
+        "version": 1,
+        "postingDate": "Oct 19, 2026 12:00:00 AM EDT",
+        "forecastDesc": "<p>The purpose of the EJIG program is to support the development and advancement of new and emerging approaches to issues related to elder justice. &nbsp;Funded projects will contribute to the improvement of the field of elder abuse prevention and intervention by developing materials, programs, etc. that can be widely disseminated and/or replicated, or by establishing and/or contributing to the evidence-base of knowledge. &nbsp;</p>",
+        "costSharing": true,
+        "numberOfAwards": "10",
+        "estimatedFunding": "3500000",
+        "awardCeiling": "500000",
+        "awardFloor": "250000",
+        "fundingDescLinkUrl": "https://acl.gov/grants/open-opportunities",
+        "fundingDescLinkDesc": "https://acl.gov/grants/open-opportunities",
+        "agencyContactName": "Kari Benson",
+        "agencyContactPhone": "202-401-4634",
+        "agencyContactEmail": "AoA.oaa@acl.hhs.gov",
+        "agencyContactEmailDesc": "Government Email",
+        "agencyCode": "HHS-ACL",
+        "applicantEligibilityDesc": "Foreign entities are not eligible to compete for, or receive, awards made under this announcement. Faith-based and community organizations that meet the eligibility requirements are eligible to receive awards under this funding opportunity announcement.",
+        "estSynopsisPostingDate": "Mar 15, 2027 12:00:00 AM EDT",
+        "estApplicationResponseDate": "May 17, 2027 12:00:00 AM EDT",
+        "estAwardDate": "Aug 18, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Sep 01, 2027 12:00:00 AM EDT",
+        "fiscalYear": 2027,
+        "createTimeStamp": "Oct 19, 2026 09:50:23 AM EDT",
+        "createdDate": "Oct 19, 2026 09:50:23 AM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 09:50:23 AM EDT",
+        "agencyDetails": {
+          "code": "ACL",
+          "seed": "HHS-ACL",
+          "agencyName": "Administration for Community Living",
+          "agencyCode": "HHS-ACL",
+          "topAgencyCode": "HHS"
+        },
+        "estimatedFundingFormatted": "3,500,000",
+        "awardCeilingFormatted": "500,000",
+        "awardFloorFormatted": "250,000",
+        "applicantTypes": [
+          {
+            "id": "99",
+            "description": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ISS",
+            "description": "Income Security and Social Services"
+          }
+        ],
+        "postingDateStr": "2026-10-19-00-00-00",
+        "estSynopsisPostingDateStr": "2027-03-15-00-00-00",
+        "estApplicationResponseDateStr": "2027-05-17-00-00-00",
+        "estAwardDateStr": "2027-08-18-00-00-00",
+        "estProjectStartDateStr": "2027-09-01-00-00-00",
+        "createTimeStampStr": "2026-10-19-09-50-23"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435883,
+          "opportunityId": 364118,
+          "cfdaNumber": "93.747",
+          "programTitle": "Elder Abuse Prevention Interventions Program"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
+    }
+  },
+  "364119": {
+    "checked_at": "2026-10-19T15:29:29+00:00",
+    "listing_signature": "b19d241ae69d2c0b2203f62625a2294f916787a40536a192486a74497b3cc94d",
+    "detail": {
+      "id": 364119,
+      "revision": 0,
+      "opportunityNumber": "HHS-2027-ACL-AOA-EJRC-0015",
+      "opportunityTitle": "National Adult Protective Services Training Center",
+      "owningAgencyCode": "HHS-ACL",
+      "publisherUid": "169918930116264768025318265691950369065",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "ACL",
+        "seed": "HHS-ACL",
+        "agencyName": "Administration for Community Living",
+        "agencyCode": "HHS-ACL",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364119,
+        "version": 1,
+        "postingDate": "Oct 19, 2026 12:00:00 AM EDT",
+        "forecastDesc": "<p>This funding opportunity will award one cooperative agreement to operate a National APS Training Center (NATC) to build the capacity of adult protective services professionals and improving the organizations that recruit, train, supervise, manage, and retain them, with the goal of improving the safety and well-being of those experiencing adult maltreatment. The NATC will create various modes of on-line learning and deliver via a web-baed learning management system training for APS workers that promote evidence-informed practice, support leadership development, and improve APS agency organization, culture and climate.&nbsp;</p>",
+        "costSharing": true,
+        "numberOfAwards": "1",
+        "estimatedFunding": "1250000",
+        "awardCeiling": "1250000",
+        "awardFloor": "1000000",
+        "fundingDescLinkUrl": "https://acl.gov/grants/open-opportunities",
+        "fundingDescLinkDesc": "https://acl.gov/grants/open-opportunities",
+        "agencyContactName": "Kari Benson",
+        "agencyContactPhone": "202-401-4634",
+        "agencyContactEmail": "AoA.oaa@acl.hhs.gov",
+        "agencyContactEmailDesc": "Government Email",
+        "agencyCode": "HHS-ACL",
+        "applicantEligibilityDesc": "No entities are eligible for this award, only individuals are eligible to apply. If you are a non-USA citizen, you must provide documentation that you are eligible to receive research funding directly from an agency of the United States government. Faith-based and community organizations that meet the eligibility requirements are eligible to receive awards under this funding opportunity announcement.",
+        "estSynopsisPostingDate": "Mar 15, 2027 12:00:00 AM EDT",
+        "estApplicationResponseDate": "May 17, 2027 12:00:00 AM EDT",
+        "estAwardDate": "Aug 08, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Sep 01, 2027 12:00:00 AM EDT",
+        "fiscalYear": 2027,
+        "createTimeStamp": "Oct 19, 2026 09:50:26 AM EDT",
+        "createdDate": "Oct 19, 2026 09:50:26 AM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 09:50:26 AM EDT",
+        "agencyDetails": {
+          "code": "ACL",
+          "seed": "HHS-ACL",
+          "agencyName": "Administration for Community Living",
+          "agencyCode": "HHS-ACL",
+          "topAgencyCode": "HHS"
+        },
+        "estimatedFundingFormatted": "1,250,000",
+        "awardCeilingFormatted": "1,250,000",
+        "awardFloorFormatted": "1,000,000",
+        "applicantTypes": [
+          {
+            "id": "99",
+            "description": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ISS",
+            "description": "Income Security and Social Services"
+          }
+        ],
+        "postingDateStr": "2026-10-19-00-00-00",
+        "estSynopsisPostingDateStr": "2027-03-15-00-00-00",
+        "estApplicationResponseDateStr": "2027-05-17-00-00-00",
+        "estAwardDateStr": "2027-08-08-00-00-00",
+        "estProjectStartDateStr": "2027-09-01-00-00-00",
+        "createTimeStampStr": "2026-10-19-09-50-26"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435884,
+          "opportunityId": 364119,
+          "cfdaNumber": "93.747",
+          "programTitle": "Elder Abuse Prevention Interventions Program"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
+    }
+  },
+  "364120": {
+    "checked_at": "2026-10-19T15:29:30+00:00",
+    "listing_signature": "47b369e485834109bde94b044169b095e529379b9b8ea26b1f990abede6b99ce",
+    "detail": {
+      "id": 364120,
+      "revision": 0,
+      "opportunityNumber": "HHS-2027-ACL-AOA-INNU-0014",
+      "opportunityTitle": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
+      "owningAgencyCode": "HHS-ACL",
+      "publisherUid": "169918930116264768025318265691950369065",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "ACL",
+        "seed": "HHS-ACL",
+        "agencyName": "Administration for Community Living",
+        "agencyCode": "HHS-ACL",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364120,
+        "version": 1,
+        "postingDate": "Oct 19, 2026 12:00:00 AM EDT",
+        "forecastDesc": "<p>The purpose of this Notice of Funding Opportunity is to support innovative, community-based nutrition and healthy aging models that improve the health, well-being, and quality of life of participants in the Older Americans Act (OAA) Senior Nutrition Program. Projects are expected to develop, implement, and evaluate promising approaches that strengthen nutrition services through community partnerships, increase access to healthy foods, promote healthy aging and chronic disease prevention, and develop practical resources and best practices that can be replicated throughout the Aging Network to enhance the effectiveness and sustainability of senior nutrition programs nationwide.</p>",
+        "costSharing": true,
+        "numberOfAwards": "5",
+        "estimatedFunding": "2197600",
+        "awardCeiling": "439520",
+        "awardFloor": "400000",
+        "fundingDescLinkUrl": "https://acl.gov/grants/open-opportunities",
+        "fundingDescLinkDesc": "https://acl.gov/grants/open-opportunities",
+        "agencyContactName": "Kari Benson",
+        "agencyContactPhone": "202-401-4634",
+        "agencyContactEmail": "AoA.OAA@acl.hhs.gov",
+        "agencyContactEmailDesc": "Government Email",
+        "agencyCode": "HHS-ACL",
+        "applicantEligibilityDesc": "Foreign entities are not eligible to compete for, or receive, awards made under this announcement. Faith-based and community organizations that meet the eligibility requirements are eligible to receive awards under this funding opportunity announcement.",
+        "estSynopsisPostingDate": "Mar 01, 2027 12:00:00 AM EST",
+        "estApplicationResponseDate": "Apr 30, 2027 12:00:00 AM EDT",
+        "estAwardDate": "Jun 01, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Jun 01, 2027 12:00:00 AM EDT",
+        "fiscalYear": 2027,
+        "createTimeStamp": "Oct 19, 2026 09:50:28 AM EDT",
+        "createdDate": "Oct 19, 2026 09:50:28 AM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 09:50:28 AM EDT",
+        "agencyDetails": {
+          "code": "ACL",
+          "seed": "HHS-ACL",
+          "agencyName": "Administration for Community Living",
+          "agencyCode": "HHS-ACL",
+          "topAgencyCode": "HHS"
+        },
+        "estimatedFundingFormatted": "2,197,600",
+        "awardCeilingFormatted": "439,520",
+        "awardFloorFormatted": "400,000",
+        "applicantTypes": [
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "postingDateStr": "2026-10-19-00-00-00",
+        "estSynopsisPostingDateStr": "2027-03-01-00-00-00",
+        "estApplicationResponseDateStr": "2027-04-30-00-00-00",
+        "estAwardDateStr": "2027-06-01-00-00-00",
+        "estProjectStartDateStr": "2027-06-01-00-00-00",
+        "createTimeStampStr": "2026-10-19-09-50-28"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435885,
+          "opportunityId": 364120,
+          "cfdaNumber": "93.045",
+          "programTitle": "Special Programs for the Aging, Title III, Part C, Nutrition Services"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
+    }
+  },
+  "364121": {
+    "checked_at": "2026-10-19T15:29:31+00:00",
+    "listing_signature": "dcabad7298b426992d1338d40c73d84e9b1f9a32be034be2bd5162e3dc2a9123",
+    "detail": {
+      "id": 364121,
+      "revision": 0,
+      "opportunityNumber": "HHS-2027-ACL-CIP-NWGV-0005",
+      "opportunityTitle": "No Wrong Door System Modernization: Connecting People to Services",
+      "owningAgencyCode": "HHS-ACL",
+      "publisherUid": "169918930116264768025318265691950369065",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "ACL",
+        "seed": "HHS-ACL",
+        "agencyName": "Administration for Community Living",
+        "agencyCode": "HHS-ACL",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364121,
+        "version": 1,
+        "postingDate": "Oct 19, 2026 12:00:00 AM EDT",
+        "forecastDesc": "<p>The purpose of this funding is to support states and territories in advancing and modernizing their No Wrong Door (NWD) systems through innovative approaches that improve access to services and supports that enable community living. This anticipated opportunity supports ACL's strategic priority to connect people to services by strengthening statewide systems that allow older adults, people with disabilities, family caregivers, and others to easily identify, access, and navigate the services and supports that best meet their needs.</p><p>No Wrong Door systems play a critical role in providing person-centered access to information, counseling, eligibility support, and coordinated connections to public and private services. As the demand for services supports continues to grow, states have opportunities to strengthen these systems through innovation, strategic partnerships, and emerging technologies including artifical intelligence that improve access, coordination, and the consumer experience while maintaining person-centered practices. A key objective of this anticipated funding opportunity is to build evidence regarding effective approaches for improving access to services.&nbsp;</p>",
+        "costSharing": false,
+        "numberOfAwards": "10",
+        "estimatedFunding": "4500000",
+        "awardCeiling": "450000",
+        "awardFloor": "450000",
+        "fundingDescLinkUrl": "https://acl.gov/grants/open-opportunities",
+        "fundingDescLinkDesc": "https://acl.gov/grants/open-opportunities",
+        "agencyContactName": "Kasey Knopp",
+        "agencyContactPhone": "202-795-7630",
+        "agencyContactEmail": "kasey.knopp@acl.hhs.gov",
+        "agencyContactEmailDesc": "Government Email",
+        "agencyCode": "HHS-ACL",
+        "applicantEligibilityDesc": "Foreign entities are not eligible to compete for, or receive, awards made under this announcement. Faith-based and community organizations that meet the eligibility requirements are eligible to receive awards under this funding opportunity announcement.",
+        "estSynopsisPostingDate": "Jan 17, 2027 12:00:00 AM EST",
+        "estApplicationResponseDate": "Mar 18, 2027 12:00:00 AM EDT",
+        "estAwardDate": "Aug 01, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Aug 01, 2027 12:00:00 AM EDT",
+        "fiscalYear": 2027,
+        "createTimeStamp": "Oct 19, 2026 09:50:31 AM EDT",
+        "createdDate": "Oct 19, 2026 09:50:31 AM EDT",
+        "lastUpdatedDate": "Oct 19, 2026 09:50:31 AM EDT",
+        "agencyDetails": {
+          "code": "ACL",
+          "seed": "HHS-ACL",
+          "agencyName": "Administration for Community Living",
+          "agencyCode": "HHS-ACL",
+          "topAgencyCode": "HHS"
+        },
+        "estimatedFundingFormatted": "4,500,000",
+        "awardCeilingFormatted": "450,000",
+        "awardFloorFormatted": "450,000",
+        "applicantTypes": [
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "postingDateStr": "2026-10-19-00-00-00",
+        "estSynopsisPostingDateStr": "2027-01-17-00-00-00",
+        "estApplicationResponseDateStr": "2027-03-18-00-00-00",
+        "estAwardDateStr": "2027-08-01-00-00-00",
+        "estProjectStartDateStr": "2027-08-01-00-00-00",
+        "createTimeStampStr": "2026-10-19-09-50-31"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435886,
+          "opportunityId": 364121,
+          "cfdaNumber": "93.048",
+          "programTitle": "Special Programs for the Aging, Title IV, and Title II, Discretionary Projects"
         }
       ],
       "opportunityHistoryDetails": [],

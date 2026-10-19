@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T12:42:46+00:00",
+  "checked_at": "2026-10-19T15:29:33+00:00",
   "complete": true,
   "records": [
     {
@@ -7245,20 +7245,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.866"
-      ]
-    },
-    {
-      "id": "360581",
-      "number": "PA-26-002",
-      "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/20/2026",
-      "closeDate": "05/07/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
       ]
     },
     {
@@ -15765,6 +15751,141 @@
         "93.681",
         "93.279",
         "93.310"
+      ]
+    },
+    {
+      "id": "364112",
+      "number": "HHS-2027-ACL-AOA-ABRC-0012",
+      "title": "National Center on Elder Abuse Resource Center",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.048"
+      ]
+    },
+    {
+      "id": "364113",
+      "number": "HHS-2027-ACL-AOA-ADPI-0008",
+      "title": "Alzheimer's Disease Programs Initiative (ADPI) - States and Community Grants",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.470"
+      ]
+    },
+    {
+      "id": "364118",
+      "number": "HHS-2027-ACL-AOA-EJIG-0013",
+      "title": "Elder Justice Innovation Grants FY2027",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.747"
+      ]
+    },
+    {
+      "id": "364119",
+      "number": "HHS-2027-ACL-AOA-EJRC-0015",
+      "title": "National Adult Protective Services Training Center",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.747"
+      ]
+    },
+    {
+      "id": "364120",
+      "number": "HHS-2027-ACL-AOA-INNU-0014",
+      "title": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.045"
+      ]
+    },
+    {
+      "id": "364121",
+      "number": "HHS-2027-ACL-CIP-NWGV-0005",
+      "title": "No Wrong Door System Modernization: Connecting People to Services",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.048"
+      ]
+    },
+    {
+      "id": "360581",
+      "number": "PA-26-002",
+      "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "01/20/2026",
+      "closeDate": "05/07/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.213",
+        "93.313",
+        "93.398",
+        "93.396",
+        "93.273",
+        "93.397",
+        "93.853",
+        "93.865",
+        "93.846",
+        "93.286",
+        "93.372",
+        "93.279",
+        "93.113",
+        "93.172",
+        "93.840",
+        "93.307",
+        "93.394",
+        "93.859",
+        "93.233",
+        "93.395",
+        "93.837",
+        "93.121",
+        "93.173",
+        "93.393",
+        "93.351",
+        "93.399",
+        "93.350",
+        "93.839",
+        "93.242",
+        "93.361",
+        "93.879",
+        "93.855",
+        "93.866",
+        "93.867",
+        "93.847",
+        "93.989",
+        "93.310",
+        "93.838"
       ]
     }
   ]
