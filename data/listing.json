@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T15:29:14+00:00",
+  "checked_at": "2026-10-20T18:35:17+00:00",
   "complete": true,
   "records": [
     {
@@ -3073,23 +3073,6 @@
       ]
     },
     {
-      "id": "357542",
-      "number": "PAR-25-025",
-      "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R33 CT Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/05/2024",
-      "closeDate": "01/07/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.838",
-        "93.839",
-        "93.233",
-        "93.837"
-      ]
-    },
-    {
       "id": "356316",
       "number": "PAR-24-272",
       "title": "Clinical and Translational Science Award (UM1 Clinical Trial Optional)",
@@ -3131,24 +3114,6 @@
         "93.393",
         "93.396",
         "93.399"
-      ]
-    },
-    {
-      "id": "357543",
-      "number": "PAR-25-026",
-      "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R61/R33 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/05/2024",
-      "closeDate": "01/07/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.840",
-        "93.233",
-        "93.839",
-        "93.837",
-        "93.838"
       ]
     },
     {
@@ -3715,24 +3680,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.846"
-      ]
-    },
-    {
-      "id": "357800",
-      "number": "PAR-25-032",
-      "title": "NHLBI Clinical Trial Pilot Studies (R34 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/18/2024",
-      "closeDate": "01/07/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.838",
-        "93.840",
-        "93.839",
-        "93.233",
-        "93.837"
       ]
     },
     {
@@ -8920,45 +8867,6 @@
         "93.273",
         "93.840",
         "93.394"
-      ]
-    },
-    {
-      "id": "361159",
-      "number": "PA-27-036",
-      "title": "NIH Research Education Program - Research Experiences (Parent R25 - Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/08/2026",
-      "closeDate": "05/05/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.859",
-        "93.310",
-        "93.853",
-        "93.879",
-        "93.279",
-        "93.173",
-        "93.273",
-        "93.313",
-        "93.837",
-        "93.242",
-        "93.361",
-        "93.840",
-        "93.866",
-        "93.398",
-        "93.839",
-        "93.THR",
-        "93.847",
-        "93.855",
-        "93.865",
-        "93.113",
-        "93.838",
-        "93.172",
-        "93.233",
-        "93.121",
-        "93.867",
-        "93.T21"
       ]
     },
     {
@@ -15596,20 +15504,6 @@
       ]
     },
     {
-      "id": "364098",
-      "number": "20261209-GE-GI-BP-BR-GGX",
-      "title": "Public Humanities Projects",
-      "agencyCode": "NEH",
-      "agency": "National Endowment for the Humanities",
-      "openDate": "10/16/2026",
-      "closeDate": "12/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "45.041"
-      ]
-    },
-    {
       "id": "364112",
       "number": "HHS-2027-ACL-AOA-ABRC-0012",
       "title": "National Center on Elder Abuse Resource Center",
@@ -15753,6 +15647,80 @@
       ]
     },
     {
+      "id": "361208",
+      "number": "RFA-DC-28-002",
+      "title": "Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "03/05/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.173"
+      ]
+    },
+    {
+      "id": "364127",
+      "number": "RFA-HD-28-002",
+      "title": "Prevention and Treatment through a Comprehensive Care Continuum for HIV-affected Adolescents in Resource-Constrained Settings--Implementation Science Network (PATC3H-IN)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.865"
+      ]
+    },
+    {
+      "id": "357800",
+      "number": "PAR-25-032",
+      "title": "NHLBI Clinical Trial Pilot Studies (R34 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "12/18/2024",
+      "closeDate": "03/16/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.838",
+        "93.233",
+        "93.839",
+        "93.840",
+        "93.837"
+      ]
+    },
+    {
+      "id": "364126",
+      "number": "RFA-HD-28-001",
+      "title": "Discovery Gateway to Reproductive Health Innovation",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.865"
+      ]
+    },
+    {
+      "id": "364128",
+      "number": "RFA-HD-28-005",
+      "title": "CAPSTONE Centers for Multidisciplinary Research in Child Abuse and Neglect",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.865"
+      ]
+    },
+    {
       "id": "363920",
       "number": "USDA-NHQ-ACEP-26-NOFO0001456",
       "title": "Easement Restoration and Stewardship",
@@ -15798,20 +15766,6 @@
       ]
     },
     {
-      "id": "361208",
-      "number": "RFA-DC-28-002",
-      "title": "Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/20/2026",
-      "closeDate": "03/05/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.173"
-      ]
-    },
-    {
       "id": "361207",
       "number": "RFA-DC-28-001",
       "title": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
@@ -15823,6 +15777,94 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.173"
+      ]
+    },
+    {
+      "id": "364098",
+      "number": "20261209-GE-GI-BP-BR-GGX",
+      "title": "Public Humanities Projects",
+      "agencyCode": "NEH",
+      "agency": "National Endowment for the Humanities",
+      "openDate": "10/16/2026",
+      "closeDate": "12/16/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "45.041"
+      ]
+    },
+    {
+      "id": "357542",
+      "number": "PAR-25-025",
+      "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R33 CT Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "12/05/2024",
+      "closeDate": "02/03/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.838",
+        "93.233",
+        "93.837",
+        "93.839"
+      ]
+    },
+    {
+      "id": "361159",
+      "number": "PA-27-036",
+      "title": "NIH Research Education Program - Research Experiences (Parent R25 - Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "06/08/2026",
+      "closeDate": "05/05/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.279",
+        "93.853",
+        "93.865",
+        "93.113",
+        "93.840",
+        "93.242",
+        "93.361",
+        "93.859",
+        "93.837",
+        "93.310",
+        "93.398",
+        "93.855",
+        "93.867",
+        "93.T21",
+        "93.313",
+        "93.838",
+        "93.879",
+        "93.121",
+        "93.847",
+        "93.233",
+        "93.172",
+        "93.839",
+        "93.273",
+        "93.866",
+        "93.173",
+        "93.THR"
+      ]
+    },
+    {
+      "id": "357543",
+      "number": "PAR-25-026",
+      "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R61/R33 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "12/05/2024",
+      "closeDate": "02/03/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.840",
+        "93.838",
+        "93.233",
+        "93.837",
+        "93.839"
       ]
     }
   ]
