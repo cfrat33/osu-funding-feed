@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T18:35:17+00:00",
+  "checked_at": "2026-10-20T21:28:27+00:00",
   "complete": true,
   "records": [
     {
@@ -15865,6 +15865,20 @@
         "93.233",
         "93.837",
         "93.839"
+      ]
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "agencyCode": "SBA",
+      "agency": "Small Business Administration",
+      "openDate": "10/20/2026",
+      "closeDate": "11/19/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "59.037"
       ]
     }
   ]

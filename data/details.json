@@ -168003,7 +168003,7 @@
     }
   },
   "359702": {
-    "checked_at": "2026-10-19T18:36:33+00:00",
+    "checked_at": "2026-10-20T21:28:26+00:00",
     "listing_signature": "53d797d215f6bd24eaf4774b345b2bf5b6685cf5cefe276bdda5e62ed9b1739f",
     "detail": {
       "id": 359702,
@@ -168060,40 +168060,16 @@
         "lastUpdatedDate": "Oct 19, 2026 01:58:32 PM EDT",
         "applicantTypes": [
           {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
-          },
-          {
-            "id": "02",
-            "description": "City or township governments"
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
             "id": "06",
             "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "23",
@@ -168104,12 +168080,36 @@
             "description": "Native American tribal governments (Federally recognized)"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
             "id": "01",
             "description": "County governments"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -168176,16 +168176,16 @@
         },
         "applicantTypes": [
           {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           },
           {
             "id": "20",
             "description": "Private institutions of higher education"
           },
           {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
+            "id": "23",
+            "description": "Small businesses"
           },
           {
             "id": "22",
@@ -168418,20 +168418,20 @@
             },
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "23",
@@ -168525,20 +168525,20 @@
             },
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "23",
@@ -168640,20 +168640,20 @@
             },
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "23",
@@ -168752,20 +168752,20 @@
             },
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "23",
@@ -168988,16 +168988,20 @@
             "lastUpdatedDate": "Jun 16, 2026 01:35:46 PM EDT",
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "02",
+                "description": "City or township governments"
               },
               {
-                "id": "01",
-                "description": "County governments"
+                "id": "00",
+                "description": "State governments"
               },
               {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
               },
               {
                 "id": "12",
@@ -169008,36 +169012,32 @@
                 "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "00",
-                "description": "State governments"
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
                 "id": "06",
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "01",
+                "description": "County governments"
               },
               {
                 "id": "23",
                 "description": "Small businesses"
               },
               {
-                "id": "04",
-                "description": "Special district governments"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "02",
-                "description": "City or township governments"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               }
             ],
             "fundingInstruments": [
@@ -169096,20 +169096,20 @@
             },
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "23",
@@ -169335,16 +169335,20 @@
             "lastUpdatedDate": "Oct 19, 2026 01:58:32 PM EDT",
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "02",
+                "description": "City or township governments"
               },
               {
-                "id": "01",
-                "description": "County governments"
+                "id": "00",
+                "description": "State governments"
               },
               {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
               },
               {
                 "id": "12",
@@ -169355,36 +169359,32 @@
                 "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "00",
-                "description": "State governments"
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
                 "id": "06",
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "01",
+                "description": "County governments"
               },
               {
                 "id": "23",
                 "description": "Small businesses"
               },
               {
-                "id": "04",
-                "description": "Special district governments"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "02",
-                "description": "City or township governments"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               }
             ],
             "fundingInstruments": [
@@ -456281,7 +456281,7 @@
     }
   },
   "243973": {
-    "checked_at": "2026-10-19T18:36:32+00:00",
+    "checked_at": "2026-10-20T21:28:25+00:00",
     "listing_signature": "841096a5d3cbd304983c3d16207fcd8eed3e7b3dd7da3603c16d6c8aa9f6a8e7",
     "detail": {
       "id": 243973,
@@ -457286,7 +457286,7 @@
     }
   },
   "364122": {
-    "checked_at": "2026-10-19T21:27:27+00:00",
+    "checked_at": "2026-10-20T21:28:27+00:00",
     "listing_signature": "87fa9dd4c015c75a87ff44dd7e42d85b0b46a8a23131c8f6f357da1249832088",
     "detail": {
       "id": 364122,
@@ -457343,28 +457343,16 @@
         "lastUpdatedDate": "Oct 19, 2026 02:54:58 PM EDT",
         "applicantTypes": [
           {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "00",
+            "description": "State governments"
           },
           {
             "id": "04",
             "description": "Special district governments"
           },
           {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
+            "id": "01",
+            "description": "County governments"
           },
           {
             "id": "25",
@@ -457373,6 +457361,18 @@
           {
             "id": "02",
             "description": "City or township governments"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -458103,6 +458103,169 @@
       "relatedOpps": [],
       "draftMode": "N",
       "ost": "FORECASTED"
+    }
+  },
+  "364132": {
+    "checked_at": "2026-10-20T21:28:24+00:00",
+    "listing_signature": "106a570c5dc5b684a9486faab662b482d668db5b99c76e6f80bce050ca8738b1",
+    "detail": {
+      "id": 364132,
+      "revision": 0,
+      "opportunityNumber": "SB-OEDSB-27-001",
+      "opportunityTitle": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "owningAgencyCode": "SBA",
+      "listed": "L",
+      "publisherUid": "TEdwards1",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 364132,
+        "version": 1,
+        "agencyCode": "SBA",
+        "agencyName": "Benee Edwards\nGrantor",
+        "agencyPhone": "2022723268",
+        "agencyAddressDesc": "Grants.gov Customer Support",
+        "agencyDetails": {
+          "code": "SBA",
+          "seed": "SBA",
+          "agencyName": "Small Business Administration",
+          "agencyCode": "SBA",
+          "topAgencyCode": "SBA"
+        },
+        "topAgencyDetails": {
+          "code": "SBA",
+          "seed": "SBA",
+          "agencyName": "Small Business Administration",
+          "agencyCode": "SBA",
+          "topAgencyCode": "SBA"
+        },
+        "agencyContactPhone": "2022723268",
+        "agencyContactName": "Benee Edwards\nGrantor",
+        "agencyContactDesc": "Ram Basnet",
+        "agencyContactEmail": "Ram.Basnet@sba.gov",
+        "agencyContactEmailDesc": "Grants.gov Customer Support",
+        "synopsisDesc": "<p>Eligible organizations, as defined in Section 3.2, may apply to SBA for an award of financial assistance under this Funding Opportunity to fund an SBDC Program. SBDC Programs deliver professional, high quality, individualized business advising and technical assistance to existing small businesses and pre- venture entrepreneurs. SBDCs shall provide problem solving assistance to help small businesses access capital, develop and exchange new technologies, and improve business planning, strategy, operations, financial management, personnel administration, marketing, export assistance, sales and other areas required for small business growth and expansion, management improvement, increased productivity, and innovation.</p>",
+        "responseDate": "Nov 19, 2026 12:00:00 AM EST",
+        "responseDateDesc": "Post Date Ends",
+        "fundingDescLinkUrl": "The U.S. Small Business Administration (SBA) issues Program Announcement No. SB-OEDSB-27-003 to invite applications from eligible applicants that are public or private institutions of higher education; a land-grant college or university; a college or",
+        "fundingDescLinkDesc": "Grants.gov Customer Support",
+        "postingDate": "Oct 20, 2026 12:00:00 AM EDT",
+        "archiveDate": "Dec 19, 2026 12:00:00 AM EST",
+        "costSharing": true,
+        "numberOfAwards": "1",
+        "awardCeiling": "1144946",
+        "awardCeilingFormatted": "1,144,946",
+        "awardFloor": "777777",
+        "awardFloorFormatted": "777,777",
+        "applicantEligibilityDesc": "",
+        "sendEmail": "Y",
+        "createTimeStamp": "Oct 20, 2026 05:00:31 PM EDT",
+        "createdDate": "Oct 20, 2026 04:59:04 PM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 04:59:04 PM EDT",
+        "applicantTypes": [
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "BC",
+            "description": "Business and Commerce"
+          }
+        ],
+        "responseDateStr": "2026-11-19-00-00-00",
+        "postingDateStr": "2026-10-20-00-00-00",
+        "archiveDateStr": "2026-12-19-00-00-00",
+        "createTimeStampStr": "2026-10-20-17-00-31"
+      },
+      "agencyDetails": {
+        "code": "SBA",
+        "seed": "SBA",
+        "agencyName": "Small Business Administration",
+        "agencyCode": "SBA",
+        "topAgencyCode": "SBA"
+      },
+      "topAgencyDetails": {
+        "code": "SBA",
+        "seed": "SBA",
+        "agencyName": "Small Business Administration",
+        "agencyCode": "SBA",
+        "topAgencyCode": "SBA"
+      },
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81455,
+          "opportunityId": 364132,
+          "folderType": "Full Announcement",
+          "folderName": "FY27 SBDC Kansas Network",
+          "zipLobSize": 884170,
+          "createdDate": "Oct 20, 2026 04:59:57 PM EDT",
+          "lastUpdatedDate": "Oct 20, 2026 05:00:31 PM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355323,
+              "opportunityId": 364132,
+              "mimeType": "application/pdf",
+              "fileName": "2027 OSBDC KS Rebid NOFO Instructions 10.19.26.pdf",
+              "fileDescription": "Instructions",
+              "fileLobSize": 222630,
+              "createdDate": "Oct 20, 2026 05:00:31 PM EDT",
+              "synopsisAttFolderId": 81455
+            },
+            {
+              "id": 355322,
+              "opportunityId": 364132,
+              "mimeType": "application/pdf",
+              "fileName": "SBA 2027_OSBDC_Kansas Rebid_NOFO DRAFT clean_RMO 10-19-26.pdf",
+              "fileDescription": "NOFO",
+              "fileLobSize": 775945,
+              "createdDate": "Oct 20, 2026 05:00:14 PM EDT",
+              "synopsisAttFolderId": 81455
+            }
+          ]
+        }
+      ],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435937,
+          "opportunityId": 364132,
+          "cfdaNumber": "59.037",
+          "programTitle": "Small Business Development Centers"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "originalDueDate": "Nov 19, 2026 12:00:00 AM EST",
+      "originalDueDateDesc": "Post Date Ends",
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "synopsis",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "POSTED"
     }
   }
 }
