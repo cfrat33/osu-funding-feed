@@ -409923,11 +409923,11 @@
     }
   },
   "362946": {
-    "checked_at": "2026-10-19T21:27:28+00:00",
-    "listing_signature": "09eb44cfb1f3e1a1d283565dd5a60ff085f8c9fa25545bf433067b9c5cd2261e",
+    "checked_at": "2026-10-20T12:40:55+00:00",
+    "listing_signature": "2fd8c7881133e91af594ed571e22610f4eef91adbc42be8fb56c892a9867282b",
     "detail": {
       "id": 362946,
-      "revision": 1,
+      "revision": 3,
       "opportunityNumber": "RFA-AI-28-005",
       "opportunityTitle": "Immune Tolerance Network (UM1 Clinical Trial Required)",
       "owningAgencyCode": "HHS-NIH11",
@@ -409938,6 +409938,125 @@
       "opportunityCategory": {
         "category": "D",
         "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 362946,
+        "version": 1,
+        "agencyCode": "HHS-NIH11",
+        "agencyName": "National Institutes of Health",
+        "agencyPhone": "301-402-2541",
+        "agencyAddressDesc": "ITN_UM1@mail.nih.gov",
+        "agencyDetails": {
+          "code": "NIH",
+          "seed": "HHS-NIH11",
+          "agencyName": "National Institutes of Health",
+          "agencyCode": "HHS-NIH11",
+          "topAgencyCode": "HHS"
+        },
+        "topAgencyDetails": {
+          "code": "HHS",
+          "seed": "HHS",
+          "agencyName": "Department of Health and Human Services",
+          "agencyCode": "HHS",
+          "topAgencyCode": "HHS"
+        },
+        "agencyContactPhone": "301-402-2541",
+        "agencyContactName": "National Institutes of Health",
+        "agencyContactDesc": "Division of Allergy, Immunology and Transplantation\nITN_UM1@mail.nih.gov",
+        "agencyContactEmail": "ITN_UM1@mail.nih.gov",
+        "agencyContactEmailDesc": "ITN_UM1@mail.nih.gov",
+        "synopsisDesc": "<p>The purpose of this notice of funding opportunity (NOFO) is to support&nbsp;applications to continue the Immune Tolerance Network (ITN).&nbsp;The primary objective of the Network is to develop tolerogenic therapies for immune-mediated disorders. The three main clinical areas of work are: 1) Allergic diseases and asthma; 2) Autoimmune diseases; and 3) Immune-mediated consequences of transplantation. The core functions of the ITN include designing, conducting, and sharing the results of clinical trials and performing integrated mechanistic studies.</p>",
+        "responseDate": "Jan 29, 2027 12:00:00 AM EST",
+        "postingDate": "Oct 20, 2026 12:00:00 AM EDT",
+        "archiveDate": "Mar 29, 2027 12:00:00 AM EDT",
+        "costSharing": false,
+        "numberOfAwards": "1",
+        "estimatedFunding": "21986000",
+        "estimatedFundingFormatted": "21,986,000",
+        "awardCeiling": "none",
+        "awardFloor": "none",
+        "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+        "createTimeStamp": "Oct 20, 2026 06:47:33 AM EDT",
+        "createdDate": "Oct 20, 2026 06:47:24 AM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 06:47:24 AM EDT",
+        "applicantTypes": [
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "responseDateStr": "2027-01-29-00-00-00",
+        "postingDateStr": "2026-10-20-00-00-00",
+        "archiveDateStr": "2027-03-29-00-00-00",
+        "createTimeStampStr": "2026-10-20-06-47-33"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -409955,8 +410074,9 @@
       },
       "forecast": {
         "opportunityId": 362946,
-        "version": 2,
+        "version": 3,
         "postingDate": "Jun 24, 2026 12:00:00 AM EDT",
+        "archiveDate": "Oct 19, 2026 12:00:00 AM EDT",
         "forecastDesc": "<p>The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission through the continued support of the Collaborative Network for Clinical Research on&nbsp;Immune Tolerance. The purpose of this program is to&nbsp;enhance understanding of the underlying mechanisms of the induction, maintenance, and loss of immune tolerance in humans; and to develop improved tolerogenic interventions for the prevention and treatment of immune system mediated diseases (including transplant rejection, autoimmune diseases, and asthma and allergic diseases). The three major scientific goals include: 1) conduct clinical trials to determine the safety and efficacy of promising tolerogenic strategies in liver, kidney and pancreatic islet transplantation; allergic diseases and asthma; and autoimmune diseases; 2) investigate the basic mechanisms of immune tolerance in these diseases as an integral part of clinical trials; and 3) develop, refine and validate immune assays to monitor the induction, maintenance, and loss of tolerance in these disorders.&nbsp;Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.</p>",
         "costSharing": false,
         "numberOfAwards": "1",
@@ -409966,17 +410086,16 @@
         "agencyContactEmail": "ITN_UM1@mail.nih.gov",
         "agencyContactEmailDesc": "ITN_UM1@mail.nih.gov",
         "agencyCode": "HHS-NIH11",
-        "sendEmail": "N",
         "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
         "estSynopsisPostingDate": "Oct 16, 2026 12:00:00 AM EDT",
         "estApplicationResponseDate": "Jan 29, 2027 12:00:00 AM EST",
         "estAwardDate": "Feb 01, 2028 12:00:00 AM EST",
         "estProjectStartDate": "Feb 01, 2028 12:00:00 AM EST",
         "fiscalYear": 2028,
-        "modComments": "Updated opportunity details to match NOFO.",
-        "createTimeStamp": "Oct 19, 2026 03:14:37 PM EDT",
+        "modComments": "Updated Archive Date",
+        "createTimeStamp": "Oct 20, 2026 06:47:33 AM EDT",
         "createdDate": "Jun 24, 2026 01:19:26 PM EDT",
-        "lastUpdatedDate": "Oct 19, 2026 03:14:37 PM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 06:47:33 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -409987,40 +410106,28 @@
         "estimatedFundingFormatted": "21,986,000",
         "applicantTypes": [
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
             "id": "00",
             "description": "State governments"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
           },
           {
             "id": "02",
             "description": "City or township governments"
           },
           {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
+            "id": "04",
+            "description": "Special district governments"
           },
           {
             "id": "06",
@@ -410035,16 +410142,28 @@
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
             "id": "23",
             "description": "Small businesses"
           },
           {
-            "id": "04",
-            "description": "Special district governments"
+            "id": "01",
+            "description": "County governments"
           },
           {
             "id": "25",
             "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -410060,13 +410179,36 @@
           }
         ],
         "postingDateStr": "2026-06-24-00-00-00",
+        "archiveDateStr": "2026-10-19-00-00-00",
         "estSynopsisPostingDateStr": "2026-10-16-00-00-00",
         "estApplicationResponseDateStr": "2027-01-29-00-00-00",
         "estAwardDateStr": "2028-02-01-00-00-00",
         "estProjectStartDateStr": "2028-02-01-00-00-00",
-        "createTimeStampStr": "2026-10-19-15-14-37"
+        "createTimeStampStr": "2026-10-20-06-47-33"
       },
-      "synopsisAttachmentFolders": [],
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81447,
+          "opportunityId": 362946,
+          "folderType": "Full Announcement",
+          "folderName": "Full Announcement",
+          "zipLobSize": 43026,
+          "createdDate": "Oct 20, 2026 06:47:32 AM EDT",
+          "lastUpdatedDate": "Oct 20, 2026 06:47:33 AM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355305,
+              "opportunityId": 362946,
+              "mimeType": "text/html;charset=UTF-8",
+              "fileName": "RFA-AI-28-005-Full-Announcement.html",
+              "fileDescription": "RFA-AI-28-005-Full-Announcement.html",
+              "fileLobSize": 171528,
+              "createdDate": "Oct 20, 2026 06:47:33 AM EDT",
+              "synopsisAttFolderId": 81447
+            }
+          ]
+        }
+      ],
       "synopsisDocumentURLs": [],
       "synAttChangeComments": [],
       "cfdas": [
@@ -410132,64 +410274,64 @@
             "estimatedFundingFormatted": "21,986,000",
             "applicantTypes": [
               {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
                 "id": "02",
                 "description": "City or township governments"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "04",
-                "description": "Special district governments"
               },
               {
                 "id": "23",
                 "description": "Small businesses"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
-              },
-              {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "22",
                 "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               },
               {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
-                "id": "00",
-                "description": "State governments"
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               }
             ],
             "fundingInstruments": [
@@ -410215,36 +410357,237 @@
             {
               "id": 434281,
               "opportunityId": 362946,
-              "revision": 0,
+              "revision": 1,
               "cfdaNumber": "93.855",
               "programTitle": "Allergy and Infectious Diseases Research"
             }
           ],
           "synopsisModifiedFields": [],
           "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 362946,
+            "revision": 2
+          },
+          "opportunityId": 362946,
+          "revision": 2,
+          "opportunityNumber": "RFA-AI-28-005",
+          "opportunityTitle": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "marlowegj",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated opportunity details to match NOFO.",
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 362946,
+              "revision": 2
+            },
+            "opportunityId": 362946,
+            "revision": 2,
+            "version": 2,
+            "postingDate": "Jun 24, 2026 12:00:00 AM EDT",
+            "forecastDesc": "<p>The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance its mission through the continued support of the Collaborative Network for Clinical Research on&nbsp;Immune Tolerance. The purpose of this program is to&nbsp;enhance understanding of the underlying mechanisms of the induction, maintenance, and loss of immune tolerance in humans; and to develop improved tolerogenic interventions for the prevention and treatment of immune system mediated diseases (including transplant rejection, autoimmune diseases, and asthma and allergic diseases). The three major scientific goals include: 1) conduct clinical trials to determine the safety and efficacy of promising tolerogenic strategies in liver, kidney and pancreatic islet transplantation; allergic diseases and asthma; and autoimmune diseases; 2) investigate the basic mechanisms of immune tolerance in these diseases as an integral part of clinical trials; and 3) develop, refine and validate immune assays to monitor the induction, maintenance, and loss of tolerance in these disorders.&nbsp;Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.</p>",
+            "costSharing": false,
+            "numberOfAwards": "1",
+            "estimatedFunding": "21986000",
+            "agencyContactName": "Division of Allergy, Immunology and Transplantation",
+            "agencyContactPhone": "Please contact via email.",
+            "agencyContactEmail": "ITN_UM1@mail.nih.gov",
+            "agencyContactEmailDesc": "ITN_UM1@mail.nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "N",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+            "estSynopsisPostingDate": "Oct 16, 2026 12:00:00 AM EDT",
+            "estApplicationResponseDate": "Jan 29, 2027 12:00:00 AM EST",
+            "estAwardDate": "Feb 01, 2028 12:00:00 AM EST",
+            "estProjectStartDate": "Feb 01, 2028 12:00:00 AM EST",
+            "fiscalYear": 2028,
+            "modComments": "Updated opportunity details to match NOFO.",
+            "createTimeStamp": "Oct 19, 2026 03:14:37 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 20, 2026 06:47:25 AM EDT",
+            "createdDate": "Jun 24, 2026 01:19:26 PM EDT",
+            "lastUpdatedDate": "Oct 19, 2026 03:14:37 PM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "estimatedFundingFormatted": "21,986,000",
+            "applicantTypes": [
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2026-06-24-00-00-00",
+            "estSynopsisPostingDateStr": "2026-10-16-00-00-00",
+            "estApplicationResponseDateStr": "2027-01-29-00-00-00",
+            "estAwardDateStr": "2028-02-01-00-00-00",
+            "estProjectStartDateStr": "2028-02-01-00-00-00",
+            "createTimeStampStr": "2026-10-19-15-14-37"
+          },
+          "cfdas": [
+            {
+              "id": 434281,
+              "opportunityId": 362946,
+              "revision": 1,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "opportunityTitle",
+            "sendEmail",
+            "modComments",
+            "createTimeStamp"
+          ]
         }
       ],
-      "opportunityPkgs": [],
+      "opportunityPkgs": [
+        {
+          "id": 294430,
+          "topportunityId": 362946,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "RFA-AI-28-005",
+          "opportunityTitle": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+          "cfdaNumber": "93.855",
+          "openingDate": "2026-12-29",
+          "closingDate": "2027-01-29",
+          "owningAgencyCode": "HHS-NIH11",
+          "agencyDetails": {
+            "code": "NIH",
+            "seed": "HHS-NIH11",
+            "agencyName": "National Institutes of Health",
+            "agencyCode": "HHS-NIH11",
+            "topAgencyCode": "HHS"
+          },
+          "topAgencyDetails": {
+            "code": "HHS",
+            "seed": "HHS",
+            "agencyName": "Department of Health and Human Services",
+            "agencyCode": "HHS",
+            "topAgencyCode": "HHS"
+          },
+          "programTitle": "Allergy and Infectious Diseases Research",
+          "contactInfo": "<p>eRA Service Desk</p><p><a href=\"https://www.era.nih.gov/need-help \">https://www.era.nih.gov/need-help&nbsp;</a></p>",
+          "gracePeriod": 35,
+          "competitionId": "FORMS-I",
+          "competitionTitle": "Use for due date on or after January 25, 2025.",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 100,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 20, 2026 06:48:30 AM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294430",
+          "openingDateStr": "2026-12-29-00-00-00",
+          "closingDateStr": "2027-01-29-00-00-00"
+        }
+      ],
       "closedOpportunityPkgs": [],
+      "originalDueDate": "Jan 29, 2027 12:00:00 AM EST",
       "synopsisModifiedFields": [],
       "forecastModifiedFields": [
         "revision",
         "version",
-        "opportunityTitle",
         "sendEmail",
+        "archiveDate",
         "modComments",
         "createTimeStamp"
       ],
       "errorMessages": [],
       "synPostDateInPast": true,
-      "docType": "forecast",
-      "forecastHistCount": 0,
+      "docType": "synopsis",
+      "forecastHistCount": 2,
       "synopsisHistCount": 0,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
       "draftMode": "N",
-      "ost": "FORECASTED"
+      "ost": "POSTED"
     }
   },
   "362947": {
@@ -411517,21 +411860,140 @@
     }
   },
   "362954": {
-    "checked_at": "2026-10-19T21:27:29+00:00",
-    "listing_signature": "ce28f0b1aaa5d6255fc46127fdcf0c793de0b30549d76783ae9f4a9fb88efd0b",
+    "checked_at": "2026-10-20T12:40:56+00:00",
+    "listing_signature": "4c72355dbcbd3a10b103fd1ab395934c7d109f2d54fe854f8095a82f40f0615e",
     "detail": {
       "id": 362954,
-      "revision": 1,
+      "revision": 4,
       "opportunityNumber": "RFA-AI-28-012",
       "opportunityTitle": "Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
-      "publisherUid": "marlowegj",
+      "publisherUid": "1643657692",
       "modifiedComments": "Updated opportunity details to match NOFO.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
         "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 362954,
+        "version": 1,
+        "agencyCode": "HHS-NIH11",
+        "agencyName": "National Institutes of Health",
+        "agencyPhone": "301-402-2541",
+        "agencyAddressDesc": "DMIDMPSTranslational@mail.nih.gov",
+        "agencyDetails": {
+          "code": "NIH",
+          "seed": "HHS-NIH11",
+          "agencyName": "National Institutes of Health",
+          "agencyCode": "HHS-NIH11",
+          "topAgencyCode": "HHS"
+        },
+        "topAgencyDetails": {
+          "code": "HHS",
+          "seed": "HHS",
+          "agencyName": "Department of Health and Human Services",
+          "agencyCode": "HHS",
+          "topAgencyCode": "HHS"
+        },
+        "agencyContactPhone": "301-402-2541",
+        "agencyContactName": "National Institutes of Health",
+        "agencyContactDesc": "Division of Microbiology and Infectious Diseases (DMID) MPSTranslational\nDMIDMPSTranslational@mail.nih.gov",
+        "agencyContactEmail": "DMIDMPSTranslational@mail.nih.gov",
+        "agencyContactEmailDesc": "DMIDMPSTranslational@mail.nih.gov",
+        "synopsisDesc": "<p>The purpose of this notice of funding opportunity (NOFO) is to support a consortium of Translational Centers using Microphysiological Systems (MPS) for Infectious Diseases (TCMID). Recent efforts in the MPS fields are moving towards validation and regulatory use but have not focused upon models studying infectious diseases and testing of medical interventions.&nbsp;The NIH and FDA have recently issued guidance and established initiatives for enhancing use of New Approach Methodologies (NAMs) in research and product development. This includes <i>in vitro</i> systems that allow scientists to model human disease and capture human variability and patient-specific characteristics that will accelerate safer treatments for patients while reducing costs and sparing use of laboratory animals.&nbsp;To meet this need, the Centers will refine well validated human tissue models studying infectious diseases to a level consistent with regulatory qualifications that will promote their adoption for use by product developers, supporting regulatory acceptance.</p>",
+        "responseDate": "Jan 29, 2027 12:00:00 AM EST",
+        "postingDate": "Oct 20, 2026 12:00:00 AM EDT",
+        "archiveDate": "Mar 29, 2027 12:00:00 AM EDT",
+        "costSharing": false,
+        "numberOfAwards": "5",
+        "estimatedFunding": "7000000",
+        "estimatedFundingFormatted": "7,000,000",
+        "awardCeiling": "none",
+        "awardFloor": "none",
+        "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+        "createTimeStamp": "Oct 20, 2026 06:18:53 AM EDT",
+        "createdDate": "Oct 20, 2026 06:18:46 AM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 06:18:46 AM EDT",
+        "applicantTypes": [
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "responseDateStr": "2027-01-29-00-00-00",
+        "postingDateStr": "2026-10-20-00-00-00",
+        "archiveDateStr": "2027-03-29-00-00-00",
+        "createTimeStampStr": "2026-10-20-06-18-53"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -411549,8 +412011,9 @@
       },
       "forecast": {
         "opportunityId": 362954,
-        "version": 2,
+        "version": 4,
         "postingDate": "Jun 24, 2026 12:00:00 AM EDT",
+        "archiveDate": "Oct 19, 2026 12:00:00 AM EDT",
         "forecastDesc": "<p>The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance&nbsp;its mission by&nbsp;supporting the development of human microphysiologic systems (MPS) for infectious disease research and the development of therapeutics or biological products. MPS are in vitro platforms composed of cells or tissues maintained in a microenvironment designed to mimic the physiological aspects of in vivo tissue or organ function. There is growing support for the development of MPS for basic research at NIH and regulatory pathways at the FDA with the aim of reducing the use of animals in research and generating human tissue models that can be used to study human physiological processes. However, MPS development has not focused on their use in studies of infectious diseases or for product development. The goal of this program is to accelerate the use of MPS for infectious diseases and product development, promoting adoption for use by developers of drugs and biological products and their regulatory acceptance.&nbsp;Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.&nbsp;</p>",
         "costSharing": false,
         "numberOfAwards": "5",
@@ -411560,17 +412023,16 @@
         "agencyContactEmail": "DMIDMPSTranslational@mail.nih.gov",
         "agencyContactEmailDesc": "DMIDMPSTranslational@mail.nih.gov",
         "agencyCode": "HHS-NIH11",
-        "sendEmail": "N",
         "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
         "estSynopsisPostingDate": "Nov 13, 2026 12:00:00 AM EST",
         "estApplicationResponseDate": "Jan 29, 2027 12:00:00 AM EST",
         "estAwardDate": "Jan 01, 2028 12:00:00 AM EST",
         "estProjectStartDate": "Jan 01, 2028 12:00:00 AM EST",
         "fiscalYear": 2028,
-        "modComments": "Updated opportunity details to match NOFO.",
-        "createTimeStamp": "Oct 19, 2026 03:13:54 PM EDT",
+        "modComments": "Updated Archive Date",
+        "createTimeStamp": "Oct 20, 2026 06:18:53 AM EDT",
         "createdDate": "Jun 24, 2026 02:03:40 PM EDT",
-        "lastUpdatedDate": "Oct 19, 2026 03:13:54 PM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 06:18:53 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -411581,36 +412043,20 @@
         "estimatedFundingFormatted": "7,000,000",
         "applicantTypes": [
           {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
             "id": "06",
             "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "04",
-            "description": "Special district governments"
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
           },
           {
             "id": "23",
@@ -411621,24 +412067,40 @@
             "description": "Native American tribal governments (Federally recognized)"
           },
           {
-            "id": "01",
-            "description": "County governments"
+            "id": "05",
+            "description": "Independent school districts"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
           },
           {
             "id": "11",
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
             "id": "02",
             "description": "City or township governments"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "20",
+            "description": "Private institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -411654,16 +412116,45 @@
           }
         ],
         "postingDateStr": "2026-06-24-00-00-00",
+        "archiveDateStr": "2026-10-19-00-00-00",
         "estSynopsisPostingDateStr": "2026-11-13-00-00-00",
         "estApplicationResponseDateStr": "2027-01-29-00-00-00",
         "estAwardDateStr": "2028-01-01-00-00-00",
         "estProjectStartDateStr": "2028-01-01-00-00-00",
-        "createTimeStampStr": "2026-10-19-15-13-54"
+        "createTimeStampStr": "2026-10-20-06-18-53"
       },
-      "synopsisAttachmentFolders": [],
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81446,
+          "opportunityId": 362954,
+          "folderType": "Full Announcement",
+          "folderName": "Full Announcement",
+          "zipLobSize": 39247,
+          "createdDate": "Oct 20, 2026 06:18:53 AM EDT",
+          "lastUpdatedDate": "Oct 20, 2026 06:18:53 AM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355304,
+              "opportunityId": 362954,
+              "mimeType": "text/html;charset=UTF-8",
+              "fileName": "RFA-AI-28-012-Full-Announcement.html",
+              "fileDescription": "RFA-AI-28-012-Full-Announcement.html",
+              "fileLobSize": 185972,
+              "createdDate": "Oct 20, 2026 06:18:53 AM EDT",
+              "synopsisAttFolderId": 81446
+            }
+          ]
+        }
+      ],
       "synopsisDocumentURLs": [],
       "synAttChangeComments": [],
       "cfdas": [
+        {
+          "id": 435927,
+          "opportunityId": 362954,
+          "cfdaNumber": "93.310",
+          "programTitle": "Trans-NIH Research Support"
+        },
         {
           "id": 434290,
           "opportunityId": 362954,
@@ -411726,28 +412217,48 @@
             "estimatedFundingFormatted": "7,000,000",
             "applicantTypes": [
               {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "04",
                 "description": "Special district governments"
               },
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               },
               {
-                "id": "00",
-                "description": "State governments"
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
               },
               {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
                 "id": "22",
@@ -411758,32 +412269,12 @@
                 "description": "County governments"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
-              },
-              {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-              },
-              {
                 "id": "02",
                 "description": "City or township governments"
               },
               {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
+                "id": "00",
+                "description": "State governments"
               }
             ],
             "fundingInstruments": [
@@ -411809,36 +412300,397 @@
             {
               "id": 434290,
               "opportunityId": 362954,
-              "revision": 0,
+              "revision": 2,
               "cfdaNumber": "93.855",
               "programTitle": "Allergy and Infectious Diseases Research"
             }
           ],
           "synopsisModifiedFields": [],
           "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 362954,
+            "revision": 1
+          },
+          "opportunityId": 362954,
+          "revision": 1,
+          "opportunityNumber": "RFA-AI-28-012",
+          "opportunityTitle": "Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "marlowegj",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated opportunity details to match NOFO.",
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 362954,
+              "revision": 1
+            },
+            "opportunityId": 362954,
+            "revision": 1,
+            "version": 2,
+            "postingDate": "Jun 24, 2026 12:00:00 AM EDT",
+            "forecastDesc": "<p>The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance&nbsp;its mission by&nbsp;supporting the development of human microphysiologic systems (MPS) for infectious disease research and the development of therapeutics or biological products. MPS are in vitro platforms composed of cells or tissues maintained in a microenvironment designed to mimic the physiological aspects of in vivo tissue or organ function. There is growing support for the development of MPS for basic research at NIH and regulatory pathways at the FDA with the aim of reducing the use of animals in research and generating human tissue models that can be used to study human physiological processes. However, MPS development has not focused on their use in studies of infectious diseases or for product development. The goal of this program is to accelerate the use of MPS for infectious diseases and product development, promoting adoption for use by developers of drugs and biological products and their regulatory acceptance.&nbsp;Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.&nbsp;</p>",
+            "costSharing": false,
+            "numberOfAwards": "5",
+            "estimatedFunding": "7000000",
+            "agencyContactName": "Division of Microbiology and Infectious Diseases (DMID) MPSTranslational",
+            "agencyContactPhone": "Please contact via email.",
+            "agencyContactEmail": "DMIDMPSTranslational@mail.nih.gov",
+            "agencyContactEmailDesc": "DMIDMPSTranslational@mail.nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "N",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+            "estSynopsisPostingDate": "Nov 13, 2026 12:00:00 AM EST",
+            "estApplicationResponseDate": "Jan 29, 2027 12:00:00 AM EST",
+            "estAwardDate": "Jan 01, 2028 12:00:00 AM EST",
+            "estProjectStartDate": "Jan 01, 2028 12:00:00 AM EST",
+            "fiscalYear": 2028,
+            "modComments": "Updated opportunity details to match NOFO.",
+            "createTimeStamp": "Oct 19, 2026 03:13:54 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 20, 2026 06:18:46 AM EDT",
+            "createdDate": "Jun 24, 2026 02:03:40 PM EDT",
+            "lastUpdatedDate": "Oct 19, 2026 03:13:54 PM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "estimatedFundingFormatted": "7,000,000",
+            "applicantTypes": [
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2026-06-24-00-00-00",
+            "estSynopsisPostingDateStr": "2026-11-13-00-00-00",
+            "estApplicationResponseDateStr": "2027-01-29-00-00-00",
+            "estAwardDateStr": "2028-01-01-00-00-00",
+            "estProjectStartDateStr": "2028-01-01-00-00-00",
+            "createTimeStampStr": "2026-10-19-15-13-54"
+          },
+          "cfdas": [
+            {
+              "id": 434290,
+              "opportunityId": 362954,
+              "revision": 2,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "opportunityTitle",
+            "sendEmail",
+            "modComments",
+            "createTimeStamp"
+          ]
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 362954,
+            "revision": 3
+          },
+          "opportunityId": 362954,
+          "revision": 3,
+          "opportunityNumber": "RFA-AI-28-012",
+          "opportunityTitle": "Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "1643657692",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated opportunity details to match NOFO.",
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 362954,
+              "revision": 3
+            },
+            "opportunityId": 362954,
+            "revision": 3,
+            "version": 3,
+            "postingDate": "Jun 24, 2026 12:00:00 AM EDT",
+            "forecastDesc": "<p>The National Institute of Allergy and Infectious Diseases (NIAID) seeks to advance&nbsp;its mission by&nbsp;supporting the development of human microphysiologic systems (MPS) for infectious disease research and the development of therapeutics or biological products. MPS are in vitro platforms composed of cells or tissues maintained in a microenvironment designed to mimic the physiological aspects of in vivo tissue or organ function. There is growing support for the development of MPS for basic research at NIH and regulatory pathways at the FDA with the aim of reducing the use of animals in research and generating human tissue models that can be used to study human physiological processes. However, MPS development has not focused on their use in studies of infectious diseases or for product development. The goal of this program is to accelerate the use of MPS for infectious diseases and product development, promoting adoption for use by developers of drugs and biological products and their regulatory acceptance.&nbsp;Grant authorities that allow NIAID to forecast this opportunity are as follows: Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.&nbsp;</p>",
+            "costSharing": false,
+            "numberOfAwards": "5",
+            "estimatedFunding": "7000000",
+            "agencyContactName": "Division of Microbiology and Infectious Diseases (DMID) MPSTranslational",
+            "agencyContactPhone": "Please contact via email.",
+            "agencyContactEmail": "DMIDMPSTranslational@mail.nih.gov",
+            "agencyContactEmailDesc": "DMIDMPSTranslational@mail.nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+            "estSynopsisPostingDate": "Nov 13, 2026 12:00:00 AM EST",
+            "estApplicationResponseDate": "Jan 29, 2027 12:00:00 AM EST",
+            "estAwardDate": "Jan 01, 2028 12:00:00 AM EST",
+            "estProjectStartDate": "Jan 01, 2028 12:00:00 AM EST",
+            "fiscalYear": 2028,
+            "modComments": "Updated opportunity details to match NOFO.",
+            "createTimeStamp": "Oct 20, 2026 06:18:46 AM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 20, 2026 06:18:46 AM EDT",
+            "createdDate": "Jun 24, 2026 02:03:40 PM EDT",
+            "lastUpdatedDate": "Oct 20, 2026 06:18:46 AM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "estimatedFundingFormatted": "7,000,000",
+            "applicantTypes": [
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2026-06-24-00-00-00",
+            "estSynopsisPostingDateStr": "2026-11-13-00-00-00",
+            "estApplicationResponseDateStr": "2027-01-29-00-00-00",
+            "estAwardDateStr": "2028-01-01-00-00-00",
+            "estProjectStartDateStr": "2028-01-01-00-00-00",
+            "createTimeStampStr": "2026-10-20-06-18-46"
+          },
+          "cfdas": [
+            {
+              "id": 435927,
+              "opportunityId": 362954,
+              "revision": 2,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            },
+            {
+              "id": 434290,
+              "opportunityId": 362954,
+              "revision": 2,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "cfdas",
+            "sendEmail",
+            "createTimeStamp"
+          ]
         }
       ],
-      "opportunityPkgs": [],
+      "opportunityPkgs": [
+        {
+          "id": 294429,
+          "topportunityId": 362954,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "RFA-AI-28-012",
+          "opportunityTitle": "Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed)",
+          "cfdaNumber": "93.855",
+          "openingDate": "2026-12-29",
+          "closingDate": "2027-01-29",
+          "owningAgencyCode": "HHS-NIH11",
+          "agencyDetails": {
+            "code": "NIH",
+            "seed": "HHS-NIH11",
+            "agencyName": "National Institutes of Health",
+            "agencyCode": "HHS-NIH11",
+            "topAgencyCode": "HHS"
+          },
+          "topAgencyDetails": {
+            "code": "HHS",
+            "seed": "HHS",
+            "agencyName": "Department of Health and Human Services",
+            "agencyCode": "HHS",
+            "topAgencyCode": "HHS"
+          },
+          "programTitle": "Allergy and Infectious Diseases Research",
+          "contactInfo": "<p>eRA Service Desk</p><p><a href=\"https://www.era.nih.gov/need-help \">https://www.era.nih.gov/need-help&nbsp;</a></p>",
+          "gracePeriod": 35,
+          "competitionId": "FORMS-I",
+          "competitionTitle": "Use for due date on or after January 25, 2025.",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 100,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "Y",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 20, 2026 06:19:15 AM EDT",
+          "agencyDownloadURL": "http://https://public.era.nih.gov/assist",
+          "workspaceCompatibleFlag": "N",
+          "packageId": "PKG00294429",
+          "openingDateStr": "2026-12-29-00-00-00",
+          "closingDateStr": "2027-01-29-00-00-00"
+        }
+      ],
       "closedOpportunityPkgs": [],
+      "originalDueDate": "Jan 29, 2027 12:00:00 AM EST",
       "synopsisModifiedFields": [],
       "forecastModifiedFields": [
         "revision",
         "version",
-        "opportunityTitle",
-        "sendEmail",
-        "modComments",
-        "createTimeStamp"
+        "archiveDate",
+        "modComments"
       ],
       "errorMessages": [],
       "synPostDateInPast": true,
-      "docType": "forecast",
-      "forecastHistCount": 0,
+      "docType": "synopsis",
+      "forecastHistCount": 3,
       "synopsisHistCount": 0,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
       "draftMode": "N",
-      "ost": "FORECASTED"
+      "ost": "POSTED"
     }
   },
   "362955": {
@@ -425662,11 +426514,11 @@
     }
   },
   "361208": {
-    "checked_at": "2026-10-19T21:27:30+00:00",
-    "listing_signature": "6f9c68a47a13b35e68f72aec3d0beb576d17637d175e0366c0a0787bcf778eb2",
+    "checked_at": "2026-10-20T12:40:57+00:00",
+    "listing_signature": "6a1239beb361e3168f533936e2c838697053a5f79cf2f93b2c2b5bd0a5ca702e",
     "detail": {
       "id": 361208,
-      "revision": 1,
+      "revision": 3,
       "opportunityNumber": "RFA-DC-28-002",
       "opportunityTitle": "Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
       "owningAgencyCode": "HHS-NIH11",
@@ -425677,6 +426529,126 @@
       "opportunityCategory": {
         "category": "D",
         "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 361208,
+        "version": 1,
+        "agencyCode": "HHS-NIH11",
+        "agencyName": "National Institutes of Health",
+        "agencyPhone": "301-402-2541",
+        "agencyAddressDesc": "NIDCD Division of Scientific Programs",
+        "agencyDetails": {
+          "code": "NIH",
+          "seed": "HHS-NIH11",
+          "agencyName": "National Institutes of Health",
+          "agencyCode": "HHS-NIH11",
+          "topAgencyCode": "HHS"
+        },
+        "topAgencyDetails": {
+          "code": "HHS",
+          "seed": "HHS",
+          "agencyName": "Department of Health and Human Services",
+          "agencyCode": "HHS",
+          "topAgencyCode": "HHS"
+        },
+        "agencyContactPhone": "301-402-2541",
+        "agencyContactName": "National Institutes of Health",
+        "agencyContactDesc": "Division of Scientific Programs\nNIDCDNetworkU24@mail.nih.gov",
+        "agencyContactEmail": "NIDCDNetworkU24@mail.nih.gov",
+        "agencyContactEmailDesc": "NIDCD Division of Scientific Programs",
+        "synopsisDesc": "<p>The objective of this Notice of Funding Opportunity (NOFO) is to support a coordinating center for the NIDCD National Human Ear Resource Network, a collaborative network that serves as a national technological resource for auditory and vestibular researchers to use human inner and middle ear tissues for a range of basic and clinical studies to advance knowledge and treatment of auditory and vestibular disorders.&nbsp;</p>",
+        "responseDate": "Mar 05, 2027 12:00:00 AM EST",
+        "postingDate": "Oct 20, 2026 12:00:00 AM EDT",
+        "archiveDate": "May 05, 2027 12:00:00 AM EDT",
+        "costSharing": false,
+        "numberOfAwards": "1",
+        "estimatedFunding": "300000",
+        "estimatedFundingFormatted": "300,000",
+        "awardCeiling": "200000",
+        "awardCeilingFormatted": "200,000",
+        "awardFloor": "none",
+        "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+        "createTimeStamp": "Oct 20, 2026 07:01:02 AM EDT",
+        "createdDate": "Oct 20, 2026 07:00:54 AM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 07:00:54 AM EDT",
+        "applicantTypes": [
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "responseDateStr": "2027-03-05-00-00-00",
+        "postingDateStr": "2026-10-20-00-00-00",
+        "archiveDateStr": "2027-05-05-00-00-00",
+        "createTimeStampStr": "2026-10-20-07-01-02"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -425694,8 +426666,9 @@
       },
       "forecast": {
         "opportunityId": 361208,
-        "version": 2,
+        "version": 3,
         "postingDate": "Jan 27, 2026 12:00:00 AM EST",
+        "archiveDate": "Oct 19, 2026 12:00:00 AM EDT",
         "forecastDesc": "<p style=\"margin-left:.5in;\">The National Institutes on Deafness and other Communication Disorders (NIDCD) seeks to advance its mission by <span style=\"background-color:white;\">publishing a Notice of Funding Opportunity to solicit applications for a Coordinating Center for the National Human Ear Resource Network. The National Human Ear Resource Network is a critical national technological resource for auditory and vestibular researchers who use human inner and middle ear tissues for a range of basic and clinical studies. The Network serves as a nucleus for expanding the use of human temporal bones in the research community and facilitates communication and collaboration between laboratories that utilize human temporal bones in their research.</span></p><p style=\"margin-left:.5in;\"><span style=\"background-color:white;\">It is anticipated that the Network Coordinating Center will, among other duties, coordinate and chair&nbsp;</span>regular meetings with Network laboratories, work closely with NIDCD staff to disseminate to the scientific and clinical communities information regarding Network activities and facilitate communication and collaboration within the Network and with laboratories across the United States.</p>",
         "costSharing": false,
         "numberOfAwards": "1",
@@ -425706,17 +426679,16 @@
         "agencyContactEmail": "NIDCDNetworkU24@mail.nih.gov",
         "agencyContactEmailDesc": "NIDCD Division of Scientific Programs",
         "agencyCode": "HHS-NIH11",
-        "sendEmail": "N",
         "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
         "estSynopsisPostingDate": "Mar 07, 2026 12:00:00 AM EST",
         "estApplicationResponseDate": "Sep 29, 2026 12:00:00 AM EDT",
         "estAwardDate": "Jul 31, 2027 12:00:00 AM EDT",
         "estProjectStartDate": "Aug 01, 2027 12:00:00 AM EDT",
         "fiscalYear": 2027,
-        "modComments": "Updated opportunity details to match NOFO.",
-        "createTimeStamp": "Oct 19, 2026 03:12:44 PM EDT",
+        "modComments": "Updated Archive Date",
+        "createTimeStamp": "Oct 20, 2026 07:01:02 AM EDT",
         "createdDate": "Jan 27, 2026 02:03:32 PM EST",
-        "lastUpdatedDate": "Oct 19, 2026 03:12:44 PM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 07:01:02 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -425728,44 +426700,12 @@
         "awardCeilingFormatted": "100,000",
         "applicantTypes": [
           {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
-          },
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
+            "id": "00",
+            "description": "State governments"
           },
           {
             "id": "01",
             "description": "County governments"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "02",
-            "description": "City or township governments"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
           },
           {
             "id": "23",
@@ -425776,12 +426716,44 @@
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
           },
           {
-            "id": "00",
-            "description": "State governments"
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           },
           {
             "id": "20",
@@ -425801,13 +426773,36 @@
           }
         ],
         "postingDateStr": "2026-01-27-00-00-00",
+        "archiveDateStr": "2026-10-19-00-00-00",
         "estSynopsisPostingDateStr": "2026-03-07-00-00-00",
         "estApplicationResponseDateStr": "2026-09-29-00-00-00",
         "estAwardDateStr": "2027-07-31-00-00-00",
         "estProjectStartDateStr": "2027-08-01-00-00-00",
-        "createTimeStampStr": "2026-10-19-15-12-44"
+        "createTimeStampStr": "2026-10-20-07-01-02"
       },
-      "synopsisAttachmentFolders": [],
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81448,
+          "opportunityId": 361208,
+          "folderType": "Full Announcement",
+          "folderName": "Full Announcement",
+          "zipLobSize": 27026,
+          "createdDate": "Oct 20, 2026 07:01:02 AM EDT",
+          "lastUpdatedDate": "Oct 20, 2026 07:01:02 AM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355306,
+              "opportunityId": 361208,
+              "mimeType": "text/html;charset=UTF-8",
+              "fileName": "RFA-DC-28-002-Full-Announcement.html",
+              "fileDescription": "RFA-DC-28-002-Full-Announcement.html",
+              "fileLobSize": 123792,
+              "createdDate": "Oct 20, 2026 07:01:02 AM EDT",
+              "synopsisAttFolderId": 81448
+            }
+          ]
+        }
+      ],
       "synopsisDocumentURLs": [],
       "synAttChangeComments": [],
       "cfdas": [
@@ -425875,32 +426870,52 @@
             "awardCeilingFormatted": "100,000",
             "applicantTypes": [
               {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
                 "id": "25",
                 "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "02",
+                "description": "City or township governments"
               },
               {
                 "id": "01",
                 "description": "County governments"
               },
               {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
                 "id": "22",
                 "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "05",
                 "description": "Independent school districts"
               },
               {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
                 "id": "06",
                 "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
               },
               {
                 "id": "04",
@@ -425913,26 +426928,6 @@
               {
                 "id": "23",
                 "description": "Small businesses"
-              },
-              {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -425958,37 +426953,240 @@
             {
               "id": 431839,
               "opportunityId": 361208,
-              "revision": 0,
+              "revision": 1,
               "cfdaNumber": "93.173",
               "programTitle": "Research Related to Deafness and Communication Disorders"
             }
           ],
           "synopsisModifiedFields": [],
           "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 361208,
+            "revision": 2
+          },
+          "opportunityId": 361208,
+          "revision": 2,
+          "opportunityNumber": "RFA-DC-28-002",
+          "opportunityTitle": "Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "marlowegj",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated opportunity details to match NOFO.",
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 361208,
+              "revision": 2
+            },
+            "opportunityId": 361208,
+            "revision": 2,
+            "version": 2,
+            "postingDate": "Jan 27, 2026 12:00:00 AM EST",
+            "forecastDesc": "<p style=\"margin-left:.5in;\">The National Institutes on Deafness and other Communication Disorders (NIDCD) seeks to advance its mission by <span style=\"background-color:white;\">publishing a Notice of Funding Opportunity to solicit applications for a Coordinating Center for the National Human Ear Resource Network. The National Human Ear Resource Network is a critical national technological resource for auditory and vestibular researchers who use human inner and middle ear tissues for a range of basic and clinical studies. The Network serves as a nucleus for expanding the use of human temporal bones in the research community and facilitates communication and collaboration between laboratories that utilize human temporal bones in their research.</span></p><p style=\"margin-left:.5in;\"><span style=\"background-color:white;\">It is anticipated that the Network Coordinating Center will, among other duties, coordinate and chair&nbsp;</span>regular meetings with Network laboratories, work closely with NIDCD staff to disseminate to the scientific and clinical communities information regarding Network activities and facilitate communication and collaboration within the Network and with laboratories across the United States.</p>",
+            "costSharing": false,
+            "numberOfAwards": "1",
+            "estimatedFunding": "100000",
+            "awardCeiling": "100000",
+            "agencyContactName": "Division of Scientific Programs",
+            "agencyContactPhone": "Please contact via e-mail.",
+            "agencyContactEmail": "NIDCDNetworkU24@mail.nih.gov",
+            "agencyContactEmailDesc": "NIDCD Division of Scientific Programs",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "N",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+            "estSynopsisPostingDate": "Mar 07, 2026 12:00:00 AM EST",
+            "estApplicationResponseDate": "Sep 29, 2026 12:00:00 AM EDT",
+            "estAwardDate": "Jul 31, 2027 12:00:00 AM EDT",
+            "estProjectStartDate": "Aug 01, 2027 12:00:00 AM EDT",
+            "fiscalYear": 2027,
+            "modComments": "Updated opportunity details to match NOFO.",
+            "createTimeStamp": "Oct 19, 2026 03:12:44 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 20, 2026 07:00:54 AM EDT",
+            "createdDate": "Jan 27, 2026 02:03:32 PM EST",
+            "lastUpdatedDate": "Oct 19, 2026 03:12:44 PM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "estimatedFundingFormatted": "100,000",
+            "awardCeilingFormatted": "100,000",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2026-01-27-00-00-00",
+            "estSynopsisPostingDateStr": "2026-03-07-00-00-00",
+            "estApplicationResponseDateStr": "2026-09-29-00-00-00",
+            "estAwardDateStr": "2027-07-31-00-00-00",
+            "estProjectStartDateStr": "2027-08-01-00-00-00",
+            "createTimeStampStr": "2026-10-19-15-12-44"
+          },
+          "cfdas": [
+            {
+              "id": 431839,
+              "opportunityId": 361208,
+              "revision": 1,
+              "cfdaNumber": "93.173",
+              "programTitle": "Research Related to Deafness and Communication Disorders"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "opportunityNumber",
+            "opportunityTitle",
+            "sendEmail",
+            "modComments",
+            "createTimeStamp"
+          ]
         }
       ],
-      "opportunityPkgs": [],
+      "opportunityPkgs": [
+        {
+          "id": 294431,
+          "topportunityId": 361208,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "RFA-DC-28-002",
+          "opportunityTitle": "Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
+          "cfdaNumber": "93.173",
+          "openingDate": "2027-02-05",
+          "closingDate": "2027-03-05",
+          "owningAgencyCode": "HHS-NIH11",
+          "agencyDetails": {
+            "code": "NIH",
+            "seed": "HHS-NIH11",
+            "agencyName": "National Institutes of Health",
+            "agencyCode": "HHS-NIH11",
+            "topAgencyCode": "HHS"
+          },
+          "topAgencyDetails": {
+            "code": "HHS",
+            "seed": "HHS",
+            "agencyName": "Department of Health and Human Services",
+            "agencyCode": "HHS",
+            "topAgencyCode": "HHS"
+          },
+          "programTitle": "Research Related to Deafness and Communication Disorders",
+          "contactInfo": "<p>eRA Service Desk</p><p><a href=\"https://www.era.nih.gov/need-help \">https://www.era.nih.gov/need-help&nbsp;</a></p>",
+          "gracePeriod": 35,
+          "competitionId": "FORMS-I",
+          "competitionTitle": "Use for due date on or after January 25, 2025.",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 100,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 20, 2026 07:01:33 AM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294431",
+          "openingDateStr": "2027-02-05-00-00-00",
+          "closingDateStr": "2027-03-05-00-00-00"
+        }
+      ],
       "closedOpportunityPkgs": [],
+      "originalDueDate": "Mar 05, 2027 12:00:00 AM EST",
       "synopsisModifiedFields": [],
       "forecastModifiedFields": [
         "revision",
         "version",
-        "opportunityNumber",
-        "opportunityTitle",
         "sendEmail",
+        "archiveDate",
         "modComments",
         "createTimeStamp"
       ],
       "errorMessages": [],
       "synPostDateInPast": true,
-      "docType": "forecast",
-      "forecastHistCount": 0,
+      "docType": "synopsis",
+      "forecastHistCount": 2,
       "synopsisHistCount": 0,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
       "draftMode": "N",
-      "ost": "FORECASTED"
+      "ost": "POSTED"
     }
   },
   "361204": {
@@ -426993,11 +428191,11 @@
     }
   },
   "361207": {
-    "checked_at": "2026-10-19T21:27:31+00:00",
-    "listing_signature": "a8e017d39203b3b739e3c9d7a50974ed47f86a90302bdf6728bc78a02e83d490",
+    "checked_at": "2026-10-20T12:40:58+00:00",
+    "listing_signature": "a1c22b8b046597b64d128e751868902e9bfcb7d131244c59461afee0ff6945c1",
     "detail": {
       "id": 361207,
-      "revision": 1,
+      "revision": 3,
       "opportunityNumber": "RFA-DC-28-001",
       "opportunityTitle": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
       "owningAgencyCode": "HHS-NIH11",
@@ -427008,6 +428206,126 @@
       "opportunityCategory": {
         "category": "D",
         "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 361207,
+        "version": 1,
+        "agencyCode": "HHS-NIH11",
+        "agencyName": "National Institutes of Health",
+        "agencyPhone": "301-402-2541",
+        "agencyAddressDesc": "NIDCD Division of Scientific Programs",
+        "agencyDetails": {
+          "code": "NIH",
+          "seed": "HHS-NIH11",
+          "agencyName": "National Institutes of Health",
+          "agencyCode": "HHS-NIH11",
+          "topAgencyCode": "HHS"
+        },
+        "topAgencyDetails": {
+          "code": "HHS",
+          "seed": "HHS",
+          "agencyName": "Department of Health and Human Services",
+          "agencyCode": "HHS",
+          "topAgencyCode": "HHS"
+        },
+        "agencyContactPhone": "301-402-2541",
+        "agencyContactName": "National Institutes of Health",
+        "agencyContactDesc": "Division of Scientific Programs\nNIDCDNetworkU24@mail.nih.gov",
+        "agencyContactEmail": "NIDCDNetworkU24@mail.nih.gov",
+        "agencyContactEmailDesc": "NIDCD Division of Scientific Programs",
+        "synopsisDesc": "<p><span style=\"background-color:white;\">The objective of this Notice of Funding Opportunity (NOFO) is to continue to support laboratories that constitute a collaborative network, the NIDCD National Human Ear Resource Network, to serve as a national technological resource for auditory and vestibular researchers to use human inner and middle ear tissues for a range of basic and clinical studies to advance knowledge and treatment of auditory and vestibular disorders.&nbsp;</span></p>",
+        "responseDate": "Nov 01, 2027 12:00:00 AM EDT",
+        "postingDate": "Oct 20, 2026 12:00:00 AM EDT",
+        "archiveDate": "Jan 01, 2028 12:00:00 AM EST",
+        "costSharing": false,
+        "numberOfAwards": "5",
+        "estimatedFunding": "3600000",
+        "estimatedFundingFormatted": "3,600,000",
+        "awardCeiling": "450000",
+        "awardCeilingFormatted": "450,000",
+        "awardFloor": "none",
+        "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;",
+        "createTimeStamp": "Oct 20, 2026 07:32:56 AM EDT",
+        "createdDate": "Oct 20, 2026 07:32:47 AM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 07:32:47 AM EDT",
+        "applicantTypes": [
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "responseDateStr": "2027-11-01-00-00-00",
+        "postingDateStr": "2026-10-20-00-00-00",
+        "archiveDateStr": "2028-01-01-00-00-00",
+        "createTimeStampStr": "2026-10-20-07-32-56"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -427025,8 +428343,9 @@
       },
       "forecast": {
         "opportunityId": 361207,
-        "version": 2,
+        "version": 3,
         "postingDate": "Jan 26, 2026 12:00:00 AM EST",
+        "archiveDate": "Oct 19, 2026 12:00:00 AM EDT",
         "forecastDesc": "<p><span style=\"background-color:white;\">The National Institutes on Deafness and other Communication Disorders (NIDCD) seeks to advance its mission by continuing to support&nbsp;</span>a&nbsp;<span style=\"background-color:white;\">collaborative&nbsp;network, NIDCD National Human Ear Resource Network, which serves as a critical national technological resource for auditory and vestibular researchers who use human inner and middle ear tissues for basic and clinical studies focused on understanding human auditory and vestibular disorders. In collaboration with NIDCD and other Network laboratories, each laboratory is anticipated to advance the use of human ear tissue in biomedical research by developing and providing technical services for procuring, preparing, sectioning and distributing high-quality human ear tissues; developing and disseminating techniques for improved tissue preservation and processing; uploading digitized temporal bone images to NIDCD-approved databases for wide dissemination; and providing opportunities for technical instruction in the special skills needed to prepare ear tissue for use from post-mortem human temporal bones.</span></p>",
         "costSharing": false,
         "numberOfAwards": "5",
@@ -427037,17 +428356,16 @@
         "agencyContactEmail": "NIDCDNetworkU24@mail.nih.gov",
         "agencyContactEmailDesc": "NIDCD Division of Scientific Programs",
         "agencyCode": "HHS-NIH11",
-        "sendEmail": "N",
         "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;",
         "estSynopsisPostingDate": "Mar 07, 2026 12:00:00 AM EST",
         "estApplicationResponseDate": "Sep 29, 2026 12:00:00 AM EDT",
         "estAwardDate": "Jul 31, 2027 12:00:00 AM EDT",
         "estProjectStartDate": "Aug 01, 2027 12:00:00 AM EDT",
         "fiscalYear": 2027,
-        "modComments": "Updated opportunity details to match NOFO.",
-        "createTimeStamp": "Oct 19, 2026 03:13:17 PM EDT",
+        "modComments": "Updated Archive Date",
+        "createTimeStamp": "Oct 20, 2026 07:32:56 AM EDT",
         "createdDate": "Jan 26, 2026 04:00:29 PM EST",
-        "lastUpdatedDate": "Oct 19, 2026 03:13:17 PM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 07:32:56 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -427059,52 +428377,28 @@
         "awardCeilingFormatted": "450,000",
         "applicantTypes": [
           {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
           },
           {
             "id": "04",
             "description": "Special district governments"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           },
           {
             "id": "01",
             "description": "County governments"
           },
           {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "02",
-            "description": "City or township governments"
-          },
-          {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
             "id": "05",
@@ -427117,6 +428411,30 @@
           {
             "id": "25",
             "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
           }
         ],
         "fundingInstruments": [
@@ -427132,13 +428450,36 @@
           }
         ],
         "postingDateStr": "2026-01-26-00-00-00",
+        "archiveDateStr": "2026-10-19-00-00-00",
         "estSynopsisPostingDateStr": "2026-03-07-00-00-00",
         "estApplicationResponseDateStr": "2026-09-29-00-00-00",
         "estAwardDateStr": "2027-07-31-00-00-00",
         "estProjectStartDateStr": "2027-08-01-00-00-00",
-        "createTimeStampStr": "2026-10-19-15-13-17"
+        "createTimeStampStr": "2026-10-20-07-32-56"
       },
-      "synopsisAttachmentFolders": [],
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81449,
+          "opportunityId": 361207,
+          "folderType": "Full Announcement",
+          "folderName": "Full Announcement",
+          "zipLobSize": 30706,
+          "createdDate": "Oct 20, 2026 07:32:55 AM EDT",
+          "lastUpdatedDate": "Oct 20, 2026 07:32:56 AM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355307,
+              "opportunityId": 361207,
+              "mimeType": "text/html;charset=UTF-8",
+              "fileName": "RFA-DC-28-001-Full-Announcement.html",
+              "fileDescription": "RFA-DC-28-001-Full-Announcement.html",
+              "fileLobSize": 136520,
+              "createdDate": "Oct 20, 2026 07:32:56 AM EDT",
+              "synopsisAttFolderId": 81449
+            }
+          ]
+        }
+      ],
       "synopsisDocumentURLs": [],
       "synAttChangeComments": [],
       "cfdas": [
@@ -427206,64 +428547,64 @@
             "awardCeilingFormatted": "450,000",
             "applicantTypes": [
               {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
                 "id": "08",
                 "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
-                "id": "04",
-                "description": "Special district governments"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
               },
               {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "05",
-                "description": "Independent school districts"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
+                "id": "04",
+                "description": "Special district governments"
               },
               {
                 "id": "00",
                 "description": "State governments"
               },
               {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "11",
                 "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               }
             ],
             "fundingInstruments": [
@@ -427289,37 +428630,240 @@
             {
               "id": 431838,
               "opportunityId": 361207,
-              "revision": 0,
+              "revision": 1,
               "cfdaNumber": "93.173",
               "programTitle": "Research Related to Deafness and Communication Disorders"
             }
           ],
           "synopsisModifiedFields": [],
           "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 361207,
+            "revision": 2
+          },
+          "opportunityId": 361207,
+          "revision": 2,
+          "opportunityNumber": "RFA-DC-28-001",
+          "opportunityTitle": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "marlowegj",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated opportunity details to match NOFO.",
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 361207,
+              "revision": 2
+            },
+            "opportunityId": 361207,
+            "revision": 2,
+            "version": 2,
+            "postingDate": "Jan 26, 2026 12:00:00 AM EST",
+            "forecastDesc": "<p><span style=\"background-color:white;\">The National Institutes on Deafness and other Communication Disorders (NIDCD) seeks to advance its mission by continuing to support&nbsp;</span>a&nbsp;<span style=\"background-color:white;\">collaborative&nbsp;network, NIDCD National Human Ear Resource Network, which serves as a critical national technological resource for auditory and vestibular researchers who use human inner and middle ear tissues for basic and clinical studies focused on understanding human auditory and vestibular disorders. In collaboration with NIDCD and other Network laboratories, each laboratory is anticipated to advance the use of human ear tissue in biomedical research by developing and providing technical services for procuring, preparing, sectioning and distributing high-quality human ear tissues; developing and disseminating techniques for improved tissue preservation and processing; uploading digitized temporal bone images to NIDCD-approved databases for wide dissemination; and providing opportunities for technical instruction in the special skills needed to prepare ear tissue for use from post-mortem human temporal bones.</span></p>",
+            "costSharing": false,
+            "numberOfAwards": "5",
+            "estimatedFunding": "3500000",
+            "awardCeiling": "450000",
+            "agencyContactName": "Division of Scientific Programs",
+            "agencyContactPhone": "Please contact via e-mail.",
+            "agencyContactEmail": "NIDCDNetworkU24@mail.nih.gov",
+            "agencyContactEmailDesc": "NIDCD Division of Scientific Programs",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "N",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;",
+            "estSynopsisPostingDate": "Mar 07, 2026 12:00:00 AM EST",
+            "estApplicationResponseDate": "Sep 29, 2026 12:00:00 AM EDT",
+            "estAwardDate": "Jul 31, 2027 12:00:00 AM EDT",
+            "estProjectStartDate": "Aug 01, 2027 12:00:00 AM EDT",
+            "fiscalYear": 2027,
+            "modComments": "Updated opportunity details to match NOFO.",
+            "createTimeStamp": "Oct 19, 2026 03:13:17 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 20, 2026 07:32:47 AM EDT",
+            "createdDate": "Jan 26, 2026 04:00:29 PM EST",
+            "lastUpdatedDate": "Oct 19, 2026 03:13:17 PM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "estimatedFundingFormatted": "3,500,000",
+            "awardCeilingFormatted": "450,000",
+            "applicantTypes": [
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2026-01-26-00-00-00",
+            "estSynopsisPostingDateStr": "2026-03-07-00-00-00",
+            "estApplicationResponseDateStr": "2026-09-29-00-00-00",
+            "estAwardDateStr": "2027-07-31-00-00-00",
+            "estProjectStartDateStr": "2027-08-01-00-00-00",
+            "createTimeStampStr": "2026-10-19-15-13-17"
+          },
+          "cfdas": [
+            {
+              "id": 431838,
+              "opportunityId": 361207,
+              "revision": 1,
+              "cfdaNumber": "93.173",
+              "programTitle": "Research Related to Deafness and Communication Disorders"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "opportunityNumber",
+            "opportunityTitle",
+            "sendEmail",
+            "modComments",
+            "createTimeStamp"
+          ]
         }
       ],
-      "opportunityPkgs": [],
+      "opportunityPkgs": [
+        {
+          "id": 294432,
+          "topportunityId": 361207,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "RFA-DC-28-001",
+          "opportunityTitle": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
+          "cfdaNumber": "93.173",
+          "openingDate": "2027-02-05",
+          "closingDate": "2027-11-01",
+          "owningAgencyCode": "HHS-NIH11",
+          "agencyDetails": {
+            "code": "NIH",
+            "seed": "HHS-NIH11",
+            "agencyName": "National Institutes of Health",
+            "agencyCode": "HHS-NIH11",
+            "topAgencyCode": "HHS"
+          },
+          "topAgencyDetails": {
+            "code": "HHS",
+            "seed": "HHS",
+            "agencyName": "Department of Health and Human Services",
+            "agencyCode": "HHS",
+            "topAgencyCode": "HHS"
+          },
+          "programTitle": "Research Related to Deafness and Communication Disorders",
+          "contactInfo": "<p>eRA Service Desk</p><p><a href=\"https://www.era.nih.gov/need-help \">https://www.era.nih.gov/need-help&nbsp;</a></p>",
+          "gracePeriod": 35,
+          "competitionId": "FORMS-I",
+          "competitionTitle": "Use for due date on or after January 25, 2025.",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 100,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 20, 2026 07:33:14 AM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294432",
+          "openingDateStr": "2027-02-05-00-00-00",
+          "closingDateStr": "2027-11-01-00-00-00"
+        }
+      ],
       "closedOpportunityPkgs": [],
+      "originalDueDate": "Nov 01, 2027 12:00:00 AM EDT",
       "synopsisModifiedFields": [],
       "forecastModifiedFields": [
         "revision",
         "version",
-        "opportunityNumber",
-        "opportunityTitle",
         "sendEmail",
+        "archiveDate",
         "modComments",
         "createTimeStamp"
       ],
       "errorMessages": [],
       "synPostDateInPast": true,
-      "docType": "forecast",
-      "forecastHistCount": 0,
+      "docType": "synopsis",
+      "forecastHistCount": 2,
       "synopsisHistCount": 0,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
       "draftMode": "N",
-      "ost": "FORECASTED"
+      "ost": "POSTED"
     }
   },
   "361185": {
@@ -454837,6 +456381,171 @@
       "relatedOpps": [],
       "draftMode": "N",
       "ost": "POSTED"
+    }
+  },
+  "364123": {
+    "checked_at": "2026-10-20T12:40:54+00:00",
+    "listing_signature": "77579dd828420c3bd08875298852d39974b73a9469ec5ef11a4edb1ab44c9007",
+    "detail": {
+      "id": 364123,
+      "revision": 0,
+      "opportunityNumber": "RFA-HD-28-006",
+      "opportunityTitle": "Learning Disabilities Research Centers",
+      "owningAgencyCode": "HHS-NIH11",
+      "publisherUid": "1643657692",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "NIH",
+        "seed": "HHS-NIH11",
+        "agencyName": "National Institutes of Health",
+        "agencyCode": "HHS-NIH11",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364123,
+        "version": 1,
+        "postingDate": "Oct 20, 2026 12:00:00 AM EDT",
+        "forecastDesc": "<p style=\"margin-left:.25in;\">The <i>Eunice Kennedy Shriver</i>&nbsp;National Institute of Child Health and Human Development (NICHD) seeks to support transdisciplinary research centers to improve outcomes for children and youth at risk for, or diagnosed with, specific learning disabilities (SLDs) impacting mathematics, reading and writing. &nbsp;These centers will focus on improving the identification and classification of&nbsp;SLDs, deepen understanding of their genetic and neurobiological underpinnings, and advance&nbsp;testing of innovative screening and intervention approaches. &nbsp;The proposed centers will use their funded research infrastructure to collaborate with key stakeholders and provide project-based mentorship for the next generation of SLD researchers.&nbsp;Grant authorities that allow the <i>Eunice Kennedy Shriver</i>&nbsp;National Institute of Child Health and Human Development to forecast this opportunity are as follows: 42 U.S.C. 281 (Sec. 401); 42 U.S.C. 285g (Sec. 448); 42 USC 284h (Sec. 409D).</p>",
+        "costSharing": false,
+        "agencyContactName": "Child Development and Behavior Branch \nEunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+        "agencyContactPhone": "Please contact via e-mail",
+        "agencyContactEmail": "nichd_cdbb_nofos@mail.nih.gov",
+        "agencyContactEmailDesc": "nichd_cdbb_nofos@mail.nih.gov",
+        "agencyCode": "HHS-NIH11",
+        "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+        "estSynopsisPostingDate": "Jul 24, 2027 12:00:00 AM EDT",
+        "estApplicationResponseDate": "Oct 01, 2027 12:00:00 AM EDT",
+        "estAwardDate": "Jul 01, 2028 12:00:00 AM EDT",
+        "estProjectStartDate": "Jul 01, 2028 12:00:00 AM EDT",
+        "fiscalYear": 2028,
+        "createTimeStamp": "Oct 20, 2026 07:09:39 AM EDT",
+        "createdDate": "Oct 20, 2026 07:09:39 AM EDT",
+        "lastUpdatedDate": "Oct 20, 2026 07:09:39 AM EDT",
+        "agencyDetails": {
+          "code": "NIH",
+          "seed": "HHS-NIH11",
+          "agencyName": "National Institutes of Health",
+          "agencyCode": "HHS-NIH11",
+          "topAgencyCode": "HHS"
+        },
+        "applicantTypes": [
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "G",
+            "description": "Grant"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "postingDateStr": "2026-10-20-00-00-00",
+        "estSynopsisPostingDateStr": "2027-07-24-00-00-00",
+        "estApplicationResponseDateStr": "2027-10-01-00-00-00",
+        "estAwardDateStr": "2028-07-01-00-00-00",
+        "estProjectStartDateStr": "2028-07-01-00-00-00",
+        "createTimeStampStr": "2026-10-20-07-09-39"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435928,
+          "opportunityId": 364123,
+          "cfdaNumber": "93.865",
+          "programTitle": "Child Health and Human Development Extramural Research"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
     }
   }
 }

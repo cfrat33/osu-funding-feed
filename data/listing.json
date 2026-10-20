@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T09:48:19+00:00",
+  "checked_at": "2026-10-20T12:40:59+00:00",
   "complete": true,
   "records": [
     {
@@ -15610,22 +15610,6 @@
       ]
     },
     {
-      "id": "361204",
-      "number": "PAR-28-093",
-      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/19/2026",
-      "closeDate": "07/16/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.681",
-        "93.279",
-        "93.310"
-      ]
-    },
-    {
       "id": "364112",
       "number": "HHS-2027-ACL-AOA-ABRC-0012",
       "title": "National Center on Elder Abuse Resource Center",
@@ -15696,6 +15680,49 @@
       ]
     },
     {
+      "id": "364119",
+      "number": "HHS-2027-ACL-AOA-EJRC-0015",
+      "title": "National Adult Protective Services Training Center",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/19/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.747"
+      ]
+    },
+    {
+      "id": "364123",
+      "number": "RFA-HD-28-006",
+      "title": "Learning Disabilities Research Centers",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.865"
+      ]
+    },
+    {
+      "id": "364122",
+      "number": "O-BJA-2026-172716",
+      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
+      "agencyCode": "USDOJ-OJP-BJA",
+      "agency": "Bureau of Justice Assistance",
+      "openDate": "10/19/2026",
+      "closeDate": "12/02/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.037",
+        "16.050"
+      ]
+    },
+    {
       "id": "243973",
       "number": "FAA-COE-AJFE",
       "title": "Center of Excellence for Alternative Jet Fuels and Environment",
@@ -15707,6 +15734,22 @@
       "docType": "synopsis",
       "cfdaList": [
         "20.109"
+      ]
+    },
+    {
+      "id": "361204",
+      "number": "PAR-28-093",
+      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/19/2026",
+      "closeDate": "07/16/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.681",
+        "93.279",
+        "93.310"
       ]
     },
     {
@@ -15726,18 +15769,32 @@
       ]
     },
     {
-      "id": "364122",
-      "number": "O-BJA-2026-172716",
-      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "10/19/2026",
-      "closeDate": "12/02/2026",
+      "id": "362954",
+      "number": "RFA-AI-28-012",
+      "title": "Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "01/29/2027",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "16.037",
-        "16.050"
+        "93.310",
+        "93.855"
+      ]
+    },
+    {
+      "id": "362946",
+      "number": "RFA-AI-28-005",
+      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "01/29/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.855"
       ]
     },
     {
@@ -15746,10 +15803,10 @@
       "title": "Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
       "agencyCode": "HHS-NIH11",
       "agency": "National Institutes of Health",
-      "openDate": "01/27/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
+      "openDate": "10/20/2026",
+      "closeDate": "03/05/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
       "cfdaList": [
         "93.173"
       ]
@@ -15760,54 +15817,12 @@
       "title": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
       "agencyCode": "HHS-NIH11",
       "agency": "National Institutes of Health",
-      "openDate": "01/26/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
+      "openDate": "10/20/2026",
+      "closeDate": "11/01/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
       "cfdaList": [
         "93.173"
-      ]
-    },
-    {
-      "id": "362954",
-      "number": "RFA-AI-28-012",
-      "title": "Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/24/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.855"
-      ]
-    },
-    {
-      "id": "362946",
-      "number": "RFA-AI-28-005",
-      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/24/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.855"
-      ]
-    },
-    {
-      "id": "364119",
-      "number": "HHS-2027-ACL-AOA-EJRC-0015",
-      "title": "National Adult Protective Services Training Center",
-      "agencyCode": "HHS-ACL",
-      "agency": "Administration for Community Living",
-      "openDate": "10/19/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.747"
       ]
     }
   ]
