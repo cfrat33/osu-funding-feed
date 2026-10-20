@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T03:34:07+00:00",
+  "checked_at": "2026-10-20T06:44:30+00:00",
   "complete": true,
   "records": [
     {
@@ -70,20 +70,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.213"
-      ]
-    },
-    {
-      "id": "357658",
-      "number": "PAR-25-155",
-      "title": "Limited Competition: Small Grant Program for the NCATS Clinical and Translational Science Award (CTSA) Program (R03 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/11/2024",
-      "closeDate": "10/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.350"
       ]
     },
     {
@@ -8788,22 +8774,6 @@
       ]
     },
     {
-      "id": "359123",
-      "number": "RFA-DE-27-001",
-      "title": "Community Engagement Evaluation and Data Coordination (CEED) Hub to Advance Data and Practice Transformation for Optimizing Oral Health for All (U01, Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "04/27/2026",
-      "closeDate": "10/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.313",
-        "93.121",
-        "93.310"
-      ]
-    },
-    {
       "id": "361769",
       "number": "PA-28-011",
       "title": "NIH Specialized Center Grant (Parent P50)",
@@ -9416,24 +9386,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "15.662"
-      ]
-    },
-    {
-      "id": "359855",
-      "number": "RFA-CA-27-020",
-      "title": "Advanced Development of Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/21/2026",
-      "closeDate": "10/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.395",
-        "93.393",
-        "93.396",
-        "93.399",
-        "93.394"
       ]
     },
     {
@@ -12964,34 +12916,6 @@
       ]
     },
     {
-      "id": "359270",
-      "number": "RFA-RM-27-012",
-      "title": "PRIMED-AI: Data-to-Model Academic-Industrial Partnerships (D2M-AIP) for Precision Medicine with AI: Integrating Imaging with Multimodal Data (UG3/UH3 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/30/2026",
-      "closeDate": "10/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
-      "id": "359666",
-      "number": "RFA-RM-27-013",
-      "title": "Model-to-Clinic (M2C) for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (UG3/UH3, Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/30/2026",
-      "closeDate": "10/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
       "id": "360544",
       "number": "RFA-DK-27-120",
       "title": "Nutrition Obesity Research Centers (NORCs) (P30 Clinical Trial Optional)",
@@ -13081,20 +13005,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.T21"
-      ]
-    },
-    {
-      "id": "363326",
-      "number": "USDA-APHIS-10031-PPQ-NCPN-2027",
-      "title": "Plant Protection Act Section 7721 Fiscal Year 2027 National Clean Plant Network (NCPN)",
-      "agencyCode": "USDA-APHIS",
-      "agency": "Animal and Plant Health Inspection Service",
-      "openDate": "07/27/2026",
-      "closeDate": "10/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "10.031"
       ]
     },
     {
@@ -15005,24 +14915,6 @@
         "93.172",
         "93.273",
         "93.399"
-      ]
-    },
-    {
-      "id": "359853",
-      "number": "RFA-CA-27-021",
-      "title": "Sustained Support for Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/21/2026",
-      "closeDate": "10/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.395",
-        "93.393",
-        "93.396",
-        "93.399",
-        "93.394"
       ]
     },
     {
