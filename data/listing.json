@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T18:34:36+00:00",
+  "checked_at": "2026-10-21T21:28:58+00:00",
   "complete": true,
   "records": [
     {
@@ -10355,20 +10355,6 @@
       ]
     },
     {
-      "id": "363845",
-      "number": "FOA-VETS-27-01",
-      "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
-      "agencyCode": "DOL-VETS",
-      "agency": "Veterans Employment and Training Service",
-      "openDate": "09/10/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "17.805"
-      ]
-    },
-    {
       "id": "363848",
       "number": "RFA-NS-28-005",
       "title": "Limited Competition: BRAIN Initiative: Promoting Health for All Through BRAIN Technology Partnerships",
@@ -15763,17 +15749,31 @@
       ]
     },
     {
-      "id": "362946",
-      "number": "RFA-AI-28-005",
-      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/20/2026",
-      "closeDate": "01/29/2027",
+      "id": "364136",
+      "number": "DE-FOA-0003630",
+      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources (UNLOCK)",
+      "agencyCode": "DOE-ARPAE",
+      "agency": "Advanced Research Projects Agency Energy ",
+      "openDate": "10/21/2026",
+      "closeDate": "11/20/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "93.855"
+        "81.135"
+      ]
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "agencyCode": "SBA",
+      "agency": "Small Business Administration",
+      "openDate": "10/20/2026",
+      "closeDate": "11/19/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "59.037"
       ]
     },
     {
@@ -15816,17 +15816,17 @@
       ]
     },
     {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agencyCode": "SBA",
-      "agency": "Small Business Administration",
+      "id": "362946",
+      "number": "RFA-AI-28-005",
+      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
       "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
+      "closeDate": "01/29/2027",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "59.037"
+        "93.855"
       ]
     },
     {
@@ -15865,6 +15865,20 @@
       "docType": "forecast",
       "cfdaList": [
         "93.676"
+      ]
+    },
+    {
+      "id": "363845",
+      "number": "FOA-VETS-27-01",
+      "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
+      "agencyCode": "DOL-VETS",
+      "agency": "Veterans Employment and Training Service",
+      "openDate": "09/10/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "17.805"
       ]
     }
   ]
