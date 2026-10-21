@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T21:28:27+00:00",
+  "checked_at": "2026-10-21T00:59:35+00:00",
   "complete": true,
   "records": [
     {
@@ -15631,6 +15631,114 @@
       ]
     },
     {
+      "id": "362954",
+      "number": "RFA-AI-28-012",
+      "title": "Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "01/29/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.310",
+        "93.855"
+      ]
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "agencyCode": "SBA",
+      "agency": "Small Business Administration",
+      "openDate": "10/20/2026",
+      "closeDate": "11/19/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "59.037"
+      ]
+    },
+    {
+      "id": "363920",
+      "number": "USDA-NHQ-ACEP-26-NOFO0001456",
+      "title": "Easement Restoration and Stewardship",
+      "agencyCode": "USDA-NRCS",
+      "agency": "Natural Resources Conservation Service",
+      "openDate": "09/25/2026",
+      "closeDate": "11/19/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "10.928",
+        "10.072",
+        "10.931"
+      ]
+    },
+    {
+      "id": "361207",
+      "number": "RFA-DC-28-001",
+      "title": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "11/01/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.173"
+      ]
+    },
+    {
+      "id": "364098",
+      "number": "20261209-GE-GI-BP-BR-GGX",
+      "title": "Public Humanities Projects",
+      "agencyCode": "NEH",
+      "agency": "National Endowment for the Humanities",
+      "openDate": "10/16/2026",
+      "closeDate": "12/16/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "45.041"
+      ]
+    },
+    {
+      "id": "357543",
+      "number": "PAR-25-026",
+      "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R61/R33 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "12/05/2024",
+      "closeDate": "02/03/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.840",
+        "93.838",
+        "93.233",
+        "93.837",
+        "93.839"
+      ]
+    },
+    {
+      "id": "357542",
+      "number": "PAR-25-025",
+      "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R33 CT Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "12/05/2024",
+      "closeDate": "02/03/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.838",
+        "93.233",
+        "93.837",
+        "93.839"
+      ]
+    },
+    {
       "id": "361204",
       "number": "PAR-28-093",
       "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
@@ -15721,37 +15829,6 @@
       ]
     },
     {
-      "id": "363920",
-      "number": "USDA-NHQ-ACEP-26-NOFO0001456",
-      "title": "Easement Restoration and Stewardship",
-      "agencyCode": "USDA-NRCS",
-      "agency": "Natural Resources Conservation Service",
-      "openDate": "09/25/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "10.928",
-        "10.072",
-        "10.931"
-      ]
-    },
-    {
-      "id": "362954",
-      "number": "RFA-AI-28-012",
-      "title": "Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/20/2026",
-      "closeDate": "01/29/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310",
-        "93.855"
-      ]
-    },
-    {
       "id": "362946",
       "number": "RFA-AI-28-005",
       "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
@@ -15763,51 +15840,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.855"
-      ]
-    },
-    {
-      "id": "361207",
-      "number": "RFA-DC-28-001",
-      "title": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/20/2026",
-      "closeDate": "11/01/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.173"
-      ]
-    },
-    {
-      "id": "364098",
-      "number": "20261209-GE-GI-BP-BR-GGX",
-      "title": "Public Humanities Projects",
-      "agencyCode": "NEH",
-      "agency": "National Endowment for the Humanities",
-      "openDate": "10/16/2026",
-      "closeDate": "12/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "45.041"
-      ]
-    },
-    {
-      "id": "357542",
-      "number": "PAR-25-025",
-      "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R33 CT Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/05/2024",
-      "closeDate": "02/03/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.838",
-        "93.233",
-        "93.837",
-        "93.839"
       ]
     },
     {
@@ -15847,38 +15879,6 @@
         "93.866",
         "93.173",
         "93.THR"
-      ]
-    },
-    {
-      "id": "357543",
-      "number": "PAR-25-026",
-      "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R61/R33 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/05/2024",
-      "closeDate": "02/03/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.840",
-        "93.838",
-        "93.233",
-        "93.837",
-        "93.839"
-      ]
-    },
-    {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agencyCode": "SBA",
-      "agency": "Small Business Administration",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "59.037"
       ]
     }
   ]
