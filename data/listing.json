@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T09:33:10+00:00",
+  "checked_at": "2026-10-21T12:56:34+00:00",
   "complete": true,
   "records": [
     {
@@ -15618,20 +15618,6 @@
       ]
     },
     {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agencyCode": "SBA",
-      "agency": "Small Business Administration",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "59.037"
-      ]
-    },
-    {
       "id": "363920",
       "number": "USDA-NHQ-ACEP-26-NOFO0001456",
       "title": "Easement Restoration and Stewardship",
@@ -15851,6 +15837,20 @@
         "93.866",
         "93.173",
         "93.THR"
+      ]
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "agencyCode": "SBA",
+      "agency": "Small Business Administration",
+      "openDate": "10/20/2026",
+      "closeDate": "11/19/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "59.037"
       ]
     }
   ]
