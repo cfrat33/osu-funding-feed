@@ -458390,5 +458390,176 @@
       "draftMode": "N",
       "ost": "POSTED"
     }
+  },
+  "364134": {
+    "checked_at": "2026-10-21T18:34:36+00:00",
+    "listing_signature": "1450787fbfa8976be893f47fe1a7cc97aeab9822817ed4ae06c83e4460dc0316",
+    "detail": {
+      "id": 364134,
+      "revision": 0,
+      "opportunityNumber": "HHS-2027-ACF-ORR-ZU-0045",
+      "opportunityTitle": "Residential Services for Unaccompanied Alien Children",
+      "owningAgencyCode": "HHS-ACF-ORR",
+      "publisherUid": "63890787833131766027530892347803189092",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "ORR",
+        "seed": "HHS-ACF-ORR",
+        "agencyName": "Administration for Children and Families - ORR",
+        "agencyCode": "HHS-ACF-ORR",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364134,
+        "version": 1,
+        "postingDate": "Oct 21, 2026 12:00:00 AM EDT",
+        "forecastDesc": "<p>The Residential Services for Unaccompanied Alien Children funding opportunity is intended to support organizations that can provide high-quality, child-centered care that promotes children's safety and well-being. Funded providers must offer services 24 hours a day, 7 days a week, and have the capacity to accept children at any time, when it is safe to do so and consistent with state licensing requirements. Although children in ORR care are in the federal government's legal custody due to their immigration status, care providers are responsible for their day-to-day physical care. At the time of application, providers must be licensed, in accordance with state requirements, to provide group home, shelter, or transitional foster care services for children, including any required child placement or related licenses.</p><p>ORR is particularly interested in projects that provide residential facility beds and transitional foster care in states and localities near the U.S. southern border with Mexico.</p><p><i>Standard ORR care providers must be licensed by an appropriate State agency, or meet the State's licensing requirements if located in a State that does not allow State licensing of programs providing or proposing to provide care and services to unaccompanied children. See&nbsp;</i><a href=\"https://www.ecfr.gov/current/title-45/subtitle-B/chapter-IV/part-410/subpart-D/section-410.1302\"><i>45 CFR 410.1302(a)</i></a><i>.&nbsp;</i></p>",
+        "costSharing": false,
+        "numberOfAwards": "50",
+        "estimatedFunding": "280000000",
+        "awardCeiling": "5600000",
+        "awardFloor": "2000000",
+        "fundingDescLinkUrl": "https://www.acf.hhs.gov/orr/grants/ucb",
+        "fundingDescLinkDesc": "https://www.acf.hhs.gov/orr/grants/ucb",
+        "agencyContactName": "Yolanda Barnes",
+        "agencyContactPhone": "UCBgrants@acf.hhs.gov",
+        "agencyContactEmail": "UCBgrants@acf.hhs.gov",
+        "agencyContactEmailDesc": "UCBgrants@acf.hhs.gov",
+        "agencyCode": "HHS-ACF-ORR",
+        "applicantEligibilityDesc": "Current RecipientsCurrent recipients in the final year of their project period must check when their project period ends. If the project period end date aligns with this funding opportunity&quot;s projected award date, and the current recipient wants to apply to continue providing services, they must apply for this funding opportunity.Current recipients who are not in the final year of their project period and want to apply for this funding opportunity must propose services in a new facility and new location from where they are currently funded. ACF does not fund multiple projects that offer the same type of service in the same location.   Applications from individuals (including sole proprietorships), federal entities, and foreign entities are not eligible and will be disqualified from the merit review and funding under this funding opportunity. Faith-based and community organizations that meet the eligibility requirements are eligible for awards under this funding opportunity.",
+        "estSynopsisPostingDate": "Nov 13, 2026 12:00:00 AM EST",
+        "estApplicationResponseDate": "Jan 12, 2027 12:00:00 AM EST",
+        "estApplicationResponseDateDesc": "Electronically submitted applications must be submitted no later than 11:59 pm Eastern Standard Time on the listed application due date.",
+        "estAwardDate": "Apr 01, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Apr 01, 2027 12:00:00 AM EDT",
+        "fiscalYear": 2027,
+        "createTimeStamp": "Oct 21, 2026 01:49:44 PM EDT",
+        "createdDate": "Oct 21, 2026 01:49:44 PM EDT",
+        "lastUpdatedDate": "Oct 21, 2026 01:49:44 PM EDT",
+        "agencyDetails": {
+          "code": "ORR",
+          "seed": "HHS-ACF-ORR",
+          "agencyName": "Administration for Children and Families - ORR",
+          "agencyCode": "HHS-ACF-ORR",
+          "topAgencyCode": "HHS"
+        },
+        "estimatedFundingFormatted": "280,000,000",
+        "awardCeilingFormatted": "5,600,000",
+        "awardFloorFormatted": "2,000,000",
+        "applicantTypes": [
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ISS",
+            "description": "Income Security and Social Services"
+          }
+        ],
+        "postingDateStr": "2026-10-21-00-00-00",
+        "estSynopsisPostingDateStr": "2026-11-13-00-00-00",
+        "estApplicationResponseDateStr": "2027-01-12-00-00-00",
+        "estAwardDateStr": "2027-04-01-00-00-00",
+        "estProjectStartDateStr": "2027-04-01-00-00-00",
+        "createTimeStampStr": "2026-10-21-13-49-44"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435940,
+          "opportunityId": 364134,
+          "cfdaNumber": "93.676",
+          "programTitle": "Unaccompanied Children Program"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
+    }
   }
 }
