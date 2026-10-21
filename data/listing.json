@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T03:34:56+00:00",
+  "checked_at": "2026-10-21T06:45:23+00:00",
   "complete": true,
   "records": [
     {
@@ -10408,20 +10408,6 @@
       ]
     },
     {
-      "id": "363482",
-      "number": "AC-08-20-2026",
-      "title": "Fiscal Year (FY) 2027 AmeriCorps Seniors RSVP Competition",
-      "agencyCode": "AC",
-      "agency": "AmeriCorps",
-      "openDate": "08/20/2026",
-      "closeDate": "10/20/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "94.002"
-      ]
-    },
-    {
       "id": "363860",
       "number": "RFA-RM-28-017",
       "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: Experimental and Computational Technology Development (RM1 Clinical Trial Not Allowed)",
@@ -12821,20 +12807,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.113"
-      ]
-    },
-    {
-      "id": "360544",
-      "number": "RFA-DK-27-120",
-      "title": "Nutrition Obesity Research Centers (NORCs) (P30 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/30/2026",
-      "closeDate": "10/20/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.847"
       ]
     },
     {
