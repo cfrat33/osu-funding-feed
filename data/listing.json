@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T03:34:51+00:00",
+  "checked_at": "2026-10-22T06:45:26+00:00",
   "complete": true,
   "records": [
     {
@@ -11161,20 +11161,6 @@
       ]
     },
     {
-      "id": "363959",
-      "number": "O-BJA-2026-172727",
-      "title": "BJA FY 2026 Tribal Justice Training and Technical Assistance Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/25/2026",
-      "closeDate": "10/21/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.608"
-      ]
-    },
-    {
       "id": "361275",
       "number": "PAR-28-056",
       "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
@@ -11586,20 +11572,6 @@
       ]
     },
     {
-      "id": "362254",
-      "number": "HT942526MBRPDA",
-      "title": "DoW Military Burn, Discovery Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/21/2026",
-      "closeDate": "10/21/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "327763",
       "number": "W81XWH-21-NFRP-OUTREACH",
       "title": "NFRP Outreach and Invitation for Response",
@@ -11832,20 +11804,6 @@
       ]
     },
     {
-      "id": "362248",
-      "number": "HT942526MBRPPCRA",
-      "title": "DoW Military Burn, Patient-Centered Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/21/2026",
-      "closeDate": "10/21/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "362171",
       "number": "HT942526TBDRPIDA",
       "title": "DoW Tick-Borne Disease Idea Development Award",
@@ -11895,20 +11853,6 @@
       "agency": "Defense Health Agency Contracting Activity - DHACA",
       "openDate": "05/21/2026",
       "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362252",
-      "number": "HT942526MBRPTTDA",
-      "title": "DoW Military Burn, Technology/Therapeutic Development Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/21/2026",
-      "closeDate": "10/21/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
