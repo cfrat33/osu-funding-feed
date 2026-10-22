@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T09:33:06+00:00",
+  "checked_at": "2026-10-22T12:42:13+00:00",
   "complete": true,
   "records": [
     {
@@ -10651,20 +10651,6 @@
       ]
     },
     {
-      "id": "363889",
-      "number": "O-BJA-2026-172718",
-      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "10/29/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.036"
-      ]
-    },
-    {
       "id": "363913",
       "number": "O-BJA-2026-172709",
       "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
@@ -15823,6 +15809,20 @@
       "docType": "forecast",
       "cfdaList": [
         "17.805"
+      ]
+    },
+    {
+      "id": "363889",
+      "number": "O-BJA-2026-172718",
+      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
+      "agencyCode": "USDOJ-OJP-BJA",
+      "agency": "Bureau of Justice Assistance",
+      "openDate": "09/21/2026",
+      "closeDate": "10/29/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.036"
       ]
     }
   ]
