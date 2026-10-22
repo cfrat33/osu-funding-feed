@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T12:42:13+00:00",
+  "checked_at": "2026-10-22T15:46:29+00:00",
   "complete": true,
   "records": [
     {
@@ -11196,20 +11196,6 @@
       ]
     },
     {
-      "id": "363985",
-      "number": "P26AS00055",
-      "title": "National Parks Business Plan Internship",
-      "agencyCode": "DOI-NPS",
-      "agency": "National Park Service",
-      "openDate": "09/28/2026",
-      "closeDate": "01/04/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "15.954"
-      ]
-    },
-    {
       "id": "363797",
       "number": "DE-FOA-0003671",
       "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
@@ -15784,20 +15770,6 @@
       ]
     },
     {
-      "id": "364134",
-      "number": "HHS-2027-ACF-ORR-ZU-0045",
-      "title": "Residential Services for Unaccompanied Alien Children",
-      "agencyCode": "HHS-ACF-ORR",
-      "agency": "Administration for Children and Families - ORR",
-      "openDate": "10/21/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.676"
-      ]
-    },
-    {
       "id": "363845",
       "number": "FOA-VETS-27-01",
       "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
@@ -15812,6 +15784,20 @@
       ]
     },
     {
+      "id": "364134",
+      "number": "HHS-2027-ACF-ORR-ZU-0045",
+      "title": "Residential Services for Unaccompanied Alien Children",
+      "agencyCode": "HHS-ACF-ORR",
+      "agency": "Administration for Children and Families - ORR",
+      "openDate": "10/21/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.676"
+      ]
+    },
+    {
       "id": "363889",
       "number": "O-BJA-2026-172718",
       "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
@@ -15823,6 +15809,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "16.036"
+      ]
+    },
+    {
+      "id": "363985",
+      "number": "P26AS00055",
+      "title": "National Parks Business Plan Internship",
+      "agencyCode": "DOI-NPS",
+      "agency": "National Park Service",
+      "openDate": "09/28/2026",
+      "closeDate": "01/04/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "15.954"
       ]
     }
   ]
