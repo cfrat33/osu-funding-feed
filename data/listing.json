@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T15:46:29+00:00",
+  "checked_at": "2026-10-22T18:33:55+00:00",
   "complete": true,
   "records": [
     {
@@ -8533,31 +8533,6 @@
       ]
     },
     {
-      "id": "359157",
-      "number": "PAR-27-077",
-      "title": "NIH Science Education Partnership Award (SEPA) (R25 - Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/05/2026",
-      "closeDate": "05/25/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.279",
-        "93.213",
-        "93.310",
-        "93.859",
-        "93.286",
-        "93.307",
-        "93.855",
-        "93.313",
-        "93.121",
-        "93.172",
-        "93.242",
-        "93.866"
-      ]
-    },
-    {
       "id": "362061",
       "number": "PD-26-367Y",
       "title": "Chemical Process Systems (CPS)",
@@ -15823,6 +15798,75 @@
       "docType": "synopsis",
       "cfdaList": [
         "15.954"
+      ]
+    },
+    {
+      "id": "364138",
+      "number": "O-NIJ-2026-172804",
+      "title": "NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "364139",
+      "number": "O-NIJ-2026-172805",
+      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "364140",
+      "number": "O-NIJ-2026-172806",
+      "title": "NIJ FY 2026 Research and Evaluation on Violent Crime: Gangs and Organized Criminal Groups (Domestic and Transnational)",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "359157",
+      "number": "PAR-27-077",
+      "title": "NIH Science Education Partnership Award (SEPA) (R25 - Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "05/05/2026",
+      "closeDate": "05/25/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.213",
+        "93.855",
+        "93.866",
+        "93.286",
+        "93.859",
+        "93.279",
+        "93.310",
+        "93.307",
+        "93.121",
+        "93.313",
+        "93.867",
+        "93.242",
+        "93.172",
+        "93.361"
       ]
     }
   ]

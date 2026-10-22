@@ -211613,17 +211613,17 @@
     }
   },
   "359157": {
-    "checked_at": "2026-10-22T15:31:45+00:00",
-    "listing_signature": "3a6cf5dba0093b80f307495e2381826b8adb77f5bb0b59f3ed2b0f38ef0623d4",
+    "checked_at": "2026-10-22T18:33:55+00:00",
+    "listing_signature": "c13e11bcc9d9c1d9832cff8c4a72730ed7f1fde9509378b94936e03b45b7ef61",
     "detail": {
       "id": 359157,
-      "revision": 4,
+      "revision": 6,
       "opportunityNumber": "PAR-27-077",
       "opportunityTitle": "NIH Science Education Partnership Award (SEPA) (R25 - Clinical Trial Not Allowed)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
       "publisherUid": "1643657692",
-      "modifiedComments": "FON and NOFO title updated to reflect the anticipated NOFO.",
+      "modifiedComments": "Updated per NOT-NR-27-001 and NOT-EY-27-004.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -211631,7 +211631,7 @@
       },
       "synopsis": {
         "opportunityId": 359157,
-        "version": 1,
+        "version": 3,
         "agencyCode": "HHS-NIH11",
         "agencyName": "National Institutes of Health",
         "agencyPhone": "301-402-2541",
@@ -211655,7 +211655,7 @@
         "agencyContactDesc": "NIGMS SEPA\nNIGMS_SEPA@mail.nih.gov",
         "agencyContactEmail": "NIGMS_SEPA@mail.nih.gov",
         "agencyContactEmailDesc": "NIGMS_SEPA@mail.nih.gov",
-        "synopsisDesc": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this NIH Science Education Partnership Award (SEPA) program is to support educational activities that increase understanding of biomedical research among pre-college (pre-kindergarten to grade12) individuals, and to encourage awareness of and continued interest in careers in science, technology, engineering, and mathematics (STEM).",
+        "synopsisDesc": "<p>The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH.&nbsp;The overarching goal of this NIH Science Education Partnership Award (SEPA) program is to support educational activities that increase understanding of biomedical research among pre-college (pre-kindergarten to grade12) individuals, and to encourage awareness of and continued interest in careers in&nbsp;science, technology, engineering, and mathematics (STEM).</p>",
         "responseDate": "May 25, 2029 12:00:00 AM EDT",
         "postingDate": "May 05, 2026 12:00:00 AM EDT",
         "archiveDate": "Jul 24, 2029 12:00:00 AM EDT",
@@ -211663,69 +211663,71 @@
         "awardCeiling": "none",
         "awardFloor": "none",
         "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility.Foreign Organizations/International Collaborations:Non-domestic (non-U.S.) Entities (Foreign Organizations) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are not allowed.",
-        "createTimeStamp": "May 05, 2026 10:16:34 AM EDT",
+        "sendEmail": "Y",
+        "createTimeStamp": "Oct 22, 2026 01:44:56 PM EDT",
+        "modComments": "Updated per NOT-NR-27-001 and NOT-EY-27-004.",
         "createdDate": "May 05, 2026 10:16:22 AM EDT",
-        "lastUpdatedDate": "May 05, 2026 10:16:22 AM EDT",
+        "lastUpdatedDate": "Oct 22, 2026 01:44:48 PM EDT",
         "applicantTypes": [
           {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
-          },
-          {
-            "id": "02",
-            "description": "City or township governments"
-          },
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "23",
+            "description": "Small businesses"
           },
           {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
           },
           {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
           }
         ],
         "fundingInstruments": [
@@ -211743,7 +211745,7 @@
         "responseDateStr": "2029-05-25-00-00-00",
         "postingDateStr": "2026-05-05-00-00-00",
         "archiveDateStr": "2029-07-24-00-00-00",
-        "createTimeStampStr": "2026-05-05-10-16-34"
+        "createTimeStampStr": "2026-10-22-13-44-56"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -211761,7 +211763,7 @@
       },
       "forecast": {
         "opportunityId": 359157,
-        "version": 4,
+        "version": 5,
         "postingDate": "May 28, 2025 12:00:00 AM EDT",
         "archiveDate": "May 04, 2026 12:00:00 AM EDT",
         "forecastDesc": "<p>The NIH Science Education Partnership Award (SEPA) program supports innovative educational activities that encourage pre-college students (pre-kindergarten to grade 12), to pursue further studies in science, technology, engineering, and mathematics (STEM), particularly in the biomedical and behavioral sciences.</p><p><br></p><p>The program will support classroom-based projects for pre-kindergarten to grade 12 (pre-college) students and teachers and informal science education (ISE) projects conducted in outside-the-classroom venues such as after-school science programs and libraries. Projects that support quantitative and computational skills development are strongly encouraged.</p>",
@@ -211771,6 +211773,7 @@
         "agencyContactEmail": "badgerje@nih.gov",
         "agencyContactEmailDesc": "badgerje@nih.gov",
         "agencyCode": "HHS-NIH11",
+        "sendEmail": "Y",
         "applicantEligibilityDesc": "",
         "estSynopsisPostingDate": "Oct 01, 2025 12:00:00 AM EDT",
         "estApplicationResponseDate": "Jul 07, 2026 12:00:00 AM EDT",
@@ -211778,10 +211781,10 @@
         "estAwardDate": "Apr 01, 2027 12:00:00 AM EDT",
         "estProjectStartDate": "Apr 01, 2027 12:00:00 AM EDT",
         "fiscalYear": 2027,
-        "modComments": "Updated Archive Date",
-        "createTimeStamp": "May 05, 2026 10:16:34 AM EDT",
+        "modComments": "Updated per NOT-NR-27-001 and NOT-EY-27-004.",
+        "createTimeStamp": "Oct 22, 2026 01:44:56 PM EDT",
         "createdDate": "May 28, 2025 08:09:13 AM EDT",
-        "lastUpdatedDate": "May 05, 2026 10:16:34 AM EDT",
+        "lastUpdatedDate": "Oct 22, 2026 01:44:56 PM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -211791,12 +211794,16 @@
         },
         "applicantTypes": [
           {
-            "id": "00",
-            "description": "State governments"
+            "id": "23",
+            "description": "Small businesses"
           },
           {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
           },
           {
             "id": "05",
@@ -211807,8 +211814,8 @@
             "description": "County governments"
           },
           {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "20",
@@ -211819,20 +211826,16 @@
             "description": "For profit organizations other than small businesses"
           },
           {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
             "id": "06",
             "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
           }
         ],
         "fundingInstruments": [
@@ -211853,27 +211856,27 @@
         "estApplicationResponseDateStr": "2026-07-07-00-00-00",
         "estAwardDateStr": "2027-04-01-00-00-00",
         "estProjectStartDateStr": "2027-04-01-00-00-00",
-        "createTimeStampStr": "2026-05-05-10-16-34"
+        "createTimeStampStr": "2026-10-22-13-44-56"
       },
       "synopsisAttachmentFolders": [
         {
-          "id": 79573,
+          "id": 81465,
           "opportunityId": 359157,
-          "folderType": "Full Announcement",
-          "folderName": "Full Announcement",
-          "zipLobSize": 30618,
-          "createdDate": "May 05, 2026 10:16:33 AM EDT",
-          "lastUpdatedDate": "May 05, 2026 10:16:34 AM EDT",
+          "folderType": "Revised Full Announcement",
+          "folderName": "Revised Full Announcement",
+          "zipLobSize": 31807,
+          "createdDate": "Oct 22, 2026 01:44:55 PM EDT",
+          "lastUpdatedDate": "Oct 22, 2026 01:44:56 PM EDT",
           "synopsisAttachments": [
             {
-              "id": 351768,
+              "id": 355349,
               "opportunityId": 359157,
               "mimeType": "text/html;charset=UTF-8",
-              "fileName": "PAR-27-077-Full-Announcement.html",
-              "fileDescription": "PAR-27-077-Full-Announcement.html",
-              "fileLobSize": 148083,
-              "createdDate": "May 05, 2026 10:16:34 AM EDT",
-              "synopsisAttFolderId": 79573
+              "fileName": "PAR-27-077-Revised-Full-Announcement.html",
+              "fileDescription": "PAR-27-077-Revised-Full-Announcement.html",
+              "fileLobSize": 152351,
+              "createdDate": "Oct 22, 2026 01:44:56 PM EDT",
+              "synopsisAttFolderId": 81465
             }
           ]
         }
@@ -211936,6 +211939,12 @@
           "programTitle": "NIH Office of Research on Women's Health"
         },
         {
+          "id": 435949,
+          "opportunityId": 359157,
+          "cfdaNumber": "93.361",
+          "programTitle": "Nursing Research"
+        },
+        {
           "id": 433127,
           "opportunityId": 359157,
           "cfdaNumber": "93.855",
@@ -211952,6 +211961,12 @@
           "opportunityId": 359157,
           "cfdaNumber": "93.866",
           "programTitle": "Aging Research"
+        },
+        {
+          "id": 435948,
+          "opportunityId": 359157,
+          "cfdaNumber": "93.867",
+          "programTitle": "Vision Research"
         },
         {
           "id": 433138,
@@ -212013,48 +212028,48 @@
             },
             "applicantTypes": [
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "00",
+                "description": "State governments"
               },
               {
                 "id": "01",
                 "description": "County governments"
               },
               {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
                 "id": "08",
                 "description": "Public housing authorities/Indian housing authorities"
               },
               {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "11",
                 "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -212080,7 +212095,7 @@
             {
               "id": 428652,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             }
@@ -212144,48 +212159,48 @@
             },
             "applicantTypes": [
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "00",
+                "description": "State governments"
               },
               {
                 "id": "01",
                 "description": "County governments"
               },
               {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
                 "id": "08",
                 "description": "Public housing authorities/Indian housing authorities"
               },
               {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "11",
                 "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -212211,7 +212226,7 @@
             {
               "id": 428652,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             }
@@ -212282,48 +212297,48 @@
             },
             "applicantTypes": [
               {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
+                "id": "00",
+                "description": "State governments"
               },
               {
                 "id": "01",
                 "description": "County governments"
               },
               {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
                 "id": "08",
                 "description": "Public housing authorities/Indian housing authorities"
               },
               {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "11",
                 "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -212349,84 +212364,84 @@
             {
               "id": 433133,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.121",
               "programTitle": "Oral Diseases and Disorders Research"
             },
             {
               "id": 433129,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.172",
               "programTitle": "Human Genome Research"
             },
             {
               "id": 433132,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.213",
               "programTitle": "Research and Training in Complementary and Integrative Health"
             },
             {
               "id": 433135,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.242",
               "programTitle": "Mental Health Research Grants"
             },
             {
               "id": 433136,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.279",
               "programTitle": "Drug Use and Addiction Research Programs"
             },
             {
               "id": 433128,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.286",
               "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
             },
             {
               "id": 433130,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.307",
               "programTitle": "Minority Health and Health Disparities Research"
             },
             {
               "id": 433134,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.310",
               "programTitle": "Trans-NIH Research Support"
             },
             {
               "id": 433137,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.313",
               "programTitle": "NIH Office of Research on Women's Health"
             },
             {
               "id": 433127,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.855",
               "programTitle": "Allergy and Infectious Diseases Research"
             },
             {
               "id": 428652,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 433131,
               "opportunityId": 359157,
-              "revision": 2,
+              "revision": 5,
               "cfdaNumber": "93.866",
               "programTitle": "Aging Research"
             }
@@ -212439,6 +212454,585 @@
             "sendEmail",
             "createTimeStamp"
           ]
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 359157,
+            "revision": 4
+          },
+          "opportunityId": 359157,
+          "revision": 4,
+          "opportunityNumber": "PAR-27-077",
+          "opportunityTitle": "NIH Science Education Partnership Award (SEPA) (R25 - Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "1643657692",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "FON and NOFO title updated to reflect the anticipated NOFO.",
+          "synopsis": {
+            "id": {
+              "opportunityId": 359157,
+              "revision": 4
+            },
+            "opportunityId": 359157,
+            "revision": 4,
+            "version": 1,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "NIGMS_SEPA@mail.nih.gov",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "NIGMS SEPA\nNIGMS_SEPA@mail.nih.gov",
+            "agencyContactEmail": "NIGMS_SEPA@mail.nih.gov",
+            "agencyContactEmailDesc": "NIGMS_SEPA@mail.nih.gov",
+            "synopsisDesc": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this NIH Science Education Partnership Award (SEPA) program is to support educational activities that increase understanding of biomedical research among pre-college (pre-kindergarten to grade12) individuals, and to encourage awareness of and continued interest in careers in science, technology, engineering, and mathematics (STEM).",
+            "responseDate": "May 25, 2029 12:00:00 AM EDT",
+            "postingDate": "May 05, 2026 12:00:00 AM EDT",
+            "archiveDate": "Jul 24, 2029 12:00:00 AM EDT",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility.Foreign Organizations/International Collaborations:Non-domestic (non-U.S.) Entities (Foreign Organizations) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are not allowed.",
+            "createTimeStamp": "May 05, 2026 10:16:34 AM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 22, 2026 01:44:48 PM EDT",
+            "createdDate": "May 05, 2026 10:16:22 AM EDT",
+            "lastUpdatedDate": "May 05, 2026 10:16:22 AM EDT",
+            "applicantTypes": [
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "responseDateStr": "2029-05-25-00-00-00",
+            "postingDateStr": "2026-05-05-00-00-00",
+            "archiveDateStr": "2029-07-24-00-00-00",
+            "createTimeStampStr": "2026-05-05-10-16-34"
+          },
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 359157,
+              "revision": 4
+            },
+            "opportunityId": 359157,
+            "revision": 4,
+            "version": 4,
+            "postingDate": "May 28, 2025 12:00:00 AM EDT",
+            "archiveDate": "May 04, 2026 12:00:00 AM EDT",
+            "forecastDesc": "<p>The NIH Science Education Partnership Award (SEPA) program supports innovative educational activities that encourage pre-college students (pre-kindergarten to grade 12), to pursue further studies in science, technology, engineering, and mathematics (STEM), particularly in the biomedical and behavioral sciences.</p><p><br></p><p>The program will support classroom-based projects for pre-kindergarten to grade 12 (pre-college) students and teachers and informal science education (ISE) projects conducted in outside-the-classroom venues such as after-school science programs and libraries. Projects that support quantitative and computational skills development are strongly encouraged.</p>",
+            "costSharing": false,
+            "agencyContactName": "Jessica Faupel-Badger\r\nNational Institute of General Medical Sciences (NIGMS)",
+            "agencyContactPhone": "301-594-0000",
+            "agencyContactEmail": "badgerje@nih.gov",
+            "agencyContactEmailDesc": "badgerje@nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "applicantEligibilityDesc": "",
+            "estSynopsisPostingDate": "Oct 01, 2025 12:00:00 AM EDT",
+            "estApplicationResponseDate": "Jul 07, 2026 12:00:00 AM EDT",
+            "estApplicationResponseDateDesc": "",
+            "estAwardDate": "Apr 01, 2027 12:00:00 AM EDT",
+            "estProjectStartDate": "Apr 01, 2027 12:00:00 AM EDT",
+            "fiscalYear": 2027,
+            "modComments": "Updated Archive Date",
+            "createTimeStamp": "May 05, 2026 10:16:34 AM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 22, 2026 01:44:48 PM EDT",
+            "createdDate": "May 28, 2025 08:09:13 AM EDT",
+            "lastUpdatedDate": "May 05, 2026 10:16:34 AM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "applicantTypes": [
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2025-05-28-00-00-00",
+            "archiveDateStr": "2026-05-04-00-00-00",
+            "estSynopsisPostingDateStr": "2025-10-01-00-00-00",
+            "estApplicationResponseDateStr": "2026-07-07-00-00-00",
+            "estAwardDateStr": "2027-04-01-00-00-00",
+            "estProjectStartDateStr": "2027-04-01-00-00-00",
+            "createTimeStampStr": "2026-05-05-10-16-34"
+          },
+          "cfdas": [
+            {
+              "id": 433133,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.121",
+              "programTitle": "Oral Diseases and Disorders Research"
+            },
+            {
+              "id": 433129,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.172",
+              "programTitle": "Human Genome Research"
+            },
+            {
+              "id": 433132,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.213",
+              "programTitle": "Research and Training in Complementary and Integrative Health"
+            },
+            {
+              "id": 433135,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.242",
+              "programTitle": "Mental Health Research Grants"
+            },
+            {
+              "id": 433136,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 433128,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.286",
+              "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+            },
+            {
+              "id": 433130,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.307",
+              "programTitle": "Minority Health and Health Disparities Research"
+            },
+            {
+              "id": 433134,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            },
+            {
+              "id": 433137,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.313",
+              "programTitle": "NIH Office of Research on Women's Health"
+            },
+            {
+              "id": 433127,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            },
+            {
+              "id": 428652,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.859",
+              "programTitle": "Biomedical Research and Research Training"
+            },
+            {
+              "id": 433131,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.866",
+              "programTitle": "Aging Research"
+            },
+            {
+              "id": 433138,
+              "opportunityId": 359157,
+              "revision": 5
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "archiveDate",
+            "modComments"
+          ]
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 359157,
+            "revision": 5
+          },
+          "opportunityId": 359157,
+          "revision": 5,
+          "opportunityNumber": "PAR-27-077",
+          "opportunityTitle": "NIH Science Education Partnership Award (SEPA) (R25 - Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "1643657692",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated per NOT-NR-27-001 and NOT-EY-27-004.",
+          "synopsis": {
+            "id": {
+              "opportunityId": 359157,
+              "revision": 5
+            },
+            "opportunityId": 359157,
+            "revision": 5,
+            "version": 2,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "NIGMS_SEPA@mail.nih.gov",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "NIGMS SEPA\nNIGMS_SEPA@mail.nih.gov",
+            "agencyContactEmail": "NIGMS_SEPA@mail.nih.gov",
+            "agencyContactEmailDesc": "NIGMS_SEPA@mail.nih.gov",
+            "synopsisDesc": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this NIH Science Education Partnership Award (SEPA) program is to support educational activities that increase understanding of biomedical research among pre-college (pre-kindergarten to grade12) individuals, and to encourage awareness of and continued interest in careers in science, technology, engineering, and mathematics (STEM).",
+            "responseDate": "May 25, 2029 12:00:00 AM EDT",
+            "postingDate": "May 05, 2026 12:00:00 AM EDT",
+            "archiveDate": "Jul 24, 2029 12:00:00 AM EDT",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Refer to Section III. Eligibility Information in the NOFO for additional information on eligibility.Foreign Organizations/International Collaborations:Non-domestic (non-U.S.) Entities (Foreign Organizations) are not eligible to apply.Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.Foreign components, as defined in the NIH Grants Policy Statement, are not allowed.",
+            "createTimeStamp": "Oct 22, 2026 01:44:48 PM EDT",
+            "sendEmail": "Y",
+            "modComments": "Updated per NOT-NR-27-001 and NOT-EY-27-004.",
+            "actionType": "U",
+            "actionDate": "Oct 22, 2026 01:44:48 PM EDT",
+            "createdDate": "May 05, 2026 10:16:22 AM EDT",
+            "lastUpdatedDate": "Oct 22, 2026 01:44:48 PM EDT",
+            "applicantTypes": [
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "responseDateStr": "2029-05-25-00-00-00",
+            "postingDateStr": "2026-05-05-00-00-00",
+            "archiveDateStr": "2029-07-24-00-00-00",
+            "createTimeStampStr": "2026-10-22-13-44-48"
+          },
+          "cfdas": [
+            {
+              "id": 433133,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.121",
+              "programTitle": "Oral Diseases and Disorders Research"
+            },
+            {
+              "id": 433129,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.172",
+              "programTitle": "Human Genome Research"
+            },
+            {
+              "id": 433132,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.213",
+              "programTitle": "Research and Training in Complementary and Integrative Health"
+            },
+            {
+              "id": 433135,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.242",
+              "programTitle": "Mental Health Research Grants"
+            },
+            {
+              "id": 433136,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 433128,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.286",
+              "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+            },
+            {
+              "id": 433130,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.307",
+              "programTitle": "Minority Health and Health Disparities Research"
+            },
+            {
+              "id": 433134,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            },
+            {
+              "id": 433137,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.313",
+              "programTitle": "NIH Office of Research on Women's Health"
+            },
+            {
+              "id": 435949,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.361",
+              "programTitle": "Nursing Research"
+            },
+            {
+              "id": 433127,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            },
+            {
+              "id": 428652,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.859",
+              "programTitle": "Biomedical Research and Research Training"
+            },
+            {
+              "id": 433131,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.866",
+              "programTitle": "Aging Research"
+            },
+            {
+              "id": 435948,
+              "opportunityId": 359157,
+              "revision": 5,
+              "cfdaNumber": "93.867",
+              "programTitle": "Vision Research"
+            },
+            {
+              "id": 433138,
+              "opportunityId": 359157,
+              "revision": 5
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "cfdas",
+            "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
         }
       ],
       "opportunityPkgs": [
@@ -212486,18 +213080,24 @@
       ],
       "closedOpportunityPkgs": [],
       "originalDueDate": "May 25, 2029 12:00:00 AM EDT",
-      "synopsisModifiedFields": [],
+      "synopsisModifiedFields": [
+        "revision",
+        "version",
+        "synopsisDesc"
+      ],
       "forecastModifiedFields": [
         "revision",
         "version",
-        "archiveDate",
-        "modComments"
+        "cfdas",
+        "sendEmail",
+        "modComments",
+        "createTimeStamp"
       ],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "synopsis",
-      "forecastHistCount": 3,
-      "synopsisHistCount": 0,
+      "forecastHistCount": 4,
+      "synopsisHistCount": 2,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
@@ -459293,6 +459893,651 @@
       "closedOpportunityPkgs": [],
       "originalDueDate": "Nov 20, 2026 12:00:00 AM EST",
       "originalDueDateDesc": "",
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "synopsis",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "POSTED"
+    }
+  },
+  "364138": {
+    "checked_at": "2026-10-22T18:33:52+00:00",
+    "listing_signature": "c743a68ebc316b6233fd94d56984faa5692c5f8942d393ce09834a4ef68defd1",
+    "detail": {
+      "id": 364138,
+      "revision": 0,
+      "opportunityNumber": "O-NIJ-2026-172804",
+      "opportunityTitle": "NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals",
+      "owningAgencyCode": "USDOJ-OJP-NIJ",
+      "listed": "L",
+      "publisherUid": "ojpusernij",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 364138,
+        "version": 1,
+        "agencyCode": "USDOJ-OJP-NIJ",
+        "agencyName": "National Institute of Justice",
+        "agencyPhone": "202-616-5314",
+        "agencyAddressDesc": "Agency POC",
+        "agencyDetails": {
+          "code": "NIJ",
+          "seed": "USDOJ-OJP-NIJ",
+          "agencyName": "National Institute of Justice",
+          "agencyCode": "USDOJ-OJP-NIJ",
+          "topAgencyCode": "USDOJ"
+        },
+        "topAgencyDetails": {
+          "code": "USDOJ",
+          "seed": "USDOJ",
+          "agencyName": "Department of Justice",
+          "agencyCode": "USDOJ",
+          "topAgencyCode": "USDOJ"
+        },
+        "agencyContactPhone": "202-616-5314",
+        "agencyContactName": "National Institute of Justice",
+        "agencyContactDesc": "For assistance with the requirements of this funding opportunity, please contact OJP Response Center at Phone: 800-851-3420 or 202-353-5556 (TTY for hearing-impaired callers only) or Email: OJP.ResponseCenter@usdoj.gov. Hours of operation are: 9:00 a.m.&ndash;5:00 p.m. ET, Monday&ndash;Friday. OJP.ResponseCenter@usdoj.gov\nOJP.ResponseCenter@usdoj.gov",
+        "agencyContactEmail": "OJP.ResponseCenter@usdoj.gov",
+        "agencyContactEmailDesc": "Agency POC",
+        "synopsisDesc": "This is a notice of funding opportunity (NOFO) for the NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals. This opportunity seeks to improve knowledge and understanding of relevant issues through science. Under this NOFO, NIJ is seeking proposals to address one or more of the following topic areas:\n1.\tResearch examining the role of emerging technologies in fraud and exploitation, including technology-enabled approaches to enhance detection and investigation.\n2.\tForensic research to inform and strengthen the investigation and prosecution of elder abuse cases.\n3.\tEvaluation of programs that seek to prevent, intervene in, or respond to the abuse, neglect, and financial exploitation of older adults.\n4.\tResearch to inform the development of effective education and intervention programs that address financial fraud against older adults.\nApplications proposing research projects not addressing one of these four areas will not be considered.",
+        "responseDate": "Nov 30, 2026 12:00:00 AM EST",
+        "fundingDescLinkUrl": "https://nij.ojp.gov/funding/opportunities/o-nij-2026-172804",
+        "fundingDescLinkDesc": "Full Announcement",
+        "postingDate": "Oct 22, 2026 12:00:00 AM EDT",
+        "costSharing": false,
+        "numberOfAwards": "3",
+        "estimatedFunding": "1800000",
+        "estimatedFundingFormatted": "1,800,000",
+        "awardCeiling": "1800000",
+        "awardCeilingFormatted": "1,800,000",
+        "awardFloor": "0",
+        "awardFloorFormatted": "0",
+        "createTimeStamp": "Oct 22, 2026 11:40:33 AM EDT",
+        "createdDate": "Oct 22, 2026 11:40:33 AM EDT",
+        "lastUpdatedDate": "Oct 22, 2026 11:40:33 AM EDT",
+        "applicantTypes": [
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "G",
+            "description": "Grant"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ST",
+            "description": "Science and Technology and other Research and Development"
+          }
+        ],
+        "responseDateStr": "2026-11-30-00-00-00",
+        "postingDateStr": "2026-10-22-00-00-00",
+        "createTimeStampStr": "2026-10-22-11-40-33"
+      },
+      "agencyDetails": {
+        "code": "NIJ",
+        "seed": "USDOJ-OJP-NIJ",
+        "agencyName": "National Institute of Justice",
+        "agencyCode": "USDOJ-OJP-NIJ",
+        "topAgencyCode": "USDOJ"
+      },
+      "topAgencyDetails": {
+        "code": "USDOJ",
+        "seed": "USDOJ",
+        "agencyName": "Department of Justice",
+        "agencyCode": "USDOJ",
+        "topAgencyCode": "USDOJ"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435944,
+          "opportunityId": 364138,
+          "cfdaNumber": "16.560",
+          "programTitle": "National Institute of Justice Research, Evaluation, and Development Project Grants"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [
+        {
+          "id": 294440,
+          "topportunityId": 364138,
+          "familyId": 15,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "O-NIJ-2026-172804",
+          "opportunityTitle": "NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals",
+          "cfdaNumber": "16.560",
+          "openingDate": "2026-10-22",
+          "closingDate": "2026-11-30",
+          "owningAgencyCode": "USDOJ-OJP-NIJ",
+          "agencyDetails": {
+            "code": "NIJ",
+            "seed": "USDOJ-OJP-NIJ",
+            "agencyName": "National Institute of Justice",
+            "agencyCode": "USDOJ-OJP-NIJ",
+            "topAgencyCode": "USDOJ"
+          },
+          "topAgencyDetails": {
+            "code": "USDOJ",
+            "seed": "USDOJ",
+            "agencyName": "Department of Justice",
+            "agencyCode": "USDOJ",
+            "topAgencyCode": "USDOJ"
+          },
+          "programTitle": "National Institute of Justice Research, Evaluation, and Development Project Grants",
+          "contactInfo": "OJP Response Center",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 100,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 22, 2026 11:40:45 AM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294440",
+          "openingDateStr": "2026-10-22-00-00-00",
+          "closingDateStr": "2026-11-30-00-00-00"
+        }
+      ],
+      "closedOpportunityPkgs": [],
+      "originalDueDate": "Nov 30, 2026 12:00:00 AM EST",
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "synopsis",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "POSTED"
+    }
+  },
+  "364139": {
+    "checked_at": "2026-10-22T18:33:53+00:00",
+    "listing_signature": "c33ee42413e657955b70e01e368587dd24fbfbe28ab7ccb20ba14bf1add258ad",
+    "detail": {
+      "id": 364139,
+      "revision": 0,
+      "opportunityNumber": "O-NIJ-2026-172805",
+      "opportunityTitle": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
+      "owningAgencyCode": "USDOJ-OJP-NIJ",
+      "listed": "L",
+      "publisherUid": "ojpusernij",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 364139,
+        "version": 1,
+        "agencyCode": "USDOJ-OJP-NIJ",
+        "agencyName": "National Institute of Justice",
+        "agencyPhone": "202-616-5314",
+        "agencyAddressDesc": "Agency POC",
+        "agencyDetails": {
+          "code": "NIJ",
+          "seed": "USDOJ-OJP-NIJ",
+          "agencyName": "National Institute of Justice",
+          "agencyCode": "USDOJ-OJP-NIJ",
+          "topAgencyCode": "USDOJ"
+        },
+        "topAgencyDetails": {
+          "code": "USDOJ",
+          "seed": "USDOJ",
+          "agencyName": "Department of Justice",
+          "agencyCode": "USDOJ",
+          "topAgencyCode": "USDOJ"
+        },
+        "agencyContactPhone": "202-616-5314",
+        "agencyContactName": "National Institute of Justice",
+        "agencyContactDesc": "For assistance with the requirements of this funding opportunity, please contact OJP Response Center at Phone: 800-851-3420 or 202-353-5556 (TTY for hearing-impaired callers only) or Email: OJP.ResponseCenter@usdoj.gov. Hours of operation are: 9:00 a.m.&ndash;5:00 p.m. ET, Monday&ndash;Friday. OJP.ResponseCenter@usdoj.gov\nOJP.ResponseCenter@usdoj.gov",
+        "agencyContactEmail": "OJP.ResponseCenter@usdoj.gov",
+        "agencyContactEmailDesc": "Agency POC",
+        "synopsisDesc": "This is a notice of funding opportunity (NOFO) for the NIJ FY 2026 Research and Evaluation on Drones as First Responders. This opportunity seeks proposals for rigorous evaluations of implementations of drone technology to combat violent crime, immigration enforcement, and other law enforcement activities. \nThe goal of this NOFO is to provide actionable information about police implementation of small drones through a collaboration between law enforcement agencies and researchers. NIJ welcomes research and evaluation of drones as first responders (DFR) capabilities, including evaluation of existing capabilities or pilot programs at police departments already using DFR, as well as implementation of new pilot programs or demonstrations. NIJ expects research entities and law enforcement agencies to collaborate on implementing DFR and evaluating operational performance. Law enforcement agencies participating in evaluations will have the option to retain any DFR technology purchased through the NOFO at the study’s conclusion.",
+        "responseDate": "Nov 30, 2026 12:00:00 AM EST",
+        "fundingDescLinkUrl": "https://nij.ojp.gov/funding/opportunities/o-nij-2026-172805",
+        "fundingDescLinkDesc": "Full Announcement",
+        "postingDate": "Oct 22, 2026 12:00:00 AM EDT",
+        "costSharing": false,
+        "numberOfAwards": "6",
+        "estimatedFunding": "3500000",
+        "estimatedFundingFormatted": "3,500,000",
+        "awardCeiling": "3500000",
+        "awardCeilingFormatted": "3,500,000",
+        "awardFloor": "0",
+        "awardFloorFormatted": "0",
+        "applicantEligibilityDesc": "Other Units of Local Government",
+        "createTimeStamp": "Oct 22, 2026 12:12:08 PM EDT",
+        "createdDate": "Oct 22, 2026 12:12:08 PM EDT",
+        "lastUpdatedDate": "Oct 22, 2026 12:12:08 PM EDT",
+        "applicantTypes": [
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "G",
+            "description": "Grant"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ST",
+            "description": "Science and Technology and other Research and Development"
+          }
+        ],
+        "responseDateStr": "2026-11-30-00-00-00",
+        "postingDateStr": "2026-10-22-00-00-00",
+        "createTimeStampStr": "2026-10-22-12-12-08"
+      },
+      "agencyDetails": {
+        "code": "NIJ",
+        "seed": "USDOJ-OJP-NIJ",
+        "agencyName": "National Institute of Justice",
+        "agencyCode": "USDOJ-OJP-NIJ",
+        "topAgencyCode": "USDOJ"
+      },
+      "topAgencyDetails": {
+        "code": "USDOJ",
+        "seed": "USDOJ",
+        "agencyName": "Department of Justice",
+        "agencyCode": "USDOJ",
+        "topAgencyCode": "USDOJ"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435945,
+          "opportunityId": 364139,
+          "cfdaNumber": "16.560",
+          "programTitle": "National Institute of Justice Research, Evaluation, and Development Project Grants"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [
+        {
+          "id": 294441,
+          "topportunityId": 364139,
+          "familyId": 15,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "O-NIJ-2026-172805",
+          "opportunityTitle": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
+          "cfdaNumber": "16.560",
+          "openingDate": "2026-10-22",
+          "closingDate": "2026-11-30",
+          "owningAgencyCode": "USDOJ-OJP-NIJ",
+          "agencyDetails": {
+            "code": "NIJ",
+            "seed": "USDOJ-OJP-NIJ",
+            "agencyName": "National Institute of Justice",
+            "agencyCode": "USDOJ-OJP-NIJ",
+            "topAgencyCode": "USDOJ"
+          },
+          "topAgencyDetails": {
+            "code": "USDOJ",
+            "seed": "USDOJ",
+            "agencyName": "Department of Justice",
+            "agencyCode": "USDOJ",
+            "topAgencyCode": "USDOJ"
+          },
+          "programTitle": "National Institute of Justice Research, Evaluation, and Development Project Grants",
+          "contactInfo": "OJP Response Center",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 50,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 22, 2026 12:12:20 PM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294441",
+          "openingDateStr": "2026-10-22-00-00-00",
+          "closingDateStr": "2026-11-30-00-00-00"
+        }
+      ],
+      "closedOpportunityPkgs": [],
+      "originalDueDate": "Nov 30, 2026 12:00:00 AM EST",
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "synopsis",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "POSTED"
+    }
+  },
+  "364140": {
+    "checked_at": "2026-10-22T18:33:54+00:00",
+    "listing_signature": "652d31eac7a98cad9223b305acf3070b71f9e1a5ed5cb56992e6f9a287a2db18",
+    "detail": {
+      "id": 364140,
+      "revision": 0,
+      "opportunityNumber": "O-NIJ-2026-172806",
+      "opportunityTitle": "NIJ FY 2026 Research and Evaluation on Violent Crime: Gangs and Organized Criminal Groups (Domestic and Transnational)",
+      "owningAgencyCode": "USDOJ-OJP-NIJ",
+      "listed": "L",
+      "publisherUid": "ojpusernij",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 364140,
+        "version": 1,
+        "agencyCode": "USDOJ-OJP-NIJ",
+        "agencyName": "National Institute of Justice",
+        "agencyPhone": "202-616-5314",
+        "agencyAddressDesc": "Agency POC",
+        "agencyDetails": {
+          "code": "NIJ",
+          "seed": "USDOJ-OJP-NIJ",
+          "agencyName": "National Institute of Justice",
+          "agencyCode": "USDOJ-OJP-NIJ",
+          "topAgencyCode": "USDOJ"
+        },
+        "topAgencyDetails": {
+          "code": "USDOJ",
+          "seed": "USDOJ",
+          "agencyName": "Department of Justice",
+          "agencyCode": "USDOJ",
+          "topAgencyCode": "USDOJ"
+        },
+        "agencyContactPhone": "202-616-5314",
+        "agencyContactName": "National Institute of Justice",
+        "agencyContactDesc": "For assistance with the requirements of this funding opportunity, please contact OJP Response Center at Phone: 800-851-3420 or 202-353-5556 (TTY for hearing-impaired callers only) or Email: OJP.ResponseCenter@usdoj.gov. Hours of operation are: 9:00 a.m.&ndash;5:00 p.m. ET, Monday&ndash;Friday.\nOJP.ResponseCenter@usdoj.gov",
+        "agencyContactEmail": "OJP.ResponseCenter@usdoj.gov",
+        "agencyContactEmailDesc": "Agency POC",
+        "synopsisDesc": "This is a notice of funding opportunity (NOFO) for NIJ FY 2026 Research and Evaluation on Violent Crime: Gangs and Organized Criminal Groups (Domestic and Transnational). This opportunity supports research and evaluation proposals on gang and organized criminal group-related violent crime, including domestic and transnational. Projects funded through this NOFO will study topics that inform law enforcement strategies and operations to effectuate EO 14157, “Designating Cartels And Other Organizations As Foreign Terrorist Organizations And Specially Designated Global Terrorist;” Chapter 4 of the 2026 National Drug Control Strategy, “Global Campaign Against Transnational Criminal Threats;” and other related threats, including those posed by firearm, human, and other trafficking-related violence.\nNIJ seeks rigorous evaluations of new or existing strategies intended to reduce violent crime associated with gangs and organized criminal groups or networks and are led by or collaborate with law enforcement agencies. Evaluations should consider how individual, group, organizational, situational, or other relevant contextual factors interact with the strategies being studied.\nNIJ encourages evaluation designs such as randomized controlled trials (when feasible), mixed methods research, quasi-experimental designs, matched comparisons, and other appropriate methodologies. Process evaluations should be incorporated to support interpretation of program implementation and outcomes. Outcome evaluations must focus on violent crime measures such as murder, aggravated assault, and robbery along with relevant intermediate and process outcomes. Multi-site and cross-jurisdictional evaluations are encouraged.",
+        "responseDate": "Nov 30, 2026 12:00:00 AM EST",
+        "fundingDescLinkUrl": "https://nij.ojp.gov/funding/opportunities/o-nij-2026-172806",
+        "fundingDescLinkDesc": "Full Announcement",
+        "postingDate": "Oct 22, 2026 12:00:00 AM EDT",
+        "costSharing": false,
+        "numberOfAwards": "5",
+        "estimatedFunding": "3000000",
+        "estimatedFundingFormatted": "3,000,000",
+        "awardCeiling": "3000000",
+        "awardCeilingFormatted": "3,000,000",
+        "awardFloor": "0",
+        "awardFloorFormatted": "0",
+        "createTimeStamp": "Oct 22, 2026 12:57:25 PM EDT",
+        "createdDate": "Oct 22, 2026 12:57:25 PM EDT",
+        "lastUpdatedDate": "Oct 22, 2026 12:57:25 PM EDT",
+        "applicantTypes": [
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "G",
+            "description": "Grant"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ST",
+            "description": "Science and Technology and other Research and Development"
+          }
+        ],
+        "responseDateStr": "2026-11-30-00-00-00",
+        "postingDateStr": "2026-10-22-00-00-00",
+        "createTimeStampStr": "2026-10-22-12-57-25"
+      },
+      "agencyDetails": {
+        "code": "NIJ",
+        "seed": "USDOJ-OJP-NIJ",
+        "agencyName": "National Institute of Justice",
+        "agencyCode": "USDOJ-OJP-NIJ",
+        "topAgencyCode": "USDOJ"
+      },
+      "topAgencyDetails": {
+        "code": "USDOJ",
+        "seed": "USDOJ",
+        "agencyName": "Department of Justice",
+        "agencyCode": "USDOJ",
+        "topAgencyCode": "USDOJ"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435946,
+          "opportunityId": 364140,
+          "cfdaNumber": "16.560",
+          "programTitle": "National Institute of Justice Research, Evaluation, and Development Project Grants"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [
+        {
+          "id": 294442,
+          "topportunityId": 364140,
+          "familyId": 15,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "O-NIJ-2026-172806",
+          "opportunityTitle": "NIJ FY 2026 Research and Evaluation on Violent Crime: Gangs and Organized Criminal Groups (Domestic and Transnational)",
+          "cfdaNumber": "16.560",
+          "openingDate": "2026-10-22",
+          "closingDate": "2026-11-30",
+          "owningAgencyCode": "USDOJ-OJP-NIJ",
+          "agencyDetails": {
+            "code": "NIJ",
+            "seed": "USDOJ-OJP-NIJ",
+            "agencyName": "National Institute of Justice",
+            "agencyCode": "USDOJ-OJP-NIJ",
+            "topAgencyCode": "USDOJ"
+          },
+          "topAgencyDetails": {
+            "code": "USDOJ",
+            "seed": "USDOJ",
+            "agencyName": "Department of Justice",
+            "agencyCode": "USDOJ",
+            "topAgencyCode": "USDOJ"
+          },
+          "programTitle": "National Institute of Justice Research, Evaluation, and Development Project Grants",
+          "contactInfo": "OJP Response Center",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 100,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 22, 2026 12:57:38 PM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294442",
+          "openingDateStr": "2026-10-22-00-00-00",
+          "closingDateStr": "2026-11-30-00-00-00"
+        }
+      ],
+      "closedOpportunityPkgs": [],
+      "originalDueDate": "Nov 30, 2026 12:00:00 AM EST",
       "synopsisModifiedFields": [],
       "forecastModifiedFields": [],
       "errorMessages": [],
