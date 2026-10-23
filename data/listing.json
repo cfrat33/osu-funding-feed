@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T15:32:39+00:00",
+  "checked_at": "2026-10-23T18:50:55+00:00",
   "complete": true,
   "records": [
     {
@@ -9698,20 +9698,6 @@
       ]
     },
     {
-      "id": "363533",
-      "number": "HRSA-27-033",
-      "title": "Healthy Tomorrows Partnership for Children Program (HTPCP)",
-      "agencyCode": "HHS-HRSA",
-      "agency": "Health Resources and Services Administration",
-      "openDate": "08/11/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.110"
-      ]
-    },
-    {
       "id": "363512",
       "number": "HRSA-27-021",
       "title": "Infant-Toddler Court Program&ndash;State Awards",
@@ -15512,20 +15498,6 @@
       ]
     },
     {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agencyCode": "SBA",
-      "agency": "Small Business Administration",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "59.037"
-      ]
-    },
-    {
       "id": "361159",
       "number": "PA-27-036",
       "title": "NIH Research Education Program - Research Experiences (Parent R25 - Clinical Trial Not Allowed)",
@@ -15762,6 +15734,34 @@
       "cfdaList": [
         "93.859",
         "47.075"
+      ]
+    },
+    {
+      "id": "363533",
+      "number": "HRSA-27-033",
+      "title": "Healthy Tomorrows Partnership for Children Program (HTPCP)",
+      "agencyCode": "HHS-HRSA",
+      "agency": "Health Resources and Services Administration",
+      "openDate": "08/11/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.110"
+      ]
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "agencyCode": "SBA",
+      "agency": "Small Business Administration",
+      "openDate": "10/20/2026",
+      "closeDate": "11/19/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "59.037"
       ]
     }
   ]
