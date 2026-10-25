@@ -1,28 +1,5 @@
 [
   {
-    "started_at": "2026-10-22T15:31:14+00:00",
-    "schedule": "Every 3 hours, best effort",
-    "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
-    "status": "success",
-    "errors": [],
-    "source_listing_count": 995,
-    "details_due": 911,
-    "finished_at": "2026-10-22T15:46:29+00:00",
-    "request_count": 916,
-    "elapsed_seconds": 915.7,
-    "details_checked": 911,
-    "excluded_test_records": 0,
-    "coverage": {
-      "listing_complete": true,
-      "listed_records": 995,
-      "detailed_active_records": 995,
-      "pending_detail_records": 0,
-      "details_checked_this_run": 911,
-      "details_due_this_run": 911,
-      "detail_refresh_ttl_hours": 24
-    }
-  },
-  {
     "started_at": "2026-10-22T18:33:47+00:00",
     "schedule": "Every 3 hours, best effort",
     "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
@@ -548,6 +525,29 @@
       "pending_detail_records": 0,
       "details_checked_this_run": 0,
       "details_due_this_run": 0,
+      "detail_refresh_ttl_hours": 24
+    }
+  },
+  {
+    "started_at": "2026-10-25T15:26:24+00:00",
+    "schedule": "Every 3 hours, best effort",
+    "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
+    "status": "success",
+    "errors": [],
+    "source_listing_count": 989,
+    "details_due": 14,
+    "finished_at": "2026-10-25T15:26:42+00:00",
+    "request_count": 19,
+    "elapsed_seconds": 18.4,
+    "details_checked": 14,
+    "excluded_test_records": 0,
+    "coverage": {
+      "listing_complete": true,
+      "listed_records": 989,
+      "detailed_active_records": 989,
+      "pending_detail_records": 0,
+      "details_checked_this_run": 14,
+      "details_due_this_run": 14,
       "detail_refresh_ttl_hours": 24
     }
   }
