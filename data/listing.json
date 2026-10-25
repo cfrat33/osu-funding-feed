@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T03:36:33+00:00",
+  "checked_at": "2026-10-25T06:41:48+00:00",
   "complete": true,
   "records": [
     {
@@ -13345,20 +13345,6 @@
         "93.233",
         "93.837",
         "93.839"
-      ]
-    },
-    {
-      "id": "363714",
-      "number": "F26AS00107",
-      "title": "FY2026 Implementation of the Quagga and Zebra Mussel Action Plan (QZAP) in the Western United States",
-      "agencyCode": "DOI-FWS",
-      "agency": "Fish and Wildlife Service",
-      "openDate": "08/25/2026",
-      "closeDate": "10/24/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "15.608"
       ]
     },
     {
