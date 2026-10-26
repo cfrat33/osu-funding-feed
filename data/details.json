@@ -445974,16 +445974,17 @@
     }
   },
   "358886": {
-    "checked_at": "2026-10-26T01:13:54+00:00",
-    "listing_signature": "6478860a943239955d730f9f0a1ad9f404f951f058d9c89e0065d9e618f1e8f6",
+    "checked_at": "2026-10-26T14:07:18+00:00",
+    "listing_signature": "2906145e217f4b802ad15a681f0e46bed0894d3e7e4c021dcf517def92a7e336",
     "detail": {
       "id": 358886,
-      "revision": 0,
-      "opportunityNumber": "FOR-EB-26-001",
-      "opportunityTitle": "Notice of Intent to Publish a Funding Opportunity Announcement for Trailblazer Award for New and Early-Stage Investigators (R21 Clinical Trial Optional)",
+      "revision": 2,
+      "opportunityNumber": "PAR-27-120",
+      "opportunityTitle": "Trailblazer Award for New and Early Stage Investigators (R21 Clinical Trial Optional)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
-      "publisherUid": "waltemi",
+      "publisherUid": "1643657692",
+      "modifiedComments": "This NOFO will not be published. The Forecast is being archived.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -446005,26 +446006,27 @@
       },
       "forecast": {
         "opportunityId": 358886,
-        "version": 1,
+        "version": 3,
         "postingDate": "Jun 11, 2025 12:00:00 AM EDT",
-        "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The National Institute of Biomedical Imaging and Bioengineering, with the National Eye Institute, the National Institute on Aging, the National Cancer Institute, and the National Center for Complementary and Integrative Health intend to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Trailblazer Award.&nbsp;This is an opportunity for NIH-defined New and Early Stage Investigators (https://grants.nih.gov/policy/early-investigators/index.htm) to pursue research programs that integrate engineering and the physical sciences with the life and/or biomedical sciences. A Trailblazer project may be exploratory, developmental, proof of concept, or high-risk high-impact, and may be technology design-directed, discovery-driven, or hypothesis-driven. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.&nbsp;This NOFO will utilize the R21 activity code. Investigators with expertise and insights into the application of principles and techniques from engineering and quantitative sciences, such as physics, mathematics, chemistry, and computer sciences are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in trans-disciplinary research approaches with the potential to open new areas of biomedical investigation will be encouraged and these investigators should also begin considering applying for this application.&nbsp;</span></p>",
+        "archiveDate": "Oct 27, 2026 12:00:00 AM EDT",
+        "forecastDesc": "<p style=\"margin-left:0px;\">This Trailblazer Award is an opportunity for NIH-defined New and Early Stage Investigators (<a href=\"https://grants.nih.gov/policy/early-investigators/index.htm\">https://grants.nih.gov/policy/early-investigators/index.htm</a>) to pursue research programs that integrate engineering and the physical sciences with the life and/or biomedical sciences. A Trailblazer project may be exploratory, developmental, proof of concept, or high risk-high impact, and may be technology design-directed, discovery-driven, or hypothesis-driven. Importantly, applicants must propose research approaches for which there are minimal or no preliminary data.</p>",
         "costSharing": false,
-        "agencyContactName": "Randy King\r\nNational Institute of Biomedical Imaging and Bioengineering (NIBIB)",
-        "agencyContactPhone": "301-451-0707",
-        "agencyContactEmail": "Randy.King@nih.gov",
-        "agencyContactEmailDesc": "Randy.King@nih.gov",
+        "agencyContactName": "NIBIB_R21",
+        "agencyContactPhone": "Please contact via e-mail",
+        "agencyContactEmail": "NIBIB_R21@nih.gov",
+        "agencyContactEmailDesc": "NIBIB_R21@nih.gov",
         "agencyCode": "HHS-NIH11",
         "sendEmail": "Y",
-        "applicantEligibilityDesc": "",
-        "estSynopsisPostingDate": "Nov 21, 2025 12:00:00 AM EST",
-        "estApplicationResponseDate": "Feb 16, 2026 12:00:00 AM EST",
-        "estApplicationResponseDateDesc": "",
-        "estAwardDate": "Oct 01, 2026 12:00:00 AM EDT",
-        "estProjectStartDate": "Dec 01, 2026 12:00:00 AM EST",
+        "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+        "estSynopsisPostingDate": "May 16, 2026 12:00:00 AM EDT",
+        "estApplicationResponseDate": "Jun 16, 2026 12:00:00 AM EDT",
+        "estAwardDate": "Mar 16, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Apr 16, 2027 12:00:00 AM EDT",
         "fiscalYear": 2026,
-        "createTimeStamp": "Jun 11, 2025 04:17:58 PM EDT",
+        "modComments": "This NOFO will not be published. The Forecast is being archived.",
+        "createTimeStamp": "Oct 26, 2026 08:56:32 AM EDT",
         "createdDate": "May 09, 2025 09:30:13 AM EDT",
-        "lastUpdatedDate": "Jun 11, 2025 04:17:58 PM EDT",
+        "lastUpdatedDate": "Oct 26, 2026 08:56:32 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -446034,20 +446036,44 @@
         },
         "applicantTypes": [
           {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "01",
             "description": "County governments"
           },
           {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
             "id": "11",
@@ -446058,24 +446084,16 @@
             "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "05",
+            "description": "Independent school districts"
           },
           {
             "id": "00",
             "description": "State governments"
           },
           {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -446091,32 +446109,419 @@
           }
         ],
         "postingDateStr": "2025-06-11-00-00-00",
-        "estSynopsisPostingDateStr": "2025-11-21-00-00-00",
-        "estApplicationResponseDateStr": "2026-02-16-00-00-00",
-        "estAwardDateStr": "2026-10-01-00-00-00",
-        "estProjectStartDateStr": "2026-12-01-00-00-00",
-        "createTimeStampStr": "2025-06-11-16-17-58"
+        "archiveDateStr": "2026-10-27-00-00-00",
+        "estSynopsisPostingDateStr": "2026-05-16-00-00-00",
+        "estApplicationResponseDateStr": "2026-06-16-00-00-00",
+        "estAwardDateStr": "2027-03-16-00-00-00",
+        "estProjectStartDateStr": "2027-04-16-00-00-00",
+        "createTimeStampStr": "2026-10-26-08-56-32"
       },
       "synopsisAttachmentFolders": [],
       "synopsisDocumentURLs": [],
       "synAttChangeComments": [],
       "cfdas": [
         {
+          "id": 435975,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.113",
+          "programTitle": "Environmental Health"
+        },
+        {
+          "id": 435979,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.121",
+          "programTitle": "Oral Diseases and Disorders Research"
+        },
+        {
+          "id": 435976,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.143",
+          "programTitle": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
+        },
+        {
+          "id": 435972,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.213",
+          "programTitle": "Research and Training in Complementary and Integrative Health"
+        },
+        {
           "id": 428338,
           "opportunityId": 358886,
           "cfdaNumber": "93.286",
           "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+          "id": 435969,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.310",
+          "programTitle": "Trans-NIH Research Support"
+        },
+        {
+          "id": 435974,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.313",
+          "programTitle": "NIH Office of Research on Women's Health"
+        },
+        {
+          "id": 435967,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.393",
+          "programTitle": "Cancer Cause and Prevention Research"
+        },
+        {
+          "id": 435971,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.394",
+          "programTitle": "Cancer Detection and Diagnosis Research"
+        },
+        {
+          "id": 435978,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.395",
+          "programTitle": "Cancer Treatment Research"
+        },
+        {
+          "id": 435973,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.396",
+          "programTitle": "Cancer Biology Research"
+        },
+        {
+          "id": 435970,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.399",
+          "programTitle": "Cancer Control"
+        },
+        {
+          "id": 435977,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.480",
+          "programTitle": "Complementary and Integrative Health - SBIR/STTR"
+        },
+        {
+          "id": 435968,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.543",
+          "programTitle": "Vision Research - Research Projects"
+        },
+        {
+          "id": 435966,
+          "opportunityId": 358886,
+          "cfdaNumber": "93.866",
+          "programTitle": "Aging Research"
         }
       ],
-      "opportunityHistoryDetails": [],
+      "opportunityHistoryDetails": [
+        {
+          "oppHistId": {
+            "opportunityId": 358886,
+            "revision": 0
+          },
+          "opportunityId": 358886,
+          "revision": 0,
+          "opportunityNumber": "FOR-EB-26-001",
+          "opportunityTitle": "Notice of Intent to Publish a Funding Opportunity Announcement for Trailblazer Award for New and Early-Stage Investigators (R21 Clinical Trial Optional)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "waltemi",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 358886,
+              "revision": 0
+            },
+            "opportunityId": 358886,
+            "revision": 0,
+            "version": 1,
+            "postingDate": "Jun 11, 2025 12:00:00 AM EDT",
+            "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The National Institute of Biomedical Imaging and Bioengineering, with the National Eye Institute, the National Institute on Aging, the National Cancer Institute, and the National Center for Complementary and Integrative Health intend to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the Trailblazer Award.&nbsp;This is an opportunity for NIH-defined New and Early Stage Investigators (https://grants.nih.gov/policy/early-investigators/index.htm) to pursue research programs that integrate engineering and the physical sciences with the life and/or biomedical sciences. A Trailblazer project may be exploratory, developmental, proof of concept, or high-risk high-impact, and may be technology design-directed, discovery-driven, or hypothesis-driven. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.&nbsp;This NOFO will utilize the R21 activity code. Investigators with expertise and insights into the application of principles and techniques from engineering and quantitative sciences, such as physics, mathematics, chemistry, and computer sciences are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in trans-disciplinary research approaches with the potential to open new areas of biomedical investigation will be encouraged and these investigators should also begin considering applying for this application.&nbsp;</span></p>",
+            "costSharing": false,
+            "agencyContactName": "Randy King\r\nNational Institute of Biomedical Imaging and Bioengineering (NIBIB)",
+            "agencyContactPhone": "301-451-0707",
+            "agencyContactEmail": "Randy.King@nih.gov",
+            "agencyContactEmailDesc": "Randy.King@nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "Y",
+            "applicantEligibilityDesc": "",
+            "estSynopsisPostingDate": "Nov 21, 2025 12:00:00 AM EST",
+            "estApplicationResponseDate": "Feb 16, 2026 12:00:00 AM EST",
+            "estApplicationResponseDateDesc": "",
+            "estAwardDate": "Oct 01, 2026 12:00:00 AM EDT",
+            "estProjectStartDate": "Dec 01, 2026 12:00:00 AM EST",
+            "fiscalYear": 2026,
+            "createTimeStamp": "Jun 11, 2025 04:17:58 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 26, 2026 08:56:32 AM EDT",
+            "createdDate": "May 09, 2025 09:30:13 AM EDT",
+            "lastUpdatedDate": "Jun 11, 2025 04:17:58 PM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "applicantTypes": [
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2025-06-11-00-00-00",
+            "estSynopsisPostingDateStr": "2025-11-21-00-00-00",
+            "estApplicationResponseDateStr": "2026-02-16-00-00-00",
+            "estAwardDateStr": "2026-10-01-00-00-00",
+            "estProjectStartDateStr": "2026-12-01-00-00-00",
+            "createTimeStampStr": "2025-06-11-16-17-58"
+          },
+          "cfdas": [
+            {
+              "id": 428338,
+              "opportunityId": 358886,
+              "revision": 1,
+              "cfdaNumber": "93.286",
+              "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 358886,
+            "revision": 1
+          },
+          "opportunityId": 358886,
+          "revision": 1,
+          "opportunityNumber": "FOR-EB-26-001",
+          "opportunityTitle": "Notice of Intent to Publish a Funding Opportunity Announcement for Trailblazer Award for New and Early-Stage Investigators (R21 Clinical Trial Optional)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "waltemi",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 358886,
+              "revision": 1
+            },
+            "opportunityId": 358886,
+            "revision": 1,
+            "version": 2,
+            "postingDate": "Jun 11, 2025 12:00:00 AM EDT",
+            "archiveDate": "Oct 27, 2026 12:00:00 AM EDT",
+            "forecastDesc": "<p style=\"margin-left:0px;\">This Trailblazer Award is an opportunity for NIH-defined New and Early Stage Investigators (<a href=\"https://grants.nih.gov/policy/early-investigators/index.htm\">https://grants.nih.gov/policy/early-investigators/index.htm</a>) to pursue research programs that integrate engineering and the physical sciences with the life and/or biomedical sciences. A Trailblazer project may be exploratory, developmental, proof of concept, or high risk-high impact, and may be technology design-directed, discovery-driven, or hypothesis-driven. Importantly, applicants must propose research approaches for which there are minimal or no preliminary data.</p>",
+            "costSharing": false,
+            "agencyContactName": "NIBIB_R21",
+            "agencyContactPhone": "Please contact via e-mail",
+            "agencyContactEmail": "NIBIB_R21@nih.gov",
+            "agencyContactEmailDesc": "NIBIB_R21@nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "Y",
+            "applicantEligibilityDesc": "Other Eligible ApplicantsIndian/Native American Tribal Governments (Other than Federally Recognized);Eligible Agencies of the Federal Government;U.S. Territory or Possession;Faith-based or Community-based Organizations;Regional Organizations;Non-domestic (non-U.S.) Entities (Foreign Institutions).",
+            "estSynopsisPostingDate": "May 16, 2026 12:00:00 AM EDT",
+            "estApplicationResponseDate": "Jun 16, 2026 12:00:00 AM EDT",
+            "estAwardDate": "Mar 16, 2027 12:00:00 AM EDT",
+            "estProjectStartDate": "Apr 16, 2027 12:00:00 AM EDT",
+            "fiscalYear": 2026,
+            "modComments": "This NOFO will not be published. The Forecast is being archived.",
+            "createTimeStamp": "Oct 26, 2026 08:56:32 AM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 26, 2026 08:56:32 AM EDT",
+            "createdDate": "May 09, 2025 09:30:13 AM EDT",
+            "lastUpdatedDate": "Oct 26, 2026 08:56:32 AM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "applicantTypes": [
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2025-06-11-00-00-00",
+            "archiveDateStr": "2026-10-27-00-00-00",
+            "estSynopsisPostingDateStr": "2026-05-16-00-00-00",
+            "estApplicationResponseDateStr": "2026-06-16-00-00-00",
+            "estAwardDateStr": "2027-03-16-00-00-00",
+            "estProjectStartDateStr": "2027-04-16-00-00-00",
+            "createTimeStampStr": "2026-10-26-08-56-32"
+          },
+          "cfdas": [
+            {
+              "id": 428338,
+              "opportunityId": 358886,
+              "revision": 1,
+              "cfdaNumber": "93.286",
+              "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": [
+            "revision",
+            "version",
+            "agencyContactName",
+            "agencyContactPhone",
+            "agencyContactEmail",
+            "agencyContactEmailDesc",
+            "applicantEligibilityDesc",
+            "forecastDesc",
+            "archiveDate",
+            "applicantEligibilityDesc",
+            "estSynopsisPostingDate",
+            "estApplicationResponseDate",
+            "estApplicationResponseDateDesc",
+            "estAwardDate",
+            "estProjectStartDate",
+            "modComments",
+            "createTimeStamp",
+            "applicantTypes"
+          ]
+        }
+      ],
       "opportunityPkgs": [],
       "closedOpportunityPkgs": [],
       "synopsisModifiedFields": [],
-      "forecastModifiedFields": [],
+      "forecastModifiedFields": [
+        "revision",
+        "version",
+        "opportunityNumber",
+        "opportunityTitle",
+        "cfdas"
+      ],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "forecast",
-      "forecastHistCount": 0,
+      "forecastHistCount": 2,
       "synopsisHistCount": 0,
       "assistCompatible": false,
       "assistURL": "",
