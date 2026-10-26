@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T18:44:31+00:00",
+  "checked_at": "2026-10-26T21:29:46+00:00",
   "complete": true,
   "records": [
     {
@@ -15762,6 +15762,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.855"
+      ]
+    },
+    {
+      "id": "364153",
+      "number": "HHS-2027-ACL-AOD-DNDP-0016",
+      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/26/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.631"
       ]
     }
   ]
