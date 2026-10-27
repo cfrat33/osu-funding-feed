@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T18:26:07+00:00",
+  "checked_at": "2026-10-27T21:21:58+00:00",
   "complete": true,
   "records": [
     {
@@ -14218,20 +14218,6 @@
       ]
     },
     {
-      "id": "363392",
-      "number": "HRSA-27-019",
-      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
-      "agencyCode": "HHS-HRSA",
-      "agency": "Health Resources and Services Administration",
-      "openDate": "07/30/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.129"
-      ]
-    },
-    {
       "id": "361438",
       "number": "PAR-28-014",
       "title": "Early-Onset Cancers: Investigating Etiology, Mechanisms, and Early Detection Strategies (RP1 Clinical Trials Optional)",
@@ -15751,6 +15737,48 @@
       ]
     },
     {
+      "id": "364159",
+      "number": "DFOP0019978",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.020"
+      ]
+    },
+    {
+      "id": "364158",
+      "number": "DFOP0019974",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.013"
+      ]
+    },
+    {
+      "id": "363392",
+      "number": "HRSA-27-019",
+      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
+      "agencyCode": "HHS-HRSA",
+      "agency": "Health Resources and Services Administration",
+      "openDate": "07/30/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.129"
+      ]
+    },
+    {
       "id": "364153",
       "number": "HHS-2027-ACL-AOD-DNDP-0016",
       "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
@@ -15762,6 +15790,34 @@
       "docType": "forecast",
       "cfdaList": [
         "93.631"
+      ]
+    },
+    {
+      "id": "364161",
+      "number": "DFOP0019982",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.020"
+      ]
+    },
+    {
+      "id": "364155",
+      "number": "DFOP0019966",
+      "title": "2027 Donald M.  Payne International Development Graduate Fellowship Program &ndash; Selection",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.209"
       ]
     }
   ]
