@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T03:51:00+00:00",
+  "checked_at": "2026-10-27T06:47:17+00:00",
   "complete": true,
   "records": [
     {
@@ -12892,20 +12892,6 @@
       "cfdaList": [
         "93.307",
         "93.310"
-      ]
-    },
-    {
-      "id": "361002",
-      "number": "CDC-RFA-DD-26-0222",
-      "title": "Long-term health outcomes of people living with spina bifida",
-      "agencyCode": "HHS-CDC-NCBDDD",
-      "agency": "Centers for Disease Control - NCBDDD",
-      "openDate": "08/26/2026",
-      "closeDate": "10/26/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.073"
       ]
     },
     {
