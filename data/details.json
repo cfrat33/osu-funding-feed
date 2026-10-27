@@ -115416,17 +115416,17 @@
     }
   },
   "364026": {
-    "checked_at": "2026-10-26T01:17:00+00:00",
-    "listing_signature": "ad7c6a4afe4b6592a39def2c4816fbfe216c91845c37c0a72e467f1207e8ead1",
+    "checked_at": "2026-10-27T01:02:17+00:00",
+    "listing_signature": "47d2c044c13b92ca1fe0d2bc51b5b1f97fe8e5a493d29d064519f6fcd7573e53",
     "detail": {
       "id": 364026,
-      "revision": 2,
+      "revision": 4,
       "opportunityNumber": "DE-FOA-0003577",
-      "opportunityTitle": "Silicon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "opportunityTitle": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
       "owningAgencyCode": "DOE-ID",
       "listed": "L",
-      "publisherUid": "gubigrig",
-      "modifiedComments": "corrected the opportunity title",
+      "publisherUid": "idadmin",
+      "modifiedComments": "Amendment 001:\n1. Changes NOFO Part 2 cross references for documents listed in NOFO part 1 pages 17-18\n2. Provides answers for questions received regarding this NOFO.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -115434,7 +115434,7 @@
       },
       "synopsis": {
         "opportunityId": 364026,
-        "version": 3,
+        "version": 5,
         "agencyCode": "DOE-ID",
         "agencyName": "Idaho Field Office",
         "agencyPhone": "2022871878",
@@ -115455,10 +115455,10 @@
         },
         "agencyContactPhone": "2022871878",
         "agencyContactName": "Idaho Field Office",
-        "agencyContactDesc": "Jeff A. Rigby 208-223-2479\r\nrigbyja@id.doe.gov",
+        "agencyContactDesc": "Jeff A. Rigby 208-223-2479\nrigbyja@id.doe.gov",
         "agencyContactEmail": "rigbyja@id.doe.gov",
         "agencyContactEmailDesc": "Click to email contact",
-        "synopsisDesc": "<p>Silicon Carbide Cladding Lead Test Rod Development-Phase 1Research, development, and fabrication of Silicon Carbide cladding specimens for research reactor insertion, irradiation, and post-irradiation examinations by 2030. The objective of this program is to advance the scientific and technological maturity of silicon carbide cladding for nuclear fuel rods for future use in commercial light water reactors.</p>",
+        "synopsisDesc": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1\n\nResearch, development, and fabrication of Silicon Carbide cladding specimens for research reactor insertion, irradiation, and post-irradiation examinations by 2030. The objective of this program is to advance the scientific and technological maturity of silicon carbide cladding for nuclear fuel rods for future use in commercial light water reactors.",
         "responseDate": "Dec 07, 2026 12:00:00 AM EST",
         "responseDateDesc": "",
         "postingDate": "Oct 05, 2026 12:00:00 AM EDT",
@@ -115473,15 +115473,11 @@
         "awardFloorFormatted": "0",
         "applicantEligibilityDesc": "",
         "sendEmail": "Y",
-        "createTimeStamp": "Oct 06, 2026 09:24:14 AM EDT",
-        "modComments": "corrected the opportunity title",
+        "createTimeStamp": "Oct 26, 2026 05:44:46 PM EDT",
+        "modComments": "Amendment 001:\n1. Changes NOFO Part 2 cross references for documents listed in NOFO part 1 pages 17-18\n2. Provides answers for questions received regarding this NOFO.",
         "createdDate": "Oct 05, 2026 12:01:31 PM EDT",
-        "lastUpdatedDate": "Oct 06, 2026 09:24:14 AM EDT",
+        "lastUpdatedDate": "Oct 26, 2026 05:43:13 PM EDT",
         "applicantTypes": [
-          {
-            "id": "04",
-            "description": "Special district governments"
-          },
           {
             "id": "13",
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
@@ -115491,40 +115487,44 @@
             "description": "State governments"
           },
           {
-            "id": "23",
-            "description": "Small businesses"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "02",
-            "description": "City or township governments"
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
           },
           {
             "id": "06",
             "description": "Public and State controlled institutions of higher education"
           },
           {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
             "id": "07",
             "description": "Native American tribal governments (Federally recognized)"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "04",
+            "description": "Special district governments"
           },
           {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
           }
         ],
         "fundingInstruments": [
@@ -115542,7 +115542,7 @@
         "responseDateStr": "2026-12-07-00-00-00",
         "postingDateStr": "2026-10-05-00-00-00",
         "archiveDateStr": "2027-01-06-00-00-00",
-        "createTimeStampStr": "2026-10-06-09-24-14"
+        "createTimeStampStr": "2026-10-26-17-44-46"
       },
       "agencyDetails": {
         "code": "ID",
@@ -115564,9 +115564,9 @@
           "opportunityId": 364026,
           "folderType": "Full Announcement",
           "folderName": "DE-FOA-0003577 (BASE)",
-          "zipLobSize": 5580814,
+          "zipLobSize": 4408998,
           "createdDate": "Oct 05, 2026 12:01:35 PM EDT",
-          "lastUpdatedDate": "Oct 05, 2026 12:01:50 PM EDT",
+          "lastUpdatedDate": "Oct 26, 2026 05:44:46 PM EDT",
           "synopsisAttachments": [
             {
               "id": 355172,
@@ -115589,16 +115589,6 @@
               "synopsisAttFolderId": 81368
             },
             {
-              "id": 355170,
-              "opportunityId": 364026,
-              "mimeType": "application/octet-stream",
-              "fileName": "SiC Cladding NOFO Part 1 DE-FOA0003577.pdf",
-              "fileDescription": "SiC Cladding NOFO Part 1 DE-FOA0003577",
-              "fileLobSize": 1225594,
-              "createdDate": "Oct 05, 2026 12:01:39 PM EDT",
-              "synopsisAttFolderId": 81368
-            },
-            {
               "id": 355171,
               "opportunityId": 364026,
               "mimeType": "application/octet-stream",
@@ -115607,6 +115597,37 @@
               "fileLobSize": 1048163,
               "createdDate": "Oct 05, 2026 12:01:42 PM EDT",
               "synopsisAttFolderId": 81368
+            }
+          ]
+        },
+        {
+          "id": 81470,
+          "opportunityId": 364026,
+          "folderType": "Revised Full Announcement",
+          "folderName": "DE-FOA-0003577 (000001)",
+          "zipLobSize": 1348251,
+          "createdDate": "Oct 26, 2026 05:43:13 PM EDT",
+          "lastUpdatedDate": "Oct 26, 2026 05:43:15 PM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355357,
+              "opportunityId": 364026,
+              "mimeType": "application/octet-stream",
+              "fileName": "Questions and Answers for FOA # DE-NE0003577(001).pdf",
+              "fileDescription": "Questions and Answers for FOA # DE-NE0003577(001)",
+              "fileLobSize": 180174,
+              "createdDate": "Oct 26, 2026 05:43:14 PM EDT",
+              "synopsisAttFolderId": 81470
+            },
+            {
+              "id": 355358,
+              "opportunityId": 364026,
+              "mimeType": "application/octet-stream",
+              "fileName": "SiC Cladding NOFO Part 1 DE-FOA0003577-0001.pdf",
+              "fileDescription": "SiC Cladding NOFO Part 1 DE-FOA0003577-0001",
+              "fileLobSize": 1228263,
+              "createdDate": "Oct 26, 2026 05:43:15 PM EDT",
+              "synopsisAttFolderId": 81470
             }
           ]
         }
@@ -115681,52 +115702,52 @@
             "lastUpdatedDate": "Oct 05, 2026 12:01:31 PM EDT",
             "applicantTypes": [
               {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "00",
+                "description": "State governments"
               },
               {
                 "id": "07",
                 "description": "Native American tribal governments (Federally recognized)"
               },
               {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+                "id": "23",
+                "description": "Small businesses"
               },
               {
                 "id": "13",
                 "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "04",
-                "description": "Special district governments"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "01",
-                "description": "County governments"
+                "id": "02",
+                "description": "City or township governments"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
                 "id": "22",
                 "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "00",
-                "description": "State governments"
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
               }
             ],
             "fundingInstruments": [
@@ -115750,7 +115771,7 @@
             {
               "id": 435650,
               "opportunityId": 364026,
-              "revision": 1,
+              "revision": 3,
               "cfdaNumber": "81.121",
               "programTitle": "Nuclear Energy Research, Development and Demonstration"
             }
@@ -115819,52 +115840,52 @@
             "lastUpdatedDate": "Oct 06, 2026 09:18:13 AM EDT",
             "applicantTypes": [
               {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
+                "id": "00",
+                "description": "State governments"
               },
               {
                 "id": "07",
                 "description": "Native American tribal governments (Federally recognized)"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "23",
+                "description": "Small businesses"
               },
               {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "04",
-                "description": "Special district governments"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "13",
                 "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "01",
-                "description": "County governments"
+                "id": "02",
+                "description": "City or township governments"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
                 "id": "22",
                 "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "00",
-                "description": "State governments"
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -115888,7 +115909,7 @@
             {
               "id": 435650,
               "opportunityId": 364026,
-              "revision": 1,
+              "revision": 3,
               "cfdaNumber": "81.121",
               "programTitle": "Nuclear Energy Research, Development and Demonstration"
             }
@@ -115901,6 +115922,293 @@
             "createTimeStamp"
           ],
           "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 364026,
+            "revision": 2
+          },
+          "opportunityId": 364026,
+          "revision": 2,
+          "opportunityNumber": "DE-FOA-0003577",
+          "opportunityTitle": "Silicon Carbide Cladding Lead Test Rod Development-Phase 1",
+          "owningAgencyCode": "DOE-ID",
+          "publisherUid": "gubigrig",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "corrected the opportunity title",
+          "synopsis": {
+            "id": {
+              "opportunityId": 364026,
+              "revision": 2
+            },
+            "opportunityId": 364026,
+            "revision": 2,
+            "version": 3,
+            "agencyCode": "DOE-ID",
+            "agencyAddressDesc": "Click to email contact",
+            "agencyDetails": {
+              "code": "ID",
+              "seed": "DOE-ID",
+              "agencyName": "Idaho Field Office",
+              "agencyCode": "DOE-ID",
+              "topAgencyCode": "DOE"
+            },
+            "agencyContactPhone": "2022871878",
+            "agencyContactName": "Idaho Field Office",
+            "agencyContactDesc": "Jeff A. Rigby 208-223-2479\r\nrigbyja@id.doe.gov",
+            "agencyContactEmail": "rigbyja@id.doe.gov",
+            "agencyContactEmailDesc": "Click to email contact",
+            "synopsisDesc": "<p>Silicon Carbide Cladding Lead Test Rod Development-Phase 1Research, development, and fabrication of Silicon Carbide cladding specimens for research reactor insertion, irradiation, and post-irradiation examinations by 2030. The objective of this program is to advance the scientific and technological maturity of silicon carbide cladding for nuclear fuel rods for future use in commercial light water reactors.</p>",
+            "responseDate": "Dec 07, 2026 12:00:00 AM EST",
+            "responseDateDesc": "",
+            "postingDate": "Oct 05, 2026 12:00:00 AM EDT",
+            "archiveDate": "Jan 06, 2027 12:00:00 AM EST",
+            "costSharing": true,
+            "numberOfAwards": "1",
+            "estimatedFunding": "50000000",
+            "estimatedFundingFormatted": "50,000,000",
+            "awardCeiling": "62500000",
+            "awardCeilingFormatted": "62,500,000",
+            "awardFloor": "0",
+            "awardFloorFormatted": "0",
+            "applicantEligibilityDesc": "",
+            "createTimeStamp": "Oct 06, 2026 09:24:14 AM EDT",
+            "sendEmail": "Y",
+            "modComments": "corrected the opportunity title",
+            "actionType": "U",
+            "actionDate": "Oct 26, 2026 05:43:13 PM EDT",
+            "createdDate": "Oct 05, 2026 12:01:31 PM EDT",
+            "lastUpdatedDate": "Oct 06, 2026 09:24:14 AM EDT",
+            "applicantTypes": [
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              }
+            ],
+            "responseDateStr": "2026-12-07-00-00-00",
+            "postingDateStr": "2026-10-05-00-00-00",
+            "archiveDateStr": "2027-01-06-00-00-00",
+            "createTimeStampStr": "2026-10-06-09-24-14"
+          },
+          "cfdas": [
+            {
+              "id": 435650,
+              "opportunityId": 364026,
+              "revision": 3,
+              "cfdaNumber": "81.121",
+              "programTitle": "Nuclear Energy Research, Development and Demonstration"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "opportunityTitle"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 364026,
+            "revision": 3
+          },
+          "opportunityId": 364026,
+          "revision": 3,
+          "opportunityNumber": "DE-FOA-0003577",
+          "opportunityTitle": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+          "owningAgencyCode": "DOE-ID",
+          "publisherUid": "idadmin",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Amendment 001:\n1. Changes NOFO Part 2 cross references for documents listed in NOFO part 1 pages 17-18\n2. Provides answers for questions received regarding this NOFO.",
+          "synopsis": {
+            "id": {
+              "opportunityId": 364026,
+              "revision": 3
+            },
+            "opportunityId": 364026,
+            "revision": 3,
+            "version": 4,
+            "agencyCode": "DOE-ID",
+            "agencyAddressDesc": "Click to email contact",
+            "agencyDetails": {
+              "code": "ID",
+              "seed": "DOE-ID",
+              "agencyName": "Idaho Field Office",
+              "agencyCode": "DOE-ID",
+              "topAgencyCode": "DOE"
+            },
+            "agencyContactPhone": "2022871878",
+            "agencyContactName": "Idaho Field Office",
+            "agencyContactDesc": "Jeff A. Rigby 208-223-2479\r\nrigbyja@id.doe.gov",
+            "agencyContactEmail": "rigbyja@id.doe.gov",
+            "agencyContactEmailDesc": "Click to email contact",
+            "synopsisDesc": "<p>Silicon Carbide Cladding Lead Test Rod Development-Phase 1Research, development, and fabrication of Silicon Carbide cladding specimens for research reactor insertion, irradiation, and post-irradiation examinations by 2030. The objective of this program is to advance the scientific and technological maturity of silicon carbide cladding for nuclear fuel rods for future use in commercial light water reactors.</p>",
+            "responseDate": "Dec 07, 2026 12:00:00 AM EST",
+            "responseDateDesc": "",
+            "postingDate": "Oct 05, 2026 12:00:00 AM EDT",
+            "archiveDate": "Jan 06, 2027 12:00:00 AM EST",
+            "costSharing": true,
+            "numberOfAwards": "1",
+            "estimatedFunding": "50000000",
+            "estimatedFundingFormatted": "50,000,000",
+            "awardCeiling": "62500000",
+            "awardCeilingFormatted": "62,500,000",
+            "awardFloor": "0",
+            "awardFloorFormatted": "0",
+            "applicantEligibilityDesc": "",
+            "createTimeStamp": "Oct 26, 2026 05:43:13 PM EDT",
+            "sendEmail": "Y",
+            "modComments": "Amendment 001:\n1. Changes NOFO Part 2 cross references for documents listed in NOFO part 1 pages 17-18\n2. Provides answers for questions received regarding this NOFO.",
+            "actionType": "U",
+            "actionDate": "Oct 26, 2026 05:43:13 PM EDT",
+            "createdDate": "Oct 05, 2026 12:01:31 PM EDT",
+            "lastUpdatedDate": "Oct 26, 2026 05:43:13 PM EDT",
+            "applicantTypes": [
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "EN",
+                "description": "Energy"
+              }
+            ],
+            "responseDateStr": "2026-12-07-00-00-00",
+            "postingDateStr": "2026-10-05-00-00-00",
+            "archiveDateStr": "2027-01-06-00-00-00",
+            "createTimeStampStr": "2026-10-26-17-43-13"
+          },
+          "cfdas": [
+            {
+              "id": 435650,
+              "opportunityId": 364026,
+              "revision": 3,
+              "cfdaNumber": "81.121",
+              "programTitle": "Nuclear Energy Research, Development and Demonstration"
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "opportunityTitle",
+            "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
         }
       ],
       "opportunityPkgs": [],
@@ -115910,14 +116218,15 @@
       "synopsisModifiedFields": [
         "revision",
         "version",
-        "opportunityTitle"
+        "agencyContactDesc",
+        "synopsisDesc"
       ],
       "forecastModifiedFields": [],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "synopsis",
       "forecastHistCount": 0,
-      "synopsisHistCount": 2,
+      "synopsisHistCount": 4,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
