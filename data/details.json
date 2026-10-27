@@ -147073,11 +147073,11 @@
     }
   },
   "363684": {
-    "checked_at": "2026-10-26T15:42:32+00:00",
-    "listing_signature": "8d193cdef838a575897ad1f651d54458af02d10930888f9532e5c43f24c976c4",
+    "checked_at": "2026-10-27T15:32:59+00:00",
+    "listing_signature": "dd8fe28dc7f74049cddc382158763d4bd23e3005797b6147434b8fae9f9cf6f6",
     "detail": {
       "id": 363684,
-      "revision": 6,
+      "revision": 7,
       "opportunityNumber": "26-516",
       "opportunityTitle": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
       "owningAgencyCode": "NSF",
@@ -147091,7 +147091,7 @@
       },
       "synopsis": {
         "opportunityId": 363684,
-        "version": 7,
+        "version": 8,
         "agencyCode": "NSF",
         "agencyName": "U.S. National Science Foundation",
         "agencyPhone": "703-292-4203",
@@ -147116,7 +147116,7 @@
         "agencyContactEmail": "grantsgovsupport@nsf.gov",
         "agencyContactEmailDesc": "If you have any problems linking to this funding announcement, please contact the email address above.",
         "synopsisDesc": "<p>The&nbsp;NSF&nbsp;Geosciences&nbsp;Research&nbsp;solicitation&nbsp;supports foundational research projects that&nbsp;advance the frontiers of knowledge&nbsp;across&nbsp;all areas of the&nbsp;geosciences.&nbsp;This&nbsp;solicitation calls for proposals in three&nbsp;programs:&nbsp;</p><ul><li><p><a href=\"https://www.nsf.gov/funding/opportunities/ags-atmospheric-geospace-sciences-program\">Atmospheric and Geospace Sciences (AGS) Program</a>;&nbsp;</p></li></ul><ul><li><p><a href=\"https://www.nsf.gov/funding/opportunities/earth-sciences-program\">Earth Sciences (EAR) Program</a>; and&nbsp;&nbsp;</p></li></ul><ul><li><p><a href=\"https://www.nsf.gov/funding/opportunities/ocean-sciences-program\">Ocean Sciences&nbsp;(OCE) Program</a>.&nbsp;</p></li></ul><p>These programs support projects that expand the frontiers of knowledge in science and technology. The programs encourage projects that advance research on Earth’s atmosphere and the near-Earth space environment; solid Earth sciences and Earth surface processes; and all fields of ocean science. Projects may focus on foundational research in a specific domain or cover multiple disciplines. NSF is particularly interested in intellectually ambitious and potentially transformative foundational research. Proposals need not promise a near-term product, deployment, or commercial outcome, nor need they address later-stage development to be competitive.</p>",
-        "responseDate": "Oct 05, 2076 12:00:00 AM EDT",
+        "responseDate": "Oct 27, 2076 12:00:00 AM EDT",
         "responseDateDesc": "Proposals accepted anytime",
         "fundingDescLinkUrl": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26516",
         "fundingDescLinkDesc": "NSF Publication 26-516",
@@ -147128,10 +147128,10 @@
         "awardCeiling": "none",
         "awardFloor": "none",
         "sendEmail": "Y",
-        "createTimeStamp": "Oct 05, 2026 01:35:25 PM EDT",
+        "createTimeStamp": "Oct 27, 2026 09:03:23 AM EDT",
         "modComments": "Updated Synopsis via NSF Grants Opportunity Sync",
         "createdDate": "Aug 21, 2026 08:24:53 AM EDT",
-        "lastUpdatedDate": "Oct 05, 2026 01:35:25 PM EDT",
+        "lastUpdatedDate": "Oct 27, 2026 09:03:23 AM EDT",
         "applicantTypes": [
           {
             "id": "99",
@@ -147150,9 +147150,9 @@
             "description": "Science and Technology and other Research and Development"
           }
         ],
-        "responseDateStr": "2076-10-05-00-00-00",
+        "responseDateStr": "2076-10-27-00-00-00",
         "postingDateStr": "2026-08-21-00-00-00",
-        "createTimeStampStr": "2026-10-05-13-35-25"
+        "createTimeStampStr": "2026-10-27-09-03-23"
       },
       "agencyDetails": {
         "code": "NSF",
@@ -147265,14 +147265,14 @@
             {
               "id": 435174,
               "opportunityId": 363684,
-              "revision": 5,
+              "revision": 6,
               "cfdaNumber": "47.050",
               "programTitle": "Geosciences"
             },
             {
               "id": 435175,
               "opportunityId": 363684,
-              "revision": 5
+              "revision": 6
             }
           ],
           "synopsisModifiedFields": [],
@@ -147362,14 +147362,14 @@
             {
               "id": 435174,
               "opportunityId": 363684,
-              "revision": 5,
+              "revision": 6,
               "cfdaNumber": "47.050",
               "programTitle": "Geosciences"
             },
             {
               "id": 435175,
               "opportunityId": 363684,
-              "revision": 5
+              "revision": 6
             }
           ],
           "synopsisModifiedFields": [
@@ -147463,14 +147463,14 @@
             {
               "id": 435174,
               "opportunityId": 363684,
-              "revision": 5,
+              "revision": 6,
               "cfdaNumber": "47.050",
               "programTitle": "Geosciences"
             },
             {
               "id": 435175,
               "opportunityId": 363684,
-              "revision": 5
+              "revision": 6
             }
           ],
           "synopsisModifiedFields": [
@@ -147563,14 +147563,14 @@
             {
               "id": 435174,
               "opportunityId": 363684,
-              "revision": 5,
+              "revision": 6,
               "cfdaNumber": "47.050",
               "programTitle": "Geosciences"
             },
             {
               "id": 435175,
               "opportunityId": 363684,
-              "revision": 5
+              "revision": 6
             }
           ],
           "synopsisModifiedFields": [
@@ -147665,14 +147665,14 @@
             {
               "id": 435174,
               "opportunityId": 363684,
-              "revision": 5,
+              "revision": 6,
               "cfdaNumber": "47.050",
               "programTitle": "Geosciences"
             },
             {
               "id": 435175,
               "opportunityId": 363684,
-              "revision": 5
+              "revision": 6
             }
           ],
           "synopsisModifiedFields": [
@@ -147767,14 +147767,14 @@
             {
               "id": 435174,
               "opportunityId": 363684,
-              "revision": 5,
+              "revision": 6,
               "cfdaNumber": "47.050",
               "programTitle": "Geosciences"
             },
             {
               "id": 435175,
               "opportunityId": 363684,
-              "revision": 5
+              "revision": 6
             }
           ],
           "synopsisModifiedFields": [
@@ -147782,6 +147782,106 @@
             "version",
             "responseDate",
             "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 363684,
+            "revision": 6
+          },
+          "opportunityId": 363684,
+          "revision": 6,
+          "opportunityNumber": "26-516",
+          "opportunityTitle": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
+          "owningAgencyCode": "NSF",
+          "publisherUid": "5990951853740090865314141184033594214",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated Synopsis via NSF Grants Opportunity Sync",
+          "synopsis": {
+            "id": {
+              "opportunityId": 363684,
+              "revision": 6
+            },
+            "opportunityId": 363684,
+            "revision": 6,
+            "version": 7,
+            "agencyCode": "NSF",
+            "agencyAddressDesc": "If you have any problems linking to this funding announcement, please contact the email address above.",
+            "agencyDetails": {
+              "code": "NSF",
+              "seed": "NSF",
+              "agencyName": "U.S. National Science Foundation",
+              "agencyCode": "NSF",
+              "topAgencyCode": "NSF"
+            },
+            "agencyContactPhone": "703-292-4203",
+            "agencyContactName": "U.S. National Science Foundation",
+            "agencyContactDesc": "NSF grants.gov support\ngrantsgovsupport@nsf.gov",
+            "agencyContactEmail": "grantsgovsupport@nsf.gov",
+            "agencyContactEmailDesc": "If you have any problems linking to this funding announcement, please contact the email address above.",
+            "synopsisDesc": "<p>The&nbsp;NSF&nbsp;Geosciences&nbsp;Research&nbsp;solicitation&nbsp;supports foundational research projects that&nbsp;advance the frontiers of knowledge&nbsp;across&nbsp;all areas of the&nbsp;geosciences.&nbsp;This&nbsp;solicitation calls for proposals in three&nbsp;programs:&nbsp;</p><ul><li><p><a href=\"https://www.nsf.gov/funding/opportunities/ags-atmospheric-geospace-sciences-program\">Atmospheric and Geospace Sciences (AGS) Program</a>;&nbsp;</p></li></ul><ul><li><p><a href=\"https://www.nsf.gov/funding/opportunities/earth-sciences-program\">Earth Sciences (EAR) Program</a>; and&nbsp;&nbsp;</p></li></ul><ul><li><p><a href=\"https://www.nsf.gov/funding/opportunities/ocean-sciences-program\">Ocean Sciences&nbsp;(OCE) Program</a>.&nbsp;</p></li></ul><p>These programs support projects that expand the frontiers of knowledge in science and technology. The programs encourage projects that advance research on Earth’s atmosphere and the near-Earth space environment; solid Earth sciences and Earth surface processes; and all fields of ocean science. Projects may focus on foundational research in a specific domain or cover multiple disciplines. NSF is particularly interested in intellectually ambitious and potentially transformative foundational research. Proposals need not promise a near-term product, deployment, or commercial outcome, nor need they address later-stage development to be competitive.</p>",
+            "responseDate": "Oct 05, 2076 12:00:00 AM EDT",
+            "responseDateDesc": "Proposals accepted anytime",
+            "fundingDescLinkUrl": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26516",
+            "fundingDescLinkDesc": "NSF Publication 26-516",
+            "postingDate": "Aug 21, 2026 12:00:00 AM EDT",
+            "costSharing": false,
+            "numberOfAwards": "350",
+            "estimatedFunding": "110000000",
+            "estimatedFundingFormatted": "110,000,000",
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "createTimeStamp": "Oct 05, 2026 01:35:25 PM EDT",
+            "sendEmail": "Y",
+            "modComments": "Updated Synopsis via NSF Grants Opportunity Sync",
+            "actionType": "U",
+            "actionDate": "Oct 27, 2026 09:03:23 AM EDT",
+            "createdDate": "Aug 21, 2026 08:24:53 AM EDT",
+            "lastUpdatedDate": "Oct 05, 2026 01:35:25 PM EDT",
+            "applicantTypes": [
+              {
+                "id": "99",
+                "description": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2076-10-05-00-00-00",
+            "postingDateStr": "2026-08-21-00-00-00",
+            "createTimeStampStr": "2026-10-05-13-35-25"
+          },
+          "cfdas": [
+            {
+              "id": 435174,
+              "opportunityId": 363684,
+              "revision": 6,
+              "cfdaNumber": "47.050",
+              "programTitle": "Geosciences"
+            },
+            {
+              "id": 435175,
+              "opportunityId": 363684,
+              "revision": 6
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version"
           ],
           "forecastModifiedFields": []
         }
@@ -147795,7 +147895,7 @@
           "opportunityNumber": "26-516",
           "opportunityTitle": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
           "openingDate": "2026-08-21",
-          "closingDate": "2076-10-05",
+          "closingDate": "2076-10-27",
           "owningAgencyCode": "NSF",
           "agencyDetails": {
             "code": "NSF",
@@ -147820,11 +147920,11 @@
           "isMultiProject": "N",
           "extension": "pdf",
           "mimetype": "application/pdf",
-          "lastUpdate": "Oct 05, 2026 01:35:26 PM EDT",
+          "lastUpdate": "Oct 27, 2026 09:03:24 AM EDT",
           "workspaceCompatibleFlag": "Y",
           "packageId": "PKG00294038",
           "openingDateStr": "2026-08-21-00-00-00",
-          "closingDateStr": "2076-10-05-00-00-00"
+          "closingDateStr": "2076-10-27-00-00-00"
         }
       ],
       "closedOpportunityPkgs": [],
@@ -147832,14 +147932,16 @@
       "originalDueDateDesc": "Proposals accepted anytime",
       "synopsisModifiedFields": [
         "revision",
-        "version"
+        "version",
+        "responseDate",
+        "createTimeStamp"
       ],
       "forecastModifiedFields": [],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "synopsis",
       "forecastHistCount": 0,
-      "synopsisHistCount": 6,
+      "synopsisHistCount": 7,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
@@ -278091,11 +278193,11 @@
     }
   },
   "358093": {
-    "checked_at": "2026-10-27T03:37:47+00:00",
-    "listing_signature": "a86d944451344ec39c627f49264e4758dd29820e116bb635bf1c660492b893e8",
+    "checked_at": "2026-10-27T15:33:00+00:00",
+    "listing_signature": "de0fde8374a32aadf3210f9be23628f51211982d8f9929d1f757071875d51c81",
     "detail": {
       "id": 358093,
-      "revision": 3,
+      "revision": 4,
       "opportunityNumber": "PAR-24-329",
       "opportunityTitle": "Development and Testing of Novel Interventions to Improve HIV Prevention, Treatment, and Program Implementation for People Who Use Substances (R34 Clinical Trial Required)",
       "owningAgencyCode": "HHS-NIH11",
@@ -278108,7 +278210,7 @@
       },
       "synopsis": {
         "opportunityId": 358093,
-        "version": 4,
+        "version": 5,
         "agencyCode": "HHS-NIH11",
         "agencyName": "National Institutes of Health",
         "agencyPhone": "301-402-2541",
@@ -278133,81 +278235,81 @@
         "agencyContactEmail": "grantsinfo@nih.gov",
         "agencyContactEmailDesc": "See Section VII. Agency Contacts within the full opportunity announcement for all other inquires.",
         "synopsisDesc": "<p>This notice of funding opportunity (NOFO) encourages formative research, intervention development, and pilot-testing of interventions. Primary scientific areas of focus include the feasibility, tolerability, acceptability and safety of novel or adapted interventions that target HIV prevention, treatment or services research for people who use drugs. For the purposes of this NOFO, \"intervention\" may include behavioral, social, or structural approaches, as well as combination biomedical and behavioral approaches that prevent the acquisition and transmission of HIV infection, or improve clinical outcomes for persons living with HIV.</p>",
-        "responseDate": "Mar 16, 2027 12:00:00 AM EDT",
+        "responseDate": "Oct 27, 2026 12:00:00 AM EDT",
         "responseDateDesc": "",
         "fundingDescLinkUrl": "http://grants.nih.gov/grants/guide/pa-files/PAR-24-329.html",
         "fundingDescLinkDesc": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-329.html",
         "postingDate": "Jan 08, 2025 12:00:00 AM EST",
-        "archiveDate": "Apr 15, 2027 12:00:00 AM EDT",
+        "archiveDate": "Nov 26, 2026 12:00:00 AM EST",
         "costSharing": false,
         "awardCeiling": "none",
         "awardFloor": "none",
         "applicantEligibilityDesc": "Other Eligible Applicants include the following: Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Non-domestic (non-U.S.) Entities (Foreign Organizations); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession.",
         "sendEmail": "Y",
-        "createTimeStamp": "Mar 24, 2026 10:12:34 AM EDT",
-        "modComments": "close date updated to align with NOT-OD-26-029. See https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-029.html",
+        "createTimeStamp": "Oct 27, 2026 08:48:14 AM EDT",
+        "modComments": "Close date updated to align with reissued NOFO, PAR-28-093.  See https://simpler.grants.gov/opportunity/3820f2c5-4b44-47ad-8a29-9f6084d60bb2",
         "createdDate": "Jan 08, 2025 02:56:31 PM EST",
-        "lastUpdatedDate": "Mar 24, 2026 10:12:34 AM EDT",
+        "lastUpdatedDate": "Oct 27, 2026 08:48:14 AM EDT",
         "applicantTypes": [
           {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-          },
-          {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "20",
             "description": "Private institutions of higher education"
           },
           {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
             "id": "04",
             "description": "Special district governments"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
           },
           {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
-            "id": "02",
-            "description": "City or township governments"
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
           },
           {
             "id": "22",
             "description": "For profit organizations other than small businesses"
           },
           {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+            "id": "23",
+            "description": "Small businesses"
           },
           {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "05",
+            "description": "Independent school districts"
           },
           {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           }
         ],
         "fundingInstruments": [
@@ -278226,10 +278328,10 @@
             "description": "Health"
           }
         ],
-        "responseDateStr": "2027-03-16-00-00-00",
+        "responseDateStr": "2026-10-27-00-00-00",
         "postingDateStr": "2025-01-08-00-00-00",
-        "archiveDateStr": "2027-04-15-00-00-00",
-        "createTimeStampStr": "2026-03-24-10-12-34"
+        "archiveDateStr": "2026-11-26-00-00-00",
+        "createTimeStampStr": "2026-10-27-08-48-14"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -278339,64 +278441,64 @@
             "lastUpdatedDate": "Jan 08, 2025 02:56:31 PM EST",
             "applicantTypes": [
               {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "25",
                 "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "23",
-                "description": "Small businesses"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               },
               {
-                "id": "04",
-                "description": "Special district governments"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "02",
                 "description": "City or township governments"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               }
             ],
             "fundingInstruments": [
@@ -278424,14 +278526,14 @@
             {
               "id": 427068,
               "opportunityId": 358093,
-              "revision": 2,
+              "revision": 3,
               "cfdaNumber": "93.279",
               "programTitle": "Drug Use and Addiction Research Programs"
             },
             {
               "id": 427079,
               "opportunityId": 358093,
-              "revision": 2
+              "revision": 3
             }
           ],
           "synopsisModifiedFields": [],
@@ -278495,64 +278597,64 @@
             "lastUpdatedDate": "Jan 28, 2026 02:52:04 PM EST",
             "applicantTypes": [
               {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "25",
                 "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "23",
-                "description": "Small businesses"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               },
               {
-                "id": "04",
-                "description": "Special district governments"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "02",
                 "description": "City or township governments"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               }
             ],
             "fundingInstruments": [
@@ -278580,14 +278682,14 @@
             {
               "id": 427068,
               "opportunityId": 358093,
-              "revision": 2,
+              "revision": 3,
               "cfdaNumber": "93.279",
               "programTitle": "Drug Use and Addiction Research Programs"
             },
             {
               "id": 427079,
               "opportunityId": 358093,
-              "revision": 2
+              "revision": 3
             }
           ],
           "synopsisModifiedFields": [
@@ -278659,64 +278761,64 @@
             "lastUpdatedDate": "Jan 28, 2026 03:36:12 PM EST",
             "applicantTypes": [
               {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "25",
                 "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "23",
-                "description": "Small businesses"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               },
               {
-                "id": "04",
-                "description": "Special district governments"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "02",
                 "description": "City or township governments"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               }
             ],
             "fundingInstruments": [
@@ -278744,14 +278846,14 @@
             {
               "id": 427068,
               "opportunityId": 358093,
-              "revision": 2,
+              "revision": 3,
               "cfdaNumber": "93.279",
               "programTitle": "Drug Use and Addiction Research Programs"
             },
             {
               "id": 427079,
               "opportunityId": 358093,
-              "revision": 2
+              "revision": 3
             }
           ],
           "synopsisModifiedFields": [
@@ -278759,6 +278861,168 @@
             "version",
             "responseDate",
             "archiveDate"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 358093,
+            "revision": 3
+          },
+          "opportunityId": 358093,
+          "revision": 3,
+          "opportunityNumber": "PAR-24-329",
+          "opportunityTitle": "Development and Testing of Novel Interventions to Improve HIV Prevention, Treatment, and Program Implementation for People Who Use Substances (R34 Clinical Trial Required)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "85078724978857742224107944047325102090",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 358093,
+              "revision": 3
+            },
+            "opportunityId": 358093,
+            "revision": 3,
+            "version": 4,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "See Section VII. Agency Contacts within the full opportunity announcement for all other inquires.",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "NIH Grants Information\r\ngrantsinfo@nih.gov",
+            "agencyContactEmail": "grantsinfo@nih.gov",
+            "agencyContactEmailDesc": "See Section VII. Agency Contacts within the full opportunity announcement for all other inquires.",
+            "synopsisDesc": "<p>This notice of funding opportunity (NOFO) encourages formative research, intervention development, and pilot-testing of interventions. Primary scientific areas of focus include the feasibility, tolerability, acceptability and safety of novel or adapted interventions that target HIV prevention, treatment or services research for people who use drugs. For the purposes of this NOFO, \"intervention\" may include behavioral, social, or structural approaches, as well as combination biomedical and behavioral approaches that prevent the acquisition and transmission of HIV infection, or improve clinical outcomes for persons living with HIV.</p>",
+            "responseDate": "Mar 16, 2027 12:00:00 AM EDT",
+            "responseDateDesc": "",
+            "fundingDescLinkUrl": "http://grants.nih.gov/grants/guide/pa-files/PAR-24-329.html",
+            "fundingDescLinkDesc": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-329.html",
+            "postingDate": "Jan 08, 2025 12:00:00 AM EST",
+            "archiveDate": "Apr 15, 2027 12:00:00 AM EDT",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Other Eligible Applicants include the following: Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Non-domestic (non-U.S.) Entities (Foreign Organizations); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession.",
+            "createTimeStamp": "Mar 24, 2026 10:12:34 AM EDT",
+            "sendEmail": "Y",
+            "modComments": "close date updated to align with NOT-OD-26-029. See https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-029.html",
+            "actionType": "U",
+            "actionDate": "Oct 27, 2026 08:48:14 AM EDT",
+            "createdDate": "Jan 08, 2025 02:56:31 PM EST",
+            "lastUpdatedDate": "Mar 24, 2026 10:12:34 AM EDT",
+            "applicantTypes": [
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "ED",
+                "description": "Education"
+              },
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "responseDateStr": "2027-03-16-00-00-00",
+            "postingDateStr": "2025-01-08-00-00-00",
+            "archiveDateStr": "2027-04-15-00-00-00",
+            "createTimeStampStr": "2026-03-24-10-12-34"
+          },
+          "cfdas": [
+            {
+              "id": 427068,
+              "opportunityId": 358093,
+              "revision": 3,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 427079,
+              "opportunityId": 358093,
+              "revision": 3
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version",
+            "responseDate",
+            "archiveDate",
+            "createTimeStamp"
           ],
           "forecastModifiedFields": []
         }
@@ -278772,7 +279036,7 @@
           "opportunityNumber": "PAR-24-329",
           "opportunityTitle": "Development and Testing of Novel Interventions to Improve HIV Prevention, Treatment, and Program Implementation for People Who Use Substances (R34 Clinical Trial Required)",
           "openingDate": "2025-04-07",
-          "closingDate": "2027-03-16",
+          "closingDate": "2026-10-28",
           "owningAgencyCode": "HHS-NIH11",
           "agencyDetails": {
             "code": "NIH",
@@ -278789,7 +279053,7 @@
             "topAgencyCode": "HHS"
           },
           "contactInfo": "eRA Service Desk Monday to Friday 7 am to 8 pm ET http://grants.nih.gov/support/",
-          "gracePeriod": 60,
+          "gracePeriod": 0,
           "competitionId": "FORMS-I",
           "competitionTitle": "Use for due dates on or after January 25, 2025",
           "electronicRequired": "Y",
@@ -278800,11 +279064,11 @@
           "isMultiProject": "N",
           "extension": "pdf",
           "mimetype": "application/pdf",
-          "lastUpdate": "Mar 24, 2026 10:12:55 AM EDT",
+          "lastUpdate": "Oct 27, 2026 08:48:55 AM EDT",
           "workspaceCompatibleFlag": "Y",
           "packageId": "PKG00289974",
           "openingDateStr": "2025-04-07-00-00-00",
-          "closingDateStr": "2027-03-16-00-00-00"
+          "closingDateStr": "2026-10-28-00-00-00"
         }
       ],
       "closedOpportunityPkgs": [],
@@ -278822,7 +279086,7 @@
       "synPostDateInPast": true,
       "docType": "synopsis",
       "forecastHistCount": 0,
-      "synopsisHistCount": 3,
+      "synopsisHistCount": 4,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
@@ -298817,11 +299081,11 @@
     }
   },
   "357573": {
-    "checked_at": "2026-10-27T03:38:26+00:00",
-    "listing_signature": "11a281ed9e20d779628b61910789ae95dfb7b42743b658bc0e9e3c3373358677",
+    "checked_at": "2026-10-27T15:33:01+00:00",
+    "listing_signature": "517f330e0f1a80bb4cd0b6ff6a6a33329e807babfaf051509e6f4145ac42783c",
     "detail": {
       "id": 357573,
-      "revision": 0,
+      "revision": 1,
       "opportunityNumber": "PAR-25-100",
       "opportunityTitle": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
       "owningAgencyCode": "HHS-NIH11",
@@ -298834,7 +299098,7 @@
       },
       "synopsis": {
         "opportunityId": 357573,
-        "version": 1,
+        "version": 2,
         "agencyCode": "HHS-NIH11",
         "agencyName": "National Institutes of Health",
         "agencyPhone": "301-402-2541",
@@ -298855,27 +299119,49 @@
         },
         "agencyContactPhone": "301-402-2541",
         "agencyContactName": "National Institutes of Health",
-        "agencyContactDesc": "NIH Grants Information\ngrantsinfo@nih.gov",
+        "agencyContactDesc": "NIH Grants Information\r\ngrantsinfo@nih.gov",
         "agencyContactEmail": "grantsinfo@nih.gov",
         "agencyContactEmailDesc": "See Section VII. Agency Contacts within the full opportunity announcement for all other inquires.",
-        "synopsisDesc": "This Notice of Funding Opportunity (NOFO) encourages pilot and preliminary research in preparation for larger-scale services research effectiveness trials. Relevant trials may test a wide range of approaches, including interventions, practices, and policies designed to optimize access to, and the quality, effectiveness, affordability and utilization of drug, tobacco, or alcohol use disorder treatments and related services, as well as services for comorbid medical and mental disorder conditions. Relevant approaches may include both those that are novel, and those that are commonly used in practice but lack an evidence base. This NOFO provides resources for assessing the feasibility, acceptability, and utility of these approaches, in addition to usual trial preparation activities.",
-        "responseDate": "May 07, 2027 12:00:00 AM EDT",
+        "synopsisDesc": "<p>This Notice of Funding Opportunity (NOFO) encourages pilot and preliminary research in preparation for larger-scale services research effectiveness trials. Relevant trials may test a wide range of approaches, including interventions, practices, and policies designed to optimize access to, and the quality, effectiveness, affordability and utilization of drug, tobacco, or alcohol use disorder treatments and related services, as well as services for comorbid medical and mental disorder conditions. Relevant approaches may include both those that are novel, and those that are commonly used in practice but lack an evidence base. This NOFO provides resources for assessing the feasibility, acceptability, and utility of these approaches, in addition to usual trial preparation activities.</p>",
+        "responseDate": "Oct 27, 2027 12:00:00 AM EDT",
         "responseDateDesc": "",
         "fundingDescLinkUrl": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-100.html",
         "fundingDescLinkDesc": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-100.html",
         "postingDate": "Dec 06, 2024 12:00:00 AM EST",
-        "archiveDate": "Jun 12, 2027 12:00:00 AM EDT",
+        "archiveDate": "Nov 26, 2027 12:00:00 AM EST",
         "costSharing": false,
         "awardCeiling": "none",
         "awardFloor": "none",
-        "applicantEligibilityDesc": "Other Eligible Applicants include the following:\n Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Non-domestic (non-U.S.) Entities (Foreign Organizations); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession.",
-        "createTimeStamp": "Dec 06, 2024 01:20:15 PM EST",
+        "applicantEligibilityDesc": "Other Eligible Applicants include the following: Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Non-domestic (non-U.S.) Entities (Foreign Organizations); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession.",
+        "sendEmail": "Y",
+        "createTimeStamp": "Oct 27, 2026 08:50:21 AM EDT",
+        "modComments": "Close date updated to align with reissued NOFO, PAR-28-093.  See https://simpler.grants.gov/opportunity/3820f2c5-4b44-47ad-8a29-9f6084d60bb2",
         "createdDate": "Dec 06, 2024 01:16:04 PM EST",
-        "lastUpdatedDate": "Dec 06, 2024 01:16:04 PM EST",
+        "lastUpdatedDate": "Oct 27, 2026 08:50:21 AM EDT",
         "applicantTypes": [
           {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
           },
           {
             "id": "12",
@@ -298886,52 +299172,32 @@
             "description": "Small businesses"
           },
           {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "06",
             "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
-          },
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-          },
-          {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
           },
           {
             "id": "11",
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
-            "id": "02",
-            "description": "City or township governments"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -298950,10 +299216,10 @@
             "description": "Health"
           }
         ],
-        "responseDateStr": "2027-05-07-00-00-00",
+        "responseDateStr": "2027-10-27-00-00-00",
         "postingDateStr": "2024-12-06-00-00-00",
-        "archiveDateStr": "2027-06-12-00-00-00",
-        "createTimeStampStr": "2024-12-06-13-20-15"
+        "archiveDateStr": "2027-11-26-00-00-00",
+        "createTimeStampStr": "2026-10-27-08-50-21"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -299006,7 +299272,162 @@
           "opportunityId": 357573
         }
       ],
-      "opportunityHistoryDetails": [],
+      "opportunityHistoryDetails": [
+        {
+          "oppHistId": {
+            "opportunityId": 357573,
+            "revision": 0
+          },
+          "opportunityId": 357573,
+          "revision": 0,
+          "opportunityNumber": "PAR-25-100",
+          "opportunityTitle": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "85078724978857742224107944047325102090",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 357573,
+              "revision": 0
+            },
+            "opportunityId": 357573,
+            "revision": 0,
+            "version": 1,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "See Section VII. Agency Contacts within the full opportunity announcement for all other inquires.",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "NIH Grants Information\ngrantsinfo@nih.gov",
+            "agencyContactEmail": "grantsinfo@nih.gov",
+            "agencyContactEmailDesc": "See Section VII. Agency Contacts within the full opportunity announcement for all other inquires.",
+            "synopsisDesc": "This Notice of Funding Opportunity (NOFO) encourages pilot and preliminary research in preparation for larger-scale services research effectiveness trials. Relevant trials may test a wide range of approaches, including interventions, practices, and policies designed to optimize access to, and the quality, effectiveness, affordability and utilization of drug, tobacco, or alcohol use disorder treatments and related services, as well as services for comorbid medical and mental disorder conditions. Relevant approaches may include both those that are novel, and those that are commonly used in practice but lack an evidence base. This NOFO provides resources for assessing the feasibility, acceptability, and utility of these approaches, in addition to usual trial preparation activities.",
+            "responseDate": "May 07, 2027 12:00:00 AM EDT",
+            "responseDateDesc": "",
+            "fundingDescLinkUrl": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-100.html",
+            "fundingDescLinkDesc": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-100.html",
+            "postingDate": "Dec 06, 2024 12:00:00 AM EST",
+            "archiveDate": "Jun 12, 2027 12:00:00 AM EDT",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Other Eligible Applicants include the following:\n Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Non-domestic (non-U.S.) Entities (Foreign Organizations); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession.",
+            "createTimeStamp": "Dec 06, 2024 01:20:15 PM EST",
+            "actionType": "U",
+            "actionDate": "Oct 27, 2026 08:50:21 AM EDT",
+            "createdDate": "Dec 06, 2024 01:16:04 PM EST",
+            "lastUpdatedDate": "Dec 06, 2024 01:16:04 PM EST",
+            "applicantTypes": [
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "ED",
+                "description": "Education"
+              },
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "responseDateStr": "2027-05-07-00-00-00",
+            "postingDateStr": "2024-12-06-00-00-00",
+            "archiveDateStr": "2027-06-12-00-00-00",
+            "createTimeStampStr": "2024-12-06-13-20-15"
+          },
+          "cfdas": [
+            {
+              "id": 426047,
+              "opportunityId": 357573,
+              "revision": 0,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 426048,
+              "opportunityId": 357573,
+              "revision": 0
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": []
+        }
+      ],
       "opportunityPkgs": [
         {
           "id": 289501,
@@ -299016,7 +299437,7 @@
           "opportunityNumber": "PAR-25-100",
           "opportunityTitle": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
           "openingDate": "2025-01-16",
-          "closingDate": "2027-05-07",
+          "closingDate": "2026-10-28",
           "owningAgencyCode": "HHS-NIH11",
           "agencyDetails": {
             "code": "NIH",
@@ -299033,7 +299454,7 @@
             "topAgencyCode": "HHS"
           },
           "contactInfo": "eRA Service Desk Monday to Friday 7 am to 8 pm ET http://grants.nih.gov/support/",
-          "gracePeriod": 35,
+          "gracePeriod": 0,
           "competitionId": "FORMS-I",
           "competitionTitle": "Use for due dates on or after January 25, 2025",
           "electronicRequired": "Y",
@@ -299044,17 +299465,26 @@
           "isMultiProject": "N",
           "extension": "pdf",
           "mimetype": "application/pdf",
-          "lastUpdate": "Dec 06, 2024 01:18:15 PM EST",
+          "lastUpdate": "Oct 27, 2026 08:50:40 AM EDT",
           "workspaceCompatibleFlag": "Y",
           "packageId": "PKG00289501",
           "openingDateStr": "2025-01-16-00-00-00",
-          "closingDateStr": "2027-05-07-00-00-00"
+          "closingDateStr": "2026-10-28-00-00-00"
         }
       ],
       "closedOpportunityPkgs": [],
       "originalDueDate": "May 07, 2027 12:00:00 AM EDT",
       "originalDueDateDesc": "",
-      "synopsisModifiedFields": [],
+      "synopsisModifiedFields": [
+        "revision",
+        "version",
+        "agencyContactDesc",
+        "synopsisDesc",
+        "responseDate",
+        "archiveDate",
+        "applicantEligibilityDesc",
+        "createTimeStamp"
+      ],
       "forecastModifiedFields": [],
       "errorMessages": [],
       "synPostDateInPast": true,
@@ -446436,7 +446866,7 @@
     }
   },
   "358886": {
-    "checked_at": "2026-10-26T14:07:18+00:00",
+    "checked_at": "2026-10-27T15:32:58+00:00",
     "listing_signature": "2906145e217f4b802ad15a681f0e46bed0894d3e7e4c021dcf517def92a7e336",
     "detail": {
       "id": 358886,
@@ -446498,64 +446928,64 @@
         },
         "applicantTypes": [
           {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
             "id": "04",
             "description": "Special district governments"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "02",
             "description": "City or township governments"
           },
           {
-            "id": "23",
-            "description": "Small businesses"
-          },
-          {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
           },
           {
             "id": "05",
             "description": "Independent school districts"
           },
           {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
             "id": "00",
             "description": "State governments"
           },
           {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           }
         ],
         "fundingInstruments": [
@@ -446728,48 +447158,48 @@
             },
             "applicantTypes": [
               {
-                "id": "05",
-                "description": "Independent school districts"
-              },
-              {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
                 "id": "01",
                 "description": "County governments"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
-                "id": "23",
-                "description": "Small businesses"
-              },
-              {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "07",
                 "description": "Native American tribal governments (Federally recognized)"
               },
               {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
                 "id": "08",
                 "description": "Public housing authorities/Indian housing authorities"
               },
               {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
                 "id": "00",
                 "description": "State governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
               }
             ],
             "fundingInstruments": [
@@ -446858,64 +447288,64 @@
             },
             "applicantTypes": [
               {
-                "id": "05",
-                "description": "Independent school districts"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "25",
                 "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
                 "id": "08",
                 "description": "Public housing authorities/Indian housing authorities"
               },
               {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "04",
-                "description": "Special district governments"
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
               },
               {
                 "id": "11",
                 "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
-              },
-              {
                 "id": "23",
                 "description": "Small businesses"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
               }
             ],
             "fundingInstruments": [

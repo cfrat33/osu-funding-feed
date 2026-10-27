@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T12:43:03+00:00",
+  "checked_at": "2026-10-27T15:33:01+00:00",
   "complete": true,
   "records": [
     {
@@ -3741,20 +3741,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.242"
-      ]
-    },
-    {
-      "id": "357573",
-      "number": "PAR-25-100",
-      "title": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/06/2024",
-      "closeDate": "05/07/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.279"
       ]
     },
     {
@@ -7515,20 +7501,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.847"
-      ]
-    },
-    {
-      "id": "358093",
-      "number": "PAR-24-329",
-      "title": "Development and Testing of Novel Interventions to Improve HIV Prevention, Treatment, and Program Implementation for People Who Use Substances (R34 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/08/2025",
-      "closeDate": "03/16/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.279"
       ]
     },
     {
@@ -13764,20 +13736,6 @@
       ]
     },
     {
-      "id": "363684",
-      "number": "26-516",
-      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "08/21/2026",
-      "closeDate": "10/05/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.050"
-      ]
-    },
-    {
       "id": "340828",
       "number": "22-600",
       "title": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
@@ -15737,20 +15695,6 @@
       ]
     },
     {
-      "id": "364153",
-      "number": "HHS-2027-ACL-AOD-DNDP-0016",
-      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
-      "agencyCode": "HHS-ACL",
-      "agency": "Administration for Community Living",
-      "openDate": "10/26/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.631"
-      ]
-    },
-    {
       "id": "364026",
       "number": "DE-FOA-0003577",
       "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
@@ -15762,6 +15706,62 @@
       "docType": "synopsis",
       "cfdaList": [
         "81.121"
+      ]
+    },
+    {
+      "id": "358093",
+      "number": "PAR-24-329",
+      "title": "Development and Testing of Novel Interventions to Improve HIV Prevention, Treatment, and Program Implementation for People Who Use Substances (R34 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "01/08/2025",
+      "closeDate": "10/27/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.279"
+      ]
+    },
+    {
+      "id": "357573",
+      "number": "PAR-25-100",
+      "title": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "12/06/2024",
+      "closeDate": "10/27/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.279"
+      ]
+    },
+    {
+      "id": "363684",
+      "number": "26-516",
+      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "08/21/2026",
+      "closeDate": "10/27/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.050"
+      ]
+    },
+    {
+      "id": "364153",
+      "number": "HHS-2027-ACL-AOD-DNDP-0016",
+      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/26/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.631"
       ]
     }
   ]
