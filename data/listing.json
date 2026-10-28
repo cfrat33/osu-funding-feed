@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T12:31:23+00:00",
+  "checked_at": "2026-10-28T15:24:01+00:00",
   "complete": true,
   "records": [
     {
@@ -15449,6 +15449,154 @@
       ]
     },
     {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "agencyCode": "DOE-ID",
+      "agency": "Idaho Field Office",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.121"
+      ]
+    },
+    {
+      "id": "357573",
+      "number": "PAR-25-100",
+      "title": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "12/06/2024",
+      "closeDate": "10/27/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.279"
+      ]
+    },
+    {
+      "id": "363684",
+      "number": "26-516",
+      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "08/21/2026",
+      "closeDate": "10/27/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.050"
+      ]
+    },
+    {
+      "id": "363392",
+      "number": "HRSA-27-019",
+      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
+      "agencyCode": "HHS-HRSA",
+      "agency": "Health Resources and Services Administration",
+      "openDate": "07/30/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.129"
+      ]
+    },
+    {
+      "id": "361380",
+      "number": "RFA-EB-28-004",
+      "title": "NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/23/2026",
+      "closeDate": "12/01/2030",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.273",
+        "93.121",
+        "93.853",
+        "93.867",
+        "93.279",
+        "93.286",
+        "93.866",
+        "93.865",
+        "93.242"
+      ]
+    },
+    {
+      "id": "364139",
+      "number": "O-NIJ-2026-172805",
+      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "364138",
+      "number": "O-NIJ-2026-172804",
+      "title": "NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "363533",
+      "number": "HRSA-27-033",
+      "title": "Healthy Tomorrows Partnership for Children Program (HTPCP)",
+      "agencyCode": "HHS-HRSA",
+      "agency": "Health Resources and Services Administration",
+      "openDate": "08/11/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.110"
+      ]
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "agencyCode": "SBA",
+      "agency": "Small Business Administration",
+      "openDate": "10/20/2026",
+      "closeDate": "11/19/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "59.037"
+      ]
+    },
+    {
+      "id": "362946",
+      "number": "RFA-AI-28-005",
+      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/20/2026",
+      "closeDate": "01/29/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.855"
+      ]
+    },
+    {
       "id": "363845",
       "number": "FOA-VETS-27-01",
       "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
@@ -15546,214 +15694,9 @@
       ]
     },
     {
-      "id": "361380",
-      "number": "RFA-EB-28-004",
-      "title": "NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/23/2026",
-      "closeDate": "12/01/2030",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.273",
-        "93.121",
-        "93.853",
-        "93.867",
-        "93.279",
-        "93.286",
-        "93.866",
-        "93.865",
-        "93.242"
-      ]
-    },
-    {
-      "id": "347026",
-      "number": "23-569",
-      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "03/21/2023",
-      "closeDate": "02/09/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.859",
-        "47.075"
-      ]
-    },
-    {
-      "id": "364139",
-      "number": "O-NIJ-2026-172805",
-      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/22/2026",
-      "closeDate": "11/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
-      "id": "364138",
-      "number": "O-NIJ-2026-172804",
-      "title": "NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/22/2026",
-      "closeDate": "11/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
-      "id": "363533",
-      "number": "HRSA-27-033",
-      "title": "Healthy Tomorrows Partnership for Children Program (HTPCP)",
-      "agencyCode": "HHS-HRSA",
-      "agency": "Health Resources and Services Administration",
-      "openDate": "08/11/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.110"
-      ]
-    },
-    {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agencyCode": "SBA",
-      "agency": "Small Business Administration",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "59.037"
-      ]
-    },
-    {
-      "id": "362946",
-      "number": "RFA-AI-28-005",
-      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/20/2026",
-      "closeDate": "01/29/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.855"
-      ]
-    },
-    {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "agencyCode": "DOE-ID",
-      "agency": "Idaho Field Office",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.121"
-      ]
-    },
-    {
-      "id": "357573",
-      "number": "PAR-25-100",
-      "title": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/06/2024",
-      "closeDate": "10/27/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.279"
-      ]
-    },
-    {
-      "id": "363684",
-      "number": "26-516",
-      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "08/21/2026",
-      "closeDate": "10/27/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.050"
-      ]
-    },
-    {
-      "id": "363392",
-      "number": "HRSA-27-019",
-      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
-      "agencyCode": "HHS-HRSA",
-      "agency": "Health Resources and Services Administration",
-      "openDate": "07/30/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.129"
-      ]
-    },
-    {
-      "id": "364153",
-      "number": "HHS-2027-ACL-AOD-DNDP-0016",
-      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
-      "agencyCode": "HHS-ACL",
-      "agency": "Administration for Community Living",
-      "openDate": "10/26/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.631"
-      ]
-    },
-    {
-      "id": "364158",
-      "number": "DFOP0019974",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.013"
-      ]
-    },
-    {
       "id": "364159",
       "number": "DFOP0019978",
       "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.020"
-      ]
-    },
-    {
-      "id": "364161",
-      "number": "DFOP0019982",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
       "agencyCode": "DOS-HR",
       "agency": "Bureau of Human Resources",
       "openDate": "10/27/2026",
@@ -15779,6 +15722,34 @@
       ]
     },
     {
+      "id": "364161",
+      "number": "DFOP0019982",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.020"
+      ]
+    },
+    {
+      "id": "364158",
+      "number": "DFOP0019974",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.013"
+      ]
+    },
+    {
       "id": "364155",
       "number": "DFOP0019966",
       "title": "2027 Donald M.  Payne International Development Graduate Fellowship Program &ndash; Selection",
@@ -15793,6 +15764,20 @@
       ]
     },
     {
+      "id": "364153",
+      "number": "HHS-2027-ACL-AOD-DNDP-0016",
+      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/26/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.631"
+      ]
+    },
+    {
       "id": "364163",
       "number": "O-BJA-2026-172771",
       "title": "BJA FY 2026 Postconviction Testing of DNA Evidence",
@@ -15804,6 +15789,35 @@
       "docType": "synopsis",
       "cfdaList": [
         "16.820"
+      ]
+    },
+    {
+      "id": "364165",
+      "number": "FA955027S0002",
+      "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
+      "agencyCode": "DOD-AFOSR",
+      "agency": "Air Force Office of Scientific Research",
+      "openDate": "10/28/2026",
+      "closeDate": "02/19/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.800"
+      ]
+    },
+    {
+      "id": "347026",
+      "number": "23-569",
+      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "03/21/2023",
+      "closeDate": "02/09/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075",
+        "93.859"
       ]
     }
   ]

@@ -58836,11 +58836,11 @@
     }
   },
   "347026": {
-    "checked_at": "2026-10-28T00:48:48+00:00",
-    "listing_signature": "1109f936237027a82b377c28dbd1933a62c99e2fac2e72588e7392e4584a1d01",
+    "checked_at": "2026-10-28T15:24:01+00:00",
+    "listing_signature": "5838079d200fe03a44b55a38576b030806808732fddb2d3e24b662c5c7659803",
     "detail": {
       "id": 347026,
-      "revision": 15,
+      "revision": 16,
       "opportunityNumber": "23-569",
       "opportunityTitle": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
       "owningAgencyCode": "NSF",
@@ -58854,7 +58854,7 @@
       },
       "synopsis": {
         "opportunityId": 347026,
-        "version": 16,
+        "version": 17,
         "agencyCode": "NSF",
         "agencyName": "U.S. National Science Foundation",
         "agencyPhone": "703-292-4203",
@@ -58893,10 +58893,10 @@
         "awardFloor": "100000",
         "awardFloorFormatted": "100,000",
         "sendEmail": "Y",
-        "createTimeStamp": "Oct 23, 2026 10:17:37 AM EDT",
+        "createTimeStamp": "Oct 28, 2026 10:50:26 AM EDT",
         "modComments": "Updated Synopsis via NSF Grants Opportunity Sync",
         "createdDate": "Mar 21, 2023 01:38:38 PM EDT",
-        "lastUpdatedDate": "Oct 23, 2026 10:17:37 AM EDT",
+        "lastUpdatedDate": "Oct 28, 2026 10:50:26 AM EDT",
         "applicantTypes": [
           {
             "id": "99",
@@ -58918,7 +58918,7 @@
         "responseDateStr": "2027-02-09-00-00-00",
         "postingDateStr": "2023-03-21-00-00-00",
         "archiveDateStr": "2027-10-09-00-00-00",
-        "createTimeStampStr": "2026-10-23-10-17-37"
+        "createTimeStampStr": "2026-10-28-10-50-26"
       },
       "agencyDetails": {
         "code": "NSF",
@@ -59040,21 +59040,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [],
@@ -59146,21 +59146,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -59256,21 +59256,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -59367,21 +59367,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -59478,21 +59478,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -59589,21 +59589,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -59701,21 +59701,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -59812,21 +59812,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -59923,21 +59923,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -60035,21 +60035,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -60148,21 +60148,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -60261,21 +60261,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -60372,21 +60372,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -60483,21 +60483,21 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
@@ -60594,27 +60594,137 @@
             {
               "id": 409405,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "47.075",
               "programTitle": "Social, Behavioral, and Economic Sciences"
             },
             {
               "id": 409404,
               "opportunityId": 347026,
-              "revision": 14,
+              "revision": 15,
               "cfdaNumber": "93.859",
               "programTitle": "Biomedical Research and Research Training"
             },
             {
               "id": 409425,
               "opportunityId": 347026,
-              "revision": 14
+              "revision": 15
             }
           ],
           "synopsisModifiedFields": [
             "revision",
             "version",
             "createTimeStamp"
+          ],
+          "forecastModifiedFields": []
+        },
+        {
+          "oppHistId": {
+            "opportunityId": 347026,
+            "revision": 15
+          },
+          "opportunityId": 347026,
+          "revision": 15,
+          "opportunityNumber": "23-569",
+          "opportunityTitle": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
+          "owningAgencyCode": "NSF",
+          "publisherUid": "5990951853740090865314141184033594214",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "modifiedComments": "Updated Synopsis via NSF Grants Opportunity Sync",
+          "synopsis": {
+            "id": {
+              "opportunityId": 347026,
+              "revision": 15
+            },
+            "opportunityId": 347026,
+            "revision": 15,
+            "version": 16,
+            "agencyCode": "NSF",
+            "agencyAddressDesc": "If you have any problems linking to this funding announcement, please contact the email address above.",
+            "agencyDetails": {
+              "code": "NSF",
+              "seed": "NSF",
+              "agencyName": "U.S. National Science Foundation",
+              "agencyCode": "NSF",
+              "topAgencyCode": "NSF"
+            },
+            "agencyContactPhone": "703-292-4203",
+            "agencyContactName": "U.S. National Science Foundation",
+            "agencyContactDesc": "NSF grants.gov support\ngrantsgovsupport@nsf.gov",
+            "agencyContactEmail": "grantsgovsupport@nsf.gov",
+            "agencyContactEmailDesc": "If you have any problems linking to this funding announcement, please contact the email address above.",
+            "synopsisDesc": "<p>The National Science Foundation (NSF) and the National Institutes of Health (NIH) are interested in proposals that will propel our understanding of the biomedical research enterprise by drawing from the scientific expertise of the science of science policy research community.</p>\n<p>NSF promotes the progress of science by maintaining the general health of research and education across all fields of science and engineering. The Social, Behavioral and Economic Sciences (SBE) Directorate within NSF supports basic research on people and society. The SBE sciences focus on human behavior and social organizations; how social, economic, political, cultural and environmental forces affect the lives of people from birth to old age; and how people in turn shape those forces. SBE's <a href=\"https://new.nsf.gov/funding/opportunities/science-science-discovery-communication-impact\">Science of Science: Discovery, Communication and Impact Program (SoS:DCI)</a> supports research designed to advance the scientific basis of science and innovation policy.</p>\n<p>The NIH is the U.S. federal agency charged with supporting biomedical research in the U.S.&nbsp;The National Institute of General Medical Sciences (NIGMS) within the NIH supports basic biomedical research that increases understanding of biological processes and lays the foundation for advances in disease diagnosis, treatment and prevention.&nbsp;</p>\n<p>Both NSF and NIH believe that there are opportunities and needs for building and supporting research projects with a focus on the scientific research enterprise. The two agencies also recognize that when programmatic goals are compatible, coordinated management and funding of a research program can have a positive synergistic effect on the level and scope of research and can leverage the investments of both agencies.&nbsp;</p>\n<p>Therefore, NIGMS and SBE are partnering to enable collaboration in research between the&nbsp;SoS:DCI program and NIGMS. This partnership will result in a portfolio of high-quality research to provide scientific analysis of important aspects of the biomedical research enterprise and efforts to foster a diverse, innovative, productive and efficient scientific workforce, from which future scientific leaders will emerge.&nbsp;&nbsp;</p>\n<p>Prospective investigators are strongly encouraged to discuss their&nbsp;proposals with the program officers before submission to determine project relevance to the priorities of both SBE and NIGMS. Specific questions pertaining to this solicitation can also be directed to the SBE and NIGMS program officers.</p>",
+            "responseDate": "Feb 09, 2027 12:00:00 AM EST",
+            "fundingDescLinkUrl": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23569",
+            "fundingDescLinkDesc": "NSF Publication 23-569",
+            "postingDate": "Mar 21, 2023 12:00:00 AM EDT",
+            "archiveDate": "Oct 09, 2027 12:00:00 AM EDT",
+            "costSharing": false,
+            "numberOfAwards": "8",
+            "estimatedFunding": "2000000",
+            "estimatedFundingFormatted": "2,000,000",
+            "awardCeiling": "250000",
+            "awardCeilingFormatted": "250,000",
+            "awardFloor": "100000",
+            "awardFloorFormatted": "100,000",
+            "createTimeStamp": "Oct 23, 2026 10:17:37 AM EDT",
+            "sendEmail": "Y",
+            "modComments": "Updated Synopsis via NSF Grants Opportunity Sync",
+            "actionType": "U",
+            "actionDate": "Oct 28, 2026 10:50:26 AM EDT",
+            "createdDate": "Mar 21, 2023 01:38:38 PM EDT",
+            "lastUpdatedDate": "Oct 23, 2026 10:17:37 AM EDT",
+            "applicantTypes": [
+              {
+                "id": "99",
+                "description": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "ST",
+                "description": "Science and Technology and other Research and Development"
+              }
+            ],
+            "responseDateStr": "2027-02-09-00-00-00",
+            "postingDateStr": "2023-03-21-00-00-00",
+            "archiveDateStr": "2027-10-09-00-00-00",
+            "createTimeStampStr": "2026-10-23-10-17-37"
+          },
+          "cfdas": [
+            {
+              "id": 409405,
+              "opportunityId": 347026,
+              "revision": 15,
+              "cfdaNumber": "47.075",
+              "programTitle": "Social, Behavioral, and Economic Sciences"
+            },
+            {
+              "id": 409404,
+              "opportunityId": 347026,
+              "revision": 15,
+              "cfdaNumber": "93.859",
+              "programTitle": "Biomedical Research and Research Training"
+            },
+            {
+              "id": 409425,
+              "opportunityId": 347026,
+              "revision": 15
+            }
+          ],
+          "synopsisModifiedFields": [
+            "revision",
+            "version"
           ],
           "forecastModifiedFields": []
         }
@@ -60654,7 +60764,7 @@
           "isMultiProject": "N",
           "extension": "pdf",
           "mimetype": "application/pdf",
-          "lastUpdate": "Oct 23, 2026 10:17:38 AM EDT",
+          "lastUpdate": "Oct 28, 2026 10:50:27 AM EDT",
           "workspaceCompatibleFlag": "Y",
           "packageId": "PKG00280721",
           "openingDateStr": "2023-03-21-00-00-00",
@@ -60665,14 +60775,15 @@
       "originalDueDate": "Sep 11, 2023 12:00:00 AM EDT",
       "synopsisModifiedFields": [
         "revision",
-        "version"
+        "version",
+        "createTimeStamp"
       ],
       "forecastModifiedFields": [],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "synopsis",
       "forecastHistCount": 0,
-      "synopsisHistCount": 15,
+      "synopsisHistCount": 16,
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
@@ -465283,6 +465394,221 @@
       ],
       "closedOpportunityPkgs": [],
       "originalDueDate": "Dec 08, 2026 12:00:00 AM EST",
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "synopsis",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "POSTED"
+    }
+  },
+  "364165": {
+    "checked_at": "2026-10-28T15:24:00+00:00",
+    "listing_signature": "3a6ee7bbbc3cb0122167f0b317400916258743b6245ad4c9c7797d925a686ef8",
+    "detail": {
+      "id": 364165,
+      "revision": 0,
+      "opportunityNumber": "FA955027S0002",
+      "opportunityTitle": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
+      "owningAgencyCode": "DOD-AFOSR",
+      "listed": "L",
+      "publisherUid": "jorgegallegos13",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 364165,
+        "version": 3,
+        "agencyCode": "DOD-AFOSR",
+        "agencyName": "Daniel P Smith\nProcurement Analyst",
+        "agencyPhone": "703-588-8494",
+        "agencyAddressDesc": "Program Coordinator",
+        "agencyDetails": {
+          "code": "AFOSR",
+          "seed": "DOD-AFOSR",
+          "agencyName": "Air Force Office of Scientific Research",
+          "agencyCode": "DOD-AFOSR",
+          "topAgencyCode": "DOD"
+        },
+        "topAgencyDetails": {
+          "code": "DOD",
+          "seed": "DOD",
+          "agencyName": "Department of Defense",
+          "agencyCode": "DOD",
+          "topAgencyCode": "DOD"
+        },
+        "agencyContactPhone": "703-588-8494",
+        "agencyContactName": "Daniel P Smith\nProcurement Analyst",
+        "agencyContactDesc": "Lt Col Alexander Kamrud\r\nProgram Coordinator",
+        "agencyContactEmail": "alexander.kamrud.1@us.af.mil",
+        "agencyContactEmailDesc": "Program Coordinator",
+        "synopsisDesc": "<p>This is a special Notice of Funding Opportunity Announcement (NOFO) sponsored by the Air Force Office of Scientific Research (AFOSR) and Taiwan’s National Science and Technology Council (NSTC), which will hereafter generally be referred to as “we, us, our, or AFOSR.” We announce the solicitation for a three-year program entitled “Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies.”</p><p><br></p><p>The US Air Force-Taiwan Nanoscience Program is one of the Air Force Office of Scientific Research’s (AFOSR) International Research Initiatives. This international program is focused on shaping the direction and advancing the state-of-the-art in nanoscience research. Starting in 2002, grants were provided to Taiwan investigators to focus on basic research in specific nanoscience areas of interest as described by program managers at AFOSR or at the Air Force Research Lab (AFRL). In 2011 the program evolved to become a collaborative effort to pair US and Taiwan investigators to conduct basic science research on topics of common interest. In order to continue to provide opportunities for scientists to collaborate in emerging technology areas and to leverage their intellectual resources, AFOSR and NSTC are offering a new program dedicated to frontiers in materials and nanostructures in a variety of topic areas.</p><p><br></p><p>This is an open call with open competition; therefore, all applications are welcome. Initial applications (pre-proposals) must have two investigators - one from a US institution or DoD Lab, and one from a Taiwan institution. Teams consisting of a US investigator and his/her counterpart from Taiwan are invited to submit a joint pre-proposal (white paper) indicating what their collaboration could accomplish with three years of funding. Each US-Taiwan pair is to submit only one pre-proposal. The same pre-proposal is to be submitted to both AFOSR and NSTC. Please see the Eligibility section below for further details.</p><p><br></p><p>IMPORTANT NOTE: Applicants should be alert for any amendments that may modify the announcement. Amendments to the original Notice of Funding Opportunity (NOFO) will be posted to the Grants.gov Webpage: https://www.grants.gov/.</p>",
+        "responseDate": "Feb 19, 2027 12:00:00 AM EST",
+        "responseDateDesc": "Applications must be received no later than 19 February 2027, 11:59 PM Eastern Time",
+        "postingDate": "Oct 28, 2026 12:00:00 AM EDT",
+        "archiveDate": "Mar 21, 2027 12:00:00 AM EDT",
+        "costSharing": false,
+        "estimatedFunding": "3600000",
+        "estimatedFundingFormatted": "3,600,000",
+        "awardCeiling": "450000",
+        "awardCeilingFormatted": "450,000",
+        "awardFloor": "150000",
+        "awardFloorFormatted": "150,000",
+        "applicantEligibilityDesc": "",
+        "sendEmail": "Y",
+        "createTimeStamp": "Oct 28, 2026 09:41:58 AM EDT",
+        "createdDate": "Oct 28, 2026 09:08:46 AM EDT",
+        "lastUpdatedDate": "Oct 28, 2026 09:32:01 AM EDT",
+        "applicantTypes": [
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "G",
+            "description": "Grant"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ST",
+            "description": "Science and Technology and other Research and Development"
+          }
+        ],
+        "responseDateStr": "2027-02-19-00-00-00",
+        "postingDateStr": "2026-10-28-00-00-00",
+        "archiveDateStr": "2027-03-21-00-00-00",
+        "createTimeStampStr": "2026-10-28-09-41-58"
+      },
+      "agencyDetails": {
+        "code": "AFOSR",
+        "seed": "DOD-AFOSR",
+        "agencyName": "Air Force Office of Scientific Research",
+        "agencyCode": "DOD-AFOSR",
+        "topAgencyCode": "DOD"
+      },
+      "topAgencyDetails": {
+        "code": "DOD",
+        "seed": "DOD",
+        "agencyName": "Department of Defense",
+        "agencyCode": "DOD",
+        "topAgencyCode": "DOD"
+      },
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81485,
+          "opportunityId": 364165,
+          "folderType": "Full Announcement",
+          "folderName": "FA955027S0002",
+          "zipLobSize": 690047,
+          "createdDate": "Oct 28, 2026 09:34:10 AM EDT",
+          "lastUpdatedDate": "Oct 28, 2026 09:34:57 AM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355391,
+              "opportunityId": 364165,
+              "mimeType": "application/pdf",
+              "fileName": "FA955027S0002.pdf",
+              "fileDescription": "FA955027S0002",
+              "fileLobSize": 715765,
+              "createdDate": "Oct 28, 2026 09:34:57 AM EDT",
+              "lastUpdatedDate": "Oct 28, 2026 09:41:58 AM EDT",
+              "synopsisAttFolderId": 81485
+            }
+          ]
+        },
+        {
+          "id": 81486,
+          "opportunityId": 364165,
+          "folderType": "Other Supporting Documents",
+          "folderName": "Appendixes",
+          "zipLobSize": 104485,
+          "createdDate": "Oct 28, 2026 09:39:35 AM EDT",
+          "lastUpdatedDate": "Oct 28, 2026 09:40:12 AM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355394,
+              "opportunityId": 364165,
+              "mimeType": "application/pdf",
+              "fileName": "Appendix 2 - AFRL Privacy Act for Covered Individuals.pdf",
+              "fileDescription": "Privacy Act for Covered Individuals",
+              "fileLobSize": 109694,
+              "createdDate": "Oct 28, 2026 09:40:12 AM EDT",
+              "synopsisAttFolderId": 81486
+            }
+          ]
+        }
+      ],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 436000,
+          "opportunityId": 364165,
+          "cfdaNumber": "12.800",
+          "programTitle": "Air Force Defense Research Sciences Program"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [
+        {
+          "id": 294468,
+          "topportunityId": 364165,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "FA955027S0002",
+          "opportunityTitle": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
+          "cfdaNumber": "12.800",
+          "openingDate": "2026-10-28",
+          "closingDate": "2027-02-19",
+          "owningAgencyCode": "DOD-AFOSR",
+          "agencyDetails": {
+            "code": "AFOSR",
+            "seed": "DOD-AFOSR",
+            "agencyName": "Air Force Office of Scientific Research",
+            "agencyCode": "DOD-AFOSR",
+            "topAgencyCode": "DOD"
+          },
+          "topAgencyDetails": {
+            "code": "DOD",
+            "seed": "DOD",
+            "agencyName": "Department of Defense",
+            "agencyCode": "DOD",
+            "topAgencyCode": "DOD"
+          },
+          "programTitle": "Air Force Defense Research Sciences Program",
+          "contactInfo": "Shelby Bonneville\r\nGrantor\r\nE-mail: shelby.bonneville@us.af.mil",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 20,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 28, 2026 09:46:51 AM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294468",
+          "openingDateStr": "2026-10-28-00-00-00",
+          "closingDateStr": "2027-02-19-00-00-00"
+        }
+      ],
+      "closedOpportunityPkgs": [],
+      "originalDueDate": "Feb 19, 2027 12:00:00 AM EST",
+      "originalDueDateDesc": "Applications must be received no later than 19 February 2027, 11:59 PM Eastern Time",
       "synopsisModifiedFields": [],
       "forecastModifiedFields": [],
       "errorMessages": [],
