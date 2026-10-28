@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T21:21:58+00:00",
+  "checked_at": "2026-10-28T00:48:48+00:00",
   "complete": true,
   "records": [
     {
@@ -15737,34 +15737,6 @@
       ]
     },
     {
-      "id": "364159",
-      "number": "DFOP0019978",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.020"
-      ]
-    },
-    {
-      "id": "364158",
-      "number": "DFOP0019974",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.013"
-      ]
-    },
-    {
       "id": "363392",
       "number": "HRSA-27-019",
       "title": "Fiscal Year 2027 Regional Nutrition Hubs",
@@ -15793,6 +15765,34 @@
       ]
     },
     {
+      "id": "364158",
+      "number": "DFOP0019974",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.013"
+      ]
+    },
+    {
+      "id": "364159",
+      "number": "DFOP0019978",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.020"
+      ]
+    },
+    {
       "id": "364161",
       "number": "DFOP0019982",
       "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
@@ -15804,6 +15804,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "19.020"
+      ]
+    },
+    {
+      "id": "364162",
+      "number": "DFOP0019970",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.013"
       ]
     },
     {
