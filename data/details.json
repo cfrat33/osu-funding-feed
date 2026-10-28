@@ -146742,7 +146742,7 @@
     }
   },
   "363692": {
-    "checked_at": "2026-10-27T18:25:55+00:00",
+    "checked_at": "2026-10-28T18:27:37+00:00",
     "listing_signature": "4a6294d0647363adef95d7d80bfed6f20b28d42262fd6a27928afa33f8645db4",
     "detail": {
       "id": 363692,
@@ -146807,12 +146807,8 @@
             "description": "City or township governments"
           },
           {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
           },
           {
             "id": "12",
@@ -146823,40 +146819,44 @@
             "description": "County governments"
           },
           {
-            "id": "23",
-            "description": "Small businesses"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
+            "id": "04",
+            "description": "Special district governments"
           },
           {
             "id": "21",
             "description": "Individuals"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
             "id": "13",
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "04",
-            "description": "Special district governments"
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           }
         ],
         "fundingInstruments": [
@@ -146988,7 +146988,7 @@
     }
   },
   "363699": {
-    "checked_at": "2026-10-27T18:25:56+00:00",
+    "checked_at": "2026-10-28T18:27:38+00:00",
     "listing_signature": "c7e63937085477dec6544b4a8a44959880a71e4e5a42dcb7eb3cd7a8dcc25e6b",
     "detail": {
       "id": 363699,
@@ -147184,7 +147184,7 @@
     }
   },
   "363684": {
-    "checked_at": "2026-10-27T15:32:59+00:00",
+    "checked_at": "2026-10-28T18:27:35+00:00",
     "listing_signature": "dd8fe28dc7f74049cddc382158763d4bd23e3005797b6147434b8fae9f9cf6f6",
     "detail": {
       "id": 363684,
@@ -148471,7 +148471,7 @@
     }
   },
   "363677": {
-    "checked_at": "2026-10-27T18:25:57+00:00",
+    "checked_at": "2026-10-28T18:27:39+00:00",
     "listing_signature": "b1a88e99a58edf38c1e97707992b0873925f246d878aa588b03191dcf22c1b58",
     "detail": {
       "id": 363677,
@@ -148637,7 +148637,7 @@
     }
   },
   "360611": {
-    "checked_at": "2026-10-27T18:25:58+00:00",
+    "checked_at": "2026-10-28T18:27:40+00:00",
     "listing_signature": "9f6ca558d352876fa099f42b20adefe4cf56ffba3eb5d883ed7d7f7d56215d21",
     "detail": {
       "id": 360611,
@@ -148694,16 +148694,16 @@
         "lastUpdatedDate": "Aug 20, 2026 07:40:19 AM EDT",
         "applicantTypes": [
           {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
             "id": "06",
@@ -148776,12 +148776,12 @@
         },
         "applicantTypes": [
           {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
             "id": "20",
             "description": "Private institutions of higher education"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "06",
@@ -148901,16 +148901,16 @@
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
                 "id": "13",
                 "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "20",
                 "description": "Private institutions of higher education"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -149003,16 +149003,16 @@
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
                 "id": "13",
                 "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
                 "id": "20",
                 "description": "Private institutions of higher education"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -149108,8 +149108,16 @@
             "lastUpdatedDate": "Aug 19, 2026 05:45:40 PM EDT",
             "applicantTypes": [
               {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
                 "id": "12",
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
               },
               {
                 "id": "13",
@@ -149118,14 +149126,6 @@
               {
                 "id": "20",
                 "description": "Private institutions of higher education"
-              },
-              {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -149232,7 +149232,7 @@
     }
   },
   "360883": {
-    "checked_at": "2026-10-27T18:25:59+00:00",
+    "checked_at": "2026-10-28T18:27:41+00:00",
     "listing_signature": "6f5a5b1805561d7f6c7c05ca4bb771debc602873a0f5d27bc23234981227ffec",
     "detail": {
       "id": 360883,
@@ -149289,64 +149289,64 @@
         "lastUpdatedDate": "Aug 20, 2026 07:39:21 AM EDT",
         "applicantTypes": [
           {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
             "id": "11",
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
           },
           {
             "id": "25",
             "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
-            "id": "02",
-            "description": "City or township governments"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
-          },
-          {
             "id": "01",
             "description": "County governments"
           },
           {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "04",
+            "description": "Special district governments"
           },
           {
             "id": "13",
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
           }
         ],
         "fundingInstruments": [
@@ -149415,16 +149415,16 @@
             "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
             "id": "20",
             "description": "Private institutions of higher education"
           },
           {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -149532,8 +149532,8 @@
             },
             "applicantTypes": [
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "12",
@@ -149544,8 +149544,8 @@
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -149634,8 +149634,8 @@
             },
             "applicantTypes": [
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "20",
+                "description": "Private institutions of higher education"
               },
               {
                 "id": "12",
@@ -149646,8 +149646,8 @@
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -149743,20 +149743,24 @@
             "lastUpdatedDate": "Aug 19, 2026 06:00:42 PM EDT",
             "applicantTypes": [
               {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
                 "id": "04",
                 "description": "Special district governments"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
               },
               {
                 "id": "11",
@@ -149767,40 +149771,36 @@
                 "description": "For profit organizations other than small businesses"
               },
               {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
                 "id": "07",
                 "description": "Native American tribal governments (Federally recognized)"
               },
               {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-              },
-              {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "00",
+                "description": "State governments"
               },
               {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
                 "id": "23",
                 "description": "Small businesses"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
               }
             ],
             "fundingInstruments": [
@@ -149907,7 +149907,7 @@
     }
   },
   "363660": {
-    "checked_at": "2026-10-27T18:26:00+00:00",
+    "checked_at": "2026-10-28T18:27:42+00:00",
     "listing_signature": "a8a6ef6a28c70c25de448cbc3953ccac17bdf41cff958352b978c30db490c001",
     "detail": {
       "id": 363660,
@@ -149970,16 +149970,20 @@
         "lastUpdatedDate": "Aug 19, 2026 12:30:21 PM EDT",
         "applicantTypes": [
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
           },
           {
             "id": "23",
@@ -149990,12 +149994,8 @@
             "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -150213,7 +150213,7 @@
     }
   },
   "363613": {
-    "checked_at": "2026-10-27T18:26:01+00:00",
+    "checked_at": "2026-10-28T18:27:43+00:00",
     "listing_signature": "6da6a7a614b0458a4a932720b83f43bd80d5bfeeb1dd06ab4e70eb7b6e18a38b",
     "detail": {
       "id": 363613,
@@ -150684,7 +150684,7 @@
     }
   },
   "363614": {
-    "checked_at": "2026-10-27T18:26:02+00:00",
+    "checked_at": "2026-10-28T18:27:44+00:00",
     "listing_signature": "072d092c01cd6c2933679df6bc997aae83ba9bc3c803f81d883fb8623b129a60",
     "detail": {
       "id": 363614,
@@ -151257,7 +151257,7 @@
     }
   },
   "363616": {
-    "checked_at": "2026-10-27T18:26:03+00:00",
+    "checked_at": "2026-10-28T18:27:45+00:00",
     "listing_signature": "205fd077d64d68618c494ea5021b9d15f6bd7bb1479750f0fc9fb3357467ee6a",
     "detail": {
       "id": 363616,
@@ -151832,7 +151832,7 @@
     }
   },
   "363620": {
-    "checked_at": "2026-10-27T18:26:04+00:00",
+    "checked_at": "2026-10-28T18:27:46+00:00",
     "listing_signature": "469ce235337dbdf1582d55c341cd16569cfa1c754a040a274ab6b44864012537",
     "detail": {
       "id": 363620,
@@ -152605,7 +152605,7 @@
     }
   },
   "363621": {
-    "checked_at": "2026-10-27T18:26:05+00:00",
+    "checked_at": "2026-10-28T18:27:47+00:00",
     "listing_signature": "b9029b276df2d5e6e1c4241b557490b2c37db3ac06d7bb723daf3e9dd0ef12b7",
     "detail": {
       "id": 363621,
@@ -153072,7 +153072,7 @@
     }
   },
   "363510": {
-    "checked_at": "2026-10-27T18:26:07+00:00",
+    "checked_at": "2026-10-28T18:27:49+00:00",
     "listing_signature": "c37cd1a86ce9a4d20d0c128729ac68116fd61f3a127e9f3bd71e46572fdb5fc6",
     "detail": {
       "id": 363510,
@@ -153208,7 +153208,7 @@
     }
   },
   "360200": {
-    "checked_at": "2026-10-27T18:26:06+00:00",
+    "checked_at": "2026-10-28T18:27:48+00:00",
     "listing_signature": "b9bf1e12f035d66c16483840c451ddf2861669d992217d588f81bf3fdb2f5377",
     "detail": {
       "id": 360200,
@@ -153266,40 +153266,28 @@
         "lastUpdatedDate": "Aug 05, 2026 07:26:41 AM EDT",
         "applicantTypes": [
           {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
             "id": "02",
             "description": "City or township governments"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
           },
           {
             "id": "13",
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
           },
           {
             "id": "07",
@@ -153310,12 +153298,24 @@
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+            "id": "05",
+            "description": "Independent school districts"
           },
           {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -153387,40 +153387,28 @@
         "awardFloorFormatted": "450,000",
         "applicantTypes": [
           {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
             "id": "02",
             "description": "City or township governments"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
           },
           {
             "id": "13",
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
           },
           {
             "id": "07",
@@ -153431,12 +153419,24 @@
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+            "id": "05",
+            "description": "Independent school districts"
           },
           {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -153552,56 +153552,56 @@
             "awardFloorFormatted": "450,000",
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               },
               {
                 "id": "00",
                 "description": "State governments"
               },
               {
-                "id": "04",
-                "description": "Special district governments"
-              },
-              {
                 "id": "08",
                 "description": "Public housing authorities/Indian housing authorities"
               },
               {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
               },
               {
                 "id": "06",
                 "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -153695,56 +153695,56 @@
             "awardFloorFormatted": "450,000",
             "applicantTypes": [
               {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               },
               {
                 "id": "00",
                 "description": "State governments"
               },
               {
-                "id": "04",
-                "description": "Special district governments"
-              },
-              {
                 "id": "08",
                 "description": "Public housing authorities/Indian housing authorities"
               },
               {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
-              },
-              {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
               },
               {
                 "id": "20",
                 "description": "Private institutions of higher education"
               },
               {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
               },
               {
                 "id": "06",
                 "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
               }
             ],
             "fundingInstruments": [
@@ -299192,7 +299192,7 @@
     }
   },
   "357573": {
-    "checked_at": "2026-10-27T15:33:01+00:00",
+    "checked_at": "2026-10-28T18:27:36+00:00",
     "listing_signature": "517f330e0f1a80bb4cd0b6ff6a6a33329e807babfaf051509e6f4145ac42783c",
     "detail": {
       "id": 357573,
@@ -299251,52 +299251,24 @@
         "lastUpdatedDate": "Oct 27, 2026 08:50:21 AM EDT",
         "applicantTypes": [
           {
-            "id": "02",
-            "description": "City or township governments"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
           },
           {
             "id": "25",
             "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "04",
-            "description": "Special district governments"
+            "id": "05",
+            "description": "Independent school districts"
           },
           {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "23",
-            "description": "Small businesses"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
+            "id": "01",
+            "description": "County governments"
           },
           {
             "id": "00",
@@ -299307,8 +299279,36 @@
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
             "id": "13",
             "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
           }
         ],
         "fundingInstruments": [
@@ -299440,64 +299440,64 @@
             "lastUpdatedDate": "Dec 06, 2024 01:16:04 PM EST",
             "applicantTypes": [
               {
-                "id": "08",
-                "description": "Public housing authorities/Indian housing authorities"
-              },
-              {
-                "id": "04",
-                "description": "Special district governments"
-              },
-              {
-                "id": "05",
-                "description": "Independent school districts"
-              },
-              {
-                "id": "22",
-                "description": "For profit organizations other than small businesses"
-              },
-              {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "12",
-                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-              },
-              {
-                "id": "11",
-                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-              },
-              {
-                "id": "02",
-                "description": "City or township governments"
-              },
-              {
-                "id": "06",
-                "description": "Public and State controlled institutions of higher education"
-              },
-              {
-                "id": "20",
-                "description": "Private institutions of higher education"
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
               },
               {
                 "id": "00",
                 "description": "State governments"
               },
               {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
-                "id": "01",
-                "description": "County governments"
+                "id": "04",
+                "description": "Special district governments"
               },
               {
                 "id": "23",
                 "description": "Small businesses"
               },
               {
-                "id": "07",
-                "description": "Native American tribal governments (Federally recognized)"
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
               }
             ],
             "fundingInstruments": [
@@ -465619,6 +465619,286 @@
       "assistCompatible": false,
       "assistURL": "",
       "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "POSTED"
+    }
+  },
+  "364144": {
+    "checked_at": "2026-10-28T18:27:34+00:00",
+    "listing_signature": "df59e1595b81ae6c84a24c2aba77990195e225ca1a0b232f1619df25a72ceada",
+    "detail": {
+      "id": 364144,
+      "revision": 8,
+      "opportunityNumber": "USDA-FS-2026-LSR",
+      "opportunityTitle": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "owningAgencyCode": "USDA-FS",
+      "listed": "L",
+      "publisherUid": "swormstead",
+      "modifiedComments": "Updated Title",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 364144,
+        "version": 20,
+        "agencyCode": "USDA-FS",
+        "agencyAddressDesc": "National LSR Email Inbox",
+        "agencyDetails": {
+          "code": "FS",
+          "seed": "USDA-FS",
+          "agencyName": "Forest Service",
+          "agencyCode": "USDA-FS",
+          "topAgencyCode": "USDA"
+        },
+        "topAgencyDetails": {
+          "code": "USDA",
+          "seed": "USDA",
+          "agencyName": "Department of Agriculture",
+          "agencyCode": "USDA",
+          "topAgencyCode": "USDA"
+        },
+        "agencyContactDesc": "See NOFO document for LSR regional program contacts.",
+        "agencyContactEmail": "SM.FS.LSR@usda.gov",
+        "agencyContactEmailDesc": "National LSR Email Inbox",
+        "synopsisDesc": "<p>The Forest Service is offering this one LSR non-federal lands Notice of Funding Opportunity (NOFO) which replaces the three regional (Southern/IITF, Western, and Northeast/Midwestern) NOFOs.&nbsp;The purpose of the Landscape Scale Restoration (LSR) Program is to encourage collaborative, science-based restoration of priority forest landscapes. This competitive grant program supports collaborative high impact projects that lead to measurable outcomes on priority forest landscapes, leverage public and private resources, and further priorities identified in a State Forest Action Plan or equivalent science-based restoration strategy. <strong>Proposals should reduce wildfire risk, improve fish and wildlife habitats, maintain or improve water quality and watershed function, and/or mitigate invasive plants, insects, and disease.</strong></p> \n<ul> \n <li><strong>Eligible Lands</strong>: LSR projects must be conducted on rural non-industrial private forest land, and/or rural state or local government forest land.&nbsp;See NOFO for more definitions. For the purposes of this program, “rural” is defined as all areas outside Census places greater than 50,000 people according to the latest United States Census. Please use the <a href=\"https://experience.arcgis.com/experience/d6fe5710168d4054a4fefc3793b12083\" target=\"_blank\">LSR Project Planning Tool (Project Eligibility)</a> to confirm if your proposed project location is eligible within this definition.&nbsp;</li> \n <li><strong>Individual Award Funding</strong>:</li> \n <li><span style=\"color: black;\">Minimum: $100,000 per project. $50,000 per project for the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Freely Associated States of the Republic of Palau (Palau), the Federated States of Micronesia, and the Republic of the Marshall Islands.</span></li> \n <li><span style=\"color: black;\">Maximum: $300,000 for single-state projects; $600,000 for multi-state projects.</span></li> \n <li><strong>Cost Share Required</strong>: Grant recipients must match (cost share) the Federal grant funds 1:1 with non-Federal sources.&nbsp;</li> \n <li><strong>State Forester Sponsorship</strong>: All applications except those submitted by federally recognized Tribes and Tribal organizations require the relevant State Forester(s) to sponsor the project. Each State Forester may sponsor/participate in up to a total of 10 applications, including up to 5 single-state applications and up to 5 multi-state applications.</li> \n <li><strong>For Tribes and Tribal organizations</strong>: Federally Recognized Tribes are limited to 2 applications for this NOFO.&nbsp;There is a separate national LSR NOFO for federally recognized Tribes and Tribal organizations: USDA-FS-2026-LSR-TRIBAL. Federally recognized Tribes and Tribal organizations may apply to either or both NOFOs but cannot receive more than one award for the same scope of work.</li> \n</ul> \n<p><span style=\"color: rgb(27, 27, 27);\">For additional information and requirements, please refer to the NOFO document, which is posted in both the \"Related Documents\" tab and in the \"Instructions\" link located in the \"Package\" tab.</span></p>",
+        "responseDate": "Jan 26, 2027 12:00:00 AM EST",
+        "responseDateDesc": "Applications due in grants.gov 11:59 p.m. Eastern January 26, 2027. Note: By December 17, 2026 all applicants except federally recognized Tribes and Tribal organizations must submit the project narrative and budget to the relevant State Forester(s) for sponsorship consideration.",
+        "fundingDescLinkUrl": "https://www.fs.usda.gov/managing-land/private-land/landscape-scale-restoration",
+        "fundingDescLinkDesc": "USDA Forest Service, Landscape Scale Restoration Grants web page",
+        "postingDate": "Oct 28, 2026 12:00:00 AM EDT",
+        "archiveDate": "Mar 31, 2027 12:00:00 AM EDT",
+        "fundingActivityCategoryDesc": "For landscape restoration projects on rural non-industrial private forestland, and/or rural state or local government forest land.",
+        "costSharing": true,
+        "numberOfAwards": "30",
+        "estimatedFunding": "11340000",
+        "estimatedFundingFormatted": "11,340,000",
+        "awardCeiling": "600000",
+        "awardCeilingFormatted": "600,000",
+        "awardFloor": "100000",
+        "awardFloorFormatted": "100,000",
+        "applicantEligibilityDesc": "There is a separate national LSR Notice of Funding Opportunity (NOFO) for federally recognized Tribes and Tribal organizations: USDA-FS-2026-LSR-TRIBAL. Federally recognized Tribes and Tribal organizations may apply to either or both NOFOs but cannot receive more than one award for the same scope of work.",
+        "sendEmail": "N",
+        "createTimeStamp": "Oct 28, 2026 01:44:06 PM EDT",
+        "modComments": "Changed post date to Oct. 28.",
+        "createdDate": "Oct 23, 2026 08:19:09 AM EDT",
+        "lastUpdatedDate": "Oct 28, 2026 11:30:13 AM EDT",
+        "applicantTypes": [
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "G",
+            "description": "Grant"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ENV",
+            "description": "Environment"
+          },
+          {
+            "id": "NR",
+            "description": "Natural Resources"
+          }
+        ],
+        "responseDateStr": "2027-01-26-00-00-00",
+        "postingDateStr": "2026-10-28-00-00-00",
+        "archiveDateStr": "2027-03-31-00-00-00",
+        "createTimeStampStr": "2026-10-28-13-44-06"
+      },
+      "agencyDetails": {
+        "code": "FS",
+        "seed": "USDA-FS",
+        "agencyName": "Forest Service",
+        "agencyCode": "USDA-FS",
+        "topAgencyCode": "USDA"
+      },
+      "topAgencyDetails": {
+        "code": "USDA",
+        "seed": "USDA",
+        "agencyName": "Department of Agriculture",
+        "agencyCode": "USDA",
+        "topAgencyCode": "USDA"
+      },
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81472,
+          "opportunityId": 364144,
+          "folderType": "Full Announcement",
+          "folderName": "NOFO Documents",
+          "zipLobSize": 616524,
+          "createdDate": "Oct 27, 2026 09:00:39 AM EDT",
+          "lastUpdatedDate": "Oct 28, 2026 01:44:06 PM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355360,
+              "opportunityId": 364144,
+              "mimeType": "application/pdf",
+              "fileName": "Landscape Scale Restoration Grant Program for Non-Federal Lands-10-27-2026.pdf",
+              "fileDescription": "1. NOFO Document with Requirements and Instructions",
+              "fileLobSize": 529423,
+              "createdDate": "Oct 27, 2026 09:01:43 AM EDT",
+              "lastUpdatedDate": "Oct 28, 2026 11:34:50 AM EDT",
+              "synopsisAttFolderId": 81472
+            },
+            {
+              "id": 355401,
+              "opportunityId": 364144,
+              "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "fileName": "Example-Budget-Spreadsheet-2026-10-27.xlsx",
+              "fileDescription": "2. Example Budget Spreadsheet",
+              "fileLobSize": 19401,
+              "createdDate": "Oct 28, 2026 11:34:16 AM EDT",
+              "lastUpdatedDate": "Oct 28, 2026 11:35:00 AM EDT",
+              "synopsisAttFolderId": 81472
+            },
+            {
+              "id": 355402,
+              "opportunityId": 364144,
+              "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "fileName": "Landscape Scale Restoration Grant Fact Sheet_FINAL.docx",
+              "fileDescription": "LSR NOFO Fact Sheet",
+              "fileLobSize": 62724,
+              "createdDate": "Oct 28, 2026 01:44:06 PM EDT",
+              "synopsisAttFolderId": 81472
+            },
+            {
+              "id": 355361,
+              "opportunityId": 364144,
+              "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "fileName": "FS-1500-34 Grant Equipment Justification and Certification Statement.docx",
+              "fileDescription": "Required for projects with purchase of equipment (single item value of $10,000 or more)",
+              "fileLobSize": 38563,
+              "createdDate": "Oct 27, 2026 09:04:22 AM EDT",
+              "lastUpdatedDate": "Oct 28, 2026 09:57:57 AM EDT",
+              "synopsisAttFolderId": 81472
+            }
+          ]
+        }
+      ],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 435955,
+          "opportunityId": 364144,
+          "cfdaNumber": "10.742",
+          "programTitle": "Landscape-Scale Restoration"
+        },
+        {
+          "id": 435954,
+          "opportunityId": 364144
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [
+        {
+          "id": 294457,
+          "topportunityId": 364144,
+          "familyId": 15,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "USDA-FS-2026-LSR",
+          "opportunityTitle": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+          "cfdaNumber": "10.742",
+          "openingDate": "2026-10-29",
+          "closingDate": "2027-01-26",
+          "owningAgencyCode": "USDA-FS",
+          "agencyDetails": {
+            "code": "FS",
+            "seed": "USDA-FS",
+            "agencyName": "Forest Service",
+            "agencyCode": "USDA-FS",
+            "topAgencyCode": "USDA"
+          },
+          "topAgencyDetails": {
+            "code": "USDA",
+            "seed": "USDA",
+            "agencyName": "Department of Agriculture",
+            "agencyCode": "USDA",
+            "topAgencyCode": "USDA"
+          },
+          "programTitle": "Landscape-Scale Restoration",
+          "contactInfo": "See the Application Instructions for regional Forest Service contacts for LSR.\r\nNational Email Inbox: sm.fs.lsr@usda.gov",
+          "gracePeriod": 14,
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 94,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 27, 2026 08:57:48 AM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294457",
+          "openingDateStr": "2026-10-29-00-00-00",
+          "closingDateStr": "2027-01-26-00-00-00"
+        }
+      ],
+      "closedOpportunityPkgs": [],
+      "originalDueDate": "Jan 26, 2027 12:00:00 AM EST",
+      "originalDueDateDesc": "Applications due in grants.gov 11:59 p.m. Eastern January 26, 2027. Note: By December 17, 2026 all applicants except federally recognized Tribes and Tribal organizations must submit the project narrative and budget to the relevant State Forester(s) for sponsorship consideration.",
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "synopsis",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [
+        {
+          "sourceOpportunityId": 364144,
+          "opportunityId": 364145,
+          "opportunityNum": "USDA-FS-2026-LSR-TRIBAL",
+          "opportunityTitle": "Landscape Scale Restoration Grant Program for Tribes",
+          "agencyCode": "USDA-FS",
+          "postedDate": "Oct 28, 2026",
+          "closeDate": "Jan 26, 2027",
+          "comments": "There are two NOFOs for the Landscape Scale Restoration Grant Program: One for all non-Federal lands and one only for Tribes and Tribal Lands."
+        }
+      ],
       "draftMode": "N",
       "ost": "POSTED"
     }

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T15:24:01+00:00",
+  "checked_at": "2026-10-28T18:27:49+00:00",
   "complete": true,
   "records": [
     {
@@ -14472,20 +14472,6 @@
       ]
     },
     {
-      "id": "364033",
-      "number": "DE-FOA-0003673",
-      "title": "Genesis Mission Graduate Fellowship Pilot",
-      "agencyCode": "PAMS-SC",
-      "agency": "Office of Science",
-      "openDate": "10/08/2026",
-      "closeDate": "01/12/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.049"
-      ]
-    },
-    {
       "id": "360562",
       "number": "RFA-DA-28-013",
       "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
@@ -15764,6 +15750,21 @@
       ]
     },
     {
+      "id": "347026",
+      "number": "23-569",
+      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "03/21/2023",
+      "closeDate": "02/09/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075",
+        "93.859"
+      ]
+    },
+    {
       "id": "364153",
       "number": "HHS-2027-ACL-AOD-DNDP-0016",
       "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
@@ -15806,18 +15807,31 @@
       ]
     },
     {
-      "id": "347026",
-      "number": "23-569",
-      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "03/21/2023",
-      "closeDate": "02/09/2027",
+      "id": "364144",
+      "number": "USDA-FS-2026-LSR",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "agencyCode": "USDA-FS",
+      "agency": "Forest Service",
+      "openDate": "10/28/2026",
+      "closeDate": "01/26/2027",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "47.075",
-        "93.859"
+        "10.742"
+      ]
+    },
+    {
+      "id": "364033",
+      "number": "DE-FOA-0003673",
+      "title": "Genesis Mission Graduate Fellowship Pilot",
+      "agencyCode": "PAMS-SC",
+      "agency": "Office of Science",
+      "openDate": "10/08/2026",
+      "closeDate": "01/12/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.049"
       ]
     }
   ]
