@@ -1,28 +1,5 @@
 [
   {
-    "started_at": "2026-10-25T21:25:34+00:00",
-    "schedule": "Every 3 hours, best effort",
-    "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
-    "status": "success",
-    "errors": [],
-    "source_listing_count": 989,
-    "details_due": 52,
-    "finished_at": "2026-10-25T21:26:30+00:00",
-    "request_count": 57,
-    "elapsed_seconds": 56.8,
-    "details_checked": 52,
-    "excluded_test_records": 0,
-    "coverage": {
-      "listing_complete": true,
-      "listed_records": 989,
-      "detailed_active_records": 989,
-      "pending_detail_records": 0,
-      "details_checked_this_run": 52,
-      "details_due_this_run": 52,
-      "detail_refresh_ttl_hours": 24
-    }
-  },
-  {
     "started_at": "2026-10-26T01:03:11+00:00",
     "schedule": "Every 3 hours, best effort",
     "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
@@ -539,6 +516,29 @@
     "finished_at": "2026-10-28T18:27:49+00:00",
     "request_count": 21,
     "elapsed_seconds": 20.4,
+    "details_checked": 16,
+    "excluded_test_records": 0,
+    "coverage": {
+      "listing_complete": true,
+      "listed_records": 995,
+      "detailed_active_records": 995,
+      "pending_detail_records": 0,
+      "details_checked_this_run": 16,
+      "details_due_this_run": 16,
+      "detail_refresh_ttl_hours": 24
+    }
+  },
+  {
+    "started_at": "2026-10-28T21:21:55+00:00",
+    "schedule": "Every 3 hours, best effort",
+    "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
+    "status": "success",
+    "errors": [],
+    "source_listing_count": 995,
+    "details_due": 16,
+    "finished_at": "2026-10-28T21:22:16+00:00",
+    "request_count": 21,
+    "elapsed_seconds": 20.6,
     "details_checked": 16,
     "excluded_test_records": 0,
     "coverage": {
