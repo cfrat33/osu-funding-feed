@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T03:26:35+00:00",
+  "checked_at": "2026-10-28T06:49:40+00:00",
   "complete": true,
   "records": [
     {
@@ -15568,34 +15568,6 @@
       ]
     },
     {
-      "id": "358886",
-      "number": "PAR-27-120",
-      "title": "Trailblazer Award for New and Early Stage Investigators (R21 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/11/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.396",
-        "93.866",
-        "93.121",
-        "93.395",
-        "93.113",
-        "93.310",
-        "93.399",
-        "93.480",
-        "93.313",
-        "93.394",
-        "93.286",
-        "93.393",
-        "93.543",
-        "93.143",
-        "93.213"
-      ]
-    },
-    {
       "id": "347026",
       "number": "23-569",
       "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
@@ -15692,20 +15664,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "81.121"
-      ]
-    },
-    {
-      "id": "358093",
-      "number": "PAR-24-329",
-      "title": "Development and Testing of Novel Interventions to Improve HIV Prevention, Treatment, and Program Implementation for People Who Use Substances (R34 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/08/2025",
-      "closeDate": "10/27/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.279"
       ]
     },
     {
