@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:32:05+00:00",
+  "checked_at": "2026-10-29T15:24:25+00:00",
   "complete": true,
   "records": [
     {
@@ -926,34 +926,6 @@
       ]
     },
     {
-      "id": "358959",
-      "number": "NOT-RM-25-035",
-      "title": "Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/14/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
-      "id": "358960",
-      "number": "NOT-RM-25-036",
-      "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/14/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
       "id": "358940",
       "number": "NOT-AA-25-012",
       "title": "Forecast to Publish a Funding Opportunity Announcement for Limited Competition for the Continuation of the National Consortium on Alcohol and Neurodevelopment in Adolescence (NCANDA) Research Project Sites (U01 Clinical Trials Optional)",
@@ -965,20 +937,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.273"
-      ]
-    },
-    {
-      "id": "358954",
-      "number": "NOT-RM-25-034",
-      "title": "Genome Sequencing Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/14/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.310"
       ]
     },
     {
@@ -15779,6 +15737,20 @@
       ]
     },
     {
+      "id": "364153",
+      "number": "HHS-2027-ACL-AOD-DNDP-0016",
+      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/26/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.631"
+      ]
+    },
+    {
       "id": "364144",
       "number": "USDA-FS-2026-LSR",
       "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
@@ -15807,17 +15779,45 @@
       ]
     },
     {
-      "id": "364153",
-      "number": "HHS-2027-ACL-AOD-DNDP-0016",
-      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
-      "agencyCode": "HHS-ACL",
-      "agency": "Administration for Community Living",
-      "openDate": "10/26/2026",
+      "id": "358960",
+      "number": "RFA-RM-27-010",
+      "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "05/14/2025",
       "closeDate": "",
       "oppStatus": "forecasted",
       "docType": "forecast",
       "cfdaList": [
-        "93.631"
+        "93.310"
+      ]
+    },
+    {
+      "id": "358959",
+      "number": "RFA-RM-27-009",
+      "title": "Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "05/14/2025",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.310"
+      ]
+    },
+    {
+      "id": "358954",
+      "number": "RFA-RM-27-008",
+      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "05/14/2025",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.310"
       ]
     }
   ]

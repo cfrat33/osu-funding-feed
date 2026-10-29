@@ -58836,7 +58836,7 @@
     }
   },
   "347026": {
-    "checked_at": "2026-10-28T15:24:01+00:00",
+    "checked_at": "2026-10-29T15:24:22+00:00",
     "listing_signature": "5838079d200fe03a44b55a38576b030806808732fddb2d3e24b662c5c7659803",
     "detail": {
       "id": 347026,
@@ -450663,16 +450663,17 @@
     }
   },
   "358954": {
-    "checked_at": "2026-10-29T09:36:29+00:00",
-    "listing_signature": "2a342473c619403370cebc7a39e6917cfd6cc54b571292ba694577a69e7d6c1b",
+    "checked_at": "2026-10-29T15:24:23+00:00",
+    "listing_signature": "79c4ef70ac7f5bddd952b1fe848e8e2651219ec3acc53e24dfdb9a34c5534d28",
     "detail": {
       "id": 358954,
-      "revision": 0,
-      "opportunityNumber": "NOT-RM-25-034",
-      "opportunityTitle": "Genome Sequencing Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+      "revision": 1,
+      "opportunityNumber": "RFA-RM-27-008",
+      "opportunityTitle": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
-      "publisherUid": "waltemi",
+      "publisherUid": "marlowegj",
+      "modifiedComments": "Updated opportunity details to match NOFO.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -450694,7 +450695,7 @@
       },
       "forecast": {
         "opportunityId": 358954,
-        "version": 1,
+        "version": 2,
         "postingDate": "May 14, 2025 12:00:00 AM EDT",
         "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The NIH Common Fund, with other NIH Institutes and Centers (ICs), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Gabriella Miller Kids First Pediatric Research Program (Kids First)</strong><span style=\"color: rgb(51, 51, 51);\">, which seeks to help researchers uncover new insights into the biology of childhood cancer and congenital anomalies, including the discovery of shared genetic pathways between these disorders, to understand the underlying mechanisms of disease and ultimately lead to more targeted therapies and interventions for patients and families. The program’s&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Genome Sequencing Center</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;initiative will fund adding data to the resource, expanding data types as technologies mature and scientific rationale warrant, and expanding to add clinic-based data sources. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.&nbsp;This NOFO will utilize the U24 activity code. Investigators with expertise and insights into childhood cancer and/or congenital abnormalities data are encouraged to begin to consider applying for this new NOFO.&nbsp;</span></p>",
         "costSharing": false,
@@ -450704,7 +450705,7 @@
         "agencyContactEmail": "concepcion.nierras@nih.gov",
         "agencyContactEmailDesc": "concepcion.nierras@nih.gov",
         "agencyCode": "HHS-NIH11",
-        "sendEmail": "Y",
+        "sendEmail": "N",
         "applicantEligibilityDesc": "",
         "estSynopsisPostingDate": "Jul 30, 2025 12:00:00 AM EDT",
         "estApplicationResponseDate": "Oct 30, 2025 12:00:00 AM EDT",
@@ -450712,9 +450713,10 @@
         "estAwardDate": "Jul 30, 2026 12:00:00 AM EDT",
         "estProjectStartDate": "Jul 30, 2026 12:00:00 AM EDT",
         "fiscalYear": 2026,
-        "createTimeStamp": "May 14, 2025 09:27:34 AM EDT",
+        "modComments": "Updated opportunity details to match NOFO.",
+        "createTimeStamp": "Oct 29, 2026 10:54:54 AM EDT",
         "createdDate": "May 14, 2025 09:27:25 AM EDT",
-        "lastUpdatedDate": "May 14, 2025 09:27:34 AM EDT",
+        "lastUpdatedDate": "Oct 29, 2026 10:54:54 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -450725,48 +450727,48 @@
         "estimatedFundingFormatted": "6,600,000",
         "applicantTypes": [
           {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "05",
-            "description": "Independent school districts"
-          },
-          {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
           },
           {
             "id": "08",
             "description": "Public housing authorities/Indian housing authorities"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "00",
             "description": "State governments"
           },
           {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -450786,7 +450788,7 @@
         "estApplicationResponseDateStr": "2025-10-30-00-00-00",
         "estAwardDateStr": "2026-07-30-00-00-00",
         "estProjectStartDateStr": "2026-07-30-00-00-00",
-        "createTimeStampStr": "2025-05-14-09-27-34"
+        "createTimeStampStr": "2026-10-29-10-54-54"
       },
       "synopsisAttachmentFolders": [],
       "synopsisDocumentURLs": [],
@@ -450799,11 +450801,151 @@
           "programTitle": "Trans-NIH Research Support"
         }
       ],
-      "opportunityHistoryDetails": [],
+      "opportunityHistoryDetails": [
+        {
+          "oppHistId": {
+            "opportunityId": 358954,
+            "revision": 0
+          },
+          "opportunityId": 358954,
+          "revision": 0,
+          "opportunityNumber": "NOT-RM-25-034",
+          "opportunityTitle": "Genome Sequencing Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "waltemi",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 358954,
+              "revision": 0
+            },
+            "opportunityId": 358954,
+            "revision": 0,
+            "version": 1,
+            "postingDate": "May 14, 2025 12:00:00 AM EDT",
+            "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The NIH Common Fund, with other NIH Institutes and Centers (ICs), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Gabriella Miller Kids First Pediatric Research Program (Kids First)</strong><span style=\"color: rgb(51, 51, 51);\">, which seeks to help researchers uncover new insights into the biology of childhood cancer and congenital anomalies, including the discovery of shared genetic pathways between these disorders, to understand the underlying mechanisms of disease and ultimately lead to more targeted therapies and interventions for patients and families. The program’s&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Genome Sequencing Center</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;initiative will fund adding data to the resource, expanding data types as technologies mature and scientific rationale warrant, and expanding to add clinic-based data sources. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.&nbsp;This NOFO will utilize the U24 activity code. Investigators with expertise and insights into childhood cancer and/or congenital abnormalities data are encouraged to begin to consider applying for this new NOFO.&nbsp;</span></p>",
+            "costSharing": false,
+            "estimatedFunding": "6600000",
+            "agencyContactName": "Concepcion R. Nierras, Ph.D.\r\nOffice of Strategic Coordination, DPCPSI, OD",
+            "agencyContactPhone": "301-435-5840",
+            "agencyContactEmail": "concepcion.nierras@nih.gov",
+            "agencyContactEmailDesc": "concepcion.nierras@nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "Y",
+            "applicantEligibilityDesc": "",
+            "estSynopsisPostingDate": "Jul 30, 2025 12:00:00 AM EDT",
+            "estApplicationResponseDate": "Oct 30, 2025 12:00:00 AM EDT",
+            "estApplicationResponseDateDesc": "",
+            "estAwardDate": "Jul 30, 2026 12:00:00 AM EDT",
+            "estProjectStartDate": "Jul 30, 2026 12:00:00 AM EDT",
+            "fiscalYear": 2026,
+            "createTimeStamp": "May 14, 2025 09:27:34 AM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 29, 2026 10:54:54 AM EDT",
+            "createdDate": "May 14, 2025 09:27:25 AM EDT",
+            "lastUpdatedDate": "May 14, 2025 09:27:34 AM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "estimatedFundingFormatted": "6,600,000",
+            "applicantTypes": [
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2025-05-14-00-00-00",
+            "estSynopsisPostingDateStr": "2025-07-30-00-00-00",
+            "estApplicationResponseDateStr": "2025-10-30-00-00-00",
+            "estAwardDateStr": "2026-07-30-00-00-00",
+            "estProjectStartDateStr": "2026-07-30-00-00-00",
+            "createTimeStampStr": "2025-05-14-09-27-34"
+          },
+          "cfdas": [
+            {
+              "id": 428414,
+              "opportunityId": 358954,
+              "revision": 0,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": []
+        }
+      ],
       "opportunityPkgs": [],
       "closedOpportunityPkgs": [],
       "synopsisModifiedFields": [],
-      "forecastModifiedFields": [],
+      "forecastModifiedFields": [
+        "revision",
+        "version",
+        "opportunityNumber",
+        "opportunityTitle",
+        "sendEmail",
+        "modComments",
+        "createTimeStamp"
+      ],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "forecast",
@@ -450817,16 +450959,17 @@
     }
   },
   "358959": {
-    "checked_at": "2026-10-29T09:36:30+00:00",
-    "listing_signature": "260ecc9f1ff7a3facfadef151bd40c96d0ea7ad951106ba1378c7de649e11259",
+    "checked_at": "2026-10-29T15:24:24+00:00",
+    "listing_signature": "c10e65fa3843ac16c7b4d4676360d17dbae8c7218c309325adfd670a34985046",
     "detail": {
       "id": 358959,
-      "revision": 0,
-      "opportunityNumber": "NOT-RM-25-035",
-      "opportunityTitle": "Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trials Not Allowed)",
+      "revision": 1,
+      "opportunityNumber": "RFA-RM-27-009",
+      "opportunityTitle": "Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
-      "publisherUid": "waltemi",
+      "publisherUid": "marlowegj",
+      "modifiedComments": "Updated opportunity details to match NOFO.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -450848,7 +450991,7 @@
       },
       "forecast": {
         "opportunityId": 358959,
-        "version": 1,
+        "version": 2,
         "postingDate": "May 14, 2025 12:00:00 AM EDT",
         "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The NIH Common Fund, with other NIH Institutes and Centers (ICs), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Gabriella Miller Kids First Pediatric Research Program (Kids First)</strong><span style=\"color: rgb(51, 51, 51);\">, which seeks to help researchers uncover new insights into the biology of childhood cancer and congenital anomalies, including the discovery of shared genetic pathways between these disorders, to understand the underlying mechanisms of disease and ultimately lead to more targeted therapies and interventions for patients and families. The program’s&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Limited Competition: Continued Development of the Pediatric Data Resource Center</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;initiative will fund development and improvement of the Data Resource, with efforts to expand data sharing, training in cloud-based computational analysis, and facilitate data use by those in the research community that do not have extensive bioinformatics training. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.&nbsp;This NOFO will utilize the U2C activity code. Investigators with expertise and insights into this area of building and maintaining data resources and cloud-based computational analysis are encouraged to begin to consider applying for this new NOFO.&nbsp;In addition, collaborative investigations combining expertise in data resource and dissemination training will be encouraged and these investigators should also begin considering applying for this application.&nbsp;</span></p>",
         "costSharing": false,
@@ -450858,7 +451001,7 @@
         "agencyContactEmail": "concepcion.nierras@nih.gov",
         "agencyContactEmailDesc": "concepcion.nierras@nih.gov",
         "agencyCode": "HHS-NIH11",
-        "sendEmail": "Y",
+        "sendEmail": "N",
         "applicantEligibilityDesc": "",
         "estSynopsisPostingDate": "Jul 30, 2025 12:00:00 AM EDT",
         "estApplicationResponseDate": "Oct 30, 2025 12:00:00 AM EDT",
@@ -450866,9 +451009,10 @@
         "estAwardDate": "Jul 30, 2026 12:00:00 AM EDT",
         "estProjectStartDate": "Jul 30, 2026 12:00:00 AM EDT",
         "fiscalYear": 2026,
-        "createTimeStamp": "May 14, 2025 01:11:48 PM EDT",
+        "modComments": "Updated opportunity details to match NOFO.",
+        "createTimeStamp": "Oct 29, 2026 10:53:58 AM EDT",
         "createdDate": "May 14, 2025 01:11:48 PM EDT",
-        "lastUpdatedDate": "May 14, 2025 01:11:48 PM EDT",
+        "lastUpdatedDate": "Oct 29, 2026 10:53:58 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -450879,8 +451023,20 @@
         "estimatedFundingFormatted": "5,200,000",
         "applicantTypes": [
           {
-            "id": "23",
-            "description": "Small businesses"
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
           },
           {
             "id": "05",
@@ -450891,22 +451047,6 @@
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "22",
-            "description": "For profit organizations other than small businesses"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
             "id": "07",
             "description": "Native American tribal governments (Federally recognized)"
           },
@@ -450915,12 +451055,16 @@
             "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
             "id": "06",
             "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
           }
         ],
         "fundingInstruments": [
@@ -450940,7 +451084,7 @@
         "estApplicationResponseDateStr": "2025-10-30-00-00-00",
         "estAwardDateStr": "2026-07-30-00-00-00",
         "estProjectStartDateStr": "2026-07-30-00-00-00",
-        "createTimeStampStr": "2025-05-14-13-11-48"
+        "createTimeStampStr": "2026-10-29-10-53-58"
       },
       "synopsisAttachmentFolders": [],
       "synopsisDocumentURLs": [],
@@ -450953,11 +451097,151 @@
           "programTitle": "Trans-NIH Research Support"
         }
       ],
-      "opportunityHistoryDetails": [],
+      "opportunityHistoryDetails": [
+        {
+          "oppHistId": {
+            "opportunityId": 358959,
+            "revision": 0
+          },
+          "opportunityId": 358959,
+          "revision": 0,
+          "opportunityNumber": "NOT-RM-25-035",
+          "opportunityTitle": "Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trials Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "waltemi",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 358959,
+              "revision": 0
+            },
+            "opportunityId": 358959,
+            "revision": 0,
+            "version": 1,
+            "postingDate": "May 14, 2025 12:00:00 AM EDT",
+            "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The NIH Common Fund, with other NIH Institutes and Centers (ICs), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Gabriella Miller Kids First Pediatric Research Program (Kids First)</strong><span style=\"color: rgb(51, 51, 51);\">, which seeks to help researchers uncover new insights into the biology of childhood cancer and congenital anomalies, including the discovery of shared genetic pathways between these disorders, to understand the underlying mechanisms of disease and ultimately lead to more targeted therapies and interventions for patients and families. The program’s&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Limited Competition: Continued Development of the Pediatric Data Resource Center</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;initiative will fund development and improvement of the Data Resource, with efforts to expand data sharing, training in cloud-based computational analysis, and facilitate data use by those in the research community that do not have extensive bioinformatics training. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.&nbsp;This NOFO will utilize the U2C activity code. Investigators with expertise and insights into this area of building and maintaining data resources and cloud-based computational analysis are encouraged to begin to consider applying for this new NOFO.&nbsp;In addition, collaborative investigations combining expertise in data resource and dissemination training will be encouraged and these investigators should also begin considering applying for this application.&nbsp;</span></p>",
+            "costSharing": false,
+            "estimatedFunding": "5200000",
+            "agencyContactName": "Concepcion R. Nierras, Ph.D.\r\nOffice of Strategic Coordination (OSC), DPCPSI, OD",
+            "agencyContactPhone": "301-435-5840",
+            "agencyContactEmail": "concepcion.nierras@nih.gov",
+            "agencyContactEmailDesc": "concepcion.nierras@nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "Y",
+            "applicantEligibilityDesc": "",
+            "estSynopsisPostingDate": "Jul 30, 2025 12:00:00 AM EDT",
+            "estApplicationResponseDate": "Oct 30, 2025 12:00:00 AM EDT",
+            "estApplicationResponseDateDesc": "",
+            "estAwardDate": "Jul 30, 2026 12:00:00 AM EDT",
+            "estProjectStartDate": "Jul 30, 2026 12:00:00 AM EDT",
+            "fiscalYear": 2026,
+            "createTimeStamp": "May 14, 2025 01:11:48 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 29, 2026 10:53:58 AM EDT",
+            "createdDate": "May 14, 2025 01:11:48 PM EDT",
+            "lastUpdatedDate": "May 14, 2025 01:11:48 PM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "estimatedFundingFormatted": "5,200,000",
+            "applicantTypes": [
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2025-05-14-00-00-00",
+            "estSynopsisPostingDateStr": "2025-07-30-00-00-00",
+            "estApplicationResponseDateStr": "2025-10-30-00-00-00",
+            "estAwardDateStr": "2026-07-30-00-00-00",
+            "estProjectStartDateStr": "2026-07-30-00-00-00",
+            "createTimeStampStr": "2025-05-14-13-11-48"
+          },
+          "cfdas": [
+            {
+              "id": 428422,
+              "opportunityId": 358959,
+              "revision": 0,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": []
+        }
+      ],
       "opportunityPkgs": [],
       "closedOpportunityPkgs": [],
       "synopsisModifiedFields": [],
-      "forecastModifiedFields": [],
+      "forecastModifiedFields": [
+        "revision",
+        "version",
+        "opportunityNumber",
+        "opportunityTitle",
+        "sendEmail",
+        "modComments",
+        "createTimeStamp"
+      ],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "forecast",
@@ -450971,16 +451255,17 @@
     }
   },
   "358960": {
-    "checked_at": "2026-10-29T09:36:31+00:00",
-    "listing_signature": "35dd196e3f142e162585a39c6062135ebf1ffe7d0b42b42ec993a18dd83ae8fe",
+    "checked_at": "2026-10-29T15:24:25+00:00",
+    "listing_signature": "f843e778ccea1eaf28ccd16df6033be9fa4b4c9720535be46c66373c01538668",
     "detail": {
       "id": 358960,
-      "revision": 0,
-      "opportunityNumber": "NOT-RM-25-036",
-      "opportunityTitle": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trials Not Allowed)",
+      "revision": 1,
+      "opportunityNumber": "RFA-RM-27-010",
+      "opportunityTitle": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
-      "publisherUid": "waltemi",
+      "publisherUid": "marlowegj",
+      "modifiedComments": "Updated opportunity details to match NOFO.",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -451002,7 +451287,7 @@
       },
       "forecast": {
         "opportunityId": 358960,
-        "version": 1,
+        "version": 2,
         "postingDate": "May 14, 2025 12:00:00 AM EDT",
         "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The NIH Common Fund, with other NIH Institutes and Centers (ICs), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Gabriella Miller Kids First Pediatric Research Program (Kids First)</strong><span style=\"color: rgb(51, 51, 51);\">, which seeks to help researchers uncover new insights into the biology of childhood cancer and congenital anomalies, including the discovery of shared genetic pathways between these disorders, to understand the underlying mechanisms of disease and ultimately lead to more targeted therapies and interventions for patients and families. The program’s&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Training and Outreach Core</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;initiative will fund continued engagement of the research and patient communities expertise in activities that will improve the value of Kids First data. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.&nbsp;This NOFO will utilize the UL1 activity code. Investigators with expertise and insights into training and researcher and patient community engagement are encouraged to begin to consider applying for this new NOFO.&nbsp;</span></p>",
         "costSharing": false,
@@ -451012,7 +451297,7 @@
         "agencyContactEmail": "concepcion.nierras@nih.gov",
         "agencyContactEmailDesc": "concepcion.nierras@nih.gov",
         "agencyCode": "HHS-NIH11",
-        "sendEmail": "Y",
+        "sendEmail": "N",
         "applicantEligibilityDesc": "",
         "estSynopsisPostingDate": "Jul 30, 2025 12:00:00 AM EDT",
         "estApplicationResponseDate": "Oct 30, 2025 12:00:00 AM EDT",
@@ -451020,9 +451305,10 @@
         "estAwardDate": "Jul 30, 2026 12:00:00 AM EDT",
         "estProjectStartDate": "Jul 30, 2026 12:00:00 AM EDT",
         "fiscalYear": 2026,
-        "createTimeStamp": "May 14, 2025 01:18:32 PM EDT",
+        "modComments": "Updated opportunity details to match NOFO.",
+        "createTimeStamp": "Oct 29, 2026 10:53:06 AM EDT",
         "createdDate": "May 14, 2025 01:18:32 PM EDT",
-        "lastUpdatedDate": "May 14, 2025 01:18:32 PM EDT",
+        "lastUpdatedDate": "Oct 29, 2026 10:53:06 AM EDT",
         "agencyDetails": {
           "code": "NIH",
           "seed": "HHS-NIH11",
@@ -451033,40 +451319,24 @@
         "estimatedFundingFormatted": "800,000",
         "applicantTypes": [
           {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
             "id": "06",
             "description": "Public and State controlled institutions of higher education"
-          },
-          {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
-          },
-          {
-            "id": "23",
-            "description": "Small businesses"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
             "id": "07",
             "description": "Native American tribal governments (Federally recognized)"
           },
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
           },
           {
             "id": "05",
@@ -451075,6 +451345,22 @@
           {
             "id": "22",
             "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           }
         ],
         "fundingInstruments": [
@@ -451094,7 +451380,7 @@
         "estApplicationResponseDateStr": "2025-10-30-00-00-00",
         "estAwardDateStr": "2026-07-30-00-00-00",
         "estProjectStartDateStr": "2026-07-30-00-00-00",
-        "createTimeStampStr": "2025-05-14-13-18-32"
+        "createTimeStampStr": "2026-10-29-10-53-06"
       },
       "synopsisAttachmentFolders": [],
       "synopsisDocumentURLs": [],
@@ -451107,11 +451393,151 @@
           "programTitle": "Trans-NIH Research Support"
         }
       ],
-      "opportunityHistoryDetails": [],
+      "opportunityHistoryDetails": [
+        {
+          "oppHistId": {
+            "opportunityId": 358960,
+            "revision": 0
+          },
+          "opportunityId": 358960,
+          "revision": 0,
+          "opportunityNumber": "NOT-RM-25-036",
+          "opportunityTitle": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trials Not Allowed)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "waltemi",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "forecast": {
+            "oppHistId": {
+              "opportunityId": 358960,
+              "revision": 0
+            },
+            "opportunityId": 358960,
+            "revision": 0,
+            "version": 1,
+            "postingDate": "May 14, 2025 12:00:00 AM EDT",
+            "forecastDesc": "<p><span style=\"color: rgb(51, 51, 51);\">The NIH Common Fund, with other NIH Institutes and Centers (ICs), intends to publish a Notice of Funding Opportunity (NOFO) to solicit applications for the&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Gabriella Miller Kids First Pediatric Research Program (Kids First)</strong><span style=\"color: rgb(51, 51, 51);\">, which seeks to help researchers uncover new insights into the biology of childhood cancer and congenital anomalies, including the discovery of shared genetic pathways between these disorders, to understand the underlying mechanisms of disease and ultimately lead to more targeted therapies and interventions for patients and families. The program’s&nbsp;</span><strong style=\"color: rgb(51, 51, 51);\">Training and Outreach Core</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;initiative will fund continued engagement of the research and patient communities expertise in activities that will improve the value of Kids First data. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects.&nbsp;This NOFO will utilize the UL1 activity code. Investigators with expertise and insights into training and researcher and patient community engagement are encouraged to begin to consider applying for this new NOFO.&nbsp;</span></p>",
+            "costSharing": false,
+            "estimatedFunding": "800000",
+            "agencyContactName": "Concepcion R. Nierras, Ph.D.\r\nOffice of Strategic Coordination (OSC), DPCPSI, OD",
+            "agencyContactPhone": "301-435-5840",
+            "agencyContactEmail": "concepcion.nierras@nih.gov",
+            "agencyContactEmailDesc": "concepcion.nierras@nih.gov",
+            "agencyCode": "HHS-NIH11",
+            "sendEmail": "Y",
+            "applicantEligibilityDesc": "",
+            "estSynopsisPostingDate": "Jul 30, 2025 12:00:00 AM EDT",
+            "estApplicationResponseDate": "Oct 30, 2025 12:00:00 AM EDT",
+            "estApplicationResponseDateDesc": "",
+            "estAwardDate": "Jul 30, 2026 12:00:00 AM EDT",
+            "estProjectStartDate": "Jul 30, 2026 12:00:00 AM EDT",
+            "fiscalYear": 2026,
+            "createTimeStamp": "May 14, 2025 01:18:32 PM EDT",
+            "actionType": "U",
+            "actionDate": "Oct 29, 2026 10:53:06 AM EDT",
+            "createdDate": "May 14, 2025 01:18:32 PM EDT",
+            "lastUpdatedDate": "May 14, 2025 01:18:32 PM EDT",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "estimatedFundingFormatted": "800,000",
+            "applicantTypes": [
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "CA",
+                "description": "Cooperative Agreement"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "HL",
+                "description": "Health"
+              }
+            ],
+            "postingDateStr": "2025-05-14-00-00-00",
+            "estSynopsisPostingDateStr": "2025-07-30-00-00-00",
+            "estApplicationResponseDateStr": "2025-10-30-00-00-00",
+            "estAwardDateStr": "2026-07-30-00-00-00",
+            "estProjectStartDateStr": "2026-07-30-00-00-00",
+            "createTimeStampStr": "2025-05-14-13-18-32"
+          },
+          "cfdas": [
+            {
+              "id": 428423,
+              "opportunityId": 358960,
+              "revision": 0,
+              "cfdaNumber": "93.310",
+              "programTitle": "Trans-NIH Research Support"
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": []
+        }
+      ],
       "opportunityPkgs": [],
       "closedOpportunityPkgs": [],
       "synopsisModifiedFields": [],
-      "forecastModifiedFields": [],
+      "forecastModifiedFields": [
+        "revision",
+        "version",
+        "opportunityNumber",
+        "opportunityTitle",
+        "sendEmail",
+        "modComments",
+        "createTimeStamp"
+      ],
       "errorMessages": [],
       "synPostDateInPast": true,
       "docType": "forecast",
@@ -465715,7 +466141,7 @@
     }
   },
   "364165": {
-    "checked_at": "2026-10-28T15:24:00+00:00",
+    "checked_at": "2026-10-29T15:24:21+00:00",
     "listing_signature": "3a6ee7bbbc3cb0122167f0b317400916258743b6245ad4c9c7797d925a686ef8",
     "detail": {
       "id": 364165,
@@ -465775,12 +466201,12 @@
         "lastUpdatedDate": "Oct 28, 2026 09:32:01 AM EDT",
         "applicantTypes": [
           {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
-          },
-          {
             "id": "20",
             "description": "Private institutions of higher education"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
           }
         ],
         "fundingInstruments": [
