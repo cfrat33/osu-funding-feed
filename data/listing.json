@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T03:28:13+00:00",
+  "checked_at": "2026-10-29T06:34:46+00:00",
   "complete": true,
   "records": [
     {
@@ -11069,20 +11069,6 @@
         "93.121",
         "93.213",
         "93.286"
-      ]
-    },
-    {
-      "id": "363983",
-      "number": "NNH26ZTR001N-27NIAC-A1",
-      "title": "NASA Innovative Advanced Concepts (NIAC) Phase I",
-      "agencyCode": "NASA-HQ",
-      "agency": "NASA Headquarters",
-      "openDate": "09/28/2026",
-      "closeDate": "10/28/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "43.012"
       ]
     },
     {
