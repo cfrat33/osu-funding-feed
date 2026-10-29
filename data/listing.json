@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T15:24:25+00:00",
+  "checked_at": "2026-10-29T18:27:54+00:00",
   "complete": true,
   "records": [
     {
@@ -13092,20 +13092,6 @@
       ]
     },
     {
-      "id": "363790",
-      "number": "HHS-2026-ACF-ORR-ZU-0045",
-      "title": "Residential Services for Unaccompanied Alien Children",
-      "agencyCode": "HHS-ACF-ORR",
-      "agency": "Administration for Children and Families - ORR",
-      "openDate": "09/02/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.676"
-      ]
-    },
-    {
       "id": "363670",
       "number": "HT942526BCRPBTA122",
       "title": "DoW Breast Cancer, Breakthrough Award Levels 1 and 2",
@@ -15779,15 +15765,29 @@
       ]
     },
     {
+      "id": "358954",
+      "number": "RFA-RM-27-008",
+      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/29/2026",
+      "closeDate": "01/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.310"
+      ]
+    },
+    {
       "id": "358960",
       "number": "RFA-RM-27-010",
       "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
       "agencyCode": "HHS-NIH11",
       "agency": "National Institutes of Health",
-      "openDate": "05/14/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
+      "openDate": "10/29/2026",
+      "closeDate": "01/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
       "cfdaList": [
         "93.310"
       ]
@@ -15798,24 +15798,10 @@
       "title": "Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed)",
       "agencyCode": "HHS-NIH11",
       "agency": "National Institutes of Health",
-      "openDate": "05/14/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
-      "id": "358954",
-      "number": "RFA-RM-27-008",
-      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/14/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
+      "openDate": "10/29/2026",
+      "closeDate": "01/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
       "cfdaList": [
         "93.310"
       ]
