@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T03:26:42+00:00",
+  "checked_at": "2026-10-30T06:35:43+00:00",
   "complete": true,
   "records": [
     {
@@ -10471,20 +10471,6 @@
       ]
     },
     {
-      "id": "363903",
-      "number": "O-OJJDP-2026-172744",
-      "title": "OJJDP FY 2026 Missing and Exploited Children Training and Technical Assistance",
-      "agencyCode": "USDOJ-OJP-OJJDP",
-      "agency": "Office of Juvenile Justice Delinquency Prevention ",
-      "openDate": "09/21/2026",
-      "closeDate": "10/29/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.543"
-      ]
-    },
-    {
       "id": "363893",
       "number": "O-BJA-2026-172726",
       "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
@@ -10510,34 +10496,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "16.839"
-      ]
-    },
-    {
-      "id": "363910",
-      "number": "O-OJJDP-2026-172753",
-      "title": "OJJDP FY 2026 Strengthening Internet Crimes Against Children (ICAC) Technological Investigative Capacity",
-      "agencyCode": "USDOJ-OJP-OJJDP",
-      "agency": "Office of Juvenile Justice Delinquency Prevention ",
-      "openDate": "09/21/2026",
-      "closeDate": "10/29/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.543"
-      ]
-    },
-    {
-      "id": "363911",
-      "number": "O-OJJDP-2026-172745",
-      "title": "OJJDP FY 2026 Multistate Mentoring Programs",
-      "agencyCode": "USDOJ-OJP-OJJDP",
-      "agency": "Office of Juvenile Justice Delinquency Prevention ",
-      "openDate": "09/21/2026",
-      "closeDate": "10/29/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.726"
       ]
     },
     {
@@ -15538,20 +15496,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.676"
-      ]
-    },
-    {
-      "id": "363889",
-      "number": "O-BJA-2026-172718",
-      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "10/29/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.036"
       ]
     },
     {
