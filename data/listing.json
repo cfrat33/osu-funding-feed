@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T12:46:35+00:00",
+  "checked_at": "2026-10-30T15:22:36+00:00",
   "complete": true,
   "records": [
     {
@@ -15323,6 +15323,147 @@
       ]
     },
     {
+      "id": "347026",
+      "number": "23-569",
+      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "03/21/2023",
+      "closeDate": "02/09/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075",
+        "93.859"
+      ]
+    },
+    {
+      "id": "364163",
+      "number": "O-BJA-2026-172771",
+      "title": "BJA FY 2026 Postconviction Testing of DNA Evidence",
+      "agencyCode": "USDOJ-OJP-BJA",
+      "agency": "Bureau of Justice Assistance",
+      "openDate": "10/28/2026",
+      "closeDate": "12/08/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.820"
+      ]
+    },
+    {
+      "id": "364165",
+      "number": "FA955027S0002",
+      "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
+      "agencyCode": "DOD-AFOSR",
+      "agency": "Air Force Office of Scientific Research",
+      "openDate": "10/28/2026",
+      "closeDate": "02/19/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.800"
+      ]
+    },
+    {
+      "id": "364153",
+      "number": "HHS-2027-ACL-AOD-DNDP-0016",
+      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
+      "agencyCode": "HHS-ACL",
+      "agency": "Administration for Community Living",
+      "openDate": "10/26/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.631"
+      ]
+    },
+    {
+      "id": "364033",
+      "number": "DE-FOA-0003673",
+      "title": "Genesis Mission Graduate Fellowship Pilot",
+      "agencyCode": "PAMS-SC",
+      "agency": "Office of Science",
+      "openDate": "10/08/2026",
+      "closeDate": "01/12/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.049"
+      ]
+    },
+    {
+      "id": "358959",
+      "number": "RFA-RM-27-009",
+      "title": "Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/29/2026",
+      "closeDate": "01/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.310"
+      ]
+    },
+    {
+      "id": "364144",
+      "number": "USDA-FS-2026-LSR",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "agencyCode": "USDA-FS",
+      "agency": "Forest Service",
+      "openDate": "10/28/2026",
+      "closeDate": "01/26/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "10.742"
+      ]
+    },
+    {
+      "id": "364172",
+      "number": "FA955027S0001",
+      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+      "agencyCode": "DOD-AFOSR",
+      "agency": "Air Force Office of Scientific Research",
+      "openDate": "10/29/2026",
+      "closeDate": "04/02/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.800"
+      ]
+    },
+    {
+      "id": "358954",
+      "number": "RFA-RM-27-008",
+      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/29/2026",
+      "closeDate": "01/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.310"
+      ]
+    },
+    {
+      "id": "358960",
+      "number": "RFA-RM-27-010",
+      "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/29/2026",
+      "closeDate": "01/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.310"
+      ]
+    },
+    {
       "id": "364026",
       "number": "DE-FOA-0003577",
       "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
@@ -15624,144 +15765,17 @@
       ]
     },
     {
-      "id": "347026",
-      "number": "23-569",
-      "title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "03/21/2023",
-      "closeDate": "02/09/2027",
+      "id": "364174",
+      "number": "DE-FOA-0003641",
+      "title": "Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
+      "agencyCode": "DOE-NETL",
+      "agency": "National Energy Technology Laboratory",
+      "openDate": "10/30/2026",
+      "closeDate": "02/08/2027",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "47.075",
-        "93.859"
-      ]
-    },
-    {
-      "id": "364163",
-      "number": "O-BJA-2026-172771",
-      "title": "BJA FY 2026 Postconviction Testing of DNA Evidence",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "10/28/2026",
-      "closeDate": "12/08/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.820"
-      ]
-    },
-    {
-      "id": "364165",
-      "number": "FA955027S0002",
-      "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
-      "agencyCode": "DOD-AFOSR",
-      "agency": "Air Force Office of Scientific Research",
-      "openDate": "10/28/2026",
-      "closeDate": "02/19/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.800"
-      ]
-    },
-    {
-      "id": "364153",
-      "number": "HHS-2027-ACL-AOD-DNDP-0016",
-      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
-      "agencyCode": "HHS-ACL",
-      "agency": "Administration for Community Living",
-      "openDate": "10/26/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.631"
-      ]
-    },
-    {
-      "id": "364144",
-      "number": "USDA-FS-2026-LSR",
-      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
-      "agencyCode": "USDA-FS",
-      "agency": "Forest Service",
-      "openDate": "10/28/2026",
-      "closeDate": "01/26/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "10.742"
-      ]
-    },
-    {
-      "id": "364033",
-      "number": "DE-FOA-0003673",
-      "title": "Genesis Mission Graduate Fellowship Pilot",
-      "agencyCode": "PAMS-SC",
-      "agency": "Office of Science",
-      "openDate": "10/08/2026",
-      "closeDate": "01/12/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.049"
-      ]
-    },
-    {
-      "id": "358954",
-      "number": "RFA-RM-27-008",
-      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/29/2026",
-      "closeDate": "01/08/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
-      "id": "358960",
-      "number": "RFA-RM-27-010",
-      "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/29/2026",
-      "closeDate": "01/08/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
-      "id": "358959",
-      "number": "RFA-RM-27-009",
-      "title": "Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/29/2026",
-      "closeDate": "01/08/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
-      "id": "364172",
-      "number": "FA955027S0001",
-      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-      "agencyCode": "DOD-AFOSR",
-      "agency": "Air Force Office of Scientific Research",
-      "openDate": "10/29/2026",
-      "closeDate": "04/02/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.800"
+        "81.122"
       ]
     }
   ]
