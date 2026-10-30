@@ -467599,5 +467599,219 @@
       "draftMode": "N",
       "ost": "POSTED"
     }
+  },
+  "364172": {
+    "checked_at": "2026-10-30T00:48:31+00:00",
+    "listing_signature": "5ae3e4b58746a70bab4c3296cf84149e7d93482d71f374eb9f74fc59364f3e35",
+    "detail": {
+      "id": 364172,
+      "revision": 0,
+      "opportunityNumber": "FA955027S0001",
+      "opportunityTitle": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+      "owningAgencyCode": "DOD-AFOSR",
+      "listed": "L",
+      "publisherUid": "jorgegallegos13",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "synopsis": {
+        "opportunityId": 364172,
+        "version": 3,
+        "agencyCode": "DOD-AFOSR",
+        "agencyName": "Daniel P Smith\nProcurement Analyst",
+        "agencyPhone": "703-588-8494",
+        "agencyAddressDesc": "Program Coordinator",
+        "agencyDetails": {
+          "code": "AFOSR",
+          "seed": "DOD-AFOSR",
+          "agencyName": "Air Force Office of Scientific Research",
+          "agencyCode": "DOD-AFOSR",
+          "topAgencyCode": "DOD"
+        },
+        "topAgencyDetails": {
+          "code": "DOD",
+          "seed": "DOD",
+          "agencyName": "Department of Defense",
+          "agencyCode": "DOD",
+          "topAgencyCode": "DOD"
+        },
+        "agencyContactPhone": "703-588-8494",
+        "agencyContactName": "Daniel P Smith\nProcurement Analyst",
+        "agencyContactDesc": "Dr. Amanda Chou\r\nProgram Coordinator",
+        "agencyContactEmail": "aerothermodynamics@us.af.mil",
+        "agencyContactEmailDesc": "Program Coordinator",
+        "synopsisDesc": "<p>The Air Force Office of Scientific Research, in partnership with the Air Force Research Lab (AFRL) Air Warfare Directorate (RA), intends to provide support for a multidisciplinary team of scientists and engineers at U.S. universities to establish a university-led Center for High-Speed Aerothermoelasticity. This multidisciplinary, basic research initiative focuses on investigating complex problem sets involving the fundamental physics at the intersection of high-speed fluid mechanics, thermal transport, and structural sciences. By supporting a balanced, integrated approach across computational simulation, theoretical modeling, and ground experimentation in these three areas, the Center will tackle critical aerothermoelasticity challenges for the Air Force mission and related challenges in science and engineering. This opportunity is a chance to work closely with the Air Force Research Lab Air Warfare Directorate (AFRL/RA) on computational simulations and ground and flight experiments in the field of high-speed aerothermoelasticity.</p><p><br></p><p>We seek unclassified proposals from a highly collaborative, qualified and responsible university-led team that bridges the traditional silos of fluid dynamics, thermal transport, and structural mechanics. The program requires an interdisciplinary roster of up to ten investigators (including computational and experimental leads) and strongly encourages partnership with Historically Black Colleges and Universities (HBCUs), in alignment with Executive Order 14283. Beyond technical discovery, the Center acts as a vital connection between academia and DoW scientists at facilities such as Wright-Patterson Air Force Base and the Arnold Engineering Development Center (AEDC). This ensures that breakthrough academic research translates into tangible capabilities for the Department of the Air Force (DAF) and access to a well-trained future aerospace workforce. It is important that your proposal shows strength in as many of the evaluation areas as practical for maximum competitiveness.</p><p><br></p><p>The award shall be made to U.S. institutions of higher education, where the principal investigator is employed on a full-time basis and holds a regular, non-contractor position. Researchers working at the Federally Funded Research and Development Centers and DoW Laboratories are not eligible for this competition.</p>",
+        "responseDate": "Apr 02, 2027 12:00:00 AM EDT",
+        "responseDateDesc": "Applications must be received no later than 02 April 2027, 11:59 PM Eastern Time",
+        "postingDate": "Oct 29, 2026 12:00:00 AM EDT",
+        "archiveDate": "May 02, 2027 12:00:00 AM EDT",
+        "costSharing": false,
+        "estimatedFunding": "13750000",
+        "estimatedFundingFormatted": "13,750,000",
+        "awardCeiling": "13750000",
+        "awardCeilingFormatted": "13,750,000",
+        "awardFloor": "8250000",
+        "awardFloorFormatted": "8,250,000",
+        "applicantEligibilityDesc": "",
+        "sendEmail": "Y",
+        "createTimeStamp": "Oct 29, 2026 07:12:49 PM EDT",
+        "createdDate": "Oct 29, 2026 06:47:26 PM EDT",
+        "lastUpdatedDate": "Oct 29, 2026 07:03:09 PM EDT",
+        "applicantTypes": [
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "G",
+            "description": "Grant"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "ST",
+            "description": "Science and Technology and other Research and Development"
+          }
+        ],
+        "responseDateStr": "2027-04-02-00-00-00",
+        "postingDateStr": "2026-10-29-00-00-00",
+        "archiveDateStr": "2027-05-02-00-00-00",
+        "createTimeStampStr": "2026-10-29-19-12-49"
+      },
+      "agencyDetails": {
+        "code": "AFOSR",
+        "seed": "DOD-AFOSR",
+        "agencyName": "Air Force Office of Scientific Research",
+        "agencyCode": "DOD-AFOSR",
+        "topAgencyCode": "DOD"
+      },
+      "topAgencyDetails": {
+        "code": "DOD",
+        "seed": "DOD",
+        "agencyName": "Department of Defense",
+        "agencyCode": "DOD",
+        "topAgencyCode": "DOD"
+      },
+      "synopsisAttachmentFolders": [
+        {
+          "id": 81495,
+          "opportunityId": 364172,
+          "folderType": "Full Announcement",
+          "folderName": "FA955027S0001",
+          "zipLobSize": 507436,
+          "createdDate": "Oct 29, 2026 07:08:40 PM EDT",
+          "lastUpdatedDate": "Oct 29, 2026 07:09:11 PM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355414,
+              "opportunityId": 364172,
+              "mimeType": "application/pdf",
+              "fileName": "FA955027S0001.pdf",
+              "fileDescription": "FA955027S0001",
+              "fileLobSize": 526138,
+              "createdDate": "Oct 29, 2026 07:09:11 PM EDT",
+              "synopsisAttFolderId": 81495
+            }
+          ]
+        },
+        {
+          "id": 81496,
+          "opportunityId": 364172,
+          "folderType": "Other Supporting Documents",
+          "folderName": "Appendixes",
+          "zipLobSize": 104485,
+          "createdDate": "Oct 29, 2026 07:10:33 PM EDT",
+          "lastUpdatedDate": "Oct 29, 2026 07:12:49 PM EDT",
+          "synopsisAttachments": [
+            {
+              "id": 355415,
+              "opportunityId": 364172,
+              "mimeType": "application/pdf",
+              "fileName": "Appendix 2 - AFRL Privacy Act for Covered Individuals.pdf",
+              "fileDescription": "Privacy Act for Covered Individuals",
+              "fileLobSize": 109694,
+              "createdDate": "Oct 29, 2026 07:12:49 PM EDT",
+              "synopsisAttFolderId": 81496
+            }
+          ]
+        }
+      ],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 436008,
+          "opportunityId": 364172,
+          "cfdaNumber": "12.800",
+          "programTitle": "Air Force Defense Research Sciences Program"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [
+        {
+          "id": 294475,
+          "topportunityId": 364172,
+          "familyId": 14,
+          "dialect": "XFDL2.2",
+          "opportunityNumber": "FA955027S0001",
+          "opportunityTitle": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+          "cfdaNumber": "12.800",
+          "openingDate": "2026-10-29",
+          "closingDate": "2027-04-02",
+          "owningAgencyCode": "DOD-AFOSR",
+          "agencyDetails": {
+            "code": "AFOSR",
+            "seed": "DOD-AFOSR",
+            "agencyName": "Air Force Office of Scientific Research",
+            "agencyCode": "DOD-AFOSR",
+            "topAgencyCode": "DOD"
+          },
+          "topAgencyDetails": {
+            "code": "DOD",
+            "seed": "DOD",
+            "agencyName": "Department of Defense",
+            "agencyCode": "DOD",
+            "topAgencyCode": "DOD"
+          },
+          "programTitle": "Air Force Defense Research Sciences Program",
+          "contactInfo": "Shelby Bonneville\r\nGrantor\r\nE-mail: shelby.bonneville@us.af.mil",
+          "electronicRequired": "Y",
+          "expectedApplicationCount": 25,
+          "openToApplicantType": 1,
+          "listed": "L",
+          "isMultiProject": "N",
+          "extension": "pdf",
+          "mimetype": "application/pdf",
+          "lastUpdate": "Oct 29, 2026 07:25:39 PM EDT",
+          "workspaceCompatibleFlag": "Y",
+          "packageId": "PKG00294475",
+          "openingDateStr": "2026-10-29-00-00-00",
+          "closingDateStr": "2027-04-02-00-00-00"
+        }
+      ],
+      "closedOpportunityPkgs": [],
+      "originalDueDate": "Apr 02, 2027 12:00:00 AM EDT",
+      "originalDueDateDesc": "Applications must be received no later than 02 April 2027, 11:59 PM Eastern Time",
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "synopsis",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "POSTED"
+    }
   }
 }
