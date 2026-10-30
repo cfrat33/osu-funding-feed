@@ -58836,7 +58836,7 @@
     }
   },
   "347026": {
-    "checked_at": "2026-10-29T15:24:22+00:00",
+    "checked_at": "2026-10-30T18:23:32+00:00",
     "listing_signature": "5838079d200fe03a44b55a38576b030806808732fddb2d3e24b662c5c7659803",
     "detail": {
       "id": 347026,
@@ -467106,7 +467106,7 @@
     }
   },
   "364165": {
-    "checked_at": "2026-10-29T15:24:21+00:00",
+    "checked_at": "2026-10-30T18:23:31+00:00",
     "listing_signature": "3a6ee7bbbc3cb0122167f0b317400916258743b6245ad4c9c7797d925a686ef8",
     "detail": {
       "id": 364165,
@@ -467166,12 +467166,12 @@
         "lastUpdatedDate": "Oct 28, 2026 09:32:01 AM EDT",
         "applicantTypes": [
           {
-            "id": "20",
-            "description": "Private institutions of higher education"
-          },
-          {
             "id": "06",
             "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
           }
         ],
         "fundingInstruments": [
