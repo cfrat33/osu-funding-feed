@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T03:22:24+00:00",
+  "checked_at": "2026-10-31T06:27:08+00:00",
   "complete": true,
   "records": [
     {
@@ -9167,20 +9167,6 @@
       ]
     },
     {
-      "id": "359280",
-      "number": "RFA-HG-27-012",
-      "title": "GREGoRi Technology Integration Center (U01, Clinical Trials Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/18/2026",
-      "closeDate": "10/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.172"
-      ]
-    },
-    {
       "id": "359859",
       "number": "PAR-27-064",
       "title": "NIAID Clinical Trial Implementation Cooperative Agreement (U01 Clinical Trial Required)",
@@ -9247,34 +9233,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.310"
-      ]
-    },
-    {
-      "id": "359644",
-      "number": "RFA-HG-27-013",
-      "title": "GREGoRi Innovation Projects (U01 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/18/2026",
-      "closeDate": "10/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.172"
-      ]
-    },
-    {
-      "id": "359279",
-      "number": "RFA-HG-27-011",
-      "title": "GREGoRi Data Coordination and Outreach Center (U01, Clinical Trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/18/2026",
-      "closeDate": "10/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.172"
       ]
     },
     {
@@ -10457,20 +10415,6 @@
       ]
     },
     {
-      "id": "363898",
-      "number": "O-BJA-2026-172760",
-      "title": "BJA FY 2026 National Center for Veterans Justice",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "10/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.043"
-      ]
-    },
-    {
       "id": "363893",
       "number": "O-BJA-2026-172726",
       "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
@@ -10482,20 +10426,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "16.746"
-      ]
-    },
-    {
-      "id": "363913",
-      "number": "O-BJA-2026-172709",
-      "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "10/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.839"
       ]
     },
     {
@@ -10964,27 +10894,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.393"
-      ]
-    },
-    {
-      "id": "361304",
-      "number": "PAR-27-045",
-      "title": "HEAL Initiative: Whole Joint Health Program (R61/R33 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/28/2026",
-      "closeDate": "10/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.473",
-        "93.273",
-        "93.866",
-        "93.846",
-        "93.853",
-        "93.121",
-        "93.213",
-        "93.286"
       ]
     },
     {
