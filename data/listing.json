@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T03:25:31+00:00",
+  "checked_at": "2026-11-01T06:29:07+00:00",
   "complete": true,
   "records": [
     {
@@ -13689,34 +13689,6 @@
       ]
     },
     {
-      "id": "363998",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION3-FY2027-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 3)",
-      "agencyCode": "DOT-OSDBU",
-      "agency": "69A350 OSDBU",
-      "openDate": "10/01/2026",
-      "closeDate": "10/31/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "20.910"
-      ]
-    },
-    {
-      "id": "363996",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION1-FY2027-1",
-      "title": "Small Business Transportation Technical Assistance Center (Region 1)",
-      "agencyCode": "DOT-OSDBU",
-      "agency": "69A350 OSDBU",
-      "openDate": "10/01/2026",
-      "closeDate": "10/31/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "20.910"
-      ]
-    },
-    {
       "id": "364029",
       "number": "O-OVC-2026-172790",
       "title": "OVC FY 2026 Specialized Human Trafficking Assistance: Task Forces and Legal Services",
@@ -13746,20 +13718,6 @@
         "93.213",
         "93.273",
         "93.853"
-      ]
-    },
-    {
-      "id": "364004",
-      "number": "OST-OSDBU-2027-SBTTAC-REGION-4-FY2027-1",
-      "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
-      "agencyCode": "DOT-OSDBU",
-      "agency": "69A350 OSDBU",
-      "openDate": "09/30/2026",
-      "closeDate": "10/31/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "20.910"
       ]
     },
     {
