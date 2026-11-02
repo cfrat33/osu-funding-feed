@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T12:28:53+00:00",
+  "checked_at": "2026-11-02T15:23:35+00:00",
   "complete": true,
   "records": [
     {
@@ -13739,6 +13739,637 @@
       ]
     },
     {
+      "id": "360753",
+      "number": "RFA-OH-26-015",
+      "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "05/08/2026",
+      "closeDate": "12/08/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.262"
+      ]
+    },
+    {
+      "id": "364042",
+      "number": "O-OJJDP-2026-172740",
+      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
+      "agencyCode": "USDOJ-OJP-OJJDP",
+      "agency": "Office of Juvenile Justice Delinquency Prevention ",
+      "openDate": "10/08/2026",
+      "closeDate": "11/16/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.543"
+      ]
+    },
+    {
+      "id": "360562",
+      "number": "RFA-DA-28-013",
+      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/09/2026",
+      "closeDate": "02/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.279"
+      ]
+    },
+    {
+      "id": "359170",
+      "number": "RFA-HG-27-010",
+      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.172"
+      ]
+    },
+    {
+      "id": "358854",
+      "number": "RFA-HG-27-007",
+      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.172"
+      ]
+    },
+    {
+      "id": "359277",
+      "number": "RFA-HG-27-009",
+      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.172"
+      ]
+    },
+    {
+      "id": "358855",
+      "number": "RFA-HG-27-008",
+      "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/09/2026",
+      "closeDate": "12/14/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.172"
+      ]
+    },
+    {
+      "id": "364030",
+      "number": "20270113-PJ",
+      "title": "National Digital Newspaper Program",
+      "agencyCode": "NEH",
+      "agency": "National Endowment for the Humanities",
+      "openDate": "10/06/2026",
+      "closeDate": "01/13/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "45.042"
+      ]
+    },
+    {
+      "id": "344124",
+      "number": "23-510",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "10/20/2022",
+      "closeDate": "01/20/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.076"
+      ]
+    },
+    {
+      "id": "361832",
+      "number": "RFA-AI-28-024",
+      "title": "Accelerating Research and Development of Next Generation Vaccines against Malaria - a Model for Mosquito-Borne Diseases (R61/R33 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/13/2026",
+      "closeDate": "02/11/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.855"
+      ]
+    },
+    {
+      "id": "364060",
+      "number": "O-NIJ-2026-172800",
+      "title": "NIJ FY 2026 Research and Evaluation on Justice System Responses to Illegal Immigration",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "364062",
+      "number": "O-NIJ-2026-172802",
+      "title": "NIJ FY 2026 Research on Gender Dysphoria and Violent Crime",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/09/2026",
+      "closeDate": "11/23/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "364065",
+      "number": "RFA-AG-28-002",
+      "title": "Coordinating Center for the Claude D. Pepper Older Americans Independence Centers (OAICs)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/13/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.866"
+      ]
+    },
+    {
+      "id": "364059",
+      "number": "O-NIJ-2026-172799",
+      "title": "NIJ FY 2026 Research and Evaluation on Human Trafficking",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "364061",
+      "number": "O-NIJ-2026-172801",
+      "title": "NIJ FY 2026 Crime and Justice Research",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/09/2026",
+      "closeDate": "11/16/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.560"
+      ]
+    },
+    {
+      "id": "364077",
+      "number": "G27AS00049",
+      "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
+      "agencyCode": "DOI-USGS1",
+      "agency": "Geological Survey",
+      "openDate": "10/14/2026",
+      "closeDate": "11/14/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "15.808"
+      ]
+    },
+    {
+      "id": "348058",
+      "number": "PD-23-1321",
+      "title": "Decision, Risk and Management Sciences (DRMS)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "05/11/2023",
+      "closeDate": "01/19/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "361216",
+      "number": "RFA-AA-28-001",
+      "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/15/2026",
+      "closeDate": "01/27/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.273"
+      ]
+    },
+    {
+      "id": "360627",
+      "number": "RFA-DK-27-122",
+      "title": "Single Source for the Continuation of the Physiology of the Weight Reduced State (POWERS) Study (U01- Clinical Trials Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/15/2026",
+      "closeDate": "11/17/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.847"
+      ]
+    },
+    {
+      "id": "344634",
+      "number": "PD-22-1332",
+      "title": "Social Psychology",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "11/22/2022",
+      "closeDate": "01/15/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "45812",
+      "number": "PD-98-1311",
+      "title": "Linguistics",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "03/06/2009",
+      "closeDate": "01/15/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "320087",
+      "number": "PD-19-118Y",
+      "title": "Security and Preparedness (SAP)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "08/30/2019",
+      "closeDate": "10/15/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "45810",
+      "number": "PD-98-1331",
+      "title": "Sociology",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "03/06/2009",
+      "closeDate": "10/15/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "350561",
+      "number": "PD-24-1699",
+      "title": "Cognitive Neuroscience (CogNeuro)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "10/12/2023",
+      "closeDate": "02/01/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "348164",
+      "number": "PD-23-1320",
+      "title": "Economics",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "05/17/2023",
+      "closeDate": "10/15/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "320753",
+      "number": "PD-19-127Y",
+      "title": "Science of Learning and Augmented Intelligence (SL)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "09/19/2019",
+      "closeDate": "02/10/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "320098",
+      "number": "PD-19-120Y",
+      "title": "Accountable Institutions and Behavior (AIB)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "08/30/2019",
+      "closeDate": "10/15/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "112354",
+      "number": "PD-11-8031",
+      "title": "Science of Organizations (SoO)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "08/08/2011",
+      "closeDate": "10/15/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "358882",
+      "number": "PD-19-126Y",
+      "title": "Science of Science: Discovery, Communication and Impact (SoS:DCI)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "05/09/2025",
+      "closeDate": "10/15/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "359941",
+      "number": "PAR-28-091",
+      "title": "Assessing the Feasibility of Incorporating Mechanisms in Multi-site Clinical Trials of Mind and Body Interventions on Whole Person Health Restoration (R33 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/15/2026",
+      "closeDate": "11/16/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.213",
+        "93.473"
+      ]
+    },
+    {
+      "id": "348260",
+      "number": "23-568",
+      "title": "Human Networks and Data Science (HNDS)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "05/20/2023",
+      "closeDate": "01/14/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "329432",
+      "number": "PD-21-128Y",
+      "title": "Law &amp; Science (LS)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "10/15/2020",
+      "closeDate": "10/15/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.075"
+      ]
+    },
+    {
+      "id": "364099",
+      "number": "NOAA-NMFS-FHQ-2027-33600",
+      "title": "FY 2027 &ndash; 2029 Broad Agency Announcement (BAA), National Marine Fisheries Service",
+      "agencyCode": "DOC-DOCNOAAERA",
+      "agency": "DOC NOAA - ERA Production",
+      "openDate": "10/16/2026",
+      "closeDate": "09/30/2028",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "11.015"
+      ]
+    },
+    {
+      "id": "360581",
+      "number": "PA-26-002",
+      "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "01/20/2026",
+      "closeDate": "05/07/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.213",
+        "93.313",
+        "93.398",
+        "93.396",
+        "93.273",
+        "93.397",
+        "93.853",
+        "93.865",
+        "93.846",
+        "93.286",
+        "93.372",
+        "93.279",
+        "93.113",
+        "93.172",
+        "93.840",
+        "93.307",
+        "93.394",
+        "93.859",
+        "93.233",
+        "93.395",
+        "93.837",
+        "93.121",
+        "93.173",
+        "93.393",
+        "93.351",
+        "93.399",
+        "93.350",
+        "93.839",
+        "93.242",
+        "93.361",
+        "93.879",
+        "93.855",
+        "93.866",
+        "93.867",
+        "93.847",
+        "93.989",
+        "93.310",
+        "93.838"
+      ]
+    },
+    {
+      "id": "360869",
+      "number": "PAR-28-090",
+      "title": "Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) (P30 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/16/2026",
+      "closeDate": "05/25/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.847",
+        "93.242",
+        "93.396",
+        "93.838",
+        "93.866",
+        "93.310",
+        "93.837",
+        "93.989",
+        "93.307",
+        "93.393",
+        "93.840",
+        "93.361",
+        "93.121",
+        "93.394",
+        "93.839",
+        "93.855",
+        "93.279",
+        "93.865",
+        "93.233",
+        "93.395"
+      ]
+    },
+    {
+      "id": "359702",
+      "number": "PA-27-037",
+      "title": "Predoctoral to Postdoctoral Transition Award (Parent F99/K00 - Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "06/16/2026",
+      "closeDate": "04/08/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.THR",
+        "93.273",
+        "93.859",
+        "93.866",
+        "93.310",
+        "93.865",
+        "93.113",
+        "93.286",
+        "93.846",
+        "93.T21",
+        "93.398",
+        "93.172",
+        "93.213",
+        "93.853",
+        "93.867",
+        "93.279",
+        "93.121",
+        "93.173",
+        "93.242",
+        "93.855"
+      ]
+    },
+    {
+      "id": "361318",
+      "number": "RFA-LM-28-001",
+      "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "10/16/2026",
+      "closeDate": "02/11/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.242",
+        "93.121",
+        "93.398",
+        "93.867",
+        "93.279",
+        "93.310",
+        "93.855",
+        "93.853",
+        "93.173",
+        "93.879"
+      ]
+    },
+    {
+      "id": "364165",
+      "number": "FA955027S0002",
+      "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
+      "agencyCode": "DOD-AFOSR",
+      "agency": "Air Force Office of Scientific Research",
+      "openDate": "10/28/2026",
+      "closeDate": "02/19/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.800"
+      ]
+    },
+    {
+      "id": "364134",
+      "number": "HHS-2027-ACF-ORR-ZU-0045",
+      "title": "Residential Services for Unaccompanied Alien Children",
+      "agencyCode": "HHS-ACF-ORR",
+      "agency": "Administration for Children and Families - ORR",
+      "openDate": "10/30/2026",
+      "closeDate": "12/29/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.676"
+      ]
+    },
+    {
       "id": "364026",
       "number": "DE-FOA-0003577",
       "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
@@ -14443,20 +15074,6 @@
       ]
     },
     {
-      "id": "364165",
-      "number": "FA955027S0002",
-      "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
-      "agencyCode": "DOD-AFOSR",
-      "agency": "Air Force Office of Scientific Research",
-      "openDate": "10/28/2026",
-      "closeDate": "02/19/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.800"
-      ]
-    },
-    {
       "id": "364153",
       "number": "HHS-2027-ACL-AOD-DNDP-0016",
       "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
@@ -15015,623 +15632,6 @@
       ]
     },
     {
-      "id": "360753",
-      "number": "RFA-OH-26-015",
-      "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "05/08/2026",
-      "closeDate": "12/08/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.262"
-      ]
-    },
-    {
-      "id": "364042",
-      "number": "O-OJJDP-2026-172740",
-      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
-      "agencyCode": "USDOJ-OJP-OJJDP",
-      "agency": "Office of Juvenile Justice Delinquency Prevention ",
-      "openDate": "10/08/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.543"
-      ]
-    },
-    {
-      "id": "360562",
-      "number": "RFA-DA-28-013",
-      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/09/2026",
-      "closeDate": "02/08/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.279"
-      ]
-    },
-    {
-      "id": "359170",
-      "number": "RFA-HG-27-010",
-      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/09/2026",
-      "closeDate": "12/14/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.172"
-      ]
-    },
-    {
-      "id": "358854",
-      "number": "RFA-HG-27-007",
-      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/09/2026",
-      "closeDate": "12/14/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.172"
-      ]
-    },
-    {
-      "id": "359277",
-      "number": "RFA-HG-27-009",
-      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/09/2026",
-      "closeDate": "12/14/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.172"
-      ]
-    },
-    {
-      "id": "358855",
-      "number": "RFA-HG-27-008",
-      "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/09/2026",
-      "closeDate": "12/14/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.172"
-      ]
-    },
-    {
-      "id": "364030",
-      "number": "20270113-PJ",
-      "title": "National Digital Newspaper Program",
-      "agencyCode": "NEH",
-      "agency": "National Endowment for the Humanities",
-      "openDate": "10/06/2026",
-      "closeDate": "01/13/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "45.042"
-      ]
-    },
-    {
-      "id": "344124",
-      "number": "23-510",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "10/20/2022",
-      "closeDate": "01/20/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.076"
-      ]
-    },
-    {
-      "id": "361832",
-      "number": "RFA-AI-28-024",
-      "title": "Accelerating Research and Development of Next Generation Vaccines against Malaria - a Model for Mosquito-Borne Diseases (R61/R33 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/13/2026",
-      "closeDate": "02/11/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.855"
-      ]
-    },
-    {
-      "id": "364060",
-      "number": "O-NIJ-2026-172800",
-      "title": "NIJ FY 2026 Research and Evaluation on Justice System Responses to Illegal Immigration",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
-      "id": "364062",
-      "number": "O-NIJ-2026-172802",
-      "title": "NIJ FY 2026 Research on Gender Dysphoria and Violent Crime",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
-      "id": "364065",
-      "number": "RFA-AG-28-002",
-      "title": "Coordinating Center for the Claude D. Pepper Older Americans Independence Centers (OAICs)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/13/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.866"
-      ]
-    },
-    {
-      "id": "364059",
-      "number": "O-NIJ-2026-172799",
-      "title": "NIJ FY 2026 Research and Evaluation on Human Trafficking",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
-      "id": "364061",
-      "number": "O-NIJ-2026-172801",
-      "title": "NIJ FY 2026 Crime and Justice Research",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
-      "id": "364077",
-      "number": "G27AS00049",
-      "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
-      "agencyCode": "DOI-USGS1",
-      "agency": "Geological Survey",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "15.808"
-      ]
-    },
-    {
-      "id": "348058",
-      "number": "PD-23-1321",
-      "title": "Decision, Risk and Management Sciences (DRMS)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "05/11/2023",
-      "closeDate": "01/19/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "361216",
-      "number": "RFA-AA-28-001",
-      "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/15/2026",
-      "closeDate": "01/27/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.273"
-      ]
-    },
-    {
-      "id": "360627",
-      "number": "RFA-DK-27-122",
-      "title": "Single Source for the Continuation of the Physiology of the Weight Reduced State (POWERS) Study (U01- Clinical Trials Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/15/2026",
-      "closeDate": "11/17/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.847"
-      ]
-    },
-    {
-      "id": "344634",
-      "number": "PD-22-1332",
-      "title": "Social Psychology",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "11/22/2022",
-      "closeDate": "01/15/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "45812",
-      "number": "PD-98-1311",
-      "title": "Linguistics",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "03/06/2009",
-      "closeDate": "01/15/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "320087",
-      "number": "PD-19-118Y",
-      "title": "Security and Preparedness (SAP)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "08/30/2019",
-      "closeDate": "10/15/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "45810",
-      "number": "PD-98-1331",
-      "title": "Sociology",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "03/06/2009",
-      "closeDate": "10/15/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "350561",
-      "number": "PD-24-1699",
-      "title": "Cognitive Neuroscience (CogNeuro)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "10/12/2023",
-      "closeDate": "02/01/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "348164",
-      "number": "PD-23-1320",
-      "title": "Economics",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "05/17/2023",
-      "closeDate": "10/15/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "320753",
-      "number": "PD-19-127Y",
-      "title": "Science of Learning and Augmented Intelligence (SL)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "09/19/2019",
-      "closeDate": "02/10/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "320098",
-      "number": "PD-19-120Y",
-      "title": "Accountable Institutions and Behavior (AIB)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "08/30/2019",
-      "closeDate": "10/15/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "112354",
-      "number": "PD-11-8031",
-      "title": "Science of Organizations (SoO)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "08/08/2011",
-      "closeDate": "10/15/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "358882",
-      "number": "PD-19-126Y",
-      "title": "Science of Science: Discovery, Communication and Impact (SoS:DCI)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "05/09/2025",
-      "closeDate": "10/15/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "359941",
-      "number": "PAR-28-091",
-      "title": "Assessing the Feasibility of Incorporating Mechanisms in Multi-site Clinical Trials of Mind and Body Interventions on Whole Person Health Restoration (R33 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/15/2026",
-      "closeDate": "11/16/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.213",
-        "93.473"
-      ]
-    },
-    {
-      "id": "348260",
-      "number": "23-568",
-      "title": "Human Networks and Data Science (HNDS)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "05/20/2023",
-      "closeDate": "01/14/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "329432",
-      "number": "PD-21-128Y",
-      "title": "Law &amp; Science (LS)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "10/15/2020",
-      "closeDate": "10/15/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.075"
-      ]
-    },
-    {
-      "id": "364099",
-      "number": "NOAA-NMFS-FHQ-2027-33600",
-      "title": "FY 2027 &ndash; 2029 Broad Agency Announcement (BAA), National Marine Fisheries Service",
-      "agencyCode": "DOC-DOCNOAAERA",
-      "agency": "DOC NOAA - ERA Production",
-      "openDate": "10/16/2026",
-      "closeDate": "09/30/2028",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "11.015"
-      ]
-    },
-    {
-      "id": "360581",
-      "number": "PA-26-002",
-      "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/20/2026",
-      "closeDate": "05/07/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.213",
-        "93.313",
-        "93.398",
-        "93.396",
-        "93.273",
-        "93.397",
-        "93.853",
-        "93.865",
-        "93.846",
-        "93.286",
-        "93.372",
-        "93.279",
-        "93.113",
-        "93.172",
-        "93.840",
-        "93.307",
-        "93.394",
-        "93.859",
-        "93.233",
-        "93.395",
-        "93.837",
-        "93.121",
-        "93.173",
-        "93.393",
-        "93.351",
-        "93.399",
-        "93.350",
-        "93.839",
-        "93.242",
-        "93.361",
-        "93.879",
-        "93.855",
-        "93.866",
-        "93.867",
-        "93.847",
-        "93.989",
-        "93.310",
-        "93.838"
-      ]
-    },
-    {
-      "id": "360869",
-      "number": "PAR-28-090",
-      "title": "Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) (P30 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/16/2026",
-      "closeDate": "05/25/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.847",
-        "93.242",
-        "93.396",
-        "93.838",
-        "93.866",
-        "93.310",
-        "93.837",
-        "93.989",
-        "93.307",
-        "93.393",
-        "93.840",
-        "93.361",
-        "93.121",
-        "93.394",
-        "93.839",
-        "93.855",
-        "93.279",
-        "93.865",
-        "93.233",
-        "93.395"
-      ]
-    },
-    {
-      "id": "359702",
-      "number": "PA-27-037",
-      "title": "Predoctoral to Postdoctoral Transition Award (Parent F99/K00 - Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/16/2026",
-      "closeDate": "04/08/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.THR",
-        "93.273",
-        "93.859",
-        "93.866",
-        "93.310",
-        "93.865",
-        "93.113",
-        "93.286",
-        "93.846",
-        "93.T21",
-        "93.398",
-        "93.172",
-        "93.213",
-        "93.853",
-        "93.867",
-        "93.279",
-        "93.121",
-        "93.173",
-        "93.242",
-        "93.855"
-      ]
-    },
-    {
-      "id": "361318",
-      "number": "RFA-LM-28-001",
-      "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/16/2026",
-      "closeDate": "02/11/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.242",
-        "93.121",
-        "93.398",
-        "93.867",
-        "93.279",
-        "93.310",
-        "93.855",
-        "93.853",
-        "93.173",
-        "93.879"
-      ]
-    },
-    {
-      "id": "364134",
-      "number": "HHS-2027-ACF-ORR-ZU-0045",
-      "title": "Residential Services for Unaccompanied Alien Children",
-      "agencyCode": "HHS-ACF-ORR",
-      "agency": "Administration for Children and Families - ORR",
-      "openDate": "10/30/2026",
-      "closeDate": "12/29/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.676"
-      ]
-    },
-    {
       "id": "364049",
       "number": "O-NIJ-2026-172798",
       "title": "NIJ FY 2026 Evaluation of the Effectiveness of the Bureau of Justice Assistance (BJA) Byrne State Crisis Intervention Program (SCIP)",
@@ -15643,6 +15643,34 @@
       "docType": "synopsis",
       "cfdaList": [
         "16.560"
+      ]
+    },
+    {
+      "id": "363889",
+      "number": "O-BJA-2026-172718",
+      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
+      "agencyCode": "USDOJ-OJP-BJA",
+      "agency": "Bureau of Justice Assistance",
+      "openDate": "09/21/2026",
+      "closeDate": "11/04/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.036"
+      ]
+    },
+    {
+      "id": "364195",
+      "number": "20270113-CHE",
+      "title": "Endowments for Advancing the Humanities",
+      "agencyCode": "NEH",
+      "agency": "National Endowment for the Humanities",
+      "openDate": "11/02/2026",
+      "closeDate": "01/13/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "45.043"
       ]
     }
   ]
