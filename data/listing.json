@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T18:26:28+00:00",
+  "checked_at": "2026-11-02T21:34:09+00:00",
   "complete": true,
   "records": [
     {
@@ -15130,20 +15130,6 @@
       ]
     },
     {
-      "id": "364172",
-      "number": "FA955027S0001",
-      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-      "agencyCode": "DOD-AFOSR",
-      "agency": "Air Force Office of Scientific Research",
-      "openDate": "10/29/2026",
-      "closeDate": "04/02/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.800"
-      ]
-    },
-    {
       "id": "358954",
       "number": "RFA-RM-27-008",
       "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
@@ -15671,6 +15657,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.310"
+      ]
+    },
+    {
+      "id": "364172",
+      "number": "FA955027S0001",
+      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+      "agencyCode": "DOD-AFOSR",
+      "agency": "Air Force Office of Scientific Research",
+      "openDate": "10/29/2026",
+      "closeDate": "04/02/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.800"
       ]
     }
   ]
