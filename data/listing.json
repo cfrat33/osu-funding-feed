@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T18:22:54+00:00",
+  "checked_at": "2026-11-03T21:24:20+00:00",
   "complete": true,
   "records": [
     {
@@ -5834,20 +5834,6 @@
       ]
     },
     {
-      "id": "361287",
-      "number": "RFA-NS-26-030",
-      "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "02/12/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.853"
-      ]
-    },
-    {
       "id": "361294",
       "number": "PAR-26-108",
       "title": "Global Collaborative Research Training on Non-Communicable Diseases and Disorders Across the Lifespan",
@@ -7457,26 +7443,6 @@
         "93.233",
         "93.837",
         "93.839"
-      ]
-    },
-    {
-      "id": "362277",
-      "number": "PAR-27-089",
-      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/06/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.397",
-        "93.394",
-        "93.393",
-        "93.398",
-        "93.395",
-        "93.396",
-        "93.399"
       ]
     },
     {
@@ -15408,6 +15374,119 @@
       ]
     },
     {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "agencyCode": "DOE-ID",
+      "agency": "Idaho Field Office",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.121"
+      ]
+    },
+    {
+      "id": "360551",
+      "number": "RFA-DK-28-314",
+      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "02/01/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "364172",
+      "number": "FA955027S0001",
+      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+      "agencyCode": "DOD-AFOSR",
+      "agency": "Air Force Office of Scientific Research",
+      "openDate": "10/29/2026",
+      "closeDate": "04/02/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.800"
+      ]
+    },
+    {
+      "id": "360946",
+      "number": "PAR-28-042",
+      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "11/16/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.CA1"
+      ]
+    },
+    {
+      "id": "360623",
+      "number": "RFA-DK-28-214",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "03/05/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "360625",
+      "number": "RFA-DK-28-213",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "03/05/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "361287",
+      "number": "RFA-NS-28-012",
+      "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "10/10/2028",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.866",
+        "93.NS1"
+      ]
+    },
+    {
+      "id": "359019",
+      "number": "RFA-MH-28-145",
+      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "02/17/2028",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.24R"
+      ]
+    },
+    {
       "id": "364195",
       "number": "20270113-CHE",
       "title": "Endowments for Advancing the Humanities",
@@ -15506,101 +15585,17 @@
       ]
     },
     {
-      "id": "364172",
-      "number": "FA955027S0001",
-      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-      "agencyCode": "DOD-AFOSR",
-      "agency": "Air Force Office of Scientific Research",
-      "openDate": "10/29/2026",
-      "closeDate": "04/02/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.800"
-      ]
-    },
-    {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "agencyCode": "DOE-ID",
-      "agency": "Idaho Field Office",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.121"
-      ]
-    },
-    {
-      "id": "359019",
-      "number": "RFA-MH-28-145",
-      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/17/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.242"
-      ]
-    },
-    {
-      "id": "360625",
-      "number": "RFA-DK-28-213",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+      "id": "362277",
+      "number": "PAR-28-063",
+      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
       "agencyCode": "HHS-NIH11",
       "agency": "National Institutes of Health",
       "openDate": "11/03/2026",
-      "closeDate": "03/05/2027",
+      "closeDate": "02/20/2029",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "93.KRC"
-      ]
-    },
-    {
-      "id": "360623",
-      "number": "RFA-DK-28-214",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/03/2026",
-      "closeDate": "03/05/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.KRC"
-      ]
-    },
-    {
-      "id": "360551",
-      "number": "RFA-DK-28-314",
-      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/03/2026",
-      "closeDate": "02/01/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.KRC"
-      ]
-    },
-    {
-      "id": "360946",
-      "number": "PAR-28-042",
-      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/03/2026",
-      "closeDate": "11/16/2029",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.CA1"
+        "93.CA4"
       ]
     }
   ]
