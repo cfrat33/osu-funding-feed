@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T21:34:09+00:00",
+  "checked_at": "2026-11-03T00:40:34+00:00",
   "complete": true,
   "records": [
     {
@@ -14370,20 +14370,6 @@
       ]
     },
     {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "agencyCode": "DOE-ID",
-      "agency": "Idaho Field Office",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.121"
-      ]
-    },
-    {
       "id": "357573",
       "number": "PAR-25-100",
       "title": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
@@ -15671,6 +15657,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "12.800"
+      ]
+    },
+    {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "agencyCode": "DOE-ID",
+      "agency": "Idaho Field Office",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.121"
       ]
     }
   ]
