@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T03:23:34+00:00",
+  "checked_at": "2026-11-03T06:30:53+00:00",
   "complete": true,
   "records": [
     {
@@ -3613,20 +3613,6 @@
       ]
     },
     {
-      "id": "357604",
-      "number": "PAR-24-280",
-      "title": "Clinical Observational (CO) Studies in Musculoskeletal, Rheumatic, and Skin Diseases (R01 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/09/2024",
-      "closeDate": "11/02/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.846"
-      ]
-    },
-    {
       "id": "357817",
       "number": "PAR-25-327",
       "title": "Translational Efforts to Advance Gene-based Therapies for Ultra-Rare Neurological and Neuromuscular Disorders (U01 - Clinical Trial Optional)",
@@ -3737,20 +3723,6 @@
         "93.361",
         "93.143",
         "93.172"
-      ]
-    },
-    {
-      "id": "357602",
-      "number": "PAR-24-279",
-      "title": "Exploratory Clinical Trial Grants in Arthritis and Musculoskeletal and Skin Diseases (R61 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/09/2024",
-      "closeDate": "11/02/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.846"
       ]
     },
     {
@@ -10415,20 +10387,6 @@
       ]
     },
     {
-      "id": "363893",
-      "number": "O-BJA-2026-172726",
-      "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "11/02/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.746"
-      ]
-    },
-    {
       "id": "363926",
       "number": "RFA-NS-28-009",
       "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
@@ -10496,20 +10454,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "12.355"
-      ]
-    },
-    {
-      "id": "363891",
-      "number": "O-BJA-2026-172724",
-      "title": "BJA FY 2026 Comprehensive Opioid, Stimulant, and Substance Use Program (COSSUP) Training and Technical Assistance (TTA)",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "11/02/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.838"
       ]
     },
     {
@@ -10838,20 +10782,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.433"
-      ]
-    },
-    {
-      "id": "363977",
-      "number": "O-OJJDP-2026-172731",
-      "title": "OJJDP FY 2026 Internet Crimes Against Children (ICAC) Task Force Program Support",
-      "agencyCode": "USDOJ-OJP-OJJDP",
-      "agency": "Office of Juvenile Justice Delinquency Prevention ",
-      "openDate": "09/25/2026",
-      "closeDate": "11/02/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.543"
       ]
     },
     {
