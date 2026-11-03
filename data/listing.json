@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T15:22:54+00:00",
+  "checked_at": "2026-11-03T18:22:54+00:00",
   "complete": true,
   "records": [
     {
@@ -754,20 +754,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.121"
-      ]
-    },
-    {
-      "id": "359019",
-      "number": "FOR-MH-26-145",
-      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/17/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.242"
       ]
     },
     {
@@ -4781,20 +4767,6 @@
       ]
     },
     {
-      "id": "360551",
-      "number": "RFA-DK-27-128",
-      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/10/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.847"
-      ]
-    },
-    {
       "id": "360680",
       "number": "RFA-DK-27-130",
       "title": "Limited Competition: Chronic Kidney Diseases of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE) Research Consortium- Field Epidemiology Sites",
@@ -6418,20 +6390,6 @@
       ]
     },
     {
-      "id": "360946",
-      "number": "PAR-26-091",
-      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/08/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.394"
-      ]
-    },
-    {
       "id": "359659",
       "number": "PAR-26-116",
       "title": "Opportunities for Collaborative Research at the NIH Clinical Center (U01 Clinical Trial Optional)",
@@ -6443,20 +6401,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.313"
-      ]
-    },
-    {
-      "id": "360623",
-      "number": "RFA-DK-27-118",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium Clinical Centers (DGIC)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/18/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.847"
       ]
     },
     {
@@ -6477,20 +6421,6 @@
       "id": "360621",
       "number": "RFA-DK-27-116",
       "title": "The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/18/2025",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.847"
-      ]
-    },
-    {
-      "id": "360625",
-      "number": "RFA-DK-27-117",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium Clinical Centers (DGIC)",
       "agencyCode": "HHS-NIH11",
       "agency": "National Institutes of Health",
       "openDate": "09/18/2025",
@@ -9894,20 +9824,6 @@
       ]
     },
     {
-      "id": "363058",
-      "number": "RFA-CE-27-017",
-      "title": "Improving Linkage to Care for People with Opioid Use Disorder (U01)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/02/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.136"
-      ]
-    },
-    {
       "id": "363253",
       "number": "PAR-28-007",
       "title": "The Next Generation of the Clinical and Translational Science Awards Program Trial Innovation Network",
@@ -11463,20 +11379,6 @@
       ]
     },
     {
-      "id": "363141",
-      "number": "RFA-CE-27-015",
-      "title": "Preventing Suicide and Interpersonal Violence Among Youth and Young Adults",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/09/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.136"
-      ]
-    },
-    {
       "id": "363153",
       "number": "CDC-RFA-CK-27-0046",
       "title": "Continuing Enhanced National Surveillance for Prion Diseases in the United States",
@@ -11488,20 +11390,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.317"
-      ]
-    },
-    {
-      "id": "363147",
-      "number": "RFA-CE-27-016",
-      "title": "Rigorously Evaluating Approaches to Prevent Child Sexual Abuse and Problematic Sexual Behavior among Youth",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/10/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.136"
       ]
     },
     {
@@ -11628,20 +11516,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.989"
-      ]
-    },
-    {
-      "id": "363055",
-      "number": "RFA-CE-27-013",
-      "title": "CDC National Centers of Excellence in Youth Violence Prevention (YVPCs): Rigorous Evaluation of Prevention Approaches to Prevent and Reduce Youth Violence",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/02/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.136"
       ]
     },
     {
@@ -12162,20 +12036,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.084"
-      ]
-    },
-    {
-      "id": "363137",
-      "number": "RFA-CE-27-014",
-      "title": "Research Grants to Rigorously Evaluate Innovative and Promising Approaches to Prevent Firearm-Related Violence and Injuries",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/09/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.136"
       ]
     },
     {
@@ -15576,6 +15436,76 @@
       ]
     },
     {
+      "id": "363055",
+      "number": "RFA-CE-27-013",
+      "title": "CDC National Centers of Excellence in Youth Violence Prevention (YVPCs): Rigorous Evaluation of Prevention Approaches to Prevent and Reduce Youth Violence",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/02/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.136"
+      ]
+    },
+    {
+      "id": "363141",
+      "number": "RFA-CE-27-015",
+      "title": "Preventing Suicide and Interpersonal Violence Among Youth and Young Adults",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/09/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.136"
+      ]
+    },
+    {
+      "id": "363147",
+      "number": "RFA-CE-27-016",
+      "title": "Rigorously Evaluating Approaches to Prevent Child Sexual Abuse and Problematic Sexual Behavior among Youth",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/10/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.136"
+      ]
+    },
+    {
+      "id": "363058",
+      "number": "RFA-CE-27-017",
+      "title": "Improving Linkage to Care for People with Opioid Use Disorder (U01)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/02/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.136"
+      ]
+    },
+    {
+      "id": "363137",
+      "number": "RFA-CE-27-014",
+      "title": "Research Grants to Rigorously Evaluate Innovative and Promising Approaches to Prevent Firearm-Related Violence and Injuries",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/09/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.136"
+      ]
+    },
+    {
       "id": "364172",
       "number": "FA955027S0001",
       "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
@@ -15601,6 +15531,76 @@
       "docType": "synopsis",
       "cfdaList": [
         "81.121"
+      ]
+    },
+    {
+      "id": "359019",
+      "number": "RFA-MH-28-145",
+      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "06/17/2025",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.242"
+      ]
+    },
+    {
+      "id": "360625",
+      "number": "RFA-DK-28-213",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "03/05/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "360623",
+      "number": "RFA-DK-28-214",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "03/05/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "360551",
+      "number": "RFA-DK-28-314",
+      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "02/01/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "360946",
+      "number": "PAR-28-042",
+      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/03/2026",
+      "closeDate": "11/16/2029",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.CA1"
       ]
     }
   ]
