@@ -468503,7 +468503,7 @@
     }
   },
   "364172": {
-    "checked_at": "2026-11-02T06:38:22+00:00",
+    "checked_at": "2026-11-03T09:22:54+00:00",
     "listing_signature": "5ae3e4b58746a70bab4c3296cf84149e7d93482d71f374eb9f74fc59364f3e35",
     "detail": {
       "id": 364172,
@@ -468558,7 +468558,7 @@
         "awardFloorFormatted": "8,250,000",
         "applicantEligibilityDesc": "",
         "sendEmail": "Y",
-        "createTimeStamp": "Oct 29, 2026 07:12:49 PM EDT",
+        "createTimeStamp": "Nov 02, 2026 03:15:15 PM EST",
         "createdDate": "Oct 29, 2026 06:47:26 PM EDT",
         "lastUpdatedDate": "Oct 29, 2026 07:03:09 PM EDT",
         "applicantTypes": [
@@ -468586,7 +468586,7 @@
         "responseDateStr": "2027-04-02-00-00-00",
         "postingDateStr": "2026-10-29-00-00-00",
         "archiveDateStr": "2027-05-02-00-00-00",
-        "createTimeStampStr": "2026-10-29-19-12-49"
+        "createTimeStampStr": "2026-11-02-15-15-15"
       },
       "agencyDetails": {
         "code": "AFOSR",
@@ -468621,6 +468621,27 @@
               "fileLobSize": 526138,
               "createdDate": "Oct 29, 2026 07:09:11 PM EDT",
               "synopsisAttFolderId": 81495
+            }
+          ]
+        },
+        {
+          "id": 81546,
+          "opportunityId": 364172,
+          "folderType": "Revised Full Announcement",
+          "folderName": "Amendments",
+          "zipLobSize": 678056,
+          "createdDate": "Nov 02, 2026 03:14:46 PM EST",
+          "lastUpdatedDate": "Nov 02, 2026 03:15:15 PM EST",
+          "synopsisAttachments": [
+            {
+              "id": 355520,
+              "opportunityId": 364172,
+              "mimeType": "application/pdf",
+              "fileName": "FA955027S0001 Amendment 1.pdf",
+              "fileDescription": "FA955027S0001 Amendment 1",
+              "fileLobSize": 702479,
+              "createdDate": "Nov 02, 2026 03:15:15 PM EST",
+              "synopsisAttFolderId": 81546
             }
           ]
         },
@@ -468692,7 +468713,7 @@
           "isMultiProject": "N",
           "extension": "pdf",
           "mimetype": "application/pdf",
-          "lastUpdate": "Oct 29, 2026 07:25:39 PM EDT",
+          "lastUpdate": "Nov 02, 2026 03:16:23 PM EST",
           "workspaceCompatibleFlag": "Y",
           "packageId": "PKG00294475",
           "openingDateStr": "2026-10-29-00-00-00",
