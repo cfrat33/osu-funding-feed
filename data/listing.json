@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T03:23:59+00:00",
+  "checked_at": "2026-11-04T06:30:33+00:00",
   "complete": true,
   "records": [
     {
@@ -6187,34 +6187,6 @@
       "agency": "U.S. National Science Foundation",
       "openDate": "08/04/2022",
       "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.049"
-      ]
-    },
-    {
-      "id": "340545",
-      "number": "PD-22-1265",
-      "title": "Geometric Analysis",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "05/20/2022",
-      "closeDate": "11/03/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.049"
-      ]
-    },
-    {
-      "id": "340544",
-      "number": "PD-22-1267",
-      "title": "Topology",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "05/20/2022",
-      "closeDate": "11/03/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
