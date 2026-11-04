@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T12:27:07+00:00",
+  "checked_at": "2026-11-04T15:22:44+00:00",
   "complete": true,
   "records": [
     {
@@ -10723,21 +10723,6 @@
       ]
     },
     {
-      "id": "362952",
-      "number": "RFA-AI-28-014",
-      "title": "Precision and Systems Biology to Uncover the Link Between Chronic and Infectious Diseases",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/24/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.855",
-        "93.866"
-      ]
-    },
-    {
       "id": "362948",
       "number": "RFA-AI-28-018",
       "title": "Improved Drug Susceptibility Testing (DST) for Mycobacteria",
@@ -15568,6 +15553,30 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.CA4"
+      ]
+    },
+    {
+      "id": "362952",
+      "number": "RFA-AI-28-014",
+      "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/04/2026",
+      "closeDate": "02/18/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.543",
+        "93.HL2",
+        "93.121",
+        "93.8TD",
+        "93.AR1",
+        "93.8AM",
+        "93.8RP",
+        "93.AGR",
+        "93.ADR",
+        "93.172",
+        "93.DSS"
       ]
     }
   ]
