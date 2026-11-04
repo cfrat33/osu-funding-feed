@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T15:22:44+00:00",
+  "checked_at": "2026-11-04T18:24:04+00:00",
   "complete": true,
   "records": [
     {
@@ -9706,20 +9706,6 @@
       ]
     },
     {
-      "id": "363115",
-      "number": "RFA-TS-27-018",
-      "title": "Identify and Evaluate Potential Risk Factors for Amyotrophic Lateral Sclerosis (ALS)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/08/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.061"
-      ]
-    },
-    {
       "id": "363112",
       "number": "HRSA-27-058",
       "title": "Health Workforce Research Center (HWRC)",
@@ -13261,20 +13247,6 @@
       ]
     },
     {
-      "id": "363614",
-      "number": "26-515",
-      "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "08/17/2026",
-      "closeDate": "10/05/2076",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.041"
-      ]
-    },
-    {
       "id": "314126",
       "number": "19-570",
       "title": "High-Risk Research in Biological Anthropology and Archaeology (HRRBAA)",
@@ -15577,6 +15549,34 @@
         "93.ADR",
         "93.172",
         "93.DSS"
+      ]
+    },
+    {
+      "id": "363115",
+      "number": "RFA-TS-27-018",
+      "title": "Identify and Evaluate Potential Risk Factors for Amyotrophic Lateral Sclerosis (ALS)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/08/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.061"
+      ]
+    },
+    {
+      "id": "363614",
+      "number": "26-515",
+      "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "08/17/2026",
+      "closeDate": "11/04/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.041"
       ]
     }
   ]
