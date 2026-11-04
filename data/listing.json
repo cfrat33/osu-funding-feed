@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T18:24:04+00:00",
+  "checked_at": "2026-11-04T21:21:29+00:00",
   "complete": true,
   "records": [
     {
@@ -9636,20 +9636,6 @@
       ]
     },
     {
-      "id": "363591",
-      "number": "CDC-RFA-JG-27-0069",
-      "title": "Capacity Building for Global, Regional, and National Immunization Programs",
-      "agencyCode": "HHS-CDC-GHC",
-      "agency": "Centers for Disease Control-GHC",
-      "openDate": "08/14/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.318"
-      ]
-    },
-    {
       "id": "363592",
       "number": "CDC-RFA-DP-27-0072",
       "title": "Promoting Population Health through Increased Capacity in Alcohol Epidemiology &amp; the Prevention of Excessive Alcohol Use",
@@ -15528,27 +15514,17 @@
       ]
     },
     {
-      "id": "362952",
-      "number": "RFA-AI-28-014",
-      "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/04/2026",
-      "closeDate": "02/18/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
+      "id": "363591",
+      "number": "CDC-RFA-JG-27-0069",
+      "title": "Capacity Building for Global, Regional, and National Immunization Programs",
+      "agencyCode": "HHS-CDC-GHC",
+      "agency": "Centers for Disease Control-GHC",
+      "openDate": "08/14/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
       "cfdaList": [
-        "93.543",
-        "93.HL2",
-        "93.121",
-        "93.8TD",
-        "93.AR1",
-        "93.8AM",
-        "93.8RP",
-        "93.AGR",
-        "93.ADR",
-        "93.172",
-        "93.DSS"
+        "93.318"
       ]
     },
     {
@@ -15577,6 +15553,30 @@
       "docType": "synopsis",
       "cfdaList": [
         "47.041"
+      ]
+    },
+    {
+      "id": "362952",
+      "number": "RFA-AI-28-014",
+      "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/04/2026",
+      "closeDate": "02/18/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.543",
+        "93.HL2",
+        "93.121",
+        "93.8TD",
+        "93.AR1",
+        "93.8AM",
+        "93.8RP",
+        "93.AGR",
+        "93.ADR",
+        "93.172",
+        "93.DSS"
       ]
     }
   ]
