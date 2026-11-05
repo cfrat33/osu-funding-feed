@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T12:28:06+00:00",
+  "checked_at": "2026-11-05T15:21:47+00:00",
   "complete": true,
   "records": [
     {
@@ -14328,21 +14328,6 @@
       ]
     },
     {
-      "id": "364122",
-      "number": "O-BJA-2026-172716",
-      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "10/19/2026",
-      "closeDate": "12/02/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.037",
-        "16.050"
-      ]
-    },
-    {
       "id": "243973",
       "number": "FAA-COE-AJFE",
       "title": "Center of Excellence for Alternative Jet Fuels and Environment",
@@ -15508,6 +15493,20 @@
       "cfdaList": [
         "93.KRP",
         "93.855"
+      ]
+    },
+    {
+      "id": "364122",
+      "number": "O-BJA-2026-172716",
+      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
+      "agencyCode": "USDOJ-OJP-BJA",
+      "agency": "Bureau of Justice Assistance",
+      "openDate": "10/19/2026",
+      "closeDate": "12/02/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.050"
       ]
     }
   ]
