@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T09:24:10+00:00",
+  "checked_at": "2026-11-05T12:28:06+00:00",
   "complete": true,
   "records": [
     {
@@ -15458,6 +15458,20 @@
       ]
     },
     {
+      "id": "364213",
+      "number": "DOW2027APEXACCELERATORCLOSED",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agencyCode": "DOD-AMC-ACCAPGADA",
+      "agency": "ACC-APG-Aberdeen Division A",
+      "openDate": "11/04/2026",
+      "closeDate": "07/04/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.002"
+      ]
+    },
+    {
       "id": "362952",
       "number": "RFA-AI-28-014",
       "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
@@ -15482,17 +15496,18 @@
       ]
     },
     {
-      "id": "364213",
-      "number": "DOW2027APEXACCELERATORCLOSED",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "agencyCode": "DOD-AMC-ACCAPGADA",
-      "agency": "ACC-APG-Aberdeen Division A",
-      "openDate": "11/04/2026",
-      "closeDate": "07/04/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
+      "id": "364219",
+      "number": "RFA-DK-28-113",
+      "title": "Leveraging NAMs to understand disease triggers, discover early biomarkers and develop new classes of therapeutic strategies for Type 1 Diabetes (U01 Clinical Trial Not Allowed)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/05/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
       "cfdaList": [
-        "12.002"
+        "93.KRP",
+        "93.855"
       ]
     }
   ]
