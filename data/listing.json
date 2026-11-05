@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T03:35:36+00:00",
+  "checked_at": "2026-11-05T06:30:51+00:00",
   "complete": true,
   "records": [
     {
@@ -10821,20 +10821,6 @@
       ]
     },
     {
-      "id": "362855",
-      "number": "HT942526BMFRPIIRA",
-      "title": "DoW Bone Marrow Failure, Investigator-Initiated Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/04/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "361251",
       "number": "PA-27-030",
       "title": "Institutional Mentored Career Development Award (Parent K12) (Clinical Trials Not Allowed)",
@@ -10953,20 +10939,6 @@
       "closeDate": "",
       "oppStatus": "forecasted",
       "docType": "forecast",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362856",
-      "number": "HT942526BMFRPRDA",
-      "title": "DoW Bone Marrow Failure, Resource Development Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/04/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
       "cfdaList": [
         "12.420"
       ]
@@ -12363,20 +12335,6 @@
       ]
     },
     {
-      "id": "362607",
-      "number": "HT942526RTRPCA",
-      "title": "DoW Reconstructive Transplant, Concept Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/04/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "363407",
       "number": "HRSA-27-028",
       "title": "Alliance for Innovation on Maternal Health (AIM) Capacity Program",
@@ -12512,20 +12470,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "11.452"
-      ]
-    },
-    {
-      "id": "363455",
-      "number": "HT942526RTRPIIRA",
-      "title": "DoW Reconstructive Transplant, Investigator-Initiated Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "08/26/2026",
-      "closeDate": "11/04/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
       ]
     },
     {
@@ -13037,20 +12981,6 @@
       ]
     },
     {
-      "id": "363728",
-      "number": "P27AS00032",
-      "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
-      "agencyCode": "DOI-NPS",
-      "agency": "National Park Service",
-      "openDate": "08/27/2026",
-      "closeDate": "11/04/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "15.930"
-      ]
-    },
-    {
       "id": "360402",
       "number": "RFA-NS-28-010",
       "title": "BRAIN Initiative: Research Opportunities Using Invasive Neural Recording and Stimulating Technologies in the Human Brain (R01 Clinical Trial Not Allowed)",
@@ -13100,20 +13030,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "81.049"
-      ]
-    },
-    {
-      "id": "362854",
-      "number": "HT942526BMFRPIDA",
-      "title": "DoW Bone Marrow Failure, Idea Development Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/04/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
       ]
     },
     {
@@ -15272,20 +15188,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "16.560"
-      ]
-    },
-    {
-      "id": "363889",
-      "number": "O-BJA-2026-172718",
-      "title": "BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction (CEBR)&mdash;Formula Grants Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "11/04/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.036"
       ]
     },
     {
