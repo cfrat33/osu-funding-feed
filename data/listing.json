@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T21:21:29+00:00",
+  "checked_at": "2026-11-05T00:43:39+00:00",
   "complete": true,
   "records": [
     {
@@ -15577,6 +15577,20 @@
         "93.ADR",
         "93.172",
         "93.DSS"
+      ]
+    },
+    {
+      "id": "364213",
+      "number": "DOW2027APEXACCELERATORCLOSED",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agencyCode": "DOD-AMC-ACCAPGADA",
+      "agency": "ACC-APG-Aberdeen Division A",
+      "openDate": "11/04/2026",
+      "closeDate": "07/04/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.002"
       ]
     }
   ]
