@@ -291024,16 +291024,17 @@
     }
   },
   "357813": {
-    "checked_at": "2026-11-06T03:25:30+00:00",
-    "listing_signature": "69f50f9e4df2940569440f658c7ff3d323210c6e79500537374f180091679f38",
+    "checked_at": "2026-11-06T18:24:38+00:00",
+    "listing_signature": "d3eef27b9d9c1bcf0df246cbf7db41d9ad656bfe340b02b0028672ce6db85879",
     "detail": {
       "id": 357813,
-      "revision": 0,
+      "revision": 1,
       "opportunityNumber": "PA-25-305",
       "opportunityTitle": "NIH Research Project Grant (Parent R01 Clinical Trial Required)",
       "owningAgencyCode": "HHS-NIH11",
       "listed": "L",
-      "publisherUid": "85078724978857742224107944047325102090",
+      "publisherUid": "sharmapr",
+      "modifiedComments": "updated ALN",
       "flag2006": "N",
       "opportunityCategory": {
         "category": "D",
@@ -291041,7 +291042,7 @@
       },
       "synopsis": {
         "opportunityId": 357813,
-        "version": 1,
+        "version": 2,
         "agencyCode": "HHS-NIH11",
         "agencyName": "National Institutes of Health",
         "agencyPhone": "301-402-2541",
@@ -291075,70 +291076,72 @@
         "costSharing": false,
         "awardCeiling": "none",
         "awardFloor": "none",
-        "applicantEligibilityDesc": "Other Eligible Applicants include the following:\n Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Non-domestic (non-U.S.) Entities (Foreign Organizations); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession.",
-        "createTimeStamp": "Dec 18, 2024 12:41:42 PM EST",
+        "applicantEligibilityDesc": "Other Eligible Applicants include the following: Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Non-domestic (non-U.S.) Entities (Foreign Organizations); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession.",
+        "sendEmail": "N",
+        "createTimeStamp": "Nov 06, 2026 11:39:37 AM EST",
+        "modComments": "updated ALN",
         "createdDate": "Dec 18, 2024 12:31:57 PM EST",
-        "lastUpdatedDate": "Dec 18, 2024 12:31:57 PM EST",
+        "lastUpdatedDate": "Nov 06, 2026 11:39:37 AM EST",
         "applicantTypes": [
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-          },
-          {
-            "id": "23",
-            "description": "Small businesses"
-          },
           {
             "id": "05",
             "description": "Independent school districts"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "02",
-            "description": "City or township governments"
-          },
-          {
-            "id": "11",
-            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
-          },
-          {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "08",
-            "description": "Public housing authorities/Indian housing authorities"
-          },
-          {
-            "id": "07",
-            "description": "Native American tribal governments (Federally recognized)"
-          },
-          {
-            "id": "01",
-            "description": "County governments"
           },
           {
             "id": "20",
             "description": "Private institutions of higher education"
           },
           {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
             "id": "22",
             "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
             "id": "12",
             "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
           },
           {
-            "id": "04",
-            "description": "Special district governments"
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
           },
           {
-            "id": "06",
-            "description": "Public and State controlled institutions of higher education"
+            "id": "04",
+            "description": "Special district governments"
           }
         ],
         "fundingInstruments": [
@@ -291172,7 +291175,7 @@
         "responseDateStr": "2028-01-07-00-00-00",
         "postingDateStr": "2024-12-18-00-00-00",
         "archiveDateStr": "2028-02-12-00-00-00",
-        "createTimeStampStr": "2024-12-18-12-41-42"
+        "createTimeStampStr": "2026-11-06-11-39-37"
       },
       "agencyDetails": {
         "code": "NIH",
@@ -291245,12 +291248,6 @@
           "programTitle": "Research and Training in Complementary and Integrative Health"
         },
         {
-          "id": 426571,
-          "opportunityId": 357813,
-          "cfdaNumber": "93.233",
-          "programTitle": "National Center on Sleep Disorders Research"
-        },
-        {
           "id": 426583,
           "opportunityId": 357813,
           "cfdaNumber": "93.242",
@@ -291285,30 +291282,6 @@
           "opportunityId": 357813,
           "cfdaNumber": "93.361",
           "programTitle": "Nursing Research"
-        },
-        {
-          "id": 426568,
-          "opportunityId": 357813,
-          "cfdaNumber": "93.837",
-          "programTitle": "Cardiovascular Diseases Research"
-        },
-        {
-          "id": 426580,
-          "opportunityId": 357813,
-          "cfdaNumber": "93.838",
-          "programTitle": "Lung Diseases Research"
-        },
-        {
-          "id": 426572,
-          "opportunityId": 357813,
-          "cfdaNumber": "93.839",
-          "programTitle": "Blood Diseases and Resources Research"
-        },
-        {
-          "id": 426561,
-          "opportunityId": 357813,
-          "cfdaNumber": "93.840",
-          "programTitle": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
         },
         {
           "id": 426567,
@@ -291369,7 +291342,342 @@
           "opportunityId": 357813
         }
       ],
-      "opportunityHistoryDetails": [],
+      "opportunityHistoryDetails": [
+        {
+          "oppHistId": {
+            "opportunityId": 357813,
+            "revision": 0
+          },
+          "opportunityId": 357813,
+          "revision": 0,
+          "opportunityNumber": "PA-25-305",
+          "opportunityTitle": "NIH Research Project Grant (Parent R01 Clinical Trial Required)",
+          "owningAgencyCode": "HHS-NIH11",
+          "publisherUid": "85078724978857742224107944047325102090",
+          "listed": "L",
+          "opportunityCategory": {
+            "category": "D",
+            "description": "Discretionary"
+          },
+          "synopsis": {
+            "id": {
+              "opportunityId": 357813,
+              "revision": 0
+            },
+            "opportunityId": 357813,
+            "revision": 0,
+            "version": 1,
+            "agencyCode": "HHS-NIH11",
+            "agencyAddressDesc": "See Section VII. Agency Contacts within the full opportunity announcement for all other inquires.",
+            "agencyDetails": {
+              "code": "NIH",
+              "seed": "HHS-NIH11",
+              "agencyName": "National Institutes of Health",
+              "agencyCode": "HHS-NIH11",
+              "topAgencyCode": "HHS"
+            },
+            "agencyContactPhone": "301-402-2541",
+            "agencyContactName": "National Institutes of Health",
+            "agencyContactDesc": "NIH Grants Information\ngrantsinfo@nih.gov",
+            "agencyContactEmail": "grantsinfo@nih.gov",
+            "agencyContactEmailDesc": "See Section VII. Agency Contacts within the full opportunity announcement for all other inquires.",
+            "synopsisDesc": "The NIH Research Project Grant supports a discrete, specified, circumscribed project in areas representing the specific interests and competencies of the investigator(s). This Parent Notice of Funding Opportunity Announcement requires that at lease 1 clinical trial be proposed. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes and Centers (ICs) based on their scientific missions.",
+            "responseDate": "Jan 07, 2028 12:00:00 AM EST",
+            "responseDateDesc": "",
+            "fundingDescLinkUrl": "http://grants.nih.gov/grants/guide/pa-files/PA-25-305.html",
+            "fundingDescLinkDesc": "https://grants.nih.gov/grants/guide/pa-files/PA-25-305.html",
+            "postingDate": "Dec 18, 2024 12:00:00 AM EST",
+            "archiveDate": "Feb 12, 2028 12:00:00 AM EST",
+            "costSharing": false,
+            "awardCeiling": "none",
+            "awardFloor": "none",
+            "applicantEligibilityDesc": "Other Eligible Applicants include the following:\n Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Non-domestic (non-U.S.) Entities (Foreign Organizations); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession.",
+            "createTimeStamp": "Dec 18, 2024 12:41:42 PM EST",
+            "actionType": "U",
+            "actionDate": "Nov 06, 2026 11:39:37 AM EST",
+            "createdDate": "Dec 18, 2024 12:31:57 PM EST",
+            "lastUpdatedDate": "Dec 18, 2024 12:31:57 PM EST",
+            "applicantTypes": [
+              {
+                "id": "23",
+                "description": "Small businesses"
+              },
+              {
+                "id": "04",
+                "description": "Special district governments"
+              },
+              {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+              },
+              {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+              },
+              {
+                "id": "02",
+                "description": "City or township governments"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+              },
+              {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+              },
+              {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "05",
+                "description": "Independent school districts"
+              },
+              {
+                "id": "20",
+                "description": "Private institutions of higher education"
+              },
+              {
+                "id": "01",
+                "description": "County governments"
+              },
+              {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+              }
+            ],
+            "fundingInstruments": [
+              {
+                "id": "G",
+                "description": "Grant"
+              }
+            ],
+            "fundingActivityCategories": [
+              {
+                "id": "ED",
+                "description": "Education"
+              },
+              {
+                "id": "ENV",
+                "description": "Environment"
+              },
+              {
+                "id": "FN",
+                "description": "Food and Nutrition"
+              },
+              {
+                "id": "HL",
+                "description": "Health"
+              },
+              {
+                "id": "ISS",
+                "description": "Income Security and Social Services"
+              }
+            ],
+            "responseDateStr": "2028-01-07-00-00-00",
+            "postingDateStr": "2024-12-18-00-00-00",
+            "archiveDateStr": "2028-02-12-00-00-00",
+            "createTimeStampStr": "2024-12-18-12-41-42"
+          },
+          "cfdas": [
+            {
+              "id": 426562,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.113",
+              "programTitle": "Environmental Health"
+            },
+            {
+              "id": 426563,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.143",
+              "programTitle": "NIEHS Superfund Hazardous Substances_Basic Research and Education"
+            },
+            {
+              "id": 426569,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.172",
+              "programTitle": "Human Genome Research"
+            },
+            {
+              "id": 426581,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.173",
+              "programTitle": "Research Related to Deafness and Communication Disorders"
+            },
+            {
+              "id": 426565,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.213",
+              "programTitle": "Research and Training in Complementary and Integrative Health"
+            },
+            {
+              "id": 426571,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.233",
+              "programTitle": "National Center on Sleep Disorders Research"
+            },
+            {
+              "id": 426583,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.242",
+              "programTitle": "Mental Health Research Grants"
+            },
+            {
+              "id": 426582,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.273",
+              "programTitle": "Alcohol Research Programs"
+            },
+            {
+              "id": 426573,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.279",
+              "programTitle": "Drug Use and Addiction Research Programs"
+            },
+            {
+              "id": 426570,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.286",
+              "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+            },
+            {
+              "id": 426579,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.307",
+              "programTitle": "Minority Health and Health Disparities Research"
+            },
+            {
+              "id": 426566,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.361",
+              "programTitle": "Nursing Research"
+            },
+            {
+              "id": 426568,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.837",
+              "programTitle": "Cardiovascular Diseases Research"
+            },
+            {
+              "id": 426580,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.838",
+              "programTitle": "Lung Diseases Research"
+            },
+            {
+              "id": 426572,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.839",
+              "programTitle": "Blood Diseases and Resources Research"
+            },
+            {
+              "id": 426561,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.840",
+              "programTitle": "Translation and Implementation Science Research for Heart, Lung, Blood Diseases, and Sleep Disorders"
+            },
+            {
+              "id": 426567,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.846",
+              "programTitle": "Arthritis, Musculoskeletal and Skin Diseases Research"
+            },
+            {
+              "id": 426574,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.847",
+              "programTitle": "Diabetes, Digestive, and Kidney Diseases Extramural Research"
+            },
+            {
+              "id": 426585,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.853",
+              "programTitle": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+            },
+            {
+              "id": 426576,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.855",
+              "programTitle": "Allergy and Infectious Diseases Research"
+            },
+            {
+              "id": 426577,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.859",
+              "programTitle": "Biomedical Research and Research Training"
+            },
+            {
+              "id": 426584,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.865",
+              "programTitle": "Child Health and Human Development Extramural Research"
+            },
+            {
+              "id": 426564,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.866",
+              "programTitle": "Aging Research"
+            },
+            {
+              "id": 426578,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.867",
+              "programTitle": "Vision Research"
+            },
+            {
+              "id": 426575,
+              "opportunityId": 357813,
+              "revision": 0,
+              "cfdaNumber": "93.879",
+              "programTitle": "Medical Library Assistance"
+            },
+            {
+              "id": 426586,
+              "opportunityId": 357813,
+              "revision": 0
+            }
+          ],
+          "synopsisModifiedFields": [],
+          "forecastModifiedFields": []
+        }
+      ],
       "opportunityPkgs": [
         {
           "id": 289738,
@@ -291417,7 +291725,13 @@
       "closedOpportunityPkgs": [],
       "originalDueDate": "Jan 07, 2028 12:00:00 AM EST",
       "originalDueDateDesc": "",
-      "synopsisModifiedFields": [],
+      "synopsisModifiedFields": [
+        "revision",
+        "version",
+        "cfdas",
+        "applicantEligibilityDesc",
+        "createTimeStamp"
+      ],
       "forecastModifiedFields": [],
       "errorMessages": [],
       "synPostDateInPast": true,
@@ -471928,7 +472242,7 @@
     }
   },
   "364122": {
-    "checked_at": "2026-11-05T15:21:47+00:00",
+    "checked_at": "2026-11-06T18:24:38+00:00",
     "listing_signature": "7dffb40e1144869a11531b0d98e77d2bf72c0f1a48c0e738a51d06d92ac43ecd",
     "detail": {
       "id": 364122,
@@ -471988,24 +472302,8 @@
         "lastUpdatedDate": "Nov 05, 2026 09:25:37 AM EST",
         "applicantTypes": [
           {
-            "id": "02",
-            "description": "City or township governments"
-          },
-          {
-            "id": "12",
-            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
-          },
-          {
-            "id": "25",
-            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-          },
-          {
-            "id": "00",
-            "description": "State governments"
-          },
-          {
-            "id": "13",
-            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+            "id": "01",
+            "description": "County governments"
           },
           {
             "id": "04",
@@ -472016,8 +472314,24 @@
             "description": "Public and State controlled institutions of higher education"
           },
           {
-            "id": "01",
-            "description": "County governments"
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "00",
+            "description": "State governments"
           }
         ],
         "fundingInstruments": [
@@ -472118,18 +472432,6 @@
             "lastUpdatedDate": "Oct 19, 2026 02:54:58 PM EDT",
             "applicantTypes": [
               {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
                 "id": "02",
                 "description": "City or township governments"
               },
@@ -472142,12 +472444,24 @@
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
                 "id": "06",
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "01",
+                "description": "County governments"
               }
             ],
             "fundingInstruments": [
@@ -472243,18 +472557,6 @@
             "lastUpdatedDate": "Nov 05, 2026 08:53:19 AM EST",
             "applicantTypes": [
               {
-                "id": "00",
-                "description": "State governments"
-              },
-              {
-                "id": "25",
-                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
-              },
-              {
-                "id": "01",
-                "description": "County governments"
-              },
-              {
                 "id": "02",
                 "description": "City or township governments"
               },
@@ -472267,12 +472569,24 @@
                 "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
               },
               {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+              },
+              {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+              },
+              {
+                "id": "00",
+                "description": "State governments"
+              },
+              {
                 "id": "06",
                 "description": "Public and State controlled institutions of higher education"
               },
               {
-                "id": "13",
-                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+                "id": "01",
+                "description": "County governments"
               }
             ],
             "fundingInstruments": [

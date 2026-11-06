@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T15:21:41+00:00",
+  "checked_at": "2026-11-06T18:24:39+00:00",
   "complete": true,
   "records": [
     {
@@ -3655,44 +3655,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.242"
-      ]
-    },
-    {
-      "id": "357813",
-      "number": "PA-25-305",
-      "title": "NIH Research Project Grant (Parent R01 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/18/2024",
-      "closeDate": "01/07/2028",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.233",
-        "93.113",
-        "93.279",
-        "93.859",
-        "93.839",
-        "93.846",
-        "93.213",
-        "93.273",
-        "93.286",
-        "93.307",
-        "93.847",
-        "93.867",
-        "93.838",
-        "93.853",
-        "93.855",
-        "93.866",
-        "93.173",
-        "93.840",
-        "93.837",
-        "93.879",
-        "93.865",
-        "93.242",
-        "93.361",
-        "93.143",
-        "93.172"
       ]
     },
     {
@@ -15062,20 +15024,6 @@
       ]
     },
     {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "agencyCode": "DOE-ID",
-      "agency": "Idaho Field Office",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.121"
-      ]
-    },
-    {
       "id": "360551",
       "number": "RFA-DK-28-314",
       "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
@@ -15477,6 +15425,53 @@
       "docType": "synopsis",
       "cfdaList": [
         "12.420"
+      ]
+    },
+    {
+      "id": "357813",
+      "number": "PA-25-305",
+      "title": "NIH Research Project Grant (Parent R01 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "12/18/2024",
+      "closeDate": "01/07/2028",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.866",
+        "93.213",
+        "93.847",
+        "93.855",
+        "93.279",
+        "93.853",
+        "93.273",
+        "93.307",
+        "93.865",
+        "93.286",
+        "93.113",
+        "93.172",
+        "93.361",
+        "93.859",
+        "93.867",
+        "93.242",
+        "93.879",
+        "93.143",
+        "93.173",
+        "93.846"
+      ]
+    },
+    {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "agencyCode": "DOE-ID",
+      "agency": "Idaho Field Office",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.121"
       ]
     }
   ]
