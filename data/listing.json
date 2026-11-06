@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T21:21:28+00:00",
+  "checked_at": "2026-11-06T00:40:01+00:00",
   "complete": true,
   "records": [
     {
@@ -15465,6 +15465,20 @@
       "cfdaList": [
         "93.KRP",
         "93.855"
+      ]
+    },
+    {
+      "id": "364232",
+      "number": "HRSA-27-109",
+      "title": "The National Rural Health Information Technology Assessment Program",
+      "agencyCode": "HHS-HRSA",
+      "agency": "Health Resources and Services Administration",
+      "openDate": "11/05/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.692"
       ]
     },
     {

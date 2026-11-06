@@ -478079,5 +478079,184 @@
       "draftMode": "N",
       "ost": "POSTED"
     }
+  },
+  "364232": {
+    "checked_at": "2026-11-06T00:40:01+00:00",
+    "listing_signature": "ba9c623642918107f3d03fc056606014384141bf5b31919f8bcb2f85d715702c",
+    "detail": {
+      "id": 364232,
+      "revision": 0,
+      "opportunityNumber": "HRSA-27-109",
+      "opportunityTitle": "The National Rural Health Information Technology Assessment Program",
+      "owningAgencyCode": "HHS-HRSA",
+      "publisherUid": "291899287795795755181900522995204352392",
+      "flag2006": "N",
+      "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+      },
+      "agencyDetails": {
+        "code": "HRSA",
+        "seed": "HHS-HRSA",
+        "agencyName": "Health Resources and Services Administration",
+        "agencyCode": "HHS-HRSA",
+        "topAgencyCode": "HHS"
+      },
+      "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+      },
+      "forecast": {
+        "opportunityId": 364232,
+        "version": 1,
+        "postingDate": "Nov 05, 2026 12:00:00 AM EST",
+        "archiveDate": "Jun 27, 2027 12:00:00 AM EDT",
+        "forecastDesc": "<p>The purpose of this program is to help rural communities address emerging challenges and gaps in leveraging health information technology to improve health and wellness.&nbsp;</p>",
+        "costSharing": false,
+        "numberOfAwards": "1",
+        "estimatedFunding": "1000000",
+        "awardCeiling": "1000000",
+        "awardFloor": "0",
+        "agencyContactName": "Louise Nott",
+        "agencyContactPhone": "301-443-0614",
+        "agencyContactEmail": "lnott@hrsa.gov",
+        "agencyContactEmailDesc": "lnott@hrsa.gov",
+        "agencyCode": "HHS-HRSA",
+        "applicantEligibilityDesc": "You can apply if you are a domestic public or private, non-profit or for-profit entity.&quot;Domestic&quot; means the 50 states, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.",
+        "estSynopsisPostingDate": "Mar 29, 2027 12:00:00 AM EDT",
+        "estApplicationResponseDate": "May 28, 2027 12:00:00 AM EDT",
+        "estApplicationResponseDateDesc": "Electronically submitted applications must be submitted no later than 11:59 p.m., ET, on the listed application due date.",
+        "estAwardDate": "Sep 01, 2027 12:00:00 AM EDT",
+        "estProjectStartDate": "Sep 30, 2027 12:00:00 AM EDT",
+        "fiscalYear": 2027,
+        "createTimeStamp": "Nov 05, 2026 05:06:29 PM EST",
+        "createdDate": "Nov 05, 2026 05:06:29 PM EST",
+        "lastUpdatedDate": "Nov 05, 2026 05:06:29 PM EST",
+        "agencyDetails": {
+          "code": "HRSA",
+          "seed": "HHS-HRSA",
+          "agencyName": "Health Resources and Services Administration",
+          "agencyCode": "HHS-HRSA",
+          "topAgencyCode": "HHS"
+        },
+        "estimatedFundingFormatted": "1,000,000",
+        "awardCeilingFormatted": "1,000,000",
+        "awardFloorFormatted": "0",
+        "applicantTypes": [
+          {
+            "id": "02",
+            "description": "City or township governments"
+          },
+          {
+            "id": "08",
+            "description": "Public housing authorities/Indian housing authorities"
+          },
+          {
+            "id": "04",
+            "description": "Special district governments"
+          },
+          {
+            "id": "05",
+            "description": "Independent school districts"
+          },
+          {
+            "id": "01",
+            "description": "County governments"
+          },
+          {
+            "id": "99",
+            "description": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+          },
+          {
+            "id": "00",
+            "description": "State governments"
+          },
+          {
+            "id": "07",
+            "description": "Native American tribal governments (Federally recognized)"
+          },
+          {
+            "id": "13",
+            "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "23",
+            "description": "Small businesses"
+          },
+          {
+            "id": "25",
+            "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+          },
+          {
+            "id": "06",
+            "description": "Public and State controlled institutions of higher education"
+          },
+          {
+            "id": "11",
+            "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+          },
+          {
+            "id": "22",
+            "description": "For profit organizations other than small businesses"
+          },
+          {
+            "id": "12",
+            "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+          },
+          {
+            "id": "20",
+            "description": "Private institutions of higher education"
+          }
+        ],
+        "fundingInstruments": [
+          {
+            "id": "CA",
+            "description": "Cooperative Agreement"
+          }
+        ],
+        "fundingActivityCategories": [
+          {
+            "id": "HL",
+            "description": "Health"
+          }
+        ],
+        "postingDateStr": "2026-11-05-00-00-00",
+        "archiveDateStr": "2027-06-27-00-00-00",
+        "estSynopsisPostingDateStr": "2027-03-29-00-00-00",
+        "estApplicationResponseDateStr": "2027-05-28-00-00-00",
+        "estAwardDateStr": "2027-09-01-00-00-00",
+        "estProjectStartDateStr": "2027-09-30-00-00-00",
+        "createTimeStampStr": "2026-11-05-17-06-29"
+      },
+      "synopsisAttachmentFolders": [],
+      "synopsisDocumentURLs": [],
+      "synAttChangeComments": [],
+      "cfdas": [
+        {
+          "id": 436089,
+          "opportunityId": 364232,
+          "cfdaNumber": "93.692",
+          "programTitle": "Rural Health Delivery Information Systems"
+        }
+      ],
+      "opportunityHistoryDetails": [],
+      "opportunityPkgs": [],
+      "closedOpportunityPkgs": [],
+      "synopsisModifiedFields": [],
+      "forecastModifiedFields": [],
+      "errorMessages": [],
+      "synPostDateInPast": true,
+      "docType": "forecast",
+      "forecastHistCount": 0,
+      "synopsisHistCount": 0,
+      "assistCompatible": false,
+      "assistURL": "",
+      "relatedOpps": [],
+      "draftMode": "N",
+      "ost": "FORECASTED"
+    }
   }
 }
