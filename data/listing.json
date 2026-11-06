@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T03:27:02+00:00",
+  "checked_at": "2026-11-06T06:42:11+00:00",
   "complete": true,
   "records": [
     {
@@ -2476,22 +2476,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.242"
-      ]
-    },
-    {
-      "id": "357135",
-      "number": "PAR-25-255",
-      "title": "Developing novel theory and methods for understanding the genetic architecture of complex human traits (R01 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/15/2024",
-      "closeDate": "11/05/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.399",
-        "93.242",
-        "93.172"
       ]
     },
     {
@@ -9202,20 +9186,6 @@
       ]
     },
     {
-      "id": "360199",
-      "number": "RFA-CK-26-035",
-      "title": "Emerging Infections Network - Research for Preventing, Detecting, and Managing Travel-associated Infectious Diseases",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "08/03/2026",
-      "closeDate": "11/05/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.084"
-      ]
-    },
-    {
       "id": "361822",
       "number": "HHS-2026-ACF-ORR-ZU-0019",
       "title": "Home Study and Post-Release Services for Unaccompanied Alien Children&#8203;&#8203;",
@@ -10639,20 +10609,6 @@
       ]
     },
     {
-      "id": "363797",
-      "number": "DE-FOA-0003671",
-      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
-      "agencyCode": "DOE-NETL",
-      "agency": "National Energy Technology Laboratory",
-      "openDate": "09/03/2026",
-      "closeDate": "11/05/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.089"
-      ]
-    },
-    {
       "id": "363986",
       "number": "CDC-RFA-DP-27-0076",
       "title": "Promoting Cancer Surveillance Workforce, Education, and Data Use",
@@ -11861,20 +11817,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.310"
-      ]
-    },
-    {
-      "id": "360200",
-      "number": "RFA-CK-26-036",
-      "title": "US Travelers Health Research, Surveillance, Communication, and Outreach Network",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "08/05/2026",
-      "closeDate": "11/05/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.084"
       ]
     },
     {
