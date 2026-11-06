@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T18:24:39+00:00",
+  "checked_at": "2026-11-06T21:22:31+00:00",
   "complete": true,
   "records": [
     {
@@ -13869,20 +13869,6 @@
       ]
     },
     {
-      "id": "364139",
-      "number": "O-NIJ-2026-172805",
-      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/22/2026",
-      "closeDate": "11/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
       "id": "364138",
       "number": "O-NIJ-2026-172804",
       "title": "NIJ FY 2026 Research on the Abuse, Neglect, and Exploitation of Elderly Individuals",
@@ -15330,20 +15316,6 @@
       ]
     },
     {
-      "id": "364213",
-      "number": "DOW2027APEXACCELERATORCLOSED",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "agencyCode": "DOD-AMC-ACCAPGADA",
-      "agency": "ACC-APG-Aberdeen Division A",
-      "openDate": "11/04/2026",
-      "closeDate": "07/04/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.002"
-      ]
-    },
-    {
       "id": "363281",
       "number": "RFA-OH-27-048",
       "title": "Continuation and Expansion of the National Mesothelioma Virtual Bank for Translational Research (U24)",
@@ -15400,17 +15372,31 @@
       ]
     },
     {
-      "id": "363546",
-      "number": "HRSA-27-072",
-      "title": "Women's Initiative for Screening and Health (WISH)",
-      "agencyCode": "HHS-HRSA",
-      "agency": "Health Resources and Services Administration",
-      "openDate": "11/06/2026",
-      "closeDate": "01/08/2027",
+      "id": "364213",
+      "number": "DOW2027APEXACCELERATORCLOSED",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agencyCode": "DOD-AMC-ACCAPGADA",
+      "agency": "ACC-APG-Aberdeen Division A",
+      "openDate": "11/04/2026",
+      "closeDate": "07/04/2027",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "93.110"
+        "12.002"
+      ]
+    },
+    {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "agencyCode": "DOE-ID",
+      "agency": "Idaho Field Office",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.121"
       ]
     },
     {
@@ -15425,6 +15411,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "12.420"
+      ]
+    },
+    {
+      "id": "363546",
+      "number": "HRSA-27-072",
+      "title": "Women's Initiative for Screening and Health (WISH)",
+      "agencyCode": "HHS-HRSA",
+      "agency": "Health Resources and Services Administration",
+      "openDate": "11/06/2026",
+      "closeDate": "01/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.110"
       ]
     },
     {
@@ -15461,17 +15461,17 @@
       ]
     },
     {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "agencyCode": "DOE-ID",
-      "agency": "Idaho Field Office",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
+      "id": "364139",
+      "number": "O-NIJ-2026-172805",
+      "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
+      "agencyCode": "USDOJ-OJP-NIJ",
+      "agency": "National Institute of Justice",
+      "openDate": "10/22/2026",
+      "closeDate": "11/30/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "81.121"
+        "16.560"
       ]
     }
   ]
