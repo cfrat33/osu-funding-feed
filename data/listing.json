@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T03:22:43+00:00",
+  "checked_at": "2026-11-07T06:31:06+00:00",
   "complete": true,
   "records": [
     {
@@ -7607,23 +7607,6 @@
       ]
     },
     {
-      "id": "357204",
-      "number": "PAR-25-095",
-      "title": "Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes (R01 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/18/2024",
-      "closeDate": "11/06/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.172",
-        "93.393",
-        "93.866",
-        "93.121"
-      ]
-    },
-    {
       "id": "362581",
       "number": "PAR-27-062",
       "title": "Academic Career Excellence (ACE) Award (K32 Independent Clinical Trial Not Allowed)",
@@ -10778,34 +10761,6 @@
       ]
     },
     {
-      "id": "362866",
-      "number": "HT942526PRPEIRA",
-      "title": "DoW Parkinson&rsquo;s, Early Investigator Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/18/2026",
-      "closeDate": "11/06/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362868",
-      "number": "HT942526PRPIIRA",
-      "title": "DoW Parkinson&rsquo;s, Investigator-Initiated Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/18/2026",
-      "closeDate": "11/06/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "362849",
       "number": "HT942526RCRPIDA",
       "title": "DoW Rare Cancers Idea Development Award",
@@ -11666,20 +11621,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.084"
-      ]
-    },
-    {
-      "id": "363374",
-      "number": "NOFOAFRLAFOSR20260001",
-      "title": "Fiscal Year 2027 Defense University Research Instrumentation Program (DURIP)",
-      "agencyCode": "DOD-AFOSR",
-      "agency": "Air Force Office of Scientific Research",
-      "openDate": "07/29/2026",
-      "closeDate": "11/06/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.800"
       ]
     },
     {
@@ -15341,20 +15282,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.129"
-      ]
-    },
-    {
-      "id": "363637",
-      "number": "O-BJA-2026-172698",
-      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "08/17/2026",
-      "closeDate": "11/06/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.812"
       ]
     },
     {
