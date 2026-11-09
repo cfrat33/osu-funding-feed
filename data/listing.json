@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T15:29:58+00:00",
+  "checked_at": "2026-11-09T18:24:32+00:00",
   "complete": true,
   "records": [
     {
@@ -15399,6 +15399,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "16.560"
+      ]
+    },
+    {
+      "id": "364244",
+      "number": "DHS-27-061-COE-SUPP",
+      "title": "DHS S&amp;T Center of Excellence Supplemement Applications",
+      "agencyCode": "DHS-OPO",
+      "agency": "Office of Procurement Operations - Grants Division",
+      "openDate": "11/09/2026",
+      "closeDate": "05/21/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "97.061"
       ]
     }
   ]
