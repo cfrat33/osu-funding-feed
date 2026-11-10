@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-10T12:29:13+00:00",
+  "checked_at": "2026-11-10T15:25:30+00:00",
   "complete": true,
   "records": [
     {
@@ -14909,20 +14909,6 @@
       ]
     },
     {
-      "id": "364174",
-      "number": "DE-FOA-0003641",
-      "title": "Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
-      "agencyCode": "DOE-NETL",
-      "agency": "National Energy Technology Laboratory",
-      "openDate": "10/30/2026",
-      "closeDate": "02/08/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.122"
-      ]
-    },
-    {
       "id": "364049",
       "number": "O-NIJ-2026-172798",
       "title": "NIJ FY 2026 Evaluation of the Effectiveness of the Bureau of Justice Assistance (BJA) Byrne State Crisis Intervention Program (SCIP)",
@@ -15413,6 +15399,20 @@
       "docType": "forecast",
       "cfdaList": [
         "93.110"
+      ]
+    },
+    {
+      "id": "364174",
+      "number": "DE-FOA-0003641",
+      "title": "Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
+      "agencyCode": "DOE-NETL",
+      "agency": "National Energy Technology Laboratory",
+      "openDate": "10/30/2026",
+      "closeDate": "02/08/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.122"
       ]
     }
   ]
