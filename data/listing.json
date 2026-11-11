@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-11T03:24:44+00:00",
+  "checked_at": "2026-11-11T06:31:32+00:00",
   "complete": true,
   "records": [
     {
@@ -8076,20 +8076,6 @@
       ]
     },
     {
-      "id": "360400",
-      "number": "RFA-NS-26-001",
-      "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "05/04/2026",
-      "closeDate": "11/10/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.853"
-      ]
-    },
-    {
       "id": "360676",
       "number": "PAR-27-081",
       "title": "Discovery of in vivo Chemical Probes for the Nervous System (R01 Clinical Trial Not Allowed)",
@@ -8329,34 +8315,6 @@
         "93.839",
         "93.840",
         "93.837"
-      ]
-    },
-    {
-      "id": "360534",
-      "number": "RFA-CA-27-002",
-      "title": "Advanced Development and Validation of Emerging Technologies for Basic and Clinical Cancer Research (R33 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/03/2026",
-      "closeDate": "11/10/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.394"
-      ]
-    },
-    {
-      "id": "360536",
-      "number": "RFA-CA-27-001",
-      "title": "Early-Stage Innovative Technology Development for Basic and Clinical Cancer Research (R61 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "06/03/2026",
-      "closeDate": "11/10/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.394"
       ]
     },
     {
@@ -10227,21 +10185,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.855"
-      ]
-    },
-    {
-      "id": "362965",
-      "number": "RFA-OD-27-009",
-      "title": "Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/24/2026",
-      "closeDate": "11/10/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.859",
-        "93.310"
       ]
     },
     {
@@ -12578,34 +12521,6 @@
       ]
     },
     {
-      "id": "361065",
-      "number": "RFA-AI-27-005",
-      "title": "Clinical Research Network on Antimicrobial Resistance (UM1 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/01/2026",
-      "closeDate": "11/10/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.855"
-      ]
-    },
-    {
-      "id": "360875",
-      "number": "RFA-AI-27-002",
-      "title": "Infectious Diseases Clinical Trials Network (IDCTN) (UM1 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/01/2026",
-      "closeDate": "11/10/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.855"
-      ]
-    },
-    {
       "id": "361833",
       "number": "RFA-AI-27-014",
       "title": "Development of Candidate Medical Countermeasures (MCMs) and Technologies Against Radiological/Nuclear or Chemical Threats (U01 Clinical Trial Not Allowed)",
@@ -12668,20 +12583,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.185"
-      ]
-    },
-    {
-      "id": "359740",
-      "number": "RFA-AG-27-010",
-      "title": "Data Coordinating Center for the Aging and Alzheimer&rsquo;s Disease Mouse Brain Atlas (AD-MBA) (U24 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/01/2026",
-      "closeDate": "11/10/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.866"
       ]
     },
     {
