@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T12:29:41+00:00",
+  "checked_at": "2026-11-12T15:24:28+00:00",
   "complete": true,
   "records": [
     {
@@ -12641,20 +12641,6 @@
       ]
     },
     {
-      "id": "364003",
-      "number": "UST-SIPPRA-2027-003",
-      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
-      "agencyCode": "USDOT-DO-SIPPRA",
-      "agency": "SIPPRA",
-      "openDate": "10/07/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "21.017"
-      ]
-    },
-    {
       "id": "340828",
       "number": "22-600",
       "title": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
@@ -15190,6 +15176,48 @@
       ]
     },
     {
+      "id": "350230",
+      "number": "PD-24-1340",
+      "title": "Research in the Formation of Engineers (RFE)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "09/17/2023",
+      "closeDate": "11/10/2076",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "47.041"
+      ]
+    },
+    {
+      "id": "363292",
+      "number": "RFA-OH-27-044",
+      "title": "NIOSH Robotics and Intelligent Mining Technology and Workplace Safety Research (U60)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/22/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.262"
+      ]
+    },
+    {
+      "id": "364252",
+      "number": "RFA-DA-28-009",
+      "title": "Drug Development Infrastructure Supporting the Research Community in Medication Repurposing for Substance Use Disorders",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/10/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.DA5"
+      ]
+    },
+    {
       "id": "364251",
       "number": "RFA-HG-28-007",
       "title": "Broadening Opportunities for Computational Genomics and Data Science Education (UE5 Clinical Trial Not Allowed)",
@@ -15218,31 +15246,17 @@
       ]
     },
     {
-      "id": "350230",
-      "number": "PD-24-1340",
-      "title": "Research in the Formation of Engineers (RFE)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "09/17/2023",
-      "closeDate": "11/10/2076",
+      "id": "364253",
+      "number": "NEAPS2604",
+      "title": "US-Greece &amp; US-UK Artist Exchange, FY 2027",
+      "agencyCode": "NEA",
+      "agency": "National Endowment for the Arts",
+      "openDate": "11/12/2026",
+      "closeDate": "12/14/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "47.041"
-      ]
-    },
-    {
-      "id": "364252",
-      "number": "RFA-DA-28-009",
-      "title": "Drug Development Infrastructure Supporting the Research Community in Medication Repurposing for Substance Use Disorders",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/10/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.DA5"
+        "45.024"
       ]
     },
     {
@@ -15331,17 +15345,17 @@
       ]
     },
     {
-      "id": "363292",
-      "number": "RFA-OH-27-044",
-      "title": "NIOSH Robotics and Intelligent Mining Technology and Workplace Safety Research (U60)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
+      "id": "364003",
+      "number": "UST-SIPPRA-2027-003",
+      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
+      "agencyCode": "USDOT-DO-SIPPRA",
+      "agency": "SIPPRA",
+      "openDate": "11/12/2026",
+      "closeDate": "04/06/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
       "cfdaList": [
-        "93.262"
+        "21.017"
       ]
     }
   ]
