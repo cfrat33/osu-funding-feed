@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T09:22:59+00:00",
+  "checked_at": "2026-11-12T12:29:41+00:00",
   "complete": true,
   "records": [
     {
@@ -8920,20 +8920,6 @@
       ]
     },
     {
-      "id": "363292",
-      "number": "RFA-OH-27-044",
-      "title": "NIOSH Robotics and Intelligent Mining Technology and Workplace Safety Research (U60)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.262"
-      ]
-    },
-    {
       "id": "363290",
       "number": "RFA-OH-27-041",
       "title": "NIOSH Support for Conferences and Scientific Meetings (R13 Clinical Trial Not Allowed)",
@@ -9505,20 +9491,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.300"
-      ]
-    },
-    {
-      "id": "363232",
-      "number": "RFA-OH-27-045",
-      "title": "NIOSH Miner Safety and Health Training Program - Western United States &ndash; U60",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/17/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.262"
       ]
     },
     {
@@ -11188,20 +11160,6 @@
       ]
     },
     {
-      "id": "363289",
-      "number": "RFA-OH-27-032",
-      "title": "Occupational Safety and Health Research (R01)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.262"
-      ]
-    },
-    {
       "id": "362077",
       "number": "CPD-2600-DC-0099",
       "title": "Preservation and Reinvestment Initiative for Community Enhancement (PRICE)",
@@ -11292,20 +11250,6 @@
       "agencyCode": "HHS-CDC-HHSCDCERA",
       "agency": "Centers for Disease Control and Prevention - ERA",
       "openDate": "07/22/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.262"
-      ]
-    },
-    {
-      "id": "363417",
-      "number": "RFA-OH-27-054",
-      "title": "World Trade Center Youth Research Coordinating Center (U54)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/31/2026",
       "closeDate": "",
       "oppStatus": "forecasted",
       "docType": "forecast",
@@ -11754,20 +11698,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.185"
-      ]
-    },
-    {
-      "id": "363369",
-      "number": "RFA-OH-27-049",
-      "title": "NIOSH Centers of Excellence for Total Worker Health&reg; (U19)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/28/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.262"
       ]
     },
     {
@@ -15129,20 +15059,6 @@
       ]
     },
     {
-      "id": "363875",
-      "number": "RFA-MH-27-150",
-      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "09/16/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.24R"
-      ]
-    },
-    {
       "id": "364232",
       "number": "HRSA-27-109",
       "title": "The National Rural Health Information Technology Assessment Program",
@@ -15154,20 +15070,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.692"
-      ]
-    },
-    {
-      "id": "363281",
-      "number": "RFA-OH-27-048",
-      "title": "Continuation and Expansion of the National Mesothelioma Virtual Bank for Translational Research (U24)",
-      "agencyCode": "HHS-CDC-HHSCDCERA",
-      "agency": "Centers for Disease Control and Prevention - ERA",
-      "openDate": "07/22/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.262"
       ]
     },
     {
@@ -15341,6 +15243,105 @@
       "docType": "forecast",
       "cfdaList": [
         "93.DA5"
+      ]
+    },
+    {
+      "id": "363875",
+      "number": "RFA-MH-27-150",
+      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/12/2026",
+      "closeDate": "06/10/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.24R",
+        "93.DA1"
+      ]
+    },
+    {
+      "id": "363289",
+      "number": "RFA-OH-27-032",
+      "title": "Occupational Safety and Health Research (R01)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/22/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.262"
+      ]
+    },
+    {
+      "id": "363417",
+      "number": "RFA-OH-27-054",
+      "title": "World Trade Center Youth Research Coordinating Center (U54)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/31/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.262"
+      ]
+    },
+    {
+      "id": "363369",
+      "number": "RFA-OH-27-049",
+      "title": "NIOSH Centers of Excellence for Total Worker Health&reg; (U19)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/28/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.262"
+      ]
+    },
+    {
+      "id": "363281",
+      "number": "RFA-OH-27-048",
+      "title": "Continuation and Expansion of the National Mesothelioma Virtual Bank for Translational Research (U24)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/22/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.262"
+      ]
+    },
+    {
+      "id": "363232",
+      "number": "RFA-OH-27-045",
+      "title": "NIOSH Miner Safety and Health Training Program - Western United States &ndash; U60",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/17/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.262"
+      ]
+    },
+    {
+      "id": "363292",
+      "number": "RFA-OH-27-044",
+      "title": "NIOSH Robotics and Intelligent Mining Technology and Workplace Safety Research (U60)",
+      "agencyCode": "HHS-CDC-HHSCDCERA",
+      "agency": "Centers for Disease Control and Prevention - ERA",
+      "openDate": "07/22/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.262"
       ]
     }
   ]
