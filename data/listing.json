@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T03:23:55+00:00",
+  "checked_at": "2026-11-12T06:32:27+00:00",
   "complete": true,
   "records": [
     {
@@ -15044,20 +15044,6 @@
       ]
     },
     {
-      "id": "363637",
-      "number": "O-BJA-2026-172698",
-      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "08/17/2026",
-      "closeDate": "11/11/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.812"
-      ]
-    },
-    {
       "id": "364244",
       "number": "DHS-27-061-COE-SUPP",
       "title": "DHS S&amp;T Center of Excellence Supplemement Applications",
@@ -15299,20 +15285,6 @@
         "93.143",
         "93.173",
         "93.846"
-      ]
-    },
-    {
-      "id": "356537",
-      "number": "PD-24-7791",
-      "title": "Infrastructure Cluster (AGS-IC)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "09/26/2024",
-      "closeDate": "",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.050"
       ]
     },
     {
