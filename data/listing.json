@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T12:26:58+00:00",
+  "checked_at": "2026-11-13T15:22:13+00:00",
   "complete": true,
   "records": [
     {
@@ -11924,20 +11924,6 @@
       ]
     },
     {
-      "id": "363660",
-      "number": "DFOP0019410",
-      "title": "U.S.-Africa Strategic Investment Program",
-      "agencyCode": "DOS-AF",
-      "agency": "Bureau of African Affairs",
-      "openDate": "08/19/2026",
-      "closeDate": "05/31/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.989"
-      ]
-    },
-    {
       "id": "363692",
       "number": "NOAA-NMFS-FHQ-2027-33398",
       "title": "National Bycatch Reduction Engineering Program (BREP) - FY2026/27",
@@ -15258,6 +15244,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "81.121"
+      ]
+    },
+    {
+      "id": "363660",
+      "number": "DFOP0019410",
+      "title": "U.S.-Africa Strategic Investment Program",
+      "agencyCode": "DOS-AF",
+      "agency": "Bureau of African Affairs",
+      "openDate": "08/19/2026",
+      "closeDate": "05/31/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.989"
       ]
     }
   ]
