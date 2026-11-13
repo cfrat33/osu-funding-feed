@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T03:24:25+00:00",
+  "checked_at": "2026-11-13T06:30:29+00:00",
   "complete": true,
   "records": [
     {
@@ -10591,20 +10591,6 @@
       ]
     },
     {
-      "id": "362225",
-      "number": "HT942526SCIRPCTRA",
-      "title": "DoW Spinal Cord Injury, Clinical Translation Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/05/2026",
-      "closeDate": "11/12/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "362849",
       "number": "HT942526RCRPIDA",
       "title": "DoW Rare Cancers Idea Development Award",
@@ -10767,62 +10753,6 @@
       ]
     },
     {
-      "id": "362222",
-      "number": "HT942526SCIRPTRA",
-      "title": "DoW Spinal Cord Injury, Translational Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/05/2026",
-      "closeDate": "11/12/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362186",
-      "number": "HT942526VRPTRA",
-      "title": "DoW Vision, Translational Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/05/2026",
-      "closeDate": "11/12/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362184",
-      "number": "HT942526VRPIIRA",
-      "title": "DoW Vision, Investigator-Initiated Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/05/2026",
-      "closeDate": "11/12/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362224",
-      "number": "HT942526SCIRPCTA",
-      "title": "DoW Spinal Cord Injury, Clinical Trial Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/05/2026",
-      "closeDate": "11/12/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "362520",
       "number": "HT942526ORPARA",
       "title": "DoW Orthopaedic, Applied Research Award",
@@ -10837,20 +10767,6 @@
       ]
     },
     {
-      "id": "362183",
-      "number": "HT942526VRPCTA",
-      "title": "DoW Vision, Clinical Trial Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/05/2026",
-      "closeDate": "11/12/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "362304",
       "number": "HT942526TERPIIRA",
       "title": "DoW Toxic Exposures Investigator Initiated Research Award",
@@ -10858,20 +10774,6 @@
       "agency": "Defense Health Agency Contracting Activity - DHACA",
       "openDate": "05/21/2026",
       "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362226",
-      "number": "HT942526SCIRPIIRA",
-      "title": "DoW Spinal Cord Injury, Investigator-Initiated Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/05/2026",
-      "closeDate": "11/12/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
