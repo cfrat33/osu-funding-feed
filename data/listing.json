@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T15:22:13+00:00",
+  "checked_at": "2026-11-13T18:23:57+00:00",
   "complete": true,
   "records": [
     {
@@ -15219,20 +15219,6 @@
       ]
     },
     {
-      "id": "364003",
-      "number": "UST-SIPPRA-2027-003",
-      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
-      "agencyCode": "USDOT-DO-SIPPRA",
-      "agency": "SIPPRA",
-      "openDate": "11/12/2026",
-      "closeDate": "04/06/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "21.017"
-      ]
-    },
-    {
       "id": "364026",
       "number": "DE-FOA-0003577",
       "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
@@ -15258,6 +15244,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "19.989"
+      ]
+    },
+    {
+      "id": "364003",
+      "number": "UST-SIPPRA-2027-003",
+      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
+      "agencyCode": "USDOT-DO-SIPPRA",
+      "agency": "SIPPRA",
+      "openDate": "11/12/2026",
+      "closeDate": "04/06/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "21.017"
       ]
     }
   ]
