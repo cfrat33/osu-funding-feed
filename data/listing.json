@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T21:23:35+00:00",
+  "checked_at": "2026-11-13T00:49:34+00:00",
   "complete": true,
   "records": [
     {
@@ -15101,20 +15101,6 @@
       ]
     },
     {
-      "id": "364026",
-      "number": "DE-FOA-0003577",
-      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
-      "agencyCode": "DOE-ID",
-      "agency": "Idaho Field Office",
-      "openDate": "10/05/2026",
-      "closeDate": "12/07/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.121"
-      ]
-    },
-    {
       "id": "343725",
       "number": "HT942523SBAA1",
       "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
@@ -15173,6 +15159,21 @@
         "93.143",
         "93.173",
         "93.846"
+      ]
+    },
+    {
+      "id": "363875",
+      "number": "RFA-MH-27-150",
+      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/12/2026",
+      "closeDate": "06/10/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.24R",
+        "93.DA1"
       ]
     },
     {
@@ -15260,21 +15261,6 @@
       ]
     },
     {
-      "id": "363875",
-      "number": "RFA-MH-27-150",
-      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/12/2026",
-      "closeDate": "06/10/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.24R",
-        "93.DA1"
-      ]
-    },
-    {
       "id": "363289",
       "number": "RFA-OH-27-032",
       "title": "Occupational Safety and Health Research (R01)",
@@ -15356,6 +15342,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "21.017"
+      ]
+    },
+    {
+      "id": "364026",
+      "number": "DE-FOA-0003577",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "agencyCode": "DOE-ID",
+      "agency": "Idaho Field Office",
+      "openDate": "10/05/2026",
+      "closeDate": "12/07/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.121"
       ]
     }
   ]
