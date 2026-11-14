@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T03:31:38+00:00",
+  "checked_at": "2026-11-14T06:28:16+00:00",
   "complete": true,
   "records": [
     {
@@ -2220,20 +2220,6 @@
       ]
     },
     {
-      "id": "357493",
-      "number": "PAR-25-271",
-      "title": "NCCIH Natural Product Mid Phase Clinical Trial (R01 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/02/2024",
-      "closeDate": "11/13/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.213"
-      ]
-    },
-    {
       "id": "357301",
       "number": "PAR-25-267",
       "title": "NCCIH Multi-Site Feasibility Clinical Trials of Mind and Body Interventions (R01 Clinical Trial Required)",
@@ -4242,20 +4228,6 @@
       ]
     },
     {
-      "id": "357490",
-      "number": "PAR-25-269",
-      "title": "NCCIH Natural Product Early Phase Clinical Trial Phased Innovation Award (R61/R33 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/02/2024",
-      "closeDate": "11/13/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.213"
-      ]
-    },
-    {
       "id": "356055",
       "number": "PD-24-8084",
       "title": "Computational and Data-Enabled Science and Engineering",
@@ -5029,20 +5001,6 @@
       ]
     },
     {
-      "id": "351679",
-      "number": "PAR-24-089",
-      "title": "NIDA Mentored Clinical Scientist Development Program Award in Substance Use and Substance Use Disorder Research (K12 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/03/2024",
-      "closeDate": "11/13/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.279"
-      ]
-    },
-    {
       "id": "351124",
       "number": "PA-23-317",
       "title": "Competing Revisions to Existing NIH Single Project Research Grants and Cooperative Agreements (Clinical Trial Optional)",
@@ -5483,20 +5441,6 @@
         "93.273",
         "93.866",
         "93.173"
-      ]
-    },
-    {
-      "id": "357492",
-      "number": "PAR-25-270",
-      "title": "NCCIH Natural Product Early Phase Clinical Trial Award (R33 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "12/02/2024",
-      "closeDate": "11/13/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.213"
       ]
     },
     {
