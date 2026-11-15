@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T03:25:22+00:00",
+  "checked_at": "2026-11-15T06:35:57+00:00",
   "complete": true,
   "records": [
     {
@@ -12872,20 +12872,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "16.560"
-      ]
-    },
-    {
-      "id": "364077",
-      "number": "G27AS00049",
-      "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
-      "agencyCode": "DOI-USGS1",
-      "agency": "Geological Survey",
-      "openDate": "10/14/2026",
-      "closeDate": "11/14/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "15.808"
       ]
     },
     {
