@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T15:22:54+00:00",
+  "checked_at": "2026-11-17T18:25:02+00:00",
   "complete": true,
   "records": [
     {
@@ -15012,20 +15012,6 @@
       ]
     },
     {
-      "id": "363912",
-      "number": "DFOP0017890",
-      "title": "Advancing Global Health",
-      "agencyCode": "DOS-GHSD",
-      "agency": "Bureau of Global Health Security and Diplomacy",
-      "openDate": "09/21/2026",
-      "closeDate": "02/14/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.029"
-      ]
-    },
-    {
       "id": "364213",
       "number": "DOW2027APEXACCELERATORCLOSED",
       "title": "APEX Accelerator-Option Period for Existing Award Recipients",
@@ -15037,6 +15023,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "12.002"
+      ]
+    },
+    {
+      "id": "363912",
+      "number": "DFOP0017890",
+      "title": "Advancing Global Health",
+      "agencyCode": "DOS-GHSD",
+      "agency": "Bureau of Global Health Security and Diplomacy",
+      "openDate": "09/21/2026",
+      "closeDate": "02/14/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.029"
       ]
     }
   ]
