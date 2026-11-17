@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T03:28:10+00:00",
+  "checked_at": "2026-11-17T06:33:48+00:00",
   "complete": true,
   "records": [
     {
@@ -301,31 +301,6 @@
         "93.867",
         "93.113",
         "93.286"
-      ]
-    },
-    {
-      "id": "358179",
-      "number": "PAR-25-370",
-      "title": "Ethical, Legal and Social Implications (ELSI) Small Research Grant (R03 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/13/2025",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.313",
-        "93.173",
-        "93.121",
-        "93.279",
-        "93.310",
-        "93.113",
-        "93.399",
-        "93.172",
-        "93.989",
-        "93.242",
-        "93.855",
-        "93.865"
       ]
     },
     {
@@ -5747,48 +5722,6 @@
       ]
     },
     {
-      "id": "358569",
-      "number": "PD-16-1266",
-      "title": "Applied Mathematics",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "03/16/2025",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.049"
-      ]
-    },
-    {
-      "id": "342959",
-      "number": "22-624",
-      "title": "Astronomy and Astrophysics Research Grants",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "08/04/2022",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.049"
-      ]
-    },
-    {
-      "id": "350018",
-      "number": "PD-23-1242",
-      "title": "Plasma Physics",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "08/29/2023",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "47.049"
-      ]
-    },
-    {
       "id": "359862",
       "number": "PAR-26-121",
       "title": "Maximizing Investigators' Research Award (MIRA) (R35 - Clinical Trial Optional)",
@@ -9987,20 +9920,6 @@
       ]
     },
     {
-      "id": "362857",
-      "number": "HT942526JWMRPMMRDA",
-      "title": "DoW Joint Warfighter Medical, Military Medical Research and Development Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "361251",
       "number": "PA-27-030",
       "title": "Institutional Mentored Career Development Award (Parent K12) (Clinical Trials Not Allowed)",
@@ -12198,20 +12117,6 @@
       ]
     },
     {
-      "id": "364042",
-      "number": "O-OJJDP-2026-172740",
-      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
-      "agencyCode": "USDOJ-OJP-OJJDP",
-      "agency": "Office of Juvenile Justice Delinquency Prevention ",
-      "openDate": "10/08/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.543"
-      ]
-    },
-    {
       "id": "360562",
       "number": "RFA-DA-28-013",
       "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
@@ -12324,20 +12229,6 @@
       ]
     },
     {
-      "id": "364060",
-      "number": "O-NIJ-2026-172800",
-      "title": "NIJ FY 2026 Research and Evaluation on Justice System Responses to Illegal Immigration",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
       "id": "364062",
       "number": "O-NIJ-2026-172802",
       "title": "NIJ FY 2026 Research on Gender Dysphoria and Violent Crime",
@@ -12363,34 +12254,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.866"
-      ]
-    },
-    {
-      "id": "364059",
-      "number": "O-NIJ-2026-172799",
-      "title": "NIJ FY 2026 Research and Evaluation on Human Trafficking",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
-      "id": "364061",
-      "number": "O-NIJ-2026-172801",
-      "title": "NIJ FY 2026 Crime and Justice Research",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
       ]
     },
     {
@@ -13772,34 +13635,6 @@
       ]
     },
     {
-      "id": "364056",
-      "number": "O-OJJDP-2026-172752",
-      "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
-      "agencyCode": "USDOJ-OJP-OJJDP",
-      "agency": "Office of Juvenile Justice Delinquency Prevention ",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.818"
-      ]
-    },
-    {
-      "id": "364058",
-      "number": "O-OJJDP-2026-172743",
-      "title": "OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and Other Substance Use",
-      "agencyCode": "USDOJ-OJP-OJJDP",
-      "agency": "Office of Juvenile Justice Delinquency Prevention ",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.726"
-      ]
-    },
-    {
       "id": "359142",
       "number": "RFA-AI-28-025",
       "title": "Implementation and Evaluation of Databases to Examine AIDS",
@@ -13947,20 +13782,6 @@
         "93.273",
         "93.172",
         "93.859"
-      ]
-    },
-    {
-      "id": "364049",
-      "number": "O-NIJ-2026-172798",
-      "title": "NIJ FY 2026 Evaluation of the Effectiveness of the Bureau of Justice Assistance (BJA) Byrne State Crisis Intervention Program (SCIP)",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/16/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
       ]
     },
     {
