@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T12:27:46+00:00",
+  "checked_at": "2026-11-17T15:22:54+00:00",
   "complete": true,
   "records": [
     {
@@ -14231,20 +14231,6 @@
       ]
     },
     {
-      "id": "364213",
-      "number": "DOW2027APEXACCELERATORCLOSED",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "agencyCode": "DOD-AMC-ACCAPGADA",
-      "agency": "ACC-APG-Aberdeen Division A",
-      "openDate": "11/04/2026",
-      "closeDate": "07/04/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.002"
-      ]
-    },
-    {
       "id": "343725",
       "number": "HT942523SBAA1",
       "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
@@ -15037,6 +15023,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "19.029"
+      ]
+    },
+    {
+      "id": "364213",
+      "number": "DOW2027APEXACCELERATORCLOSED",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agencyCode": "DOD-AMC-ACCAPGADA",
+      "agency": "ACC-APG-Aberdeen Division A",
+      "openDate": "11/04/2026",
+      "closeDate": "07/12/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.002"
       ]
     }
   ]
