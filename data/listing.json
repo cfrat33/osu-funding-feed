@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T21:22:42+00:00",
+  "checked_at": "2026-11-17T00:42:42+00:00",
   "complete": true,
   "records": [
     {
@@ -9464,20 +9464,6 @@
       ]
     },
     {
-      "id": "363912",
-      "number": "DFOP0017890",
-      "title": "Advancing Global Health",
-      "agencyCode": "DOS-GHSD",
-      "agency": "Bureau of Global Health Security and Diplomacy",
-      "openDate": "09/21/2026",
-      "closeDate": "02/14/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.029"
-      ]
-    },
-    {
       "id": "363815",
       "number": "DE-FOA-0003647",
       "title": "Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT)",
@@ -12907,20 +12893,6 @@
       ]
     },
     {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agencyCode": "SBA",
-      "agency": "Small Business Administration",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "59.037"
-      ]
-    },
-    {
       "id": "362946",
       "number": "RFA-AI-28-005",
       "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
@@ -15216,6 +15188,34 @@
         "93.351",
         "93.286",
         "93.855"
+      ]
+    },
+    {
+      "id": "364132",
+      "number": "SB-OEDSB-27-001",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "agencyCode": "SBA",
+      "agency": "Small Business Administration",
+      "openDate": "10/20/2026",
+      "closeDate": "11/19/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "59.037"
+      ]
+    },
+    {
+      "id": "363912",
+      "number": "DFOP0017890",
+      "title": "Advancing Global Health",
+      "agencyCode": "DOS-GHSD",
+      "agency": "Bureau of Global Health Security and Diplomacy",
+      "openDate": "09/21/2026",
+      "closeDate": "02/14/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.029"
       ]
     }
   ]
