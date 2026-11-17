@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T18:25:02+00:00",
+  "checked_at": "2026-11-17T21:22:11+00:00",
   "complete": true,
   "records": [
     {
@@ -15037,6 +15037,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "19.029"
+      ]
+    },
+    {
+      "id": "363913",
+      "number": "O-BJA-2026-172709",
+      "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
+      "agencyCode": "USDOJ-OJP-BJA",
+      "agency": "Bureau of Justice Assistance",
+      "openDate": "09/21/2026",
+      "closeDate": "11/18/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.839"
       ]
     }
   ]
