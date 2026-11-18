@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18T03:24:28+00:00",
+  "checked_at": "2026-11-18T06:34:51+00:00",
   "complete": true,
   "records": [
     {
@@ -42,34 +42,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.137"
-      ]
-    },
-    {
-      "id": "357305",
-      "number": "PAR-25-274",
-      "title": "Feasibility Clinical Trials of Mind and Body Interventions for NCCIH High Priority Research Topics (R34 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/21/2024",
-      "closeDate": "11/17/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.213"
-      ]
-    },
-    {
-      "id": "357303",
-      "number": "PAR-25-268",
-      "title": "Investigator Initiated Clinical Trials of Complementary and Integrative Interventions Delivered Remotely or via mHealth (R01 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/21/2024",
-      "closeDate": "11/17/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.213"
       ]
     },
     {
@@ -2122,20 +2094,6 @@
       ]
     },
     {
-      "id": "357301",
-      "number": "PAR-25-267",
-      "title": "NCCIH Multi-Site Feasibility Clinical Trials of Mind and Body Interventions (R01 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/21/2024",
-      "closeDate": "11/17/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.213"
-      ]
-    },
-    {
       "id": "357307",
       "number": "PAR-25-248",
       "title": "Utilizing the PLCO Biospecimens Resource to Bridge Gaps in Cancer Etiology and Early Detection Research (U01 Clinical Trial Not Allowed)",
@@ -4142,20 +4100,6 @@
       "cfdaList": [
         "47.041",
         "47.049"
-      ]
-    },
-    {
-      "id": "357375",
-      "number": "PAR-25-158",
-      "title": "Prevention and Intervention Approaches for Fetal Alcohol Spectrum Disorders (R61/R33 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/25/2024",
-      "closeDate": "11/17/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.273"
       ]
     },
     {
@@ -7032,23 +6976,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.846"
-      ]
-    },
-    {
-      "id": "357205",
-      "number": "PAR-25-096",
-      "title": "Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes (R21 Clinical Trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/18/2024",
-      "closeDate": "11/17/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.393",
-        "93.121",
-        "93.172",
-        "93.866"
       ]
     },
     {
@@ -12282,20 +12209,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.273"
-      ]
-    },
-    {
-      "id": "360627",
-      "number": "RFA-DK-27-122",
-      "title": "Single Source for the Continuation of the Physiology of the Weight Reduced State (POWERS) Study (U01- Clinical Trials Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/15/2026",
-      "closeDate": "11/17/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.847"
       ]
     },
     {
