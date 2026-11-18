@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18T09:25:53+00:00",
+  "checked_at": "2026-11-18T12:34:17+00:00",
   "complete": true,
   "records": [
     {
@@ -14925,6 +14925,35 @@
       ]
     },
     {
+      "id": "364279",
+      "number": "RFA-DK-28-117",
+      "title": "Single Source Competition for Biostatistical and Coordinating Center Renewal of the NIDDK CLEAR Study Consortium (Closed-Loop and Education for Hypoglycemia Awareness Restoration) (U24- Resource-Related Research Project, Cooperative Agreements)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/18/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.KT1",
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "363913",
+      "number": "O-BJA-2026-172709",
+      "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
+      "agencyCode": "USDOJ-OJP-BJA",
+      "agency": "Bureau of Justice Assistance",
+      "openDate": "09/21/2026",
+      "closeDate": "11/18/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "16.839"
+      ]
+    },
+    {
       "id": "364213",
       "number": "DOW2027APEXACCELERATORCLOSED",
       "title": "APEX Accelerator-Option Period for Existing Award Recipients",
@@ -14950,20 +14979,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "19.029"
-      ]
-    },
-    {
-      "id": "363913",
-      "number": "O-BJA-2026-172709",
-      "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.839"
       ]
     }
   ]
