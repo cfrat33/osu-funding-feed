@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T12:30:36+00:00",
+  "checked_at": "2026-11-19T15:29:03+00:00",
   "complete": true,
   "records": [
     {
@@ -12587,76 +12587,6 @@
       ]
     },
     {
-      "id": "364159",
-      "number": "DFOP0019978",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.020"
-      ]
-    },
-    {
-      "id": "364162",
-      "number": "DFOP0019970",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.013"
-      ]
-    },
-    {
-      "id": "364161",
-      "number": "DFOP0019982",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.020"
-      ]
-    },
-    {
-      "id": "364158",
-      "number": "DFOP0019974",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.013"
-      ]
-    },
-    {
-      "id": "364155",
-      "number": "DFOP0019966",
-      "title": "2027 Donald M.  Payne International Development Graduate Fellowship Program &ndash; Selection",
-      "agencyCode": "DOS-HR",
-      "agency": "Bureau of Human Resources",
-      "openDate": "10/27/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.209"
-      ]
-    },
-    {
       "id": "364112",
       "number": "HHS-2027-ACL-AOA-ABRC-0012",
       "title": "National Center on Elder Abuse Resource Center",
@@ -14746,6 +14676,76 @@
       ]
     },
     {
+      "id": "364213",
+      "number": "DOW2027APEXACCELERATORCLOSED",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agencyCode": "DOD-AMC-ACCAPGADA",
+      "agency": "ACC-APG-Aberdeen Division A",
+      "openDate": "11/04/2026",
+      "closeDate": "07/12/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.002"
+      ]
+    },
+    {
+      "id": "364159",
+      "number": "DFOP0019978",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/25/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.020"
+      ]
+    },
+    {
+      "id": "364144",
+      "number": "USDA-FS-2026-LSR",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "agencyCode": "USDA-FS",
+      "agency": "Forest Service",
+      "openDate": "10/28/2026",
+      "closeDate": "01/26/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "10.742"
+      ]
+    },
+    {
+      "id": "364158",
+      "number": "DFOP0019974",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/25/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.013"
+      ]
+    },
+    {
+      "id": "364155",
+      "number": "DFOP0019966",
+      "title": "2027 Donald M.  Payne International Development Graduate Fellowship Program &ndash; Selection",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/25/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "19.209"
+      ]
+    },
+    {
       "id": "364132",
       "number": "SB-OEDSB-27-001",
       "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
@@ -14789,31 +14789,31 @@
       ]
     },
     {
-      "id": "364144",
-      "number": "USDA-FS-2026-LSR",
-      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
-      "agencyCode": "USDA-FS",
-      "agency": "Forest Service",
-      "openDate": "10/28/2026",
-      "closeDate": "01/26/2027",
+      "id": "364161",
+      "number": "DFOP0019982",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/25/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "10.742"
+        "19.020"
       ]
     },
     {
-      "id": "364213",
-      "number": "DOW2027APEXACCELERATORCLOSED",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "agencyCode": "DOD-AMC-ACCAPGADA",
-      "agency": "ACC-APG-Aberdeen Division A",
-      "openDate": "11/04/2026",
-      "closeDate": "07/12/2027",
+      "id": "364162",
+      "number": "DFOP0019970",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
+      "agencyCode": "DOS-HR",
+      "agency": "Bureau of Human Resources",
+      "openDate": "10/27/2026",
+      "closeDate": "11/25/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "12.002"
+        "19.013"
       ]
     }
   ]
