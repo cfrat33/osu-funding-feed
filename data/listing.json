@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T09:25:39+00:00",
+  "checked_at": "2026-11-19T12:30:36+00:00",
   "complete": true,
   "records": [
     {
@@ -14775,20 +14775,6 @@
       ]
     },
     {
-      "id": "364213",
-      "number": "DOW2027APEXACCELERATORCLOSED",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "agencyCode": "DOD-AMC-ACCAPGADA",
-      "agency": "ACC-APG-Aberdeen Division A",
-      "openDate": "11/04/2026",
-      "closeDate": "07/12/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.002"
-      ]
-    },
-    {
       "id": "363912",
       "number": "DFOP0017890",
       "title": "Advancing Global Health",
@@ -14814,6 +14800,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "10.742"
+      ]
+    },
+    {
+      "id": "364213",
+      "number": "DOW2027APEXACCELERATORCLOSED",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agencyCode": "DOD-AMC-ACCAPGADA",
+      "agency": "ACC-APG-Aberdeen Division A",
+      "openDate": "11/04/2026",
+      "closeDate": "07/12/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.002"
       ]
     }
   ]
