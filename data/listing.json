@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T03:26:01+00:00",
+  "checked_at": "2026-11-19T06:33:38+00:00",
   "complete": true,
   "records": [
     {
@@ -327,32 +327,6 @@
       ]
     },
     {
-      "id": "358181",
-      "number": "PAR-25-371",
-      "title": "Ethical, Legal and Social Implications (ELSI) Research (R01 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/13/2025",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.313",
-        "93.307",
-        "93.310",
-        "93.399",
-        "93.173",
-        "93.865",
-        "93.867",
-        "93.855",
-        "93.242",
-        "93.172",
-        "93.113",
-        "93.279",
-        "93.853"
-      ]
-    },
-    {
       "id": "356620",
       "number": "PAR-25-020",
       "title": "Research Experiences and/or Mentoring Networks through Research Education to Enhance Clinician-Scientists' Participation in NIDCDs Research (R25 Clinical Trial Not Allowed)",
@@ -364,33 +338,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.173"
-      ]
-    },
-    {
-      "id": "358176",
-      "number": "PAR-25-369",
-      "title": "Ethical, Legal and Social Implications (ELSI) Exploratory/Developmental Research Grant (R21 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/13/2025",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.313",
-        "93.279",
-        "93.310",
-        "93.399",
-        "93.172",
-        "93.865",
-        "93.867",
-        "93.855",
-        "93.173",
-        "93.121",
-        "93.113",
-        "93.242",
-        "93.989",
-        "93.853"
       ]
     },
     {
@@ -9833,20 +9780,6 @@
       ]
     },
     {
-      "id": "362961",
-      "number": "HT942526CRRPTRA",
-      "title": "DOW Combat Readiness &ndash; Medical Research Program Translational Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/24/2026",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "361251",
       "number": "PA-27-030",
       "title": "Institutional Mentored Career Development Award (Parent K12) (Clinical Trials Not Allowed)",
@@ -9879,34 +9812,6 @@
       "agency": "Defense Health Agency Contracting Activity - DHACA",
       "openDate": "05/21/2026",
       "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362524",
-      "number": "HT942526ORPCRA",
-      "title": "DoW Orthopaedic, Clinical Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362849",
-      "number": "HT942526RCRPIDA",
-      "title": "DoW Rare Cancers Idea Development Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/18/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
@@ -10062,20 +9967,6 @@
       ]
     },
     {
-      "id": "362520",
-      "number": "HT942526ORPARA",
-      "title": "DoW Orthopaedic, Applied Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "362304",
       "number": "HT942526TERPIIRA",
       "title": "DoW Toxic Exposures Investigator Initiated Research Award",
@@ -10083,20 +9974,6 @@
       "agency": "Defense Health Agency Contracting Activity - DHACA",
       "openDate": "05/21/2026",
       "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362850",
-      "number": "HT942526RCRPRCDA",
-      "title": "DoW Rare Cancers Resource and Community Development Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "06/17/2026",
-      "closeDate": "11/18/2026",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
@@ -11359,34 +11236,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.262"
-      ]
-    },
-    {
-      "id": "363670",
-      "number": "HT942526BCRPBTA122",
-      "title": "DoW Breast Cancer, Breakthrough Award Levels 1 and 2",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "09/03/2026",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "363671",
-      "number": "HT942526BCRPCREA2",
-      "title": "DoW Breast Cancer, Clinical Research Extension Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "09/03/2026",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
       ]
     },
     {
@@ -14923,20 +14772,6 @@
       "cfdaList": [
         "93.KT1",
         "93.KRC"
-      ]
-    },
-    {
-      "id": "363913",
-      "number": "O-BJA-2026-172709",
-      "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
-      "agencyCode": "USDOJ-OJP-BJA",
-      "agency": "Bureau of Justice Assistance",
-      "openDate": "09/21/2026",
-      "closeDate": "11/18/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.839"
       ]
     },
     {
