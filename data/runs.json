@@ -1,28 +1,5 @@
 [
   {
-    "started_at": "2026-11-16T21:22:01+00:00",
-    "schedule": "Every 3 hours, best effort",
-    "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
-    "status": "success",
-    "errors": [],
-    "source_listing_count": 952,
-    "details_due": 36,
-    "finished_at": "2026-11-16T21:22:42+00:00",
-    "request_count": 41,
-    "elapsed_seconds": 40.4,
-    "details_checked": 36,
-    "excluded_test_records": 0,
-    "coverage": {
-      "listing_complete": true,
-      "listed_records": 952,
-      "detailed_active_records": 952,
-      "pending_detail_records": 0,
-      "details_checked_this_run": 36,
-      "details_due_this_run": 36,
-      "detail_refresh_ttl_hours": 24
-    }
-  },
-  {
     "started_at": "2026-11-17T00:41:58+00:00",
     "schedule": "Every 3 hours, best effort",
     "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
@@ -550,5 +527,19 @@
       "details_due_this_run": 45,
       "detail_refresh_ttl_hours": 24
     }
+  },
+  {
+    "started_at": "2026-11-19T21:21:45+00:00",
+    "schedule": "Every 3 hours, best effort",
+    "scope": "Grants.gov posted and forecast opportunities listing higher-education or unrestricted eligibility. Other sources are not independently collected.",
+    "status": "failed",
+    "errors": [
+      {
+        "error": "Source HTTP 502"
+      }
+    ],
+    "finished_at": "2026-11-19T21:22:22+00:00",
+    "request_count": 3,
+    "retained_feed_generated_at": "2026-11-19T18:25:59+00:00"
   }
 ]
