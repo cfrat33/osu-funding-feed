@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T03:24:51+00:00",
+  "checked_at": "2026-11-20T06:33:09+00:00",
   "complete": true,
   "records": [
     {
@@ -1934,20 +1934,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.399"
-      ]
-    },
-    {
-      "id": "357256",
-      "number": "PAR-25-052",
-      "title": "NIH StrokeNet Clinical Trials and Biomarker Studies for Stroke Treatment, Recovery, and Prevention (UG3/UH3 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/20/2024",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.853"
       ]
     },
     {
@@ -4934,20 +4920,6 @@
         "93.233",
         "93.838",
         "93.837"
-      ]
-    },
-    {
-      "id": "357343",
-      "number": "PAR-25-226",
-      "title": "Seamless Early-Stage Clinical Drug Development (Phase 1 to 2a) for Novel therapeutic Agents for the Spectrum of Alzheimer's Disease (AD) and AD-related Dementias (ADRD) (UG3/UH3 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/22/2024",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.242"
       ]
     },
     {
@@ -9805,20 +9777,6 @@
       ]
     },
     {
-      "id": "362302",
-      "number": "HT942526TERPCTA",
-      "title": "DoW Toxic Exposures Clinical Trial Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/21/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
       "id": "327763",
       "number": "W81XWH-21-NFRP-OUTREACH",
       "title": "NFRP Outreach and Invitation for Response",
@@ -9964,34 +9922,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "12.350"
-      ]
-    },
-    {
-      "id": "362304",
-      "number": "HT942526TERPIIRA",
-      "title": "DoW Toxic Exposures Investigator Initiated Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/21/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
-      ]
-    },
-    {
-      "id": "362305",
-      "number": "HT942526TERPTRA",
-      "title": "DoW Toxic Exposures Translational Research Award",
-      "agencyCode": "DOD-AMRAA",
-      "agency": "Defense Health Agency Contracting Activity - DHACA",
-      "openDate": "05/21/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.420"
       ]
     },
     {
@@ -12714,22 +12644,6 @@
       ]
     },
     {
-      "id": "363920",
-      "number": "USDA-NHQ-ACEP-26-NOFO0001456",
-      "title": "Easement Restoration and Stewardship",
-      "agencyCode": "USDA-NRCS",
-      "agency": "Natural Resources Conservation Service",
-      "openDate": "09/25/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "10.928",
-        "10.072",
-        "10.931"
-      ]
-    },
-    {
       "id": "361207",
       "number": "RFA-DC-28-001",
       "title": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
@@ -14715,20 +14629,6 @@
       "docType": "synopsis",
       "cfdaList": [
         "19.209"
-      ]
-    },
-    {
-      "id": "364132",
-      "number": "SB-OEDSB-27-001",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agencyCode": "SBA",
-      "agency": "Small Business Administration",
-      "openDate": "10/20/2026",
-      "closeDate": "11/19/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "59.037"
       ]
     },
     {
