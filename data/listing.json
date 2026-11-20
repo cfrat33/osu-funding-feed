@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T18:31:21+00:00",
+  "checked_at": "2026-11-20T21:22:07+00:00",
   "complete": true,
   "records": [
     {
@@ -14530,20 +14530,6 @@
       ]
     },
     {
-      "id": "364144",
-      "number": "USDA-FS-2026-LSR",
-      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
-      "agencyCode": "USDA-FS",
-      "agency": "Forest Service",
-      "openDate": "10/28/2026",
-      "closeDate": "01/26/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "10.742"
-      ]
-    },
-    {
       "id": "364158",
       "number": "DFOP0019974",
       "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
@@ -14775,6 +14761,20 @@
       "cfdaList": [
         "47.070",
         "47.041"
+      ]
+    },
+    {
+      "id": "364144",
+      "number": "USDA-FS-2026-LSR",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "agencyCode": "USDA-FS",
+      "agency": "Forest Service",
+      "openDate": "10/28/2026",
+      "closeDate": "01/26/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "10.742"
       ]
     }
   ]
