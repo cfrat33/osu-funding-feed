@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T12:30:30+00:00",
+  "checked_at": "2026-11-20T15:24:33+00:00",
   "complete": true,
   "records": [
     {
@@ -7213,66 +7213,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.172"
-      ]
-    },
-    {
-      "id": "361821",
-      "number": "RFA-AI-28-004",
-      "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.855",
-        "93.310"
-      ]
-    },
-    {
-      "id": "361815",
-      "number": "RFA-AI-28-001",
-      "title": "HIV/AIDS Clinical Trials Network Leadership and Operations Centers",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.855",
-        "93.310"
-      ]
-    },
-    {
-      "id": "361820",
-      "number": "RFA-AI-28-002",
-      "title": "HIV/AIDS Clinical Trials Network Laboratory Centers",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.855",
-        "93.310"
-      ]
-    },
-    {
-      "id": "361816",
-      "number": "RFA-AI-28-003",
-      "title": "HIV/AIDS Clinical Trials Network Statistical and Data Management Centers",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "04/08/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.855",
-        "93.310"
       ]
     },
     {
@@ -14729,6 +14669,112 @@
       "docType": "synopsis",
       "cfdaList": [
         "12.800"
+      ]
+    },
+    {
+      "id": "361815",
+      "number": "RFA-AI-28-001",
+      "title": "HIV/AIDS Clinical Trials Network Leadership and Operations Centers (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.AGR",
+        "93.853",
+        "93.HDR",
+        "93.DA1",
+        "93.DE1",
+        "93.KRC",
+        "93.HL2",
+        "93.242",
+        "93.310",
+        "93.8RP"
+      ]
+    },
+    {
+      "id": "361820",
+      "number": "RFA-AI-28-002",
+      "title": "HIV/AIDS Clinical Trials Network Laboratory Centers (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.853",
+        "93.242",
+        "93.DA1",
+        "93.HL6",
+        "93.8RP",
+        "93.AGR",
+        "93.HDR",
+        "93.DE1",
+        "93.310",
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "361816",
+      "number": "RFA-AI-28-003",
+      "title": "HIV/AIDS Clinical Trials Network Statistical and Data Management Centers (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.AGR",
+        "93.853",
+        "93.HDR",
+        "93.DA1",
+        "93.DE1",
+        "93.KRC",
+        "93.HL6",
+        "93.242",
+        "93.310",
+        "93.8RP"
+      ]
+    },
+    {
+      "id": "361821",
+      "number": "RFA-AI-28-004",
+      "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.AGR",
+        "93.853",
+        "93.HDR",
+        "93.DA1",
+        "93.DE1",
+        "93.KRP",
+        "93.HL2",
+        "93.242",
+        "93.310",
+        "93.8RP"
+      ]
+    },
+    {
+      "id": "364206",
+      "number": "EDA-B2S-2027",
+      "title": "FY 2027 Build to Scale Notice of Funding Opportunity",
+      "agencyCode": "DOC-EDA",
+      "agency": "Economic Development Administration",
+      "openDate": "11/20/2026",
+      "closeDate": "02/26/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "11.024"
       ]
     }
   ]
