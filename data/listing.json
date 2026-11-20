@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T15:24:33+00:00",
+  "checked_at": "2026-11-20T18:31:21+00:00",
   "complete": true,
   "records": [
     {
@@ -14572,35 +14572,6 @@
       ]
     },
     {
-      "id": "364279",
-      "number": "RFA-DK-28-117",
-      "title": "Single Source Competition for Biostatistical and Coordinating Center Renewal of the NIDDK CLEAR Study Consortium (Closed-Loop and Education for Hypoglycemia Awareness Restoration) (U24- Resource-Related Research Project, Cooperative Agreements)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/18/2026",
-      "closeDate": "",
-      "oppStatus": "forecasted",
-      "docType": "forecast",
-      "cfdaList": [
-        "93.KT1",
-        "93.KRC"
-      ]
-    },
-    {
-      "id": "363912",
-      "number": "DFOP0017890",
-      "title": "Advancing Global Health",
-      "agencyCode": "DOS-GHSD",
-      "agency": "Bureau of Global Health Security and Diplomacy",
-      "openDate": "09/21/2026",
-      "closeDate": "02/14/2027",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "19.029"
-      ]
-    },
-    {
       "id": "364161",
       "number": "DFOP0019982",
       "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
@@ -14643,18 +14614,32 @@
       ]
     },
     {
-      "id": "364294",
-      "number": "27-501",
-      "title": "Foundational Research in Robotics (FRR)",
-      "agencyCode": "NSF",
-      "agency": "U.S. National Science Foundation",
-      "openDate": "11/19/2026",
-      "closeDate": "11/19/2076",
+      "id": "364279",
+      "number": "RFA-DK-28-117",
+      "title": "Single Source Competition for Biostatistical and Coordinating Center Renewal of the NIDDK CLEAR Study Consortium (Closed-Loop and Education for Hypoglycemia Awareness Restoration) (U24- Resource-Related Research Project, Cooperative Agreements)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/18/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.KT1",
+        "93.KRC"
+      ]
+    },
+    {
+      "id": "363912",
+      "number": "DFOP0017890",
+      "title": "Advancing Global Health",
+      "agencyCode": "DOS-GHSD",
+      "agency": "Bureau of Global Health Security and Diplomacy",
+      "openDate": "09/21/2026",
+      "closeDate": "02/14/2027",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "47.070",
-        "47.041"
+        "19.029"
       ]
     },
     {
@@ -14695,26 +14680,17 @@
       ]
     },
     {
-      "id": "361820",
-      "number": "RFA-AI-28-002",
-      "title": "HIV/AIDS Clinical Trials Network Laboratory Centers (UM1 Clinical Trial Required)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
+      "id": "364206",
+      "number": "EDA-B2S-2027",
+      "title": "FY 2027 Build to Scale Notice of Funding Opportunity",
+      "agencyCode": "DOC-EDA",
+      "agency": "Economic Development Administration",
       "openDate": "11/20/2026",
-      "closeDate": "03/09/2027",
+      "closeDate": "02/26/2027",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "93.853",
-        "93.242",
-        "93.DA1",
-        "93.HL6",
-        "93.8RP",
-        "93.AGR",
-        "93.HDR",
-        "93.DE1",
-        "93.310",
-        "93.KRC"
+        "11.024"
       ]
     },
     {
@@ -14741,6 +14717,29 @@
       ]
     },
     {
+      "id": "361820",
+      "number": "RFA-AI-28-002",
+      "title": "HIV/AIDS Clinical Trials Network Laboratory Centers (UM1 Clinical Trial Required)",
+      "agencyCode": "HHS-NIH11",
+      "agency": "National Institutes of Health",
+      "openDate": "11/20/2026",
+      "closeDate": "03/09/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "93.853",
+        "93.242",
+        "93.DA1",
+        "93.HL6",
+        "93.8RP",
+        "93.AGR",
+        "93.HDR",
+        "93.DE1",
+        "93.310",
+        "93.KRC"
+      ]
+    },
+    {
       "id": "361821",
       "number": "RFA-AI-28-004",
       "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units (UM1 Clinical Trial Required)",
@@ -14764,17 +14763,18 @@
       ]
     },
     {
-      "id": "364206",
-      "number": "EDA-B2S-2027",
-      "title": "FY 2027 Build to Scale Notice of Funding Opportunity",
-      "agencyCode": "DOC-EDA",
-      "agency": "Economic Development Administration",
-      "openDate": "11/20/2026",
-      "closeDate": "02/26/2027",
+      "id": "364294",
+      "number": "27-501",
+      "title": "Foundational Research in Robotics (FRR)",
+      "agencyCode": "NSF",
+      "agency": "U.S. National Science Foundation",
+      "openDate": "11/19/2026",
+      "closeDate": "11/19/2076",
       "oppStatus": "posted",
       "docType": "synopsis",
       "cfdaList": [
-        "11.024"
+        "47.070",
+        "47.041"
       ]
     }
   ]
