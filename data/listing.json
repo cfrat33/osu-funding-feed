@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T21:22:07+00:00",
+  "checked_at": "2026-11-21T00:40:19+00:00",
   "complete": true,
   "records": [
     {
@@ -11685,20 +11685,6 @@
       ]
     },
     {
-      "id": "358100",
-      "number": "DE-FOA-0003339",
-      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
-      "agencyCode": "DOE-ID",
-      "agency": "Idaho Field Office",
-      "openDate": "01/08/2025",
-      "closeDate": "11/30/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.121"
-      ]
-    },
-    {
       "id": "364029",
       "number": "O-OVC-2026-172790",
       "title": "OVC FY 2026 Specialized Human Trafficking Assistance: Task Forces and Legal Services",
@@ -14775,6 +14761,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "10.742"
+      ]
+    },
+    {
+      "id": "358100",
+      "number": "DE-FOA-0003339",
+      "title": "Advanced Nuclear Energy Licensing Cost-Share Grant Program",
+      "agencyCode": "DOE-ID",
+      "agency": "Idaho Field Office",
+      "openDate": "01/08/2025",
+      "closeDate": "01/31/2027",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "81.121"
       ]
     }
   ]
