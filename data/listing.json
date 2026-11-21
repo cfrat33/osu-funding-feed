@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-21T03:24:06+00:00",
+  "checked_at": "2026-11-21T06:30:07+00:00",
   "complete": true,
   "records": [
     {
@@ -12720,20 +12720,6 @@
       "docType": "forecast",
       "cfdaList": [
         "93.865"
-      ]
-    },
-    {
-      "id": "364136",
-      "number": "DE-FOA-0003630",
-      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources (UNLOCK)",
-      "agencyCode": "DOE-ARPAE",
-      "agency": "Advanced Research Projects Agency Energy ",
-      "openDate": "10/21/2026",
-      "closeDate": "11/20/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "81.135"
       ]
     },
     {
