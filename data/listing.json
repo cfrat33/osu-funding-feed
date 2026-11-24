@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T03:32:54+00:00",
+  "checked_at": "2026-11-24T06:32:56+00:00",
   "complete": true,
   "records": [
     {
@@ -3225,26 +3225,6 @@
         "93.213",
         "93.867",
         "93.273"
-      ]
-    },
-    {
-      "id": "358090",
-      "number": "RFA-AT-25-003",
-      "title": "HEAL Initiative: Pain Research Enhancement Program (PREP) (R15 Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "01/08/2025",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.121",
-        "93.865",
-        "93.866",
-        "93.213",
-        "93.273",
-        "93.846",
-        "93.853"
       ]
     },
     {
@@ -11861,20 +11841,6 @@
       ]
     },
     {
-      "id": "364062",
-      "number": "O-NIJ-2026-172802",
-      "title": "NIJ FY 2026 Research on Gender Dysphoria and Violent Crime",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
       "id": "364065",
       "number": "RFA-AG-28-002",
       "title": "Coordinating Center for the Claude D. Pepper Older Americans Independence Centers (OAICs)",
@@ -12901,20 +12867,6 @@
       ]
     },
     {
-      "id": "364048",
-      "number": "O-NIJ-2026-172796",
-      "title": "NIJ FY 2026 Research and Evaluation on School Safety",
-      "agencyCode": "USDOJ-OJP-NIJ",
-      "agency": "National Institute of Justice",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "16.560"
-      ]
-    },
-    {
       "id": "360873",
       "number": "RFA-AI-27-018",
       "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
@@ -13006,20 +12958,6 @@
       ]
     },
     {
-      "id": "359168",
-      "number": "RFA-RM-27-007",
-      "title": "Cellular Senescence Network (SenNet): SenNet Technology Projects (SenTecs) (UG3/UH3 Clinical Trial Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
       "id": "359152",
       "number": "RFA-AR-28-001",
       "title": "NIAMS P30 Centers Program (P30 - Clinical Trial Not Allowed)",
@@ -13032,34 +12970,6 @@
       "cfdaList": [
         "93.313",
         "93.846"
-      ]
-    },
-    {
-      "id": "359169",
-      "number": "RFA-RM-27-016",
-      "title": "Cellular Senescence Network (SenNet): Discovery, Validation Centers (UM1 Clinical Trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
-      ]
-    },
-    {
-      "id": "361817",
-      "number": "RFA-RM-27-025",
-      "title": "Cellular Senescence Network (SenNet): SenNet Data Coordination and Integration Center (SenNet DCIC) (UM1 Clinical Trials Not Allowed)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "10/09/2026",
-      "closeDate": "11/23/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.310"
       ]
     },
     {
