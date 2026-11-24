@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T15:23:38+00:00",
+  "checked_at": "2026-11-24T18:24:25+00:00",
   "complete": true,
   "records": [
     {
@@ -13519,20 +13519,6 @@
       ]
     },
     {
-      "id": "363829",
-      "number": "FA955026S0003",
-      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
-      "agencyCode": "DOD-AFOSR",
-      "agency": "Air Force Office of Scientific Research",
-      "openDate": "09/08/2026",
-      "closeDate": "12/11/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "12.800"
-      ]
-    },
-    {
       "id": "363985",
       "number": "P26AS00055",
       "title": "National Parks Business Plan Internship",
@@ -14685,6 +14671,20 @@
       "docType": "synopsis",
       "cfdaList": [
         "93.262"
+      ]
+    },
+    {
+      "id": "363829",
+      "number": "FA955026S0003",
+      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+      "agencyCode": "DOD-AFOSR",
+      "agency": "Air Force Office of Scientific Research",
+      "openDate": "09/08/2026",
+      "closeDate": "12/11/2026",
+      "oppStatus": "posted",
+      "docType": "synopsis",
+      "cfdaList": [
+        "12.800"
       ]
     }
   ]
