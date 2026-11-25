@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25T03:26:54+00:00",
+  "checked_at": "2026-11-25T06:39:47+00:00",
   "complete": true,
   "records": [
     {
@@ -4630,31 +4630,6 @@
         "93.113",
         "93.143",
         "93.279"
-      ]
-    },
-    {
-      "id": "351124",
-      "number": "PA-23-317",
-      "title": "Competing Revisions to Existing NIH Single Project Research Grants and Cooperative Agreements (Clinical Trial Optional)",
-      "agencyCode": "HHS-NIH11",
-      "agency": "National Institutes of Health",
-      "openDate": "11/24/2023",
-      "closeDate": "11/24/2026",
-      "oppStatus": "posted",
-      "docType": "synopsis",
-      "cfdaList": [
-        "93.865",
-        "93.866",
-        "93.242",
-        "93.273",
-        "93.213",
-        "93.307",
-        "93.394",
-        "93.172",
-        "93.310",
-        "93.350",
-        "93.279",
-        "93.867"
       ]
     },
     {
