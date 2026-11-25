@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25T15:22:55+00:00",
+  "checked_at": "2026-11-25T18:25:20+00:00",
   "complete": true,
   "records": [
     {
@@ -14674,6 +14674,62 @@
       "docType": "forecast",
       "cfdaList": [
         "45.036"
+      ]
+    },
+    {
+      "id": "364310",
+      "number": "20270505-ECD",
+      "title": "Curriculum Development: Western Civilization",
+      "agencyCode": "NEH",
+      "agency": "National Endowment for the Humanities",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "45.038"
+      ]
+    },
+    {
+      "id": "364312",
+      "number": "HHS-2027-ACF-OHS-CI-0025",
+      "title": "American Indian Alaska Native Head Start Expansion, Early Head Start Expansion and Early Head Start-Child Care Partnership Grants",
+      "agencyCode": "HHS-ACF-OHS",
+      "agency": "Administration for Children and Families - OHS",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.600"
+      ]
+    },
+    {
+      "id": "364313",
+      "number": "HHS-2027-ACF-OHS-CI-0204",
+      "title": "American Indian Alaska Native Head Start Grants in Multiple States",
+      "agencyCode": "HHS-ACF-OHS",
+      "agency": "Administration for Children and Families - OHS",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.600"
+      ]
+    },
+    {
+      "id": "364314",
+      "number": "CDC-RFA-PW-27-0040",
+      "title": "Strengthening U.S. Public Health Infrastructure Through Tailored Support",
+      "agencyCode": "HHS-CDC-PHIC",
+      "agency": "Centers for Disease Control-PHIC",
+      "openDate": "11/25/2026",
+      "closeDate": "",
+      "oppStatus": "forecasted",
+      "docType": "forecast",
+      "cfdaList": [
+        "93.967"
       ]
     }
   ]
